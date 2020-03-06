@@ -1,7 +1,9 @@
-*更新时间：03-06 08:18*
+*更新时间：03-06 23:11*
 
 
 
+
+- [吐槽中国邮政EMS - 伪医生律师的博客](https://chidd.net/2020/03/06/la-ji-ems.html)
 
 - [故乡风景之徒骇河 - 白板报](https://www.wangpei.net/11080/tuhai-river/)
 
@@ -40,8 +42,6 @@
 - [魂斗罗·铁血兵团 - 破袜子](https://pewae.com/2020/02/contra-hard-corps.html)
 
 - [《剩余价值》播客被中国封杀 - 一天世界](https://blog.yitianshijie.net/2020/02/26/surplus-value-podcast-banned-by-china/)
-
-- [我喜欢的私人物件 - 白板报](https://www.wangpei.net/11056/my-favorite-thing/)
 
 
 
