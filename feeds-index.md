@@ -1,7 +1,9 @@
-*更新时间：03-07 21:29*
+*更新时间：03-08 11:50*
 
 
 
+
+- [与宋占涛导演在内蒙拍摄铁路 - 白板报](https://www.wangpei.net/11084/visiting-railway-in-inner-mongolia-with-song-zhantao/)
 
 - [吐槽中国邮政EMS - 伪医生律师的博客](https://chidd.net/2020/03/06/la-ji-ems.html)
 
@@ -40,8 +42,6 @@
 - [Your own time zone - iTimothy](https://xiaozhou.net/your-own-timezone-2020-02-29.html)
 
 - [二月近况 - 陈仓颉](https://imzm.im/recently-february/)
-
-- [如何放松：刷手机、学教材、抄圣经 - 白板报](https://www.wangpei.net/11068/how-to-relax/)
 
 
 
