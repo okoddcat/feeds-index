@@ -1,7 +1,9 @@
-*更新时间：03-08 11:50*
+*更新时间：03-08 23:50*
 
 
 
+
+- [与宋占涛导演参观溪洛渡水电站 - 白板报](https://www.wangpei.net/11086/visiting-xiluodu-with-director-songzhantao/)
 
 - [与宋占涛导演在内蒙拍摄铁路 - 白板报](https://www.wangpei.net/11084/visiting-railway-in-inner-mongolia-with-song-zhantao/)
 
@@ -40,8 +42,6 @@
 - [《动物庄园》使我成为今天的我 - 白板报](https://www.wangpei.net/11070/the-animal-farm-made-me-the-man-who-i-am/)
 
 - [Your own time zone - iTimothy](https://xiaozhou.net/your-own-timezone-2020-02-29.html)
-
-- [二月近况 - 陈仓颉](https://imzm.im/recently-february/)
 
 
 
