@@ -1,9 +1,9 @@
-*更新时间：03-11 23:15*
+*更新时间：03-11 23:25*
 
 
 
 
-- [不变量及运算优化 - 云风的 BLOG](tag:blog.codingnow.com,2020://1.1145)
+- [不变量及运算优化 - 云风的 BLOG](https://blog.codingnow.com/2020/03/cache_invariant.html)
 
 - [山一程，水一程 - 狡猫三窝](https://slykiten.com/fragment/%e5%b1%b1%e4%b8%80%e7%a8%8b%ef%bc%8c%e6%b0%b4%e4%b8%80%e7%a8%8b/)
 
