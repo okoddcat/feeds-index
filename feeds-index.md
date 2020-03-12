@@ -1,9 +1,11 @@
-*更新时间：03-12 14:50*
+*更新时间：03-12 15:05*
 
 
 
 
 - [大风，大风 - 攻城狮笔记](https://qumac.com/?p=1632)
+
+- [矩阵 decompose 的一点优化 - 云风的 BLOG](https://blog.codingnow.com/2020/03/matrix_decompose.html)
 
 - [不变量及运算优化 - 云风的 BLOG](https://blog.codingnow.com/2020/03/cache_invariant.html)
 
@@ -40,8 +42,6 @@
 - [近期二三事 - 伪医生律师的博客](https://chidd.net/2020/03/02/er-san-shi.html)
 
 - [与程序员相关的CPU缓存知识 - 酷 壳 – CoolShell](https://coolshell.cn/articles/20793.html)
-
-- [当朋友背弃的时候 - 白板报](https://www.wangpei.net/11072/when-a-friend-betrays/)
 
 
 
