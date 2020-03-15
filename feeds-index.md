@@ -1,7 +1,9 @@
-*更新时间：03-12 15:05*
+*更新时间：03-15 22:50*
 
 
 
+
+- [William Gibson 采访（The Wire） - 一天世界](https://blog.yitianshijie.net/2020/03/15/the-wire-invisible-jukebox-william-gibson/)
 
 - [大风，大风 - 攻城狮笔记](https://qumac.com/?p=1632)
 
@@ -40,8 +42,6 @@
 - [新冠开学第一天 - 破袜子](https://pewae.com/2020/03/new-crown-the-first-day-of-school.html)
 
 - [近期二三事 - 伪医生律师的博客](https://chidd.net/2020/03/02/er-san-shi.html)
-
-- [与程序员相关的CPU缓存知识 - 酷 壳 – CoolShell](https://coolshell.cn/articles/20793.html)
 
 
 
