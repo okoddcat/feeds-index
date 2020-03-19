@@ -1,7 +1,9 @@
-*更新时间：03-19 19:50*
+*更新时间：03-19 20:50*
 
 
 
+
+- [人生前三十年（十八） - 林海草原](https://lhcy.org/archives/135-1.html)
 
 - [空气中的味道 - 狡猫三窝](https://slykiten.com/fragment/smell-in-air/)
 
@@ -40,8 +42,6 @@
 - [邀请哪个名人参加我的毕业典礼 - 白板报](https://www.wangpei.net/11076/which-celebrity-i-will-invite/)
 
 - [余早合集（篇二） - 雨落泪尽](https://couqiao.net/archives/a-collection-of-surplus-grasses-part-2.html)
-
-- [Pull, Don’t be Pushed - 一天世界](https://blog.yitianshijie.net/2020/03/03/pull-do-not-be-pushed/)
 
 
 
