@@ -1,4 +1,4 @@
-*更新时间：03-20 21:50*
+*更新时间：03-20 23:50*
 
 
 
@@ -8,6 +8,8 @@
 - [峨凰嶂露营记 - 土木坛子](https://tumutanzi.com/archives/16716)
 
 - [人生前三十年（十八） - 林海草原](https://lhcy.org/archives/135-1.html)
+
+- [人生前三十年（十八） - 林海草原](https://lhcy.org/archives/150.html)
 
 - [空气中的味道 - 狡猫三窝](https://slykiten.com/fragment/smell-in-air/)
 
@@ -40,8 +42,6 @@
 - [拥有很多乐子的旧时光 - 白板报](https://www.wangpei.net/11078/a-time-of-a-lot-of-fun/)
 
 - [航拍处女作：晏镜岭日落 - 土木坛子](https://tumutanzi.com/archives/16714)
-
-- [小米10——小米手机的一小步，冲击高端的一大步 - 三十三言](https://o0o0o0.cn/archives/2623.nice)
 
 
 
