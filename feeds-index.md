@@ -1,9 +1,11 @@
-*更新时间：03-20 16:50*
+*更新时间：03-20 21:50*
 
 
 
 
 - [撤销训诫书 - 攻城狮笔记](https://qumac.com/?p=1638)
+
+- [峨凰嶂露营记 - 土木坛子](https://tumutanzi.com/archives/16716)
 
 - [人生前三十年（十八） - 林海草原](https://lhcy.org/archives/135-1.html)
 
@@ -40,8 +42,6 @@
 - [航拍处女作：晏镜岭日落 - 土木坛子](https://tumutanzi.com/archives/16714)
 
 - [小米10——小米手机的一小步，冲击高端的一大步 - 三十三言](https://o0o0o0.cn/archives/2623.nice)
-
-- [邀请哪个名人参加我的毕业典礼 - 白板报](https://www.wangpei.net/11076/which-celebrity-i-will-invite/)
 
 
 
