@@ -1,4 +1,4 @@
-*更新时间：03-26 19:50*
+*更新时间：03-26 20:50*
 
 
 
@@ -6,6 +6,8 @@
 - [春天里 - 狡猫三窝](https://slykiten.com/life-note/flower-in-2020spring/)
 
 - [WordPress访问网络资源时如何使用Proxy - 破袜子](https://pewae.com/2020/03/how-to-use-proxy-when-wordpress-accesses-network-resources.html)
+
+- [从Spacemacs迁移到Doom Emacs - iTimothy](https://xiaozhou.net/from-spacemacs-to-doom-emacs-2020-03-26.html)
 
 - [疫情之下，一英国女士因两品脱牛奶倒下了… - 土木坛子](https://tumutanzi.com/archives/16717)
 
@@ -40,8 +42,6 @@
 - [山一程，水一程 - 狡猫三窝](https://slykiten.com/fragment/%e5%b1%b1%e4%b8%80%e7%a8%8b%ef%bc%8c%e6%b0%b4%e4%b8%80%e7%a8%8b/)
 
 - [每夫吐槽（045） - 破袜子](https://pewae.com/2020/03/random_kuso_45.html)
-
-- [与宋占涛导演参观溪洛渡水电站 - 白板报](https://www.wangpei.net/11086/visiting-xiluodu-with-director-songzhantao/)
 
 
 
