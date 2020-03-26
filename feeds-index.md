@@ -1,7 +1,9 @@
-*更新时间：03-23 19:50*
+*更新时间：03-26 17:50*
 
 
 
+
+- [WordPress访问网络资源时如何使用Proxy - 破袜子](https://pewae.com/2020/03/how-to-use-proxy-when-wordpress-accesses-network-resources.html)
 
 - [疫情之下，一英国女士因两品脱牛奶倒下了… - 土木坛子](https://tumutanzi.com/archives/16717)
 
@@ -40,8 +42,6 @@
 - [与宋占涛导演参观溪洛渡水电站 - 白板报](https://www.wangpei.net/11086/visiting-xiluodu-with-director-songzhantao/)
 
 - [与宋占涛导演在内蒙拍摄铁路 - 白板报](https://www.wangpei.net/11084/visiting-railway-in-inner-mongolia-with-song-zhantao/)
-
-- [吐槽中国邮政EMS - 伪医生律师的博客](https://chidd.net/2020/03/06/la-ji-ems.html)
 
 
 
