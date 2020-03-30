@@ -1,7 +1,9 @@
-*更新时间：03-29 18:50*
+*更新时间：03-30 20:50*
 
 
 
+
+- [写论文的心得 - 渚碧](https://jubeny.com/2020/03/mood-during-paper-writing/)
 
 - [个人云服务架构升级实践 - 40huo's - 知至知终](https://www.40huo.cn/blog/caddy-as-api-gateway.html)
 
@@ -40,8 +42,6 @@
 - [大风，大风 - 攻城狮笔记](https://qumac.com/?p=1632)
 
 - [矩阵 decompose 的一点优化 - 云风的 BLOG](https://blog.codingnow.com/2020/03/matrix_decompose.html)
-
-- [不变量及运算优化 - 云风的 BLOG](https://blog.codingnow.com/2020/03/cache_invariant.html)
 
 
 
