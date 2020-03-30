@@ -1,7 +1,9 @@
-*更新时间：03-30 20:50*
+*更新时间：03-31 01:05*
 
 
 
+
+- [《未来简史》书摘 - 陈仓颉](https://imzm.im/homo-deus/)
 
 - [写论文的心得 - 渚碧](https://jubeny.com/2020/03/mood-during-paper-writing/)
 
@@ -40,8 +42,6 @@
 - [William Gibson 采访（The Wire） - 一天世界](https://blog.yitianshijie.net/2020/03/15/the-wire-invisible-jukebox-william-gibson/)
 
 - [大风，大风 - 攻城狮笔记](https://qumac.com/?p=1632)
-
-- [矩阵 decompose 的一点优化 - 云风的 BLOG](https://blog.codingnow.com/2020/03/matrix_decompose.html)
 
 
 
