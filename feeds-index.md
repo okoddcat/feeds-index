@@ -1,7 +1,11 @@
-*更新时间：03-31 22:50*
+*更新时间：04-01 00:50*
 
 
 
+
+- [拍一点，再多拍一点 - 陈仓颉](https://imzm.im/just-shoot-more/)
+
+- [一月一清零 | 静待春暖花开 - DHTalk's Blog](http://CalvinCheungCoder.github.io/2020/04/01/restart202003/)
 
 - [windows 7和office 365 - 攻城狮笔记](https://qumac.com/?p=1649)
 
@@ -38,10 +42,6 @@
 - [人生前三十年（十八） - 林海草原](https://lhcy.org/archives/135-1.html)
 
 - [人生前三十年（十八） - 林海草原](https://lhcy.org/archives/150.html)
-
-- [空气中的味道 - 狡猫三窝](https://slykiten.com/fragment/smell-in-air/)
-
-- [不快活 - 渚碧](https://jubeny.com/2020/03/in-bad-mood/)
 
 
 
