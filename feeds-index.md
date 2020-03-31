@@ -1,4 +1,4 @@
-*更新时间：03-31 15:50*
+*更新时间：03-31 16:50*
 
 
 
@@ -6,6 +6,8 @@
 - [windows 7和office 365 - 攻城狮笔记](https://qumac.com/?p=1649)
 
 - [更换主题 - 攻城狮笔记](https://qumac.com/?p=1647)
+
+- [每夫吐槽（046） - 破袜子](https://pewae.com/2020/03/random_kuso_46.html)
 
 - [《未来简史》书摘 - 陈仓颉](https://imzm.im/homo-deus/)
 
@@ -40,8 +42,6 @@
 - [不快活 - 渚碧](https://jubeny.com/2020/03/in-bad-mood/)
 
 - [WordPress 解决wpautop 引起的Shortcode 格式错误 - 破袜子](https://pewae.com/2020/03/solve-the-problem-of-shortcode-format-error-caused-by-the-filter-of-wpautop-on-wordpress.html)
-
-- [魂断蓝桥 - 陈仓颉](https://imzm.im/waterloo-bridge/)
 
 
 
