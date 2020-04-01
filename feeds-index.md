@@ -1,4 +1,4 @@
-*更新时间：04-01 00:50*
+*更新时间：04-01 11:50*
 
 
 
@@ -12,6 +12,8 @@
 - [更换主题 - 攻城狮笔记](https://qumac.com/?p=1647)
 
 - [戴口罩对防新冠病毒到底有没有用？欧美为什么不戴？ - 土木坛子](https://tumutanzi.com/archives/16719)
+
+- [一个关于成长的经验公式 - oldj's blog](https://oldj.net/blog/2020/03/31/a-formula-for-growth)
 
 - [每夫吐槽（046） - 破袜子](https://pewae.com/2020/03/random_kuso_46.html)
 
@@ -40,8 +42,6 @@
 - [峨凰嶂露营记 - 土木坛子](https://tumutanzi.com/archives/16716)
 
 - [人生前三十年（十八） - 林海草原](https://lhcy.org/archives/135-1.html)
-
-- [人生前三十年（十八） - 林海草原](https://lhcy.org/archives/150.html)
 
 
 
