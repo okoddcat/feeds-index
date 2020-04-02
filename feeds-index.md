@@ -1,7 +1,11 @@
-*更新时间：04-01 11:50*
+*更新时间：04-02 11:50*
 
 
 
+
+- [罗老师和新国货 - 攻城狮笔记](https://qumac.com/?p=1656)
+
+- [健身和创作 - 一天世界](https://blog.yitianshijie.net/2020/04/02/workout-and-work/)
 
 - [拍一点，再多拍一点 - 陈仓颉](https://imzm.im/just-shoot-more/)
 
@@ -38,10 +42,6 @@
 - [撤销训诫书 - 攻城狮笔记](https://qumac.com/?p=1638)
 
 - [父亲的「见义勇为」 - 渚碧](https://jubeny.com/2020/03/my-father-saving-drowners/)
-
-- [峨凰嶂露营记 - 土木坛子](https://tumutanzi.com/archives/16716)
-
-- [人生前三十年（十八） - 林海草原](https://lhcy.org/archives/135-1.html)
 
 
 
