@@ -1,4 +1,4 @@
-*更新时间：04-04 17:05*
+*更新时间：04-04 21:50*
 
 
 
@@ -6,6 +6,8 @@
 - [Rust语言的编程范式 - 酷 壳 – CoolShell](https://coolshell.cn/articles/20845.html)
 
 - [《程序员修炼之道》20 周年版已付梓 - 云风的 BLOG](https://blog.codingnow.com/2020/04/tpp.html)
+
+- [2020-4-4 - 三十三言](https://o0o0o0.cn/archives/shuoshuo/2020-4-4)
 
 - [人生前三十年（十九） - 林海草原](https://lhcy.org/archives/999.html)
 
@@ -40,8 +42,6 @@
 - [春天里 - 狡猫三窝](https://slykiten.com/life-note/flower-in-2020spring/)
 
 - [WordPress访问网络资源时如何使用Proxy - 破袜子](https://pewae.com/2020/03/how-to-use-proxy-when-wordpress-accesses-network-resources.html)
-
-- [从Spacemacs迁移到Doom Emacs - iTimothy](https://xiaozhou.net/from-spacemacs-to-doom-emacs-2020-03-26.html)
 
 
 
