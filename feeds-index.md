@@ -1,7 +1,9 @@
-*更新时间：04-03 14:50*
+*更新时间：04-04 15:05*
 
 
 
+
+- [Rust语言的编程范式 - 酷 壳 – CoolShell](https://coolshell.cn/articles/20845.html)
 
 - [人生前三十年（十九） - 林海草原](https://lhcy.org/archives/999.html)
 
@@ -40,8 +42,6 @@
 - [从Spacemacs迁移到Doom Emacs - iTimothy](https://xiaozhou.net/from-spacemacs-to-doom-emacs-2020-03-26.html)
 
 - [疫情之下，一英国女士因两品脱牛奶倒下了… - 土木坛子](https://tumutanzi.com/archives/16717)
-
-- [如何卖掉你空投获得的Hive币[教程]？ - 土木坛子](https://tumutanzi.com/archives/16718)
 
 
 
