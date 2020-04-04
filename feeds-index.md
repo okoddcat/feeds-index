@@ -1,9 +1,11 @@
-*更新时间：04-04 15:05*
+*更新时间：04-04 17:05*
 
 
 
 
 - [Rust语言的编程范式 - 酷 壳 – CoolShell](https://coolshell.cn/articles/20845.html)
+
+- [《程序员修炼之道》20 周年版已付梓 - 云风的 BLOG](https://blog.codingnow.com/2020/04/tpp.html)
 
 - [人生前三十年（十九） - 林海草原](https://lhcy.org/archives/999.html)
 
@@ -40,8 +42,6 @@
 - [WordPress访问网络资源时如何使用Proxy - 破袜子](https://pewae.com/2020/03/how-to-use-proxy-when-wordpress-accesses-network-resources.html)
 
 - [从Spacemacs迁移到Doom Emacs - iTimothy](https://xiaozhou.net/from-spacemacs-to-doom-emacs-2020-03-26.html)
-
-- [疫情之下，一英国女士因两品脱牛奶倒下了… - 土木坛子](https://tumutanzi.com/archives/16717)
 
 
 
