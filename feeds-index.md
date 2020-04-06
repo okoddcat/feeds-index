@@ -1,7 +1,9 @@
-*更新时间：04-06 19:50*
+*更新时间：04-06 20:50*
 
 
 
+
+- [黄之锋的 iPhone XR 为什么会被警方破解？因为锁屏密码只有四位 - 一天世界](https://blog.yitianshijie.net/2020/04/06/joshua-wong-used-four-digit-passcode-on-his-iphonexr-which-was-cracked-by-hongkong-police/)
 
 - [道德与法治 - 攻城狮笔记](https://qumac.com/?p=1665)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（046） - 破袜子](https://pewae.com/2020/03/random_kuso_46.html)
 
 - [《未来简史》书摘 - 陈仓颉](https://imzm.im/homo-deus/)
-
-- [写论文的心得 - 渚碧](https://jubeny.com/2020/03/mood-during-paper-writing/)
 
 
 
