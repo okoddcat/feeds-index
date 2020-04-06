@@ -1,9 +1,11 @@
-*更新时间：04-06 11:50*
+*更新时间：04-06 19:50*
 
 
 
 
 - [道德与法治 - 攻城狮笔记](https://qumac.com/?p=1665)
+
+- [几种味道 - 渚碧](https://jubeny.com/2020/04/several-smells/)
 
 - [涂鸦之《奇怪的恐惧》 - oldj's blog](https://oldj.net/blog/2020/04/06/doodle-strange-fears)
 
@@ -40,8 +42,6 @@
 - [《未来简史》书摘 - 陈仓颉](https://imzm.im/homo-deus/)
 
 - [写论文的心得 - 渚碧](https://jubeny.com/2020/03/mood-during-paper-writing/)
-
-- [个人云服务架构升级实践 - 40huo's - 知至知终](https://www.40huo.cn/blog/caddy-as-api-gateway.html)
 
 
 
