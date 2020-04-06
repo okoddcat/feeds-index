@@ -1,7 +1,9 @@
-*更新时间：04-05 23:50*
+*更新时间：04-06 10:50*
 
 
 
+
+- [涂鸦之《奇怪的恐惧》 - oldj's blog](https://oldj.net/blog/2020/04/06/doodle-strange-fears)
 
 - [重温老片《黑三角》 - 破袜子](https://pewae.com/2020/04/review-three-black-triangles.html)
 
@@ -40,8 +42,6 @@
 - [个人云服务架构升级实践 - 40huo's - 知至知终](https://www.40huo.cn/blog/caddy-as-api-gateway.html)
 
 - [乌龟仿生态环境打造 - 伪医生律师的博客](https://chidd.net/2020/03/29/wu-gui.html)
-
-- [春天里 - 狡猫三窝](https://slykiten.com/life-note/flower-in-2020spring/)
 
 
 
