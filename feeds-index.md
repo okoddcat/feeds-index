@@ -1,7 +1,9 @@
-*更新时间：04-06 20:50*
+*更新时间：04-07 16:50*
 
 
 
+
+- [沉重的时代尘埃 - 伪医生律师的博客](https://chidd.net/2020/04/07/chen-ai.html)
 
 - [黄之锋的 iPhone XR 为什么会被警方破解？因为锁屏密码只有四位 - 一天世界](https://blog.yitianshijie.net/2020/04/06/joshua-wong-used-four-digit-passcode-on-his-iphonexr-which-was-cracked-by-hongkong-police/)
 
@@ -40,8 +42,6 @@
 - [一个关于成长的经验公式 - oldj's blog](https://oldj.net/blog/2020/03/31/a-formula-for-growth)
 
 - [每夫吐槽（046） - 破袜子](https://pewae.com/2020/03/random_kuso_46.html)
-
-- [《未来简史》书摘 - 陈仓颉](https://imzm.im/homo-deus/)
 
 
 
