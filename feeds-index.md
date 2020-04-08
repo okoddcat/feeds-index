@@ -1,9 +1,11 @@
-*更新时间：04-08 20:50*
+*更新时间：04-08 22:05*
 
 
 
 
 - [若使当时身不遇，老了英雄 - 破袜子](https://pewae.com/2020/04/if-that-were-not-the-case-the-old-hero.html)
+
+- [使用buildx构建多平台可用Docker镜像 - iTimothy](https://xiaozhou.net/buildx-and-multi-cpu-architecture-support-2020-04-07.html)
 
 - [沉重的时代尘埃 - 伪医生律师的博客](https://chidd.net/2020/04/07/chen-ai.html)
 
@@ -40,8 +42,6 @@
 - [更换主题 - 攻城狮笔记](https://qumac.com/?p=1647)
 
 - [戴口罩对防新冠病毒到底有没有用？欧美为什么不戴？ - 土木坛子](https://tumutanzi.com/archives/16719)
-
-- [一个关于成长的经验公式 - oldj's blog](https://oldj.net/blog/2020/03/31/a-formula-for-growth)
 
 
 
