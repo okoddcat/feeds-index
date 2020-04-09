@@ -1,7 +1,11 @@
-*更新时间：04-08 22:05*
+*更新时间：04-09 23:50*
 
 
 
+
+- [关于 macOS 伪终端(PTY)的学习 - 枫言枫语](https://justinyan.me/post/4286)
+
+- [使用自签发证书解锁网易云音乐海外限制 - iTimothy](https://xiaozhou.net/tricks-to-unblock-netease-cloud-music-2020-04-09.html)
 
 - [若使当时身不遇，老了英雄 - 破袜子](https://pewae.com/2020/04/if-that-were-not-the-case-the-old-hero.html)
 
@@ -38,10 +42,6 @@
 - [一月一清零 | 静待春暖花开 - DHTalk's Blog](http://CalvinCheungCoder.github.io/2020/04/01/restart202003/)
 
 - [windows 7和office 365 - 攻城狮笔记](https://qumac.com/?p=1649)
-
-- [更换主题 - 攻城狮笔记](https://qumac.com/?p=1647)
-
-- [戴口罩对防新冠病毒到底有没有用？欧美为什么不戴？ - 土木坛子](https://tumutanzi.com/archives/16719)
 
 
 
