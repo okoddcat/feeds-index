@@ -1,4 +1,4 @@
-*更新时间：04-10 17:50*
+*更新时间：04-10 22:05*
 
 
 
@@ -6,6 +6,8 @@
 - [场景层次结构的排序 - 云风的 BLOG](https://blog.codingnow.com/2020/04/hierarchy_order.html)
 
 - [WordPress中term_id与term_taxonomy_id的区别 - 破袜子](https://pewae.com/2020/04/difference-between-term_id-and-term_taxonomy_id-on-wordpress.html)
+
+- [人生前三十年（十九） - 林海草原](https://lhcy.org/archives/151.html)
 
 - [关于 macOS 伪终端(PTY)的学习 - 枫言枫语](https://justinyan.me/post/4286)
 
@@ -40,8 +42,6 @@
 - [罗老师和新国货 - 攻城狮笔记](https://qumac.com/?p=1656)
 
 - [健身和创作 - 一天世界](https://blog.yitianshijie.net/2020/04/02/workout-and-work/)
-
-- [拍一点，再多拍一点 - 陈仓颉](https://imzm.im/just-shoot-more/)
 
 
 
