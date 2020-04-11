@@ -1,7 +1,9 @@
-*更新时间：04-11 23:50*
+*更新时间：04-12 01:50*
 
 
 
+
+- [你的「写作发布痛苦指数」是多少？ - 白板报](https://www.wangpei.net/11092/pain-index-of-writing-and-publishing/)
 
 - [凛冬来临，你准备好了吗？数码篇 - 白板报](https://www.wangpei.net/11090/digital-devices-for-the-winter/)
 
@@ -40,8 +42,6 @@
 - [2020-4-4 - 三十三言](https://o0o0o0.cn/archives/shuoshuo/2020-4-4)
 
 - [人生前三十年（十九） - 林海草原](https://lhcy.org/archives/999.html)
-
-- [真正的 P2P - 一天世界](https://blog.yitianshijie.net/2020/04/03/the-real-p2p/)
 
 
 
