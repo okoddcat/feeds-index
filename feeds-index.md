@@ -1,7 +1,9 @@
-*更新时间：04-12 22:50*
+*更新时间：04-12 23:50*
 
 
 
+
+- [神派来一个清洁工 - 白板报](https://www.wangpei.net/11094/god-sent-a-cleaner/)
 
 - [使用GPG对Git Commit进行签名 - iTimothy](https://xiaozhou.net/use-gpg-to-sign-your-git-commit-2020-04-12.html)
 
@@ -40,8 +42,6 @@
 - [重温老片《黑三角》 - 破袜子](https://pewae.com/2020/04/review-three-black-triangles.html)
 
 - [Rust语言的编程范式 - 酷 壳 – CoolShell](https://coolshell.cn/articles/20845.html)
-
-- [《程序员修炼之道》20 周年版已付梓 - 云风的 BLOG](https://blog.codingnow.com/2020/04/tpp.html)
 
 
 
