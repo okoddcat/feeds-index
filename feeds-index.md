@@ -1,4 +1,4 @@
-*更新时间：04-12 15:05*
+*更新时间：04-12 22:50*
 
 
 
@@ -6,6 +6,8 @@
 - [使用GPG对Git Commit进行签名 - iTimothy](https://xiaozhou.net/use-gpg-to-sign-your-git-commit-2020-04-12.html)
 
 - [你的「写作发布痛苦指数」是多少？ - 白板报](https://www.wangpei.net/11092/pain-index-of-writing-and-publishing/)
+
+- [尝鲜体验，开通了微信视频号 - 土木坛子](https://tumutanzi.com/archives/16721)
 
 - [凛冬来临，你准备好了吗？数码篇 - 白板报](https://www.wangpei.net/11090/digital-devices-for-the-winter/)
 
@@ -40,8 +42,6 @@
 - [Rust语言的编程范式 - 酷 壳 – CoolShell](https://coolshell.cn/articles/20845.html)
 
 - [《程序员修炼之道》20 周年版已付梓 - 云风的 BLOG](https://blog.codingnow.com/2020/04/tpp.html)
-
-- [2020-4-4 - 三十三言](https://o0o0o0.cn/archives/shuoshuo/2020-4-4)
 
 
 
