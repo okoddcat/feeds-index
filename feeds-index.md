@@ -1,7 +1,9 @@
-*更新时间：04-12 23:50*
+*更新时间：04-13 03:05*
 
 
 
+
+- [一场让人泪湿青衫的复活节演唱会 - 白板报](https://www.wangpei.net/11096/music-for-hope/)
 
 - [神派来一个清洁工 - 白板报](https://www.wangpei.net/11094/god-sent-a-cleaner/)
 
@@ -40,8 +42,6 @@
 - [涂鸦之《奇怪的恐惧》 - oldj's blog](https://oldj.net/blog/2020/04/06/doodle-strange-fears)
 
 - [重温老片《黑三角》 - 破袜子](https://pewae.com/2020/04/review-three-black-triangles.html)
-
-- [Rust语言的编程范式 - 酷 壳 – CoolShell](https://coolshell.cn/articles/20845.html)
 
 
 
