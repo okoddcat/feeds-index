@@ -1,7 +1,9 @@
-*更新时间：04-13 03:05*
+*更新时间：04-13 14:50*
 
 
 
+
+- [鹬蚌相争 - 破袜子](https://pewae.com/2020/04/rebrand.html)
 
 - [一场让人泪湿青衫的复活节演唱会 - 白板报](https://www.wangpei.net/11096/music-for-hope/)
 
@@ -40,8 +42,6 @@
 - [几种味道 - 渚碧](https://jubeny.com/2020/04/several-smells/)
 
 - [涂鸦之《奇怪的恐惧》 - oldj's blog](https://oldj.net/blog/2020/04/06/doodle-strange-fears)
-
-- [重温老片《黑三角》 - 破袜子](https://pewae.com/2020/04/review-three-black-triangles.html)
 
 
 
