@@ -1,7 +1,9 @@
-*更新时间：04-15 14:50*
+*更新时间：04-15 23:05*
 
 
 
+
+- [用Signal聊天 - 渚碧](https://jubeny.com/2020/04/use-signal-to-chat/)
 
 - [资源模块的重构 - 云风的 BLOG](https://blog.codingnow.com/2020/04/resource_manager.html)
 
@@ -40,8 +42,6 @@
 - [沉重的时代尘埃 - 伪医生律师的博客](https://chidd.net/2020/04/07/chen-ai.html)
 
 - [黄之锋的 iPhone XR 为什么会被警方破解？因为锁屏密码只有四位 - 一天世界](https://blog.yitianshijie.net/2020/04/06/joshua-wong-used-four-digit-passcode-on-his-iphonexr-which-was-cracked-by-hongkong-police/)
-
-- [道德与法治 - 攻城狮笔记](https://qumac.com/?p=1665)
 
 
 
