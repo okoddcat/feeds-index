@@ -1,7 +1,9 @@
-*更新时间：04-16 18:50*
+*更新时间：04-16 19:50*
 
 
 
+
+- [挖竹笋 - 狡猫三窝](https://slykiten.com/life-note/bamboo-shoot/)
 
 - [不该批评一只猫 - 白板报](https://www.wangpei.net/11100/do-not-criticize-a-cat/)
 
@@ -40,8 +42,6 @@
 - [人生前三十年（十九） - 林海草原](https://lhcy.org/archives/151.html)
 
 - [关于 macOS 伪终端(PTY)的学习 - 枫言枫语](https://justinyan.me/post/4286)
-
-- [使用自签发证书解锁网易云音乐海外限制 - iTimothy](https://xiaozhou.net/tricks-to-unblock-netease-cloud-music-2020-04-09.html)
 
 
 
