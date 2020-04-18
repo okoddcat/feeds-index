@@ -1,7 +1,9 @@
-*更新时间：04-18 20:50*
+*更新时间：04-19 00:50*
 
 
 
+
+- [实践操作中你完全可以认为天鹅都是白色的 - 土木坛子](https://tumutanzi.com/archives/16727)
 
 - [YOU 来中国幹什么？ - 一天世界](https://blog.yitianshijie.net/2020/04/18/why-did-you-come-to-china/)
 
@@ -40,8 +42,6 @@
 - [凛冬来临，你准备好了吗？数码篇 - 白板报](https://www.wangpei.net/11090/digital-devices-for-the-winter/)
 
 - [涂鸦之《梦中的故事》 - oldj's blog](https://oldj.net/blog/2020/04/11/doodle-story-got-in-dream)
-
-- [场景层次结构的排序 - 云风的 BLOG](https://blog.codingnow.com/2020/04/hierarchy_order.html)
 
 
 
