@@ -1,7 +1,9 @@
-*更新时间：04-19 20:50*
+*更新时间：04-19 21:50*
 
 
 
+
+- [又又……叕换主机了 - 伪医生律师的博客](https://chidd.net/2020/04/19/change-blog-host-2.html)
 
 - [thinkpad静音键失效解决 - 攻城狮笔记](https://qumac.com/?p=1685)
 
@@ -40,8 +42,6 @@
 - [使用GPG对Git Commit进行签名 - iTimothy](https://xiaozhou.net/use-gpg-to-sign-your-git-commit-2020-04-12.html)
 
 - [你的「写作发布痛苦指数」是多少？ - 白板报](https://www.wangpei.net/11092/pain-index-of-writing-and-publishing/)
-
-- [尝鲜体验，开通了微信视频号 - 土木坛子](https://tumutanzi.com/archives/16721)
 
 
 
