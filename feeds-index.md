@@ -1,7 +1,9 @@
-*更新时间：04-19 00:50*
+*更新时间：04-19 12:50*
 
 
 
+
+- [thinkpad静音键失效解决 - 攻城狮笔记](https://qumac.com/?p=1685)
 
 - [实践操作中你完全可以认为天鹅都是白色的 - 土木坛子](https://tumutanzi.com/archives/16727)
 
@@ -40,8 +42,6 @@
 - [尝鲜体验，开通了微信视频号 - 土木坛子](https://tumutanzi.com/archives/16721)
 
 - [凛冬来临，你准备好了吗？数码篇 - 白板报](https://www.wangpei.net/11090/digital-devices-for-the-winter/)
-
-- [涂鸦之《梦中的故事》 - oldj's blog](https://oldj.net/blog/2020/04/11/doodle-story-got-in-dream)
 
 
 
