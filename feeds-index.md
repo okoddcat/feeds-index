@@ -1,9 +1,11 @@
-*更新时间：04-19 12:50*
+*更新时间：04-19 20:50*
 
 
 
 
 - [thinkpad静音键失效解决 - 攻城狮笔记](https://qumac.com/?p=1685)
+
+- [聊聊《全球通史》和动森（上）——枫言枫语播客 21 期 - 枫言枫语](https://justinyan.me/post/4294)
 
 - [实践操作中你完全可以认为天鹅都是白色的 - 土木坛子](https://tumutanzi.com/archives/16727)
 
@@ -40,8 +42,6 @@
 - [你的「写作发布痛苦指数」是多少？ - 白板报](https://www.wangpei.net/11092/pain-index-of-writing-and-publishing/)
 
 - [尝鲜体验，开通了微信视频号 - 土木坛子](https://tumutanzi.com/archives/16721)
-
-- [凛冬来临，你准备好了吗？数码篇 - 白板报](https://www.wangpei.net/11090/digital-devices-for-the-winter/)
 
 
 
