@@ -1,7 +1,9 @@
-*更新时间：04-19 21:50*
+*更新时间：04-20 17:50*
 
 
 
+
+- [每夫吐槽（047） - 破袜子](https://pewae.com/2020/04/random_kuso_47.html)
 
 - [又又……叕换主机了 - 伪医生律师的博客](https://chidd.net/2020/04/19/change-blog-host-2.html)
 
@@ -18,6 +20,8 @@
 - [中港台 iPad Pro (2020) 文案对比 - 一天世界](https://blog.yitianshijie.net/2020/04/17/ipad-pro-2020-chinese-hk-taiwan-copy/)
 
 - [挖竹笋 - 狡猫三窝](https://slykiten.com/life-note/bamboo-shoot/)
+
+- [挖竹笋 - 狡猫三窝](https://slykiten.com/5757)
 
 - [不该批评一只猫 - 白板报](https://www.wangpei.net/11100/do-not-criticize-a-cat/)
 
@@ -38,10 +42,6 @@
 - [一场让人泪湿青衫的复活节演唱会 - 白板报](https://www.wangpei.net/11096/music-for-hope/)
 
 - [神派来一个清洁工 - 白板报](https://www.wangpei.net/11094/god-sent-a-cleaner/)
-
-- [使用GPG对Git Commit进行签名 - iTimothy](https://xiaozhou.net/use-gpg-to-sign-your-git-commit-2020-04-12.html)
-
-- [你的「写作发布痛苦指数」是多少？ - 白板报](https://www.wangpei.net/11092/pain-index-of-writing-and-publishing/)
 
 
 
