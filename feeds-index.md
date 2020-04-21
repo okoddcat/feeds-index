@@ -1,7 +1,9 @@
-*更新时间：04-20 17:50*
+*更新时间：04-21 11:50*
 
 
 
+
+- [人生困境 - 林海草原](https://lhcy.org/archives/152.html)
 
 - [每夫吐槽（047） - 破袜子](https://pewae.com/2020/04/random_kuso_47.html)
 
@@ -40,8 +42,6 @@
 - [鹬蚌相争 - 破袜子](https://pewae.com/2020/04/rebrand.html)
 
 - [一场让人泪湿青衫的复活节演唱会 - 白板报](https://www.wangpei.net/11096/music-for-hope/)
-
-- [神派来一个清洁工 - 白板报](https://www.wangpei.net/11094/god-sent-a-cleaner/)
 
 
 
