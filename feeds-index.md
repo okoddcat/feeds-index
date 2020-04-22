@@ -1,7 +1,9 @@
-*更新时间：04-22 17:50*
+*更新时间：04-23 00:50*
 
 
 
+
+- [微信7.0之后的一点思考 - 陈仓颉](https://imzm.im/thoughts-about-wechat-7-0/)
 
 - [长长长长假过后 - 木先森](https://www.meizg.cn/396/)
 
@@ -40,8 +42,6 @@
 - [用Signal聊天 - 渚碧](https://jubeny.com/2020/04/use-signal-to-chat/)
 
 - [资源模块的重构 - 云风的 BLOG](https://blog.codingnow.com/2020/04/resource_manager.html)
-
-- [枫影夜读 #3 L·S·斯塔夫里阿诺斯《全球通史》 - 枫言枫语](https://justinyan.me/post/4290)
 
 
 
