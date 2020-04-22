@@ -1,7 +1,9 @@
-*更新时间：04-21 11:50*
+*更新时间：04-22 08:50*
 
 
 
+
+- [Why not use Firefox Preview - 渚碧](https://jubeny.com/2020/04/why-not-use-firefox-preview/)
 
 - [人生困境 - 林海草原](https://lhcy.org/archives/152.html)
 
@@ -40,8 +42,6 @@
 - [枫影夜读 #3 L·S·斯塔夫里阿诺斯《全球通史》 - 枫言枫语](https://justinyan.me/post/4290)
 
 - [鹬蚌相争 - 破袜子](https://pewae.com/2020/04/rebrand.html)
-
-- [一场让人泪湿青衫的复活节演唱会 - 白板报](https://www.wangpei.net/11096/music-for-hope/)
 
 
 
