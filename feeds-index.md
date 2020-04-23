@@ -1,9 +1,11 @@
-*更新时间：04-23 16:05*
+*更新时间：04-23 16:50*
 
 
 
 
 - [ISSUU文件下载 - 攻城狮笔记](https://qumac.com/?p=1723)
+
+- [苹果笔记本维修记 - 白板报](https://www.wangpei.net/11102/the-journal-on-reparing-of-my-apple-laptop/)
 
 - [微信7.0之后的一点思考 - 陈仓颉](https://imzm.im/thoughts-about-wechat-7-0/)
 
@@ -40,8 +42,6 @@
 - [中港台 iPhone SE (2020) 文案对比 - 一天世界](https://blog.yitianshijie.net/2020/04/16/2020-iphone-se-copy-3-chinese-versions-vs-english/)
 
 - [科比和他退役四年后的世界 - 陈仓颉](https://imzm.im/kobe-and-the-world-after-retired-4-years/)
-
-- [用Signal聊天 - 渚碧](https://jubeny.com/2020/04/use-signal-to-chat/)
 
 
 
