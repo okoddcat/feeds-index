@@ -1,7 +1,9 @@
-*更新时间：04-26 16:50*
+*更新时间：04-26 20:50*
 
 
 
+
+- [半坡遗址，一座6000多年前的村落 - 三十三言](https://o0o0o0.cn/archives/2710.nice)
 
 - [四月观影记录 - 渚碧](https://jubeny.com/2020/04/watch-list-in-april/)
 
@@ -40,8 +42,6 @@
 - [涂鸦之《表里不一》 - oldj's blog](https://oldj.net/blog/2020/04/18/doodle-hypocrite)
 
 - [中港台 iPad Pro (2020) 文案对比 - 一天世界](https://blog.yitianshijie.net/2020/04/17/ipad-pro-2020-chinese-hk-taiwan-copy/)
-
-- [挖竹笋 - 狡猫三窝](https://slykiten.com/life-note/bamboo-shoot/)
 
 
 
