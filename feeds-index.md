@@ -1,7 +1,9 @@
-*更新时间：04-26 14:50*
+*更新时间：04-26 16:50*
 
 
 
+
+- [四月观影记录 - 渚碧](https://jubeny.com/2020/04/watch-list-in-april/)
 
 - [梦三十八 - 破袜子](https://pewae.com/2020/04/dream_38.html)
 
@@ -40,8 +42,6 @@
 - [中港台 iPad Pro (2020) 文案对比 - 一天世界](https://blog.yitianshijie.net/2020/04/17/ipad-pro-2020-chinese-hk-taiwan-copy/)
 
 - [挖竹笋 - 狡猫三窝](https://slykiten.com/life-note/bamboo-shoot/)
-
-- [挖竹笋 - 狡猫三窝](https://slykiten.com/5757)
 
 
 
