@@ -1,7 +1,9 @@
-*更新时间：04-26 20:50*
+*更新时间：04-27 12:05*
 
 
 
+
+- [聊聊《全球通史》和动森（下）——枫言枫语播客 22 期 - 枫言枫语](https://justinyan.me/post/4296)
 
 - [半坡遗址，一座6000多年前的村落 - 三十三言](https://o0o0o0.cn/archives/2710.nice)
 
@@ -40,8 +42,6 @@
 - [YOU 来中国幹什么？ - 一天世界](https://blog.yitianshijie.net/2020/04/18/why-did-you-come-to-china/)
 
 - [涂鸦之《表里不一》 - oldj's blog](https://oldj.net/blog/2020/04/18/doodle-hypocrite)
-
-- [中港台 iPad Pro (2020) 文案对比 - 一天世界](https://blog.yitianshijie.net/2020/04/17/ipad-pro-2020-chinese-hk-taiwan-copy/)
 
 
 
