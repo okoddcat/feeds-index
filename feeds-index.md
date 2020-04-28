@@ -1,7 +1,9 @@
-*更新时间：04-27 12:05*
+*更新时间：04-28 15:50*
 
 
 
+
+- [体验了一下共享电单车 - 伪医生律师的博客](https://chidd.net/2020/04/28/shared-electric-bike.html)
 
 - [聊聊《全球通史》和动森（下）——枫言枫语播客 22 期 - 枫言枫语](https://justinyan.me/post/4296)
 
@@ -40,8 +42,6 @@
 - [实践操作中你完全可以认为天鹅都是白色的 - 土木坛子](https://tumutanzi.com/archives/16727)
 
 - [YOU 来中国幹什么？ - 一天世界](https://blog.yitianshijie.net/2020/04/18/why-did-you-come-to-china/)
-
-- [涂鸦之《表里不一》 - oldj's blog](https://oldj.net/blog/2020/04/18/doodle-hypocrite)
 
 
 
