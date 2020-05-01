@@ -1,7 +1,9 @@
-*更新时间：05-01 13:50*
+*更新时间：05-01 19:50*
 
 
 
+
+- [一个 fork 的面试题引发的思考 - 枫言枫语](https://justinyan.me/post/4300)
 
 - [回望二零二三 - 一天世界](https://blog.yitianshijie.net/2020/05/01/back-to-2023/)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（047） - 破袜子](https://pewae.com/2020/04/random_kuso_47.html)
 
 - [又又……叕换主机了 - 伪医生律师的博客](https://chidd.net/2020/04/19/change-blog-host-2.html)
-
-- [thinkpad静音键失效解决 - 攻城狮笔记](https://qumac.com/?p=1685)
 
 
 
