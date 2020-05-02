@@ -1,7 +1,9 @@
-*更新时间：05-02 09:50*
+*更新时间：05-02 21:50*
 
 
 
+
+- [去年今日 - 木先森](https://www.meizg.cn/405/)
 
 - [两句半FM:吃播也算劳动吗 - 白板报](https://www.wangpei.net/11108/is-eating-live-a-kind-of-labour/)
 
@@ -40,8 +42,6 @@
 - [微信7.0之后的一点思考 - 陈仓颉](https://imzm.im/thoughts-about-wechat-7-0/)
 
 - [长长长长假过后 - 木先森](https://www.meizg.cn/396/)
-
-- [Why not use Firefox Preview - 渚碧](https://jubeny.com/2020/04/why-not-use-firefox-preview/)
 
 
 
