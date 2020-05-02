@@ -1,7 +1,9 @@
-*更新时间：05-01 23:50*
+*更新时间：05-02 09:50*
 
 
 
+
+- [两句半FM:吃播也算劳动吗 - 白板报](https://www.wangpei.net/11108/is-eating-live-a-kind-of-labour/)
 
 - [网课爱恨间 - 白板报](https://www.wangpei.net/11106/online-class-and-podcasting/)
 
@@ -40,8 +42,6 @@
 - [长长长长假过后 - 木先森](https://www.meizg.cn/396/)
 
 - [Why not use Firefox Preview - 渚碧](https://jubeny.com/2020/04/why-not-use-firefox-preview/)
-
-- [人生困境 - 林海草原](https://lhcy.org/archives/152.html)
 
 
 
