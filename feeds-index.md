@@ -1,7 +1,9 @@
-*更新时间：05-02 21:50*
+*更新时间：05-03 16:50*
 
 
 
+
+- [重温老片《英雄好汉》+《江湖情》 - 破袜子](https://pewae.com/2020/05/review-black-vengeance.html)
 
 - [去年今日 - 木先森](https://www.meizg.cn/405/)
 
@@ -40,8 +42,6 @@
 - [苹果笔记本维修记 - 白板报](https://www.wangpei.net/11102/the-journal-on-reparing-of-my-apple-laptop/)
 
 - [微信7.0之后的一点思考 - 陈仓颉](https://imzm.im/thoughts-about-wechat-7-0/)
-
-- [长长长长假过后 - 木先森](https://www.meizg.cn/396/)
 
 
 
