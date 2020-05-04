@@ -1,7 +1,9 @@
-*更新时间：05-03 22:05*
+*更新时间：05-04 18:50*
 
 
 
+
+- [2019-5-4 - 三十三言](https://o0o0o0.cn/archives/shuoshuo/2019-5-4)
 
 - [山中即景 - 渚碧](https://jubeny.com/2020/05/scenery-in-the-hill/)
 
@@ -40,8 +42,6 @@
 - [ISSUU文件下载 - 攻城狮笔记](https://qumac.com/?p=1723)
 
 - [抓个 iPad 过来 - 一天世界](https://blog.yitianshijie.net/2020/04/23/grab-that-ipad/)
-
-- [苹果笔记本维修记 - 白板报](https://www.wangpei.net/11102/the-journal-on-reparing-of-my-apple-laptop/)
 
 
 
