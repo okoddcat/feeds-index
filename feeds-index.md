@@ -1,7 +1,9 @@
-*更新时间：05-07 15:05*
+*更新时间：05-08 00:05*
 
 
 
+
+- [四五月随拍 - 陈仓颉](https://imzm.im/shooting-in-april-and-may/)
 
 - [线上隐私与中国 - 一天世界](https://blog.yitianshijie.net/2020/05/07/online-privacy-and-china/)
 
@@ -40,8 +42,6 @@
 - [四月观影记录 - 渚碧](https://jubeny.com/2020/04/watch-list-in-april/)
 
 - [梦三十八 - 破袜子](https://pewae.com/2020/04/dream_38.html)
-
-- [解决博客几个bug - 木先森](https://www.meizg.cn/401/)
 
 
 
