@@ -1,7 +1,9 @@
-*更新时间：05-06 23:50*
+*更新时间：05-07 11:50*
 
 
 
+
+- [世间不美好的事情还是很多的 - 伪医生律师的博客](https://chidd.net/2020/05/07/not-good.html)
 
 - [和而不同，美美与共 - 攻城狮笔记](https://qumac.com/?p=1732)
 
@@ -40,8 +42,6 @@
 - [解决博客几个bug - 木先森](https://www.meizg.cn/401/)
 
 - [宅家办公 - 狡猫三窝](https://slykiten.com/life-note/stay-at-home/)
-
-- [ISSUU文件下载 - 攻城狮笔记](https://qumac.com/?p=1723)
 
 
 
