@@ -1,7 +1,9 @@
-*更新时间：05-08 00:05*
+*更新时间：05-08 11:50*
 
 
 
+
+- [《程序员修炼之道》中的一段废稿 - 云风的 BLOG](https://blog.codingnow.com/2020/05/tpp_manuscript.html)
 
 - [四五月随拍 - 陈仓颉](https://imzm.im/shooting-in-april-and-may/)
 
@@ -40,8 +42,6 @@
 - [半坡遗址，一座6000多年前的村落 - 三十三言](https://o0o0o0.cn/archives/2710.nice)
 
 - [四月观影记录 - 渚碧](https://jubeny.com/2020/04/watch-list-in-april/)
-
-- [梦三十八 - 破袜子](https://pewae.com/2020/04/dream_38.html)
 
 
 
