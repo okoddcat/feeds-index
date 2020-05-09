@@ -1,7 +1,9 @@
-*更新时间：05-08 11:50*
+*更新时间：05-09 17:50*
 
 
 
+
+- [柳比歇夫教我们如何管理精力和时间 - 白板报](https://www.wangpei.net/2020/05/09/how-to-manage-our-time-and-energy/)
 
 - [《程序员修炼之道》中的一段废稿 - 云风的 BLOG](https://blog.codingnow.com/2020/05/tpp_manuscript.html)
 
@@ -23,7 +25,11 @@
 
 - [两句半FM:吃播也算劳动吗 - 白板报](https://www.wangpei.net/11108/is-eating-live-a-kind-of-labour/)
 
+- [两句半FM:吃播也算劳动吗 - 白板报](https://www.wangpei.net/2020/05/02/is-eating-live-a-kind-of-labour/)
+
 - [网课爱恨间 - 白板报](https://www.wangpei.net/11106/online-class-and-podcasting/)
+
+- [两句半FM:网课爱恨间 - 白板报](https://www.wangpei.net/2020/05/01/online-class-and-podcasting/)
 
 - [一个 fork 的面试题引发的思考 - 枫言枫语](https://justinyan.me/post/4300)
 
@@ -36,12 +42,6 @@
 - [阳春鸡笼顶徒步露营欣赏高山草甸和杜娟花 - 土木坛子](https://tumutanzi.com/archives/16729)
 
 - [体验了一下共享电单车 - 伪医生律师的博客](https://chidd.net/2020/04/28/shared-electric-bike.html)
-
-- [聊聊《全球通史》和动森（下）——枫言枫语播客 22 期 - 枫言枫语](https://justinyan.me/post/4296)
-
-- [半坡遗址，一座6000多年前的村落 - 三十三言](https://o0o0o0.cn/archives/2710.nice)
-
-- [四月观影记录 - 渚碧](https://jubeny.com/2020/04/watch-list-in-april/)
 
 
 
