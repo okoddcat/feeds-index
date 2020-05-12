@@ -1,7 +1,9 @@
-*更新时间：05-12 17:50*
+*更新时间：05-13 01:00*
 
 
 
+
+- [你知道，这是牛市！ - DHTalk's Blog](https://zhangdinghao.cn/2020/05/12/readnote001/)
 
 - [高性价比VPS服务商Contabo VPS评测 - iTimothy](https://xiaozhou.net/high-cost-performance-contabo-vps-2020-05-12.html)
 
@@ -40,8 +42,6 @@
 - [网课爱恨间 - 白板报](https://www.wangpei.net/11106/online-class-and-podcasting/)
 
 - [两句半FM:网课爱恨间 - 白板报](https://www.wangpei.net/2020/05/01/online-class-and-podcasting/)
-
-- [一个 fork 的面试题引发的思考 - 枫言枫语](https://justinyan.me/post/4300)
 
 
 
