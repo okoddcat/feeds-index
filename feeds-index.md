@@ -1,4 +1,4 @@
-*更新时间：05-13 01:00*
+*更新时间：05-13 22:05*
 
 
 
@@ -16,6 +16,8 @@
 - [人生无常 - 渚碧](https://jubeny.com/2020/05/accidents-in-the-life/)
 
 - [柳比歇夫教我们如何管理精力和时间 - 白板报](https://www.wangpei.net/2020/05/09/how-to-manage-our-time-and-energy/)
+
+- [柳比歇夫教我们如何管理精力和时间 - 白板报](https://wangpei.net/2020/05/09/how-to-manage-our-time-and-energy/)
 
 - [《程序员修炼之道》中的一段废稿 - 云风的 BLOG](https://blog.codingnow.com/2020/05/tpp_manuscript.html)
 
@@ -39,9 +41,7 @@
 
 - [两句半FM:吃播也算劳动吗 - 白板报](https://www.wangpei.net/2020/05/02/is-eating-live-a-kind-of-labour/)
 
-- [网课爱恨间 - 白板报](https://www.wangpei.net/11106/online-class-and-podcasting/)
-
-- [两句半FM:网课爱恨间 - 白板报](https://www.wangpei.net/2020/05/01/online-class-and-podcasting/)
+- [两句半FM:吃播也算劳动吗 - 白板报](https://wangpei.net/2020/05/02/is-eating-live-a-kind-of-labour/)
 
 
 
