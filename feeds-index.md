@@ -1,7 +1,9 @@
-*更新时间：05-14 16:50*
+*更新时间：05-17 14:50*
 
 
 
+
+- [最终幻想战略版Advance - 破袜子](https://pewae.com/2020/05/final-fantasy-tactics-advance.html)
 
 - [每夫吐槽（048） - 破袜子](https://pewae.com/2020/05/random_kuso_48.html)
 
@@ -40,8 +42,6 @@
 - [去年今日 - 木先森](https://www.meizg.cn/405/)
 
 - [两句半FM:吃播也算劳动吗 - 白板报](https://www.wangpei.net/11108/is-eating-live-a-kind-of-labour/)
-
-- [两句半FM:吃播也算劳动吗 - 白板报](https://www.wangpei.net/2020/05/02/is-eating-live-a-kind-of-labour/)
 
 
 
