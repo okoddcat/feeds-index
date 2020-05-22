@@ -1,7 +1,9 @@
-*更新时间：05-22 08:50*
+*更新时间：05-22 17:50*
 
 
 
+
+- [民以食为天 - 伪医生律师的博客](https://chidd.net/2020/05/22/hunger-breeds-discontentment.html)
 
 - [等风来 - 攻城狮笔记](https://qumac.com/?p=1758)
 
@@ -40,8 +42,6 @@
 - [柳比歇夫教我们如何管理精力和时间 - 白板报](https://www.wangpei.net/2020/05/09/how-to-manage-our-time-and-energy/)
 
 - [柳比歇夫教我们如何管理精力和时间 - 白板报](https://wangpei.net/2020/05/09/how-to-manage-our-time-and-energy/)
-
-- [《程序员修炼之道》中的一段废稿 - 云风的 BLOG](https://blog.codingnow.com/2020/05/tpp_manuscript.html)
 
 
 
