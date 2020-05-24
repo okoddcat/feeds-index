@@ -1,7 +1,9 @@
-*更新时间：05-22 17:50*
+*更新时间：05-24 17:50*
 
 
 
+
+- [ARTS 01 - 为什么写作在远程工作中那么重要？ - DHTalk's Blog](https://zhangdinghao.cn/2020/05/24/arts01/)
 
 - [民以食为天 - 伪医生律师的博客](https://chidd.net/2020/05/22/hunger-breeds-discontentment.html)
 
@@ -40,8 +42,6 @@
 - [人生无常 - 渚碧](https://jubeny.com/2020/05/accidents-in-the-life/)
 
 - [柳比歇夫教我们如何管理精力和时间 - 白板报](https://www.wangpei.net/2020/05/09/how-to-manage-our-time-and-energy/)
-
-- [柳比歇夫教我们如何管理精力和时间 - 白板报](https://wangpei.net/2020/05/09/how-to-manage-our-time-and-energy/)
 
 
 
