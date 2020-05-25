@@ -1,7 +1,9 @@
-*更新时间：05-24 17:50*
+*更新时间：05-25 15:50*
 
 
 
+
+- [【书评】《控制欲》 - 狡猫三窝](https://slykiten.com/novel-comments/%e3%80%90%e4%b9%a6%e8%af%84%e3%80%91%e3%80%8a%e6%8e%a7%e5%88%b6%e6%ac%b2%e3%80%8b/)
 
 - [ARTS 01 - 为什么写作在远程工作中那么重要？ - DHTalk's Blog](https://zhangdinghao.cn/2020/05/24/arts01/)
 
@@ -40,8 +42,6 @@
 - [在谷歌地图上记录运动轨迹 - 渚碧](https://jubeny.com/2020/05/record-tracks-on-google-maps/)
 
 - [人生无常 - 渚碧](https://jubeny.com/2020/05/accidents-in-the-life/)
-
-- [柳比歇夫教我们如何管理精力和时间 - 白板报](https://www.wangpei.net/2020/05/09/how-to-manage-our-time-and-energy/)
 
 
 
