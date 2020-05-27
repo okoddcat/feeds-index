@@ -1,7 +1,9 @@
-*更新时间：05-27 17:50*
+*更新时间：05-27 22:50*
 
 
 
+
+- [与青年学者归国相关的话题 - 非礼勿言](https://feiliwuyan.com/topics-related-to-young-scholars/)
 
 - [由一个非 Unix Timestamp 想到的 - 枫言枫语](https://justinyan.me/post/4305)
 
@@ -40,8 +42,6 @@
 - [表情包 - 渚碧](https://jubeny.com/2020/05/stickers/)
 
 - [定海神针 - 尺宅即江湖](http://www.qtwm.com/?p=4308)
-
-- [生产力 - 木先森](https://www.meizg.cn/406/)
 
 
 
