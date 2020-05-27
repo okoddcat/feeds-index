@@ -1,7 +1,9 @@
-*更新时间：05-27 00:05*
+*更新时间：05-27 15:50*
 
 
 
+
+- [Greg Tate 论 Miles Davis 的《Live-Evil》（1971） - 一天世界](https://blog.yitianshijie.net/2020/05/27/greg-tate-on-miles-davis-live-evil/)
 
 - [从今天起开始学习双拼 - 白板报](https://wangpei.net/2020/05/26/learn-double-pinyin-input-method/)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（048） - 破袜子](https://pewae.com/2020/05/random_kuso_48.html)
 
 - [你知道，这是牛市！ - DHTalk's Blog](https://zhangdinghao.cn/2020/05/12/readnote001/)
-
-- [高性价比VPS服务商Contabo VPS评测 - iTimothy](https://xiaozhou.net/high-cost-performance-contabo-vps-2020-05-12.html)
 
 
 
