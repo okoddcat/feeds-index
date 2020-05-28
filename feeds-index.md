@@ -1,7 +1,9 @@
-*更新时间：05-27 22:50*
+*更新时间：05-28 14:50*
 
 
 
+
+- [写在毕业前夕 - 狡猫三窝](https://slykiten.com/life-note/before_graduation/)
 
 - [与青年学者归国相关的话题 - 非礼勿言](https://feiliwuyan.com/topics-related-to-young-scholars/)
 
@@ -40,8 +42,6 @@
 - [学术研究者是牛还是马 - 非礼勿言](https://feiliwuyan.com/academic-researcher-cow-or-horse/)
 
 - [表情包 - 渚碧](https://jubeny.com/2020/05/stickers/)
-
-- [定海神针 - 尺宅即江湖](http://www.qtwm.com/?p=4308)
 
 
 
