@@ -1,4 +1,4 @@
-*更新时间：05-28 17:50*
+*更新时间：05-28 18:05*
 
 
 
@@ -31,6 +31,8 @@
 
 - [ARTS 01 - 为什么写作在远程工作中那么重要？ - DHTalk's Blog](https://zhangdinghao.cn/arts01/)
 
+- [ARTS 01 - 为什么写作在远程工作中那么重要？ - DHTalk's Blog](https://zhangdinghao.cn/2020/arts01/)
+
 - [白马东来寻踪 - 尺宅即江湖](http://www.qtwm.com/?p=4321)
 
 - [日本的酒店庇护所服务 stay HOTEL stay safe - 非礼勿言](https://feiliwuyan.com/hotel-shelter-stay-hotel-stay-safe/)
@@ -40,8 +42,6 @@
 - [民以食为天 - 伪医生律师的博客](https://chidd.net/2020/05/22/hunger-breeds-discontentment.html)
 
 - [等风来 - 攻城狮笔记](https://qumac.com/?p=1758)
-
-- [学术研究者是牛还是马 - 非礼勿言](https://feiliwuyan.com/academic-researcher-cow-or-horse/)
 
 
 
