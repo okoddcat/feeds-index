@@ -1,7 +1,9 @@
-*更新时间：05-29 21:50*
+*更新时间：05-29 22:05*
 
 
 
+
+- [没什么，你努力但不成功，是因你不够幸运——《随机漫步的傻瓜》 - 土木坛子](https://tumutanzi.com/archives/16731)
 
 - [有容忍，才有自由 - 尺宅即江湖](http://www.qtwm.com/?p=4341)
 
@@ -40,8 +42,6 @@
 - [ARTS 01 - 为什么写作在远程工作中那么重要？ - DHTalk's Blog](https://zhangdinghao.cn/2020/05/24/arts01/)
 
 - [ARTS 01 - 为什么写作在远程工作中那么重要？ - DHTalk's Blog](https://zhangdinghao.cn/arts01/)
-
-- [ARTS 01 - 为什么写作在远程工作中那么重要？ - DHTalk's Blog](https://zhangdinghao.cn/2020/arts01/)
 
 
 
