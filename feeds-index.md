@@ -1,7 +1,9 @@
-*更新时间：05-30 21:50*
+*更新时间：05-30 23:50*
 
 
 
+
+- [菠萝与凤梨 - 非礼勿言](https://feiliwuyan.com/pineapple-or-ananas-comosus/)
 
 - [是新闻选择了你，还是你选择了新闻？ —— 枫言枫语播客 23 期 - 枫言枫语](https://justinyan.me/post/4307)
 
@@ -40,8 +42,6 @@
 - [尘埃落定 - 雨落泪尽](https://couqiao.net/archives/everything-is-settled.html)
 
 - [【书评】《控制欲》 - 狡猫三窝](https://slykiten.com/novel-comments/%e3%80%90%e4%b9%a6%e8%af%84%e3%80%91%e3%80%8a%e6%8e%a7%e5%88%b6%e6%ac%b2%e3%80%8b/)
-
-- [都难 - 尺宅即江湖](http://www.qtwm.com/?p=4326)
 
 
 
