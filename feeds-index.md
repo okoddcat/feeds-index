@@ -1,7 +1,9 @@
-*更新时间：05-29 22:50*
+*更新时间：05-30 21:50*
 
 
 
+
+- [是新闻选择了你，还是你选择了新闻？ —— 枫言枫语播客 23 期 - 枫言枫语](https://justinyan.me/post/4307)
 
 - [樹海 - 渚碧](https://jubeny.com/2020/05/sea-in-trees/)
 
@@ -40,8 +42,6 @@
 - [【书评】《控制欲》 - 狡猫三窝](https://slykiten.com/novel-comments/%e3%80%90%e4%b9%a6%e8%af%84%e3%80%91%e3%80%8a%e6%8e%a7%e5%88%b6%e6%ac%b2%e3%80%8b/)
 
 - [都难 - 尺宅即江湖](http://www.qtwm.com/?p=4326)
-
-- [ARTS 01 - 为什么写作在远程工作中那么重要？ - DHTalk's Blog](https://zhangdinghao.cn/2020/05/24/arts01/)
 
 
 
