@@ -1,7 +1,9 @@
-*更新时间：05-30 23:50*
+*更新时间：05-31 22:50*
 
 
 
+
+- [ARTS 02 - Google 如何做 Code Review - DHTalk's Blog](https://zhangdinghao.cn/2020/arts02/)
 
 - [菠萝与凤梨 - 非礼勿言](https://feiliwuyan.com/pineapple-or-ananas-comosus/)
 
@@ -40,8 +42,6 @@
 - [lua hash 函数的一点讨论 - 云风的 BLOG](https://blog.codingnow.com/2020/05/lua_hash.html)
 
 - [尘埃落定 - 雨落泪尽](https://couqiao.net/archives/everything-is-settled.html)
-
-- [【书评】《控制欲》 - 狡猫三窝](https://slykiten.com/novel-comments/%e3%80%90%e4%b9%a6%e8%af%84%e3%80%91%e3%80%8a%e6%8e%a7%e5%88%b6%e6%ac%b2%e3%80%8b/)
 
 
 
