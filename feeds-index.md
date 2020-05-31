@@ -1,9 +1,11 @@
-*更新时间：05-31 23:50*
+*更新时间：06-01 00:50*
 
 
 
 
 - [広島の秋旅1 / はじめに - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-20-1/)
+
+- [住进历史 - 随望淡思](https://www.lushaojun.com/4501.html)
 
 - [ARTS 02 - Google 如何做 Code Review - DHTalk's Blog](https://zhangdinghao.cn/2020/arts02/)
 
@@ -40,8 +42,6 @@
 - [穷爸爸 - 尺宅即江湖](http://www.qtwm.com/?p=4335)
 
 - [Wet market - 一天世界](https://blog.yitianshijie.net/2020/05/26/wet-market/)
-
-- [lua hash 函数的一点讨论 - 云风的 BLOG](https://blog.codingnow.com/2020/05/lua_hash.html)
 
 
 
