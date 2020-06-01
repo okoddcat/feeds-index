@@ -1,7 +1,9 @@
-*更新时间：06-01 22:50*
+*更新时间：06-02 01:50*
 
 
 
+
+- [在江边 - 白板报](https://wangpei.net/2020/06/02/on-the-river-side/)
 
 - [拍到莫名其妙的书 - 尺宅即江湖](http://www.qtwm.com/?p=4347)
 
@@ -40,8 +42,6 @@
 - [由一个非 Unix Timestamp 想到的 - 枫言枫语](https://justinyan.me/post/4305)
 
 - [Greg Tate 论 Miles Davis 的《Live-Evil》（1971） - 一天世界](https://blog.yitianshijie.net/2020/05/27/greg-tate-on-miles-davis-live-evil/)
-
-- [人民币与日元相关的杂谈 - 非礼勿言](https://feiliwuyan.com/talk-about-cny-and-jpy/)
 
 
 
