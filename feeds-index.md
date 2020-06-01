@@ -1,7 +1,11 @@
-*更新时间：06-01 00:50*
+*更新时间：06-01 20:50*
 
 
 
+
+- [一月一清零 | 我们处在近 500 年的大周期中 - DHTalk's Blog](https://zhangdinghao.cn/2020/restart202005/)
+
+- [比特币定投实战收益回报率复盘分析 - 土木坛子](https://tumutanzi.com/archives/16733)
 
 - [広島の秋旅1 / はじめに - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-20-1/)
 
@@ -38,10 +42,6 @@
 - [人民币与日元相关的杂谈 - 非礼勿言](https://feiliwuyan.com/talk-about-cny-and-jpy/)
 
 - [从今天起开始学习双拼 - 白板报](https://wangpei.net/2020/05/26/learn-double-pinyin-input-method/)
-
-- [穷爸爸 - 尺宅即江湖](http://www.qtwm.com/?p=4335)
-
-- [Wet market - 一天世界](https://blog.yitianshijie.net/2020/05/26/wet-market/)
 
 
 
