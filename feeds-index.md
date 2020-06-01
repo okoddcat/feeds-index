@@ -1,7 +1,9 @@
-*更新时间：06-01 20:50*
+*更新时间：06-01 22:50*
 
 
 
+
+- [拍到莫名其妙的书 - 尺宅即江湖](http://www.qtwm.com/?p=4347)
 
 - [一月一清零 | 我们处在近 500 年的大周期中 - DHTalk's Blog](https://zhangdinghao.cn/2020/restart202005/)
 
@@ -40,8 +42,6 @@
 - [Greg Tate 论 Miles Davis 的《Live-Evil》（1971） - 一天世界](https://blog.yitianshijie.net/2020/05/27/greg-tate-on-miles-davis-live-evil/)
 
 - [人民币与日元相关的杂谈 - 非礼勿言](https://feiliwuyan.com/talk-about-cny-and-jpy/)
-
-- [从今天起开始学习双拼 - 白板报](https://wangpei.net/2020/05/26/learn-double-pinyin-input-method/)
 
 
 
