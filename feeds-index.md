@@ -1,7 +1,9 @@
-*更新时间：06-04 04:50*
+*更新时间：06-04 18:50*
 
 
 
+
+- [我学到的关于公众号排版的功课 - 白板报](https://wangpei.net/2020/06/04/the-lesson-about-visual-design-of-wechat-public-site/)
 
 - [我们都是透明人 - 攻城狮笔记](https://qumac.com/?p=1796)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（049） - 破袜子](https://pewae.com/2020/05/random_kuso_49.html)
 
 - [不同世代对于婚姻的不同认知 - 非礼勿言](https://feiliwuyan.com/different-views-on-marriage-by-the-different-generations/)
-
-- [快半年没骑摩托，小小跑一圈~ - 非礼勿言](https://feiliwuyan.com/ride-on-200528/)
 
 
 
