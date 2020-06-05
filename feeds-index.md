@@ -1,7 +1,9 @@
-*更新时间：06-05 00:50*
+*更新时间：06-05 11:50*
 
 
 
+
+- [层次结构和状态继承 - 云风的 BLOG](https://blog.codingnow.com/2020/06/state_inheritance.html)
 
 - [连续开车十九小时跨越东北5县 - 非礼勿言](https://feiliwuyan.com/drive-19-hours-across-5-prefectures-in-tohoku/)
 
@@ -40,8 +42,6 @@
 - [没什么，你努力但不成功，是因你不够幸运——《随机漫步的傻瓜》 - 土木坛子](https://tumutanzi.com/archives/16731)
 
 - [有容忍，才有自由 - 尺宅即江湖](http://www.qtwm.com/?p=4341)
-
-- [离婚冷静期的真正含义 - 非礼勿言](https://feiliwuyan.com/true-meaning-of-the-divorce-cooling-off-period/)
 
 
 
