@@ -1,7 +1,9 @@
-*更新时间：06-06 00:50*
+*更新时间：06-06 17:05*
 
 
 
+
+- [抠抠缩缩买了两本特价书 - 尺宅即江湖](http://www.qtwm.com/?p=4354)
 
 - [特別定額給付金について - 非礼勿言](https://feiliwuyan.com/tokubetsuteigakukyufukin-2020/)
 
@@ -40,8 +42,6 @@
 - [ARTS 02 - Google 如何做 Code Review - DHTalk's Blog](https://zhangdinghao.cn/2020/arts02/)
 
 - [菠萝与凤梨 - 非礼勿言](https://feiliwuyan.com/pineapple-or-ananas-comosus/)
-
-- [是新闻选择了你，还是你选择了新闻？ —— 枫言枫语播客 23 期 - 枫言枫语](https://justinyan.me/post/4307)
 
 
 
