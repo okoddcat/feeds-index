@@ -1,7 +1,9 @@
-*更新时间：06-07 11:50*
+*更新时间：06-07 19:50*
 
 
 
+
+- [ARTS 03 - 如何使用 JavaScript 访问设备摄像头 - DHTalk's Blog](https://zhangdinghao.cn/2020/arts03/)
 
 - [书缘奇遇 - 尺宅即江湖](http://www.qtwm.com/?p=4358)
 
@@ -40,8 +42,6 @@
 - [一月一清零 | 我们处在近 500 年的大周期中 - DHTalk's Blog](https://zhangdinghao.cn/2020/restart202005/)
 
 - [比特币定投实战收益回报率复盘分析 - 土木坛子](https://tumutanzi.com/archives/16733)
-
-- [広島の秋旅1 / はじめに - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-20-1/)
 
 
 
