@@ -1,7 +1,9 @@
-*更新时间：06-07 22:50*
+*更新时间：06-08 10:50*
 
 
 
+
+- [利用GitHub Actions实现Blog自动部署与发布 - iTimothy](https://xiaozhou.net/blog-auto-deployment-via-github-actions-2020-06-08.html)
 
 - [闲言碎语记流水 – 商场、ukulele、小兔子 - 非礼勿言](https://feiliwuyan.com/themall-ukulele-rabbit/)
 
@@ -40,8 +42,6 @@
 - [在江边 - 白板报](https://wangpei.net/2020/06/02/on-the-river-side/)
 
 - [拍到莫名其妙的书 - 尺宅即江湖](http://www.qtwm.com/?p=4347)
-
-- [一月一清零 | 我们处在近 500 年的大周期中 - DHTalk's Blog](https://zhangdinghao.cn/2020/restart202005/)
 
 
 
