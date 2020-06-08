@@ -1,7 +1,9 @@
-*更新时间：06-08 10:50*
+*更新时间：06-08 23:50*
 
 
 
+
+- [重温老片《古今大战秦俑情》 - 破袜子](https://pewae.com/2020/06/review-a-terracotta-warrior.html)
 
 - [利用GitHub Actions实现Blog自动部署与发布 - iTimothy](https://xiaozhou.net/blog-auto-deployment-via-github-actions-2020-06-08.html)
 
@@ -40,8 +42,6 @@
 - [编剧故事营第四期招生啦 - 白板报](https://wangpei.net/2020/06/03/welcome-to-storycamp-season-4/)
 
 - [在江边 - 白板报](https://wangpei.net/2020/06/02/on-the-river-side/)
-
-- [拍到莫名其妙的书 - 尺宅即江湖](http://www.qtwm.com/?p=4347)
 
 
 
