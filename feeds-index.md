@@ -1,7 +1,9 @@
-*更新时间：06-09 23:50*
+*更新时间：06-10 00:50*
 
 
 
+
+- [教堂重开日 - 白板报](https://wangpei.net/2020/06/10/church-reopenning/)
 
 - [龙舟水 - 陈仓颉](https://imzm.im/dragon-boat-water/)
 
@@ -40,8 +42,6 @@
 - [我学到的关于公众号排版的功课 - 白板报](https://wangpei.net/2020/06/04/the-lesson-about-visual-design-of-wechat-public-site/)
 
 - [我们都是透明人 - 攻城狮笔记](https://qumac.com/?p=1796)
-
-- [学会面向市场写作 - 白板报](https://wangpei.net/2020/06/04/learn-market-oriented-writing/)
 
 
 
