@@ -1,7 +1,9 @@
-*更新时间：06-09 22:50*
+*更新时间：06-09 23:50*
 
 
 
+
+- [龙舟水 - 陈仓颉](https://imzm.im/dragon-boat-water/)
 
 - [要面对历史，得先知道历史 - 尺宅即江湖](http://www.qtwm.com/?p=4362)
 
@@ -40,8 +42,6 @@
 - [我们都是透明人 - 攻城狮笔记](https://qumac.com/?p=1796)
 
 - [学会面向市场写作 - 白板报](https://wangpei.net/2020/06/04/learn-market-oriented-writing/)
-
-- [如果不是几位朋友的帮助，我的编剧故事营第四期的招生文案不知会拖多久 - 白板报](https://wangpei.net/2020/06/04/%e5%a6%82%e6%9e%9c%e4%b8%8d%e6%98%af%e5%87%a0%e4%bd%8d%e6%9c%8b%e5%8f%8b%e7%9a%84%e5%b8%ae%e5%8a%a9%ef%bc%8c%e6%88%91%e7%9a%84%e7%bc%96%e5%89%a7%e6%95%85%e4%ba%8b%e8%90%a5%e7%ac%ac%e5%9b%9b%e6%9c%9f/)
 
 
 
