@@ -1,7 +1,9 @@
-*更新时间：06-08 23:50*
+*更新时间：06-09 17:50*
 
 
 
+
+- [炸炒米 - 狡猫三窝](https://slykiten.com/life-note/poprice/)
 
 - [重温老片《古今大战秦俑情》 - 破袜子](https://pewae.com/2020/06/review-a-terracotta-warrior.html)
 
@@ -40,8 +42,6 @@
 - [如果不是几位朋友的帮助，我的编剧故事营第四期的招生文案不知会拖多久 - 白板报](https://wangpei.net/2020/06/04/%e5%a6%82%e6%9e%9c%e4%b8%8d%e6%98%af%e5%87%a0%e4%bd%8d%e6%9c%8b%e5%8f%8b%e7%9a%84%e5%b8%ae%e5%8a%a9%ef%bc%8c%e6%88%91%e7%9a%84%e7%bc%96%e5%89%a7%e6%95%85%e4%ba%8b%e8%90%a5%e7%ac%ac%e5%9b%9b%e6%9c%9f/)
 
 - [编剧故事营第四期招生啦 - 白板报](https://wangpei.net/2020/06/03/welcome-to-storycamp-season-4/)
-
-- [在江边 - 白板报](https://wangpei.net/2020/06/02/on-the-river-side/)
 
 
 
