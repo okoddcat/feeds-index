@@ -1,7 +1,9 @@
-*更新时间：06-11 13:05*
+*更新时间：06-13 06:50*
 
 
 
+
+- [散写于六月 - 非礼勿言](https://feiliwuyan.com/f-log-200613/)
 
 - [Castro 和 Pocket Casts 从中国区下架 - 一天世界](https://blog.yitianshijie.net/2020/06/11/castro-and-pocketcasts-taken-down-from-chinese-app-store/)
 
@@ -40,8 +42,6 @@
 - [在关西与黛西一起的时光1 / 大阪 - 非礼勿言](https://feiliwuyan.com/love-trip-in-kansai-osaka/)
 
 - [抠抠缩缩买了两本特价书 - 尺宅即江湖](http://www.qtwm.com/?p=4354)
-
-- [特別定額給付金について - 非礼勿言](https://feiliwuyan.com/tokubetsuteigakukyufukin-2020/)
 
 
 
