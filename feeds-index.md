@@ -1,7 +1,9 @@
-*更新时间：06-13 12:05*
+*更新时间：06-13 15:05*
 
 
 
+
+- [无知和愚蠢又深不可测 - 尺宅即江湖](http://www.qtwm.com/?p=4366)
 
 - [放弃双拼 - 白板报](https://wangpei.net/2020/06/13/give-up-double-pinyin/)
 
@@ -40,8 +42,6 @@
 - [书缘奇遇 - 尺宅即江湖](http://www.qtwm.com/?p=4358)
 
 - [闲言碎语记流水 – 摩托两三事 - 非礼勿言](https://feiliwuyan.com/motorcycle-maintenance-r2-june-06/)
-
-- [在关西与黛西一起的时光1 / 大阪 - 非礼勿言](https://feiliwuyan.com/love-trip-in-kansai-osaka/)
 
 
 
