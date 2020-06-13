@@ -1,7 +1,9 @@
-*更新时间：06-13 06:50*
+*更新时间：06-13 12:05*
 
 
 
+
+- [放弃双拼 - 白板报](https://wangpei.net/2020/06/13/give-up-double-pinyin/)
 
 - [散写于六月 - 非礼勿言](https://feiliwuyan.com/f-log-200613/)
 
@@ -40,8 +42,6 @@
 - [闲言碎语记流水 – 摩托两三事 - 非礼勿言](https://feiliwuyan.com/motorcycle-maintenance-r2-june-06/)
 
 - [在关西与黛西一起的时光1 / 大阪 - 非礼勿言](https://feiliwuyan.com/love-trip-in-kansai-osaka/)
-
-- [抠抠缩缩买了两本特价书 - 尺宅即江湖](http://www.qtwm.com/?p=4354)
 
 
 
