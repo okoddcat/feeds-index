@@ -1,7 +1,9 @@
-*更新时间：06-15 10:50*
+*更新时间：06-15 14:05*
 
 
 
+
+- [Engelbart, Nelson, Kay——历史败将 - 一天世界](https://blog.yitianshijie.net/2020/06/15/engelbart-nelson-kay-all-lost-but-maybe-we-can-still-win/)
 
 - [你看那个人好像一条狗 - 木先森](https://www.meizg.cn/409/)
 
@@ -40,8 +42,6 @@
 - [炸炒米 - 狡猫三窝](https://slykiten.com/life-note/poprice/)
 
 - [重温老片《古今大战秦俑情》 - 破袜子](https://pewae.com/2020/06/review-a-terracotta-warrior.html)
-
-- [利用GitHub Actions实现Blog自动部署与发布 - iTimothy](https://xiaozhou.net/blog-auto-deployment-via-github-actions-2020-06-08.html)
 
 
 
