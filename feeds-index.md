@@ -1,7 +1,9 @@
-*更新时间：06-15 21:50*
+*更新时间：06-15 22:50*
 
 
 
+
+- [広島の秋旅2 / 宮島 - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-19-2/)
 
 - [香港是更好的中国 - 一天世界](https://blog.yitianshijie.net/2020/06/15/hong-kong-is-china-but-much-better/)
 
@@ -40,8 +42,6 @@
 - [龙舟水 - 陈仓颉](https://imzm.im/dragon-boat-water/)
 
 - [要面对历史，得先知道历史 - 尺宅即江湖](http://www.qtwm.com/?p=4362)
-
-- [在关西与黛西一起的时光2 / 京都 - 非礼勿言](https://feiliwuyan.com/love-trip-in-kansai-kyoto/)
 
 
 
