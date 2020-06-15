@@ -1,7 +1,9 @@
-*更新时间：06-15 17:50*
+*更新时间：06-15 21:50*
 
 
 
+
+- [香港是更好的中国 - 一天世界](https://blog.yitianshijie.net/2020/06/15/hong-kong-is-china-but-much-better/)
 
 - [【书评】《当年万里觅封侯》by漫漫何其多 - 狡猫三窝](https://slykiten.com/novel-comments/%e3%80%90%e4%b9%a6%e8%af%84%e3%80%91%e3%80%8a%e5%bd%93%e5%b9%b4%e4%b8%87%e9%87%8c%e8%a7%85%e5%b0%81%e4%be%af%e3%80%8bby%e6%bc%ab%e6%bc%ab%e4%bd%95%e5%85%b6%e5%a4%9a/)
 
@@ -40,8 +42,6 @@
 - [要面对历史，得先知道历史 - 尺宅即江湖](http://www.qtwm.com/?p=4362)
 
 - [在关西与黛西一起的时光2 / 京都 - 非礼勿言](https://feiliwuyan.com/love-trip-in-kansai-kyoto/)
-
-- [炸炒米 - 狡猫三窝](https://slykiten.com/life-note/poprice/)
 
 
 
