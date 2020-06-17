@@ -1,7 +1,9 @@
-*更新时间：06-16 22:50*
+*更新时间：06-18 00:05*
 
 
 
+
+- [Emacs启动加速篇 - iTimothy](https://xiaozhou.net/run-emacs-as-system-daemon-2020-06-17.html)
 
 - [毕业的前章 - 渚碧](https://jubeny.com/2020/06/the-preface-of-graduation/)
 
@@ -40,8 +42,6 @@
 - [夜晚的海边散步 - 非礼勿言](https://feiliwuyan.com/seaside-walk-jun20/)
 
 - [内存块对象的 Lua 封装 - 云风的 BLOG](https://blog.codingnow.com/2020/06/lua_memory_object.html)
-
-- [教堂重开日 - 白板报](https://wangpei.net/2020/06/10/church-reopenning/)
 
 
 
