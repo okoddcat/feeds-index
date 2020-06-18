@@ -1,7 +1,9 @@
-*更新时间：06-18 14:05*
+*更新时间：06-18 16:50*
 
 
 
+
+- [吃吃新疆菜 - 伪医生律师的博客](https://chidd.net/2020/06/18/xin-jiang-food.html)
 
 - [请牵着我的鼻子走 - 一天世界](https://blog.yitianshijie.net/2020/06/18/i-will-walk-like-you-if-you-walk-like-a-dandy/)
 
@@ -40,8 +42,6 @@
 - [太空战士——魔法战士 - 破袜子](https://pewae.com/2020/06/brave-battle-saga-legend-of-the-magic-warrior.html)
 
 - [在关西与黛西一起的时光3 / 奈良 - 非礼勿言](https://feiliwuyan.com/love-trip-in-kansai-nara/)
-
-- [夜跑与献血 - 渚碧](https://jubeny.com/2020/06/running-and-donating-blood/)
 
 
 
