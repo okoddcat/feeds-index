@@ -1,7 +1,9 @@
-*更新时间：06-20 15:50*
+*更新时间：06-20 22:50*
 
 
 
+
+- [再战iPhone换电池 - 攻城狮笔记](https://qumac.com/?p=1806)
 
 - [越是困难就越是要读书 - 尺宅即江湖](http://www.qtwm.com/?p=4377)
 
@@ -40,8 +42,6 @@
 - [放弃双拼 - 白板报](https://wangpei.net/2020/06/13/give-up-double-pinyin/)
 
 - [散写于六月 - 非礼勿言](https://feiliwuyan.com/f-log-200613/)
-
-- [Castro 和 Pocket Casts 从中国区下架 - 一天世界](https://blog.yitianshijie.net/2020/06/11/castro-and-pocketcasts-taken-down-from-chinese-app-store/)
 
 
 
