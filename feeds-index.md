@@ -1,7 +1,9 @@
-*更新时间：06-20 22:50*
+*更新时间：06-21 16:50*
 
 
 
+
+- [每夫吐槽（050） - 破袜子](https://pewae.com/2020/06/random_kuso_50.html)
 
 - [再战iPhone换电池 - 攻城狮笔记](https://qumac.com/?p=1806)
 
@@ -40,8 +42,6 @@
 - [无知和愚蠢又深不可测 - 尺宅即江湖](http://www.qtwm.com/?p=4366)
 
 - [放弃双拼 - 白板报](https://wangpei.net/2020/06/13/give-up-double-pinyin/)
-
-- [散写于六月 - 非礼勿言](https://feiliwuyan.com/f-log-200613/)
 
 
 
