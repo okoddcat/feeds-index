@@ -1,7 +1,9 @@
-*更新时间：06-23 20:50*
+*更新时间：06-23 21:50*
 
 
 
+
+- [荷兰之夏忆1 / 初至阿姆斯特丹 - 非礼勿言](https://feiliwuyan.com/summer-of-holland-meet-amsterdam/)
 
 - [人类未来面临最大的挑战是什么？ - 土木坛子](https://tumutanzi.com/archives/16735)
 
@@ -40,8 +42,6 @@
 - [Engelbart, Nelson, Kay——历史败将 - 一天世界](https://blog.yitianshijie.net/2020/06/15/engelbart-nelson-kay-all-lost-but-maybe-we-can-still-win/)
 
 - [你看那个人好像一条狗 - 木先森](https://www.meizg.cn/409/)
-
-- [老太太从来厉害 - 尺宅即江湖](http://www.qtwm.com/?p=4370)
 
 
 
