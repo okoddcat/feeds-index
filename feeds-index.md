@@ -1,7 +1,9 @@
-*更新时间：06-24 00:05*
+*更新时间：06-24 18:50*
 
 
 
+
+- [对，我们又和开发者聊了聊今年的WWDC——枫言枫语播客 24 期(硅谷早知道 S4E26) - 枫言枫语](https://justinyan.me/post/4321)
 
 - [重温老片《大丈夫日记》 - 破袜子](https://pewae.com/2020/06/review-the-diary-of-a-big-man.html)
 
@@ -40,8 +42,6 @@
 - [香港是更好的中国 - 一天世界](https://blog.yitianshijie.net/2020/06/15/hong-kong-is-china-but-much-better/)
 
 - [【书评】《当年万里觅封侯》by漫漫何其多 - 狡猫三窝](https://slykiten.com/novel-comments/%e3%80%90%e4%b9%a6%e8%af%84%e3%80%91%e3%80%8a%e5%bd%93%e5%b9%b4%e4%b8%87%e9%87%8c%e8%a7%85%e5%b0%81%e4%be%af%e3%80%8bby%e6%bc%ab%e6%bc%ab%e4%bd%95%e5%85%b6%e5%a4%9a/)
-
-- [Engelbart, Nelson, Kay——历史败将 - 一天世界](https://blog.yitianshijie.net/2020/06/15/engelbart-nelson-kay-all-lost-but-maybe-we-can-still-win/)
 
 
 
