@@ -1,7 +1,11 @@
-*更新时间：06-25 20:50*
+*更新时间：06-25 21:50*
 
 
 
+
+- [网站被克隆？ - 非礼勿言](https://feiliwuyan.com/whether-the-blog-site-cloned/)
+
+- [做博士后高校选国内或国外之浅谈 - 非礼勿言](https://feiliwuyan.com/choose-the-institution-of-pd/)
 
 - [乡间亲家游 - 随望淡思](https://www.lushaojun.com/4529.html)
 
@@ -38,10 +42,6 @@
 - [毕业的前章 - 渚碧](https://jubeny.com/2020/06/the-preface-of-graduation/)
 
 - [skynet 并发模型的一点改进思路 - 云风的 BLOG](https://blog.codingnow.com/2020/06/skynet_concurrency_model.html)
-
-- [広島の秋旅2 / 宮島 - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-19-2/)
-
-- [香港是更好的中国 - 一天世界](https://blog.yitianshijie.net/2020/06/15/hong-kong-is-china-but-much-better/)
 
 
 
