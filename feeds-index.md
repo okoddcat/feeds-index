@@ -1,7 +1,9 @@
-*更新时间：06-26 17:50*
+*更新时间：06-27 00:50*
 
 
 
+
+- [在酒店自我隔离的日子 - 非礼勿言](https://feiliwuyan.com/days-of-self-isolation-in-hotel/)
 
 - [藤泽周平七连技 - 尺宅即江湖](http://www.qtwm.com/?p=4389)
 
@@ -40,8 +42,6 @@
 - [即将看到曙光 - 林海草原](https://lhcy.org/archives/153.html)
 
 - [吃吃新疆菜 - 伪医生律师的博客](https://chidd.net/2020/06/18/xin-jiang-food.html)
-
-- [请牵着我的鼻子走 - 一天世界](https://blog.yitianshijie.net/2020/06/18/i-will-walk-like-you-if-you-walk-like-a-dandy/)
 
 
 
