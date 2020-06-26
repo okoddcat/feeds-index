@@ -1,7 +1,9 @@
-*更新时间：06-26 12:05*
+*更新时间：06-26 17:50*
 
 
 
+
+- [藤泽周平七连技 - 尺宅即江湖](http://www.qtwm.com/?p=4389)
 
 - [WWDC 2020 番外篇——枫言枫语播客 25 期 - 枫言枫语](https://justinyan.me/post/4326)
 
@@ -40,8 +42,6 @@
 - [吃吃新疆菜 - 伪医生律师的博客](https://chidd.net/2020/06/18/xin-jiang-food.html)
 
 - [请牵着我的鼻子走 - 一天世界](https://blog.yitianshijie.net/2020/06/18/i-will-walk-like-you-if-you-walk-like-a-dandy/)
-
-- [Hey 内购风波二三事 - 一天世界](https://blog.yitianshijie.net/2020/06/18/a-few-things-about-hey-iap-brouhaha/)
 
 
 
