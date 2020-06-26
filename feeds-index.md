@@ -1,7 +1,9 @@
-*更新时间：06-26 00:50*
+*更新时间：06-26 12:05*
 
 
 
+
+- [WWDC 2020 番外篇——枫言枫语播客 25 期 - 枫言枫语](https://justinyan.me/post/4326)
 
 - [捡漏 - 尺宅即江湖](http://www.qtwm.com/?p=4386)
 
@@ -40,8 +42,6 @@
 - [请牵着我的鼻子走 - 一天世界](https://blog.yitianshijie.net/2020/06/18/i-will-walk-like-you-if-you-walk-like-a-dandy/)
 
 - [Hey 内购风波二三事 - 一天世界](https://blog.yitianshijie.net/2020/06/18/a-few-things-about-hey-iap-brouhaha/)
-
-- [Emacs启动加速篇 - iTimothy](https://xiaozhou.net/run-emacs-as-system-daemon-2020-06-17.html)
 
 
 
