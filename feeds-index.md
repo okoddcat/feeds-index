@@ -1,7 +1,9 @@
-*更新时间：06-27 19:50*
+*更新时间：06-27 21:50*
 
 
 
+
+- [蹲坑读物首选《清稗类钞》 - 尺宅江湖](http://www.qtwm.com/?p=4392)
 
 - [大盗五右卫门2～奇天烈将军玛基斯 - 破袜子](https://pewae.com/2020/06/ganbare-goemon-2-kiteretsu-shougun-magginesu.html)
 
@@ -40,8 +42,6 @@
 - [再战iPhone换电池 - 攻城狮笔记](https://qumac.com/?p=1806)
 
 - [越是困难就越是要读书 - 尺宅即江湖](http://www.qtwm.com/?p=4377)
-
-- [即将看到曙光 - 林海草原](https://lhcy.org/archives/153.html)
 
 
 
