@@ -1,7 +1,9 @@
-*更新时间：06-27 00:50*
+*更新时间：06-27 19:50*
 
 
 
+
+- [大盗五右卫门2～奇天烈将军玛基斯 - 破袜子](https://pewae.com/2020/06/ganbare-goemon-2-kiteretsu-shougun-magginesu.html)
 
 - [在酒店自我隔离的日子 - 非礼勿言](https://feiliwuyan.com/days-of-self-isolation-in-hotel/)
 
@@ -40,8 +42,6 @@
 - [越是困难就越是要读书 - 尺宅即江湖](http://www.qtwm.com/?p=4377)
 
 - [即将看到曙光 - 林海草原](https://lhcy.org/archives/153.html)
-
-- [吃吃新疆菜 - 伪医生律师的博客](https://chidd.net/2020/06/18/xin-jiang-food.html)
 
 
 
