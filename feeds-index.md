@@ -1,4 +1,4 @@
-*更新时间：06-29 15:50*
+*更新时间：06-29 18:15*
 
 
 
@@ -8,6 +8,8 @@
 - [【书评】《坏小孩》（电视剧‘’隐秘的角落‘’原著） - 狡猫三窝](https://slykiten.com/novel-comments/%e3%80%90%e4%b9%a6%e8%af%84%e3%80%91%e3%80%8a%e5%9d%8f%e5%b0%8f%e5%ad%a9%e3%80%8b%ef%bc%88%e7%94%b5%e8%a7%86%e5%89%a7%e9%9a%90%e7%a7%98%e7%9a%84%e8%a7%92%e8%90%bd/)
 
 - [日落而作 - 随望淡思](https://www.lushaojun.com/4536.html)
+
+- [ARTS 06 - 当你更新 DNS 时发生了什么？ - DHTalk's Blog](https://zhangdinghao.cn/2020/06/28/arts06/)
 
 - [蹲坑读物首选《清稗类钞》 - 尺宅江湖](http://www.qtwm.com/?p=4392)
 
@@ -40,8 +42,6 @@
 - [如何将DokuWiki中indexmenu插件和tagcloud插件中显示的英文内容变为大写 - 破袜子](https://pewae.com/2020/06/how-to-integrate-dokuwiki-in-the-indexmenu-plugin-and-the-tagcloud-plugin-to-display-english-content-to-uppercase.html)
 
 - [ARTS 05 - 剖析 Uber 的 RIB 架构 - DHTalk's Blog](https://zhangdinghao.cn/2020/arts05/)
-
-- [TypeScript + ExpressJS 快速搭建小工具服务 - 枫言枫语](https://justinyan.me/post/4319)
 
 
 
