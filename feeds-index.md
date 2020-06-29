@@ -1,7 +1,9 @@
-*更新时间：06-29 18:15*
+*更新时间：06-29 19:50*
 
 
 
+
+- [关于 Rosetta (Universal 2) 和苹果的 ARM 架构迁移 - 枫言枫语](https://justinyan.me/post/4328)
 
 - [七年 - 渚碧](https://jubeny.com/2020/06/seven-years/)
 
@@ -40,8 +42,6 @@
 - [人类未来面临最大的挑战是什么？ - 土木坛子](https://tumutanzi.com/archives/16735)
 
 - [如何将DokuWiki中indexmenu插件和tagcloud插件中显示的英文内容变为大写 - 破袜子](https://pewae.com/2020/06/how-to-integrate-dokuwiki-in-the-indexmenu-plugin-and-the-tagcloud-plugin-to-display-english-content-to-uppercase.html)
-
-- [ARTS 05 - 剖析 Uber 的 RIB 架构 - DHTalk's Blog](https://zhangdinghao.cn/2020/arts05/)
 
 
 
