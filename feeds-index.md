@@ -1,7 +1,11 @@
-*更新时间：07-01 14:50*
+*更新时间：07-02 00:50*
 
 
 
+
+- [広島の秋旅3 / 広島城 - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-19-3/)
+
+- [一月一清零 | 我们正在经历并创造历史 - DHTalk's Blog](https://zhangdinghao.cn/2020/07/01/restart202006/)
 
 - [ - 狡猫三窝](https://slykiten.com/japanese/5846/)
 
@@ -38,10 +42,6 @@
 - [对，我们又和开发者聊了聊今年的WWDC——枫言枫语播客 24 期(硅谷早知道 S4E26) - 枫言枫语](https://justinyan.me/post/4321)
 
 - [重温老片《大丈夫日记》 - 破袜子](https://pewae.com/2020/06/review-the-diary-of-a-big-man.html)
-
-- [荷兰之夏忆1 / 初至阿姆斯特丹 - 非礼勿言](https://feiliwuyan.com/summer-of-holland-meet-amsterdam/)
-
-- [人类未来面临最大的挑战是什么？ - 土木坛子](https://tumutanzi.com/archives/16735)
 
 
 
