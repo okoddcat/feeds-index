@@ -1,7 +1,9 @@
-*更新时间：07-02 20:50*
+*更新时间：07-04 16:50*
 
 
 
+
+- [凑金庸 - 尺宅江湖](http://www.qtwm.com/?p=4400)
 
 - [不是错得离谱，就是对得靠谱 - 尺宅江湖](http://www.qtwm.com/?p=4397)
 
@@ -40,8 +42,6 @@
 - [博士后高校选国内还是国外之浅谈 - 非礼勿言](https://feiliwuyan.com/choose-the-institution-for-postdoc/)
 
 - [乡间亲家游 - 随望淡思](https://www.lushaojun.com/4529.html)
-
-- [对，我们又和开发者聊了聊今年的WWDC——枫言枫语播客 24 期(硅谷早知道 S4E26) - 枫言枫语](https://justinyan.me/post/4321)
 
 
 
