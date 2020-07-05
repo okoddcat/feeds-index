@@ -1,9 +1,11 @@
-*更新时间：07-05 08:50*
+*更新时间：07-05 10:50*
 
 
 
 
 - [《一天世界》近日会员通讯摘要（2020.7.5） - 一天世界](https://blog.yitianshijie.net/2020/07/05/yitianshijie-newsletter-20200705/)
+
+- [书店没有《书店》 - 尺宅江湖](http://www.qtwm.com/?p=4408)
 
 - [凑金庸 - 尺宅江湖](http://www.qtwm.com/?p=4400)
 
@@ -40,8 +42,6 @@
 - [网站被克隆？ - 非礼勿言](https://feiliwuyan.com/whether-the-blog-site-cloned/)
 
 - [做博士后高校选国内或国外之浅谈 - 非礼勿言](https://feiliwuyan.com/choose-the-institution-of-pd/)
-
-- [博士后高校选国内还是国外之浅谈 - 非礼勿言](https://feiliwuyan.com/choose-the-institution-for-postdoc/)
 
 
 
