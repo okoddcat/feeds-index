@@ -1,7 +1,9 @@
-*更新时间：07-08 03:05*
+*更新时间：07-08 15:50*
 
 
 
+
+- [ - 酷 壳 – CoolShell](https://coolshell.cn/articles/21025.html)
 
 - [在关西与黛西一起的时光4 / 神户 - 非礼勿言](https://feiliwuyan.com/love-trip-in-kansai-kobe/)
 
@@ -40,8 +42,6 @@
 - [日落而作 - 随望淡思](https://www.lushaojun.com/4536.html)
 
 - [ARTS 06 - 当你更新 DNS 时发生了什么？ - DHTalk's Blog](https://zhangdinghao.cn/2020/06/28/arts06/)
-
-- [蹲坑读物首选《清稗类钞》 - 尺宅江湖](http://www.qtwm.com/?p=4392)
 
 
 
