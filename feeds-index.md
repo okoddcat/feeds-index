@@ -1,7 +1,9 @@
-*更新时间：07-09 20:50*
+*更新时间：07-10 16:50*
 
 
 
+
+- [二零二零年八月，新浪微博封杀万维网 - 一天世界](https://blog.yitianshijie.net/2020/07/10/weibo-kills-the-web-in-august-2020/)
 
 - [历史盲肠 - 尺宅江湖](http://www.qtwm.com/?p=4419)
 
@@ -40,8 +42,6 @@
 - [ - 狡猫三窝](https://slykiten.com/japanese/5846/)
 
 - [关于 Rosetta (Universal 2) 和苹果的 ARM 架构迁移 - 枫言枫语](https://justinyan.me/post/4328)
-
-- [七年 - 渚碧](https://jubeny.com/2020/06/seven-years/)
 
 
 
