@@ -1,7 +1,9 @@
-*更新时间：07-10 23:50*
+*更新时间：07-12 11:50*
 
 
 
+
+- [意识形态先行时代的学术 - 尺宅江湖](http://www.qtwm.com/?p=4422)
 
 - [在街上为爱情哭泣的女子 - 渚碧](https://jubeny.com/2020/07/girls-crying-for-love-on-the-street/)
 
@@ -40,8 +42,6 @@
 - [広島の秋旅3 / 広島城 - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-19-3/)
 
 - [一月一清零 | 我们正在经历并创造历史 - DHTalk's Blog](https://zhangdinghao.cn/2020/07/01/restart202006/)
-
-- [ - 狡猫三窝](https://slykiten.com/japanese/5846/)
 
 
 
