@@ -1,7 +1,9 @@
-*更新时间：07-13 22:50*
+*更新时间：07-14 15:50*
 
 
 
+
+- [福睿斯玻璃升降故障维修 - 伪医生律师的博客](https://chidd.net/2020/07/14/fu-rui-shi-gu-zang.html)
 
 - [梦回高考 - 非礼勿言](https://feiliwuyan.com/dream-of-ncee/)
 
@@ -40,8 +42,6 @@
 - [《一天世界》近日会员通讯摘要（2020.7.5） - 一天世界](https://blog.yitianshijie.net/2020/07/05/yitianshijie-newsletter-20200705/)
 
 - [书店没有《书店》 - 尺宅江湖](http://www.qtwm.com/?p=4408)
-
-- [凑金庸 - 尺宅江湖](http://www.qtwm.com/?p=4400)
 
 
 
