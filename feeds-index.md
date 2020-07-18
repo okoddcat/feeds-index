@@ -1,7 +1,9 @@
-*更新时间：07-16 13:05*
+*更新时间：07-18 14:50*
 
 
 
+
+- [一期一字 - 尺宅江湖](http://www.qtwm.com/?p=4427)
 
 - [动态字模的管理 - 云风的 BLOG](https://blog.codingnow.com/2020/07/font_manager.html)
 
@@ -40,8 +42,6 @@
 - [ARTS 07 - 如何不靠运气变得富有 - DHTalk's Blog](https://zhangdinghao.cn/2020/07/05/arts07/)
 
 - [既然终将化浆 - 尺宅江湖](http://www.qtwm.com/?p=4415)
-
-- [《一天世界》近日会员通讯摘要（2020.7.5） - 一天世界](https://blog.yitianshijie.net/2020/07/05/yitianshijie-newsletter-20200705/)
 
 
 
