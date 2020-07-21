@@ -1,21 +1,33 @@
-*更新时间：07-21 11:05*
+*更新时间：07-21 13:50*
 
 
 
 
 - [裁剪和空间管理 - 云风的 BLOG](https://blog.codingnow.com/2020/07/culling_space.html)
 
+- [万言万当，不如一默 - 中文日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2020/07/silence/)
+
 - [家长会之七星星十 - 破袜子](https://pewae.com/2020/07/parents-of-the-seven-star-ten.html)
 
 - [野贤书局淘书 - 尺宅江湖](http://www.qtwm.com/?p=4432)
+
+- [《原则》读书笔记 - 中文日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2020/07/principles-notes/)
 
 - [互联网保险 - 随望淡思](https://www.lushaojun.com/4543.html)
 
 - [一期一字 - 尺宅江湖](http://www.qtwm.com/?p=4427)
 
+- [野韭菜 - 中文日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2020/07/wild-onion/)
+
 - [动态字模的管理 - 云风的 BLOG](https://blog.codingnow.com/2020/07/font_manager.html)
 
+- [落叶满空山，何处寻行迹 - 中文日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2020/07/find-li/)
+
+- [听歌系列之昨天今天下雨天 - 中文日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2020/07/rainy-day/)
+
 - [福睿斯玻璃升降故障维修 - 伪医生律师的博客](https://chidd.net/2020/07/14/fu-rui-shi-gu-zang.html)
+
+- [记几位高中同学 - 中文日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2020/07/high-schoolmates/)
 
 - [梦回高考 - 非礼勿言](https://feiliwuyan.com/dream-of-ncee/)
 
@@ -25,23 +37,11 @@
 
 - [意识形态先行时代的学术 - 尺宅江湖](http://www.qtwm.com/?p=4422)
 
+- [生日二三旧事 - 中文日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2020/07/birthday-memories/)
+
 - [在街上为爱情哭泣的女子 - 渚碧](https://jubeny.com/2020/07/girls-crying-for-love-on-the-street/)
 
 - [二零二零年八月，新浪微博封杀万维网 - 一天世界](https://blog.yitianshijie.net/2020/07/10/weibo-kills-the-web-in-august-2020/)
-
-- [历史盲肠 - 尺宅江湖](http://www.qtwm.com/?p=4419)
-
-- [我最看不上的中文词 - 破袜子](https://pewae.com/2020/07/the-chinese-words-i-dont-like-most.html)
-
-- [游戏 UI 模块的选择 - 云风的 BLOG](https://blog.codingnow.com/2020/07/game_ui.html)
-
-- [ - 酷 壳 – CoolShell](https://coolshell.cn/articles/21025.html)
-
-- [在关西与黛西一起的时光4 / 神户 - 非礼勿言](https://feiliwuyan.com/love-trip-in-kansai-kobe/)
-
-- [可悲的鸡 - 随望淡思](https://www.lushaojun.com/4539.html)
-
-- [使用Visual Studio编译并测试WolfSSL1.3 - 破袜子](https://pewae.com/2020/07/building-wolfssl-and-tls-1-3-on-visual-studio.html)
 
 
 
