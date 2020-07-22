@@ -1,7 +1,9 @@
-*更新时间：07-21 18:50*
+*更新时间：07-22 14:50*
 
 
 
+
+- [夏日梦滑雪 - 非礼勿言](https://feiliwuyan.com/summer-day-dream-of-skiing/)
 
 - [电影推个荐/2020-1 - 非礼勿言](https://feiliwuyan.com/movie-recommendation-2020-1/)
 
@@ -40,8 +42,6 @@
 - [意识形态先行时代的学术 - 尺宅江湖](http://www.qtwm.com/?p=4422)
 
 - [生日二三旧事 - 中文日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2020/07/birthday-memories/)
-
-- [在街上为爱情哭泣的女子 - 渚碧](https://jubeny.com/2020/07/girls-crying-for-love-on-the-street/)
 
 
 
