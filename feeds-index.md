@@ -1,7 +1,9 @@
-*更新时间：07-23 12:50*
+*更新时间：07-23 23:50*
 
 
 
+
+- [被害妄想症 - 随望淡思](https://www.lushaojun.com/4548.html)
 
 - [一本鸡肋的书 - 尺宅江湖](http://www.qtwm.com/?p=4436)
 
@@ -40,8 +42,6 @@
 - [【书评】《七个不自由的地方》by matthia - 狡猫三窝](https://slykiten.com/novel-comments/bl-novel/%e3%80%90%e4%b9%a6%e8%af%84%e3%80%91%e3%80%8a%e4%b8%83%e4%b8%aa%e4%b8%8d%e8%87%aa%e7%94%b1%e7%9a%84%e5%9c%b0%e6%96%b9%e3%80%8bby-matthia/)
 
 - [做个俗人 - 土木坛子](https://tumutanzi.com/archives/16737)
-
-- [意识形态先行时代的学术 - 尺宅江湖](http://www.qtwm.com/?p=4422)
 
 
 
