@@ -1,7 +1,9 @@
-*更新时间：07-22 14:50*
+*更新时间：07-23 12:50*
 
 
 
+
+- [一本鸡肋的书 - 尺宅江湖](http://www.qtwm.com/?p=4436)
 
 - [夏日梦滑雪 - 非礼勿言](https://feiliwuyan.com/summer-day-dream-of-skiing/)
 
@@ -40,8 +42,6 @@
 - [做个俗人 - 土木坛子](https://tumutanzi.com/archives/16737)
 
 - [意识形态先行时代的学术 - 尺宅江湖](http://www.qtwm.com/?p=4422)
-
-- [生日二三旧事 - 中文日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2020/07/birthday-memories/)
 
 
 
