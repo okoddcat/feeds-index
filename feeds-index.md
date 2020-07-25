@@ -1,7 +1,9 @@
-*更新时间：07-25 16:50*
+*更新时间：07-25 20:50*
 
 
 
+
+- [広島の秋旅4 / 尾道市 - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-19-4/)
 
 - [淘书三本 - 尺宅江湖](http://www.qtwm.com/?p=4440)
 
@@ -40,8 +42,6 @@
 - [听歌系列之昨天今天下雨天 - 中文日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2020/07/rainy-day/)
 
 - [福睿斯玻璃升降故障维修 - 伪医生律师的博客](https://chidd.net/2020/07/14/fu-rui-shi-gu-zang.html)
-
-- [记几位高中同学 - 中文日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2020/07/high-schoolmates/)
 
 
 
