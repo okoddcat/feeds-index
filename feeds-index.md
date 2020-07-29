@@ -1,7 +1,9 @@
-*更新时间：07-29 15:50*
+*更新时间：07-30 02:05*
 
 
 
+
+- [哔哩哔哩(゜-゜)つロ干杯~ ——枫言枫语播客 26 期 - 枫言枫语](https://justinyan.me/post/4339)
 
 - [旧书店的文学论 - 尺宅江湖](http://www.qtwm.com/?p=4477)
 
@@ -40,8 +42,6 @@
 - [互联网保险 - 随望淡思](https://www.lushaojun.com/4543.html)
 
 - [一期一字 - 尺宅江湖](http://www.qtwm.com/?p=4427)
-
-- [野韭菜 - 中文日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2020/07/wild-onion/)
 
 
 
