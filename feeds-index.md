@@ -1,7 +1,9 @@
-*更新时间：08-03 20:50*
+*更新时间：08-03 23:50*
 
 
 
+
+- [重温老片《表姐，你好嘢》 - 破袜子](https://pewae.com/2020/08/review-her-fatal-ways.html)
 
 - [尺宅《唐人五十家小集》 - 尺宅江湖](http://www.qtwm.com/?p=4481)
 
@@ -40,8 +42,6 @@
 - [夏日梦滑雪 - 非礼勿言](https://feiliwuyan.com/summer-day-dream-of-skiing/)
 
 - [电影推个荐/2020-1 - 非礼勿言](https://feiliwuyan.com/movie-recommendation-2020-1/)
-
-- [裁剪和空间管理 - 云风的 BLOG](https://blog.codingnow.com/2020/07/culling_space.html)
 
 
 
