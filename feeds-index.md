@@ -1,7 +1,9 @@
-*更新时间：08-03 23:50*
+*更新时间：08-04 12:50*
 
 
 
+
+- [「You’re not Chinese!」 - 一天世界](https://blog.yitianshijie.net/2020/08/04/you-are-not-chinese-donna-chang/)
 
 - [重温老片《表姐，你好嘢》 - 破袜子](https://pewae.com/2020/08/review-her-fatal-ways.html)
 
@@ -40,8 +42,6 @@
 - [一本鸡肋的书 - 尺宅江湖](http://www.qtwm.com/?p=4436)
 
 - [夏日梦滑雪 - 非礼勿言](https://feiliwuyan.com/summer-day-dream-of-skiing/)
-
-- [电影推个荐/2020-1 - 非礼勿言](https://feiliwuyan.com/movie-recommendation-2020-1/)
 
 
 
