@@ -1,7 +1,9 @@
-*更新时间：08-04 12:50*
+*更新时间：08-04 13:05*
 
 
 
+
+- [Evidence-based software engineering based on the publicly available data - 云风的 BLOG](https://blog.codingnow.com/2020/08/eseur.html)
 
 - [「You’re not Chinese!」 - 一天世界](https://blog.yitianshijie.net/2020/08/04/you-are-not-chinese-donna-chang/)
 
@@ -40,8 +42,6 @@
 - [荷兰之夏忆2 / 梵高美术馆和国立博物馆 - 非礼勿言](https://feiliwuyan.com/summer-of-holland-visit-museum/)
 
 - [一本鸡肋的书 - 尺宅江湖](http://www.qtwm.com/?p=4436)
-
-- [夏日梦滑雪 - 非礼勿言](https://feiliwuyan.com/summer-day-dream-of-skiing/)
 
 
 
