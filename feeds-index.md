@@ -1,7 +1,9 @@
-*更新时间：08-07 16:50*
+*更新时间：08-07 19:50*
 
 
 
+
+- [新冠逆袭的十五天 - 破袜子](https://pewae.com/2020/08/new-crown-counter-attack-15-days.html)
 
 - [年轻人的第一辆挖掘机 - 三十三言](https://o0o0o0.cn/archives/2728.nice)
 
@@ -40,8 +42,6 @@
 - [広島の秋旅5 / 広島市街 - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-19-5/)
 
 - [広島の秋旅4 / 尾道市 - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-19-4/)
-
-- [淘书三本 - 尺宅江湖](http://www.qtwm.com/?p=4440)
 
 
 
