@@ -1,7 +1,9 @@
-*更新时间：08-07 15:05*
+*更新时间：08-07 16:50*
 
 
 
+
+- [年轻人的第一辆挖掘机 - 三十三言](https://o0o0o0.cn/archives/2728.nice)
 
 - [我无限的无知 - 尺宅江湖](http://www.qtwm.com/?p=4492)
 
@@ -40,8 +42,6 @@
 - [広島の秋旅4 / 尾道市 - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-19-4/)
 
 - [淘书三本 - 尺宅江湖](http://www.qtwm.com/?p=4440)
-
-- [每夫吐槽（051） - 破袜子](https://pewae.com/2020/07/random_kuso_51.html)
 
 
 
