@@ -1,7 +1,9 @@
-*更新时间：08-07 19:50*
+*更新时间：08-08 11:50*
 
 
 
+
+- [集资文化 - 随望淡思](https://www.lushaojun.com/4566.html)
 
 - [新冠逆袭的十五天 - 破袜子](https://pewae.com/2020/08/new-crown-counter-attack-15-days.html)
 
@@ -40,8 +42,6 @@
 - [田宫虎彦短篇小说集《菊坂》 - 尺宅江湖](http://www.qtwm.com/?p=4444)
 
 - [広島の秋旅5 / 広島市街 - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-19-5/)
-
-- [広島の秋旅4 / 尾道市 - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-19-4/)
 
 
 
