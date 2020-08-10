@@ -1,7 +1,9 @@
-*更新时间：08-10 11:50*
+*更新时间：08-10 15:50*
 
 
 
+
+- [微信，是一种生活方式 - 一天世界](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle/)
 
 - [再说《燕山夜话》 - 尺宅江湖](http://www.qtwm.com/?p=4502)
 
@@ -40,8 +42,6 @@
 - [在某东的最后一单？ - 破袜子](https://pewae.com/2020/07/the-last-deal-with-jd.html)
 
 - [山寺夏秋冬 - 非礼勿言](https://feiliwuyan.com/yamadera-summer-autumn-and-winter/)
-
-- [哔哩哔哩(゜-゜)つロ干杯~ ——枫言枫语播客 26 期 - 枫言枫语](https://justinyan.me/post/4339)
 
 
 
