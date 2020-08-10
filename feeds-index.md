@@ -1,7 +1,11 @@
-*更新时间：08-09 22:50*
+*更新时间：08-10 11:50*
 
 
 
+
+- [再说《燕山夜话》 - 尺宅江湖](http://www.qtwm.com/?p=4502)
+
+- [遇钱理群，相见恨晚，欲罢不能 - 尺宅江湖](http://www.qtwm.com/?p=4499)
 
 - [闲言碎语记流水 – 微信辅助注册 - 非礼勿言](https://feiliwuyan.com/f-log-200809/)
 
@@ -38,10 +42,6 @@
 - [山寺夏秋冬 - 非礼勿言](https://feiliwuyan.com/yamadera-summer-autumn-and-winter/)
 
 - [哔哩哔哩(゜-゜)つロ干杯~ ——枫言枫语播客 26 期 - 枫言枫语](https://justinyan.me/post/4339)
-
-- [旧书店的文学论 - 尺宅江湖](http://www.qtwm.com/?p=4477)
-
-- [【尺宅图书馆】暑假自习室 - 尺宅江湖](http://www.qtwm.com/?p=4450)
 
 
 
