@@ -1,4 +1,4 @@
-*更新时间：08-11 11:05*
+*更新时间：08-11 16:50*
 
 
 
@@ -23,6 +23,8 @@
 
 - [新冠逆袭的十五天 - 破袜子](https://pewae.com/2020/08/new-crown-counter-attack-15-days.html)
 
+- [程序员如何把控自己的职业 - 酷 壳 – CoolShell](https://coolshell.cn/articles/20977.html)
+
 - [年轻人的第一辆挖掘机 - 三十三言](https://o0o0o0.cn/archives/2728.nice)
 
 - [我无限的无知 - 尺宅江湖](http://www.qtwm.com/?p=4492)
@@ -40,8 +42,6 @@
 - [尺宅《唐人五十家小集》 - 尺宅江湖](http://www.qtwm.com/?p=4481)
 
 - [生活在树上 - 狡猫三窝](https://slykiten.com/life-note/live-on-the-tree/)
-
-- [𦻙 - 非礼勿言](https://feiliwuyan.com/rong-hanzi/)
 
 
 
