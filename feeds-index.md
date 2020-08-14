@@ -1,7 +1,9 @@
-*更新时间：08-14 17:50*
+*更新时间：08-14 23:05*
 
 
 
+
+- [勇气可嘉——记完美邮箱发布 - 随望淡思](https://www.lushaojun.com/4573.html)
 
 - [淘得《周书》全三册 - 尺宅江湖](http://www.qtwm.com/?p=4505)
 
@@ -40,8 +42,6 @@
 - [心心念念《清稗类钞》 - 尺宅江湖](http://www.qtwm.com/?p=4485)
 
 - [Evidence-based software engineering based on the publicly available data - 云风的 BLOG](https://blog.codingnow.com/2020/08/eseur.html)
-
-- [「You’re not Chinese!」 - 一天世界](https://blog.yitianshijie.net/2020/08/04/you-are-not-chinese-donna-chang/)
 
 
 
