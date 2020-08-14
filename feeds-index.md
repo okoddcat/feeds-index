@@ -1,7 +1,9 @@
-*更新时间：08-14 23:05*
+*更新时间：08-15 00:50*
 
 
 
+
+- [主动降噪功能头戴式耳机 - 非礼勿言](https://feiliwuyan.com/headphones-with-active-noise-canceling/)
 
 - [勇气可嘉——记完美邮箱发布 - 随望淡思](https://www.lushaojun.com/4573.html)
 
@@ -40,8 +42,6 @@
 - [ARTS 08 - iOS Crash 分析攻略 - DHTalk's Blog](https://zhangdinghao.cn/2020/08/07/arts08/)
 
 - [心心念念《清稗类钞》 - 尺宅江湖](http://www.qtwm.com/?p=4485)
-
-- [Evidence-based software engineering based on the publicly available data - 云风的 BLOG](https://blog.codingnow.com/2020/08/eseur.html)
 
 
 
