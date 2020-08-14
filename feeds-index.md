@@ -1,7 +1,9 @@
-*更新时间：08-12 23:50*
+*更新时间：08-14 17:50*
 
 
 
+
+- [淘得《周书》全三册 - 尺宅江湖](http://www.qtwm.com/?p=4505)
 
 - [花自飘零水自流 - 破袜子](https://pewae.com/2020/08/e88ab1-e887aa-e9a398-e99bb6-e6b0b4-e887aa-e6b581.html)
 
@@ -40,8 +42,6 @@
 - [Evidence-based software engineering based on the publicly available data - 云风的 BLOG](https://blog.codingnow.com/2020/08/eseur.html)
 
 - [「You’re not Chinese!」 - 一天世界](https://blog.yitianshijie.net/2020/08/04/you-are-not-chinese-donna-chang/)
-
-- [重温老片《表姐，你好嘢》 - 破袜子](https://pewae.com/2020/08/review-her-fatal-ways.html)
 
 
 
