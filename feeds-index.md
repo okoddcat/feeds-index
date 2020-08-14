@@ -1,7 +1,9 @@
-*更新时间：08-15 00:50*
+*更新时间：08-15 01:05*
 
 
 
+
+- [八月近况 - 陈仓颉](https://imzm.im/recently-august/)
 
 - [主动降噪功能头戴式耳机 - 非礼勿言](https://feiliwuyan.com/headphones-with-active-noise-canceling/)
 
@@ -40,8 +42,6 @@
 - [我无限的无知 - 尺宅江湖](http://www.qtwm.com/?p=4492)
 
 - [ARTS 08 - iOS Crash 分析攻略 - DHTalk's Blog](https://zhangdinghao.cn/2020/08/07/arts08/)
-
-- [心心念念《清稗类钞》 - 尺宅江湖](http://www.qtwm.com/?p=4485)
 
 
 
