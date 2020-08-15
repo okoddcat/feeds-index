@@ -1,7 +1,9 @@
-*更新时间：08-15 12:05*
+*更新时间：08-15 22:50*
 
 
 
+
+- [烈日骑行 - 渚碧](https://jubeny.com/2020/08/biking-in-sunshine/)
 
 - [ARTS 09 - MessageMock：优雅的模拟 Objective-C 方法 - DHTalk's Blog](https://zhangdinghao.cn/2020/08/15/arts09/)
 
@@ -40,8 +42,6 @@
 - [新冠逆袭的十五天 - 破袜子](https://pewae.com/2020/08/new-crown-counter-attack-15-days.html)
 
 - [程序员如何把控自己的职业 - 酷 壳 – CoolShell](https://coolshell.cn/articles/20977.html)
-
-- [年轻人的第一辆挖掘机 - 三十三言](https://o0o0o0.cn/archives/2728.nice)
 
 
 
