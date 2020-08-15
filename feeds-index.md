@@ -1,7 +1,9 @@
-*更新时间：08-15 01:05*
+*更新时间：08-15 10:50*
 
 
 
+
+- [道在屎（史）溺（料）以增见识 - 尺宅江湖](http://www.qtwm.com/?p=4514)
 
 - [八月近况 - 陈仓颉](https://imzm.im/recently-august/)
 
@@ -40,8 +42,6 @@
 - [年轻人的第一辆挖掘机 - 三十三言](https://o0o0o0.cn/archives/2728.nice)
 
 - [我无限的无知 - 尺宅江湖](http://www.qtwm.com/?p=4492)
-
-- [ARTS 08 - iOS Crash 分析攻略 - DHTalk's Blog](https://zhangdinghao.cn/2020/08/07/arts08/)
 
 
 
