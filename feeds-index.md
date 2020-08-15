@@ -1,7 +1,9 @@
-*更新时间：08-15 10:50*
+*更新时间：08-15 12:05*
 
 
 
+
+- [ARTS 09 - MessageMock：优雅的模拟 Objective-C 方法 - DHTalk's Blog](https://zhangdinghao.cn/2020/08/15/arts09/)
 
 - [道在屎（史）溺（料）以增见识 - 尺宅江湖](http://www.qtwm.com/?p=4514)
 
@@ -40,8 +42,6 @@
 - [程序员如何把控自己的职业 - 酷 壳 – CoolShell](https://coolshell.cn/articles/20977.html)
 
 - [年轻人的第一辆挖掘机 - 三十三言](https://o0o0o0.cn/archives/2728.nice)
-
-- [我无限的无知 - 尺宅江湖](http://www.qtwm.com/?p=4492)
 
 
 
