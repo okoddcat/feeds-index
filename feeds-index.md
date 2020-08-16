@@ -1,7 +1,9 @@
-*更新时间：08-15 22:50*
+*更新时间：08-16 11:50*
 
 
 
+
+- [读毕黎庶昌《丁亥入都纪程》并题跋 - 尺宅江湖](http://www.qtwm.com/?p=4517)
 
 - [烈日骑行 - 渚碧](https://jubeny.com/2020/08/biking-in-sunshine/)
 
@@ -40,8 +42,6 @@
 - [集资文化 - 随望淡思](https://www.lushaojun.com/4566.html)
 
 - [新冠逆袭的十五天 - 破袜子](https://pewae.com/2020/08/new-crown-counter-attack-15-days.html)
-
-- [程序员如何把控自己的职业 - 酷 壳 – CoolShell](https://coolshell.cn/articles/20977.html)
 
 
 
