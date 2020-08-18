@@ -1,7 +1,9 @@
-*更新时间：08-18 14:50*
+*更新时间：08-18 16:50*
 
 
 
+
+- [Wordpress在后台taglist中增加private和draft类型的计数列 - 破袜子](https://pewae.com/2020/08/wordpresse59ca8-e5908e-e58fb0-tagliste4b8ad-e5a29e-e58aa0-privatee5928c-drafte7b1bb-e59e8b-e79a84-e8aea1-e695b0-e58897.html)
 
 - [又一个博后面试 - 狡猫三窝](https://slykiten.com/research/%e5%8f%88%e4%b8%80%e4%b8%aa%e5%8d%9a%e5%90%8e%e9%9d%a2%e8%af%95/)
 
@@ -40,8 +42,6 @@
 - [遇钱理群，相见恨晚，欲罢不能 - 尺宅江湖](http://www.qtwm.com/?p=4499)
 
 - [闲言碎语记流水 – 微信辅助注册 - 非礼勿言](https://feiliwuyan.com/f-log-200809/)
-
-- [淘到马南邨《燕山夜话（合集）》 - 尺宅江湖](http://www.qtwm.com/?p=4495)
 
 
 
