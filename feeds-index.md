@@ -1,7 +1,9 @@
-*更新时间：08-16 11:50*
+*更新时间：08-18 10:05*
 
 
 
+
+- [【书评】《绞刑师》by唇亡齿寒 - 狡猫三窝](https://slykiten.com/novel-comments/bl-novel/%e3%80%90%e4%b9%a6%e8%af%84%e3%80%91%e3%80%8a%e7%bb%9e%e5%88%91%e5%b8%88%e3%80%8bby%e5%94%87%e4%ba%a1%e9%bd%bf%e5%af%92/)
 
 - [读毕黎庶昌《丁亥入都纪程》并题跋 - 尺宅江湖](http://www.qtwm.com/?p=4517)
 
@@ -40,8 +42,6 @@
 - [淘到马南邨《燕山夜话（合集）》 - 尺宅江湖](http://www.qtwm.com/?p=4495)
 
 - [集资文化 - 随望淡思](https://www.lushaojun.com/4566.html)
-
-- [新冠逆袭的十五天 - 破袜子](https://pewae.com/2020/08/new-crown-counter-attack-15-days.html)
 
 
 
