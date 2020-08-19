@@ -1,7 +1,9 @@
-*更新时间：08-19 01:05*
+*更新时间：08-19 16:50*
 
 
 
+
+- [银河竞逐的设计 - 云风的 BLOG](https://blog.codingnow.com/2020/08/rftg_design.html)
 
 - [矛盾丛生 - 随望淡思](https://www.lushaojun.com/4580.html)
 
@@ -40,8 +42,6 @@
 - [我看《黄昏的清兵卫》 - 白板报](https://wangpei.net/2020/08/10/the-twilight-samurai-movie-review/)
 
 - [微信，是一种生活方式 - 一天世界](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle/)
-
-- [再说《燕山夜话》 - 尺宅江湖](http://www.qtwm.com/?p=4502)
 
 
 
