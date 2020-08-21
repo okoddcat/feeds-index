@@ -1,7 +1,9 @@
-*更新时间：08-21 11:05*
+*更新时间：08-21 18:50*
 
 
 
+
+- [疫情常态化后的做爱方式 - 非礼勿言](https://feiliwuyan.com/sex-in-the-time-of-corona/)
 
 - [Pixel 4a - 狡猫三窝](https://slykiten.com/life-note/pixel-4a/)
 
@@ -40,8 +42,6 @@
 - [煮到来就食 - 一天世界](https://blog.yitianshijie.net/2020/08/11/making-lemonade/)
 
 - [选择 - 渚碧](https://jubeny.com/2020/08/choice/)
-
-- [我看《黄昏的清兵卫》 - 白板报](https://wangpei.net/2020/08/10/the-twilight-samurai-movie-review/)
 
 
 
