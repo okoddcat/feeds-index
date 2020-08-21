@@ -1,7 +1,9 @@
-*更新时间：08-19 16:50*
+*更新时间：08-21 11:05*
 
 
 
+
+- [Pixel 4a - 狡猫三窝](https://slykiten.com/life-note/pixel-4a/)
 
 - [银河竞逐的设计 - 云风的 BLOG](https://blog.codingnow.com/2020/08/rftg_design.html)
 
@@ -40,8 +42,6 @@
 - [选择 - 渚碧](https://jubeny.com/2020/08/choice/)
 
 - [我看《黄昏的清兵卫》 - 白板报](https://wangpei.net/2020/08/10/the-twilight-samurai-movie-review/)
-
-- [微信，是一种生活方式 - 一天世界](https://blog.yitianshijie.net/2020/08/10/wechat-as-lifestyle/)
 
 
 
