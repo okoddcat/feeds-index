@@ -1,7 +1,9 @@
-*更新时间：08-22 22:50*
+*更新时间：08-23 02:05*
 
 
 
+
+- [薦書 - 渚碧](https://jubeny.com/2020/08/recommend-books/)
 
 - [脱口秀大会or讲段子大会？ - 非礼勿言](https://feiliwuyan.com/talk-show-or-joke-show/)
 
@@ -40,8 +42,6 @@
 - [八月近况 - 陈仓颉](https://imzm.im/recently-august/)
 
 - [主动降噪功能头戴式耳机 - 非礼勿言](https://feiliwuyan.com/headphones-with-active-noise-canceling/)
-
-- [勇气可嘉——记完美邮箱发布 - 随望淡思](https://www.lushaojun.com/4573.html)
 
 
 
