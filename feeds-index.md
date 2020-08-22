@@ -1,7 +1,9 @@
-*更新时间：08-22 19:05*
+*更新时间：08-22 22:50*
 
 
 
+
+- [脱口秀大会or讲段子大会？ - 非礼勿言](https://feiliwuyan.com/talk-show-or-joke-show/)
 
 - [斗战胜佛养成记：十四年从拿抓到世尊 - 尺宅江湖](http://www.qtwm.com/?p=4523)
 
@@ -40,8 +42,6 @@
 - [主动降噪功能头戴式耳机 - 非礼勿言](https://feiliwuyan.com/headphones-with-active-noise-canceling/)
 
 - [勇气可嘉——记完美邮箱发布 - 随望淡思](https://www.lushaojun.com/4573.html)
-
-- [淘得《周书》全三册 - 尺宅江湖](http://www.qtwm.com/?p=4505)
 
 
 
