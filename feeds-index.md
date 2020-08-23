@@ -1,7 +1,9 @@
-*更新时间：08-23 02:05*
+*更新时间：08-23 15:50*
 
 
 
+
+- [淘得与我同岁《古诗源》 - 尺宅江湖](http://www.qtwm.com/?p=4548)
 
 - [薦書 - 渚碧](https://jubeny.com/2020/08/recommend-books/)
 
@@ -40,8 +42,6 @@
 - [道在屎（史）溺（料）以增见识 - 尺宅江湖](http://www.qtwm.com/?p=4514)
 
 - [八月近况 - 陈仓颉](https://imzm.im/recently-august/)
-
-- [主动降噪功能头戴式耳机 - 非礼勿言](https://feiliwuyan.com/headphones-with-active-noise-canceling/)
 
 
 
