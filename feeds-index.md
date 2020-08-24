@@ -1,7 +1,9 @@
-*更新时间：08-24 22:50*
+*更新时间：08-25 00:50*
 
 
 
+
+- [散写与八月 - 非礼勿言](https://feiliwuyan.com/f-log-r208/)
 
 - [近期照片 - 陈仓颉](https://imzm.im/photos-recently/)
 
@@ -40,8 +42,6 @@
 - [Wordpress在后台taglist中增加private和draft类型的计数列 - 破袜子](https://pewae.com/2020/08/wordpresse59ca8-e5908e-e58fb0-tagliste4b8ad-e5a29e-e58aa0-privatee5928c-drafte7b1bb-e59e8b-e79a84-e8aea1-e695b0-e58897.html)
 
 - [又一个博后面试 - 狡猫三窝](https://slykiten.com/research/%e5%8f%88%e4%b8%80%e4%b8%aa%e5%8d%9a%e5%90%8e%e9%9d%a2%e8%af%95/)
-
-- [【书评】《绞刑师》by唇亡齿寒 - 狡猫三窝](https://slykiten.com/novel-comments/bl-novel/%e3%80%90%e4%b9%a6%e8%af%84%e3%80%91%e3%80%8a%e7%bb%9e%e5%88%91%e5%b8%88%e3%80%8bby%e5%94%87%e4%ba%a1%e9%bd%bf%e5%af%92/)
 
 
 
