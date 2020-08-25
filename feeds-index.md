@@ -1,4 +1,4 @@
-*更新时间：08-25 22:05*
+*更新时间：08-26 01:05*
 
 
 
@@ -8,6 +8,8 @@
 - [人间值得 书摘 - 陈仓颉](https://imzm.im/life-is-worth-living/)
 
 - [散写与八月 - 非礼勿言](https://feiliwuyan.com/f-log-r208/)
+
+- [凡事预则立，关于比特币的一些事实和新趋势 - 土木坛子](https://tumutanzi.com/archives/16741)
 
 - [近期照片 - 陈仓颉](https://imzm.im/photos-recently/)
 
@@ -40,8 +42,6 @@
 - [银河竞逐的设计 - 云风的 BLOG](https://blog.codingnow.com/2020/08/rftg_design.html)
 
 - [矛盾丛生 - 随望淡思](https://www.lushaojun.com/4580.html)
-
-- [阅读是一种安慰剂 - 渚碧](https://jubeny.com/2020/08/reading-is-placebo/)
 
 
 
