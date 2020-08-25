@@ -1,7 +1,9 @@
-*更新时间：08-25 00:50*
+*更新时间：08-25 15:50*
 
 
 
+
+- [人间值得 书摘 - 陈仓颉](https://imzm.im/life-is-worth-living/)
 
 - [散写与八月 - 非礼勿言](https://feiliwuyan.com/f-log-r208/)
 
@@ -40,8 +42,6 @@
 - [阅读是一种安慰剂 - 渚碧](https://jubeny.com/2020/08/reading-is-placebo/)
 
 - [Wordpress在后台taglist中增加private和draft类型的计数列 - 破袜子](https://pewae.com/2020/08/wordpresse59ca8-e5908e-e58fb0-tagliste4b8ad-e5a29e-e58aa0-privatee5928c-drafte7b1bb-e59e8b-e79a84-e8aea1-e695b0-e58897.html)
-
-- [又一个博后面试 - 狡猫三窝](https://slykiten.com/research/%e5%8f%88%e4%b8%80%e4%b8%aa%e5%8d%9a%e5%90%8e%e9%9d%a2%e8%af%95/)
 
 
 
