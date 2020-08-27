@@ -1,7 +1,9 @@
-*更新时间：08-27 00:50*
+*更新时间：08-27 21:05*
 
 
 
+
+- [我是清都山水郎，天教分付与疏狂 - 破袜子](https://pewae.com/2020/08/e68891-e698af-e6b885-e983bd-e5b1b1-e6b0b4-e9838e-efbc8c-e5a4a9-e69599-e58886-e4bb98-e4b88e-e7968f-e78b82.html)
 
 - [一個人的書店 - 渚碧](https://jubeny.com/2020/08/bookstore-of-one-person/)
 
@@ -40,8 +42,6 @@
 - [Pixel 4a - 狡猫三窝](https://slykiten.com/life-note/pixel-4a/)
 
 - [帮朋友破解比特币钱包密码找回20万块钱 - 土木坛子](https://tumutanzi.com/archives/16739)
-
-- [银河竞逐的设计 - 云风的 BLOG](https://blog.codingnow.com/2020/08/rftg_design.html)
 
 
 
