@@ -1,7 +1,9 @@
-*更新时间：08-28 16:50*
+*更新时间：08-29 05:50*
 
 
 
+
+- [安倍総理応援歌 - 非礼勿言](https://feiliwuyan.com/abe-support-song/)
 
 - [感受浙江小镇 - 攻城狮笔记](https://qumac.com/?p=1827)
 
@@ -40,8 +42,6 @@
 - [路在何方 - 陈仓颉](https://imzm.im/where-is-my-path/)
 
 - [疫情常态化后的做爱方式 - 非礼勿言](https://feiliwuyan.com/sex-in-the-time-of-corona/)
-
-- [Pixel 4a - 狡猫三窝](https://slykiten.com/life-note/pixel-4a/)
 
 
 
