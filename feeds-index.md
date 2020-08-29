@@ -1,7 +1,9 @@
-*更新时间：08-30 00:05*
+*更新时间：08-30 01:05*
 
 
 
+
+- [我来跟我干杯 - 破袜子](https://pewae.com/2020/08/cheer-with-myself.html)
 
 - [寻找开源应用 - 渚碧](https://jubeny.com/2020/08/search-for-open-source-apps/)
 
@@ -40,8 +42,6 @@
 - [风滚云 - 随望淡思](https://www.lushaojun.com/4592.html)
 
 - [薦書 - 渚碧](https://jubeny.com/2020/08/recommend-books/)
-
-- [脱口秀大会or讲段子大会？ - 非礼勿言](https://feiliwuyan.com/talk-show-or-joke-show/)
 
 
 
