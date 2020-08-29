@@ -1,7 +1,9 @@
-*更新时间：08-29 20:50*
+*更新时间：08-30 00:05*
 
 
 
+
+- [寻找开源应用 - 渚碧](https://jubeny.com/2020/08/search-for-open-source-apps/)
 
 - [《梁书》终入手 - 尺宅江湖](http://www.qtwm.com/?p=4559)
 
@@ -40,8 +42,6 @@
 - [薦書 - 渚碧](https://jubeny.com/2020/08/recommend-books/)
 
 - [脱口秀大会or讲段子大会？ - 非礼勿言](https://feiliwuyan.com/talk-show-or-joke-show/)
-
-- [斗战胜佛养成记：十四年从拿抓到世尊 - 尺宅江湖](http://www.qtwm.com/?p=4523)
 
 
 
