@@ -1,7 +1,9 @@
-*更新时间：08-30 09:50*
+*更新时间：08-30 16:05*
 
 
 
+
+- [他们比我聪明 - 尺宅江湖](http://www.qtwm.com/?p=4562)
 
 - [逼良为娼 - 随望淡思](https://www.lushaojun.com/4605.html)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（052） - 破袜子](https://pewae.com/2020/08/random_kuso_52.html)
 
 - [淘得与我同岁《古诗源》 - 尺宅江湖](http://www.qtwm.com/?p=4548)
-
-- [风滚云 - 随望淡思](https://www.lushaojun.com/4592.html)
 
 
 
