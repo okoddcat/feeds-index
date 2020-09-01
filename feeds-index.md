@@ -1,7 +1,9 @@
-*更新时间：09-01 08:50*
+*更新时间：09-02 01:05*
 
 
 
+
+- [一月一清零 | 听说我们身处牛市 - DHTalk's Blog](https://zhangdinghao.cn/2020/09/01/restart202008/)
 
 - [无常与日常 - 最好金龟换酒](http://fz0512.com/archives/2138)
 
@@ -40,8 +42,6 @@
 - [凡事预则立，关于比特币的一些事实和新趋势 - 土木坛子](https://tumutanzi.com/archives/16741)
 
 - [近期照片 - 陈仓颉](https://imzm.im/photos-recently/)
-
-- [如何杀死小王子 - 一天世界](https://blog.yitianshijie.net/2020/08/24/how-to-kill-le-petit-prince/)
 
 
 
