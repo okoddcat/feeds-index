@@ -1,7 +1,9 @@
-*更新时间：09-05 08:50*
+*更新时间：09-05 17:05*
 
 
 
+
+- [淘旧书的一种有趣又无奈 - 尺宅江湖](http://www.qtwm.com/?p=4581)
 
 - [我必功不唐捐 - 尺宅江湖](http://www.qtwm.com/?p=4570)
 
@@ -40,8 +42,6 @@
 - [华为P40pro捡漏记 - 伪医生律师的博客](https://chidd.net/2020/08/25/hua-wei-p40-pro.html)
 
 - [人间值得 书摘 - 陈仓颉](https://imzm.im/life-is-worth-living/)
-
-- [散写与八月 - 非礼勿言](https://feiliwuyan.com/f-log-r208/)
 
 
 
