@@ -1,7 +1,9 @@
-*更新时间：09-03 15:50*
+*更新时间：09-05 08:50*
 
 
 
+
+- [我必功不唐捐 - 尺宅江湖](http://www.qtwm.com/?p=4570)
 
 - [为 skynet 增加并行多请求的功能 - 云风的 BLOG](https://blog.codingnow.com/2020/09/skynet_select.html)
 
@@ -40,8 +42,6 @@
 - [人间值得 书摘 - 陈仓颉](https://imzm.im/life-is-worth-living/)
 
 - [散写与八月 - 非礼勿言](https://feiliwuyan.com/f-log-r208/)
-
-- [凡事预则立，关于比特币的一些事实和新趋势 - 土木坛子](https://tumutanzi.com/archives/16741)
 
 
 
