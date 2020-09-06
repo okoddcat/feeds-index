@@ -1,7 +1,9 @@
-*更新时间：09-05 17:05*
+*更新时间：09-06 10:50*
 
 
 
+
+- [未来的文学新人奖得主 - 尺宅江湖](http://www.qtwm.com/?p=4585)
 
 - [淘旧书的一种有趣又无奈 - 尺宅江湖](http://www.qtwm.com/?p=4581)
 
@@ -40,8 +42,6 @@
 - [一個人的書店 - 渚碧](https://jubeny.com/2020/08/bookstore-of-one-person/)
 
 - [华为P40pro捡漏记 - 伪医生律师的博客](https://chidd.net/2020/08/25/hua-wei-p40-pro.html)
-
-- [人间值得 书摘 - 陈仓颉](https://imzm.im/life-is-worth-living/)
 
 
 
