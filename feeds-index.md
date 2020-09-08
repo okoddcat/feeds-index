@@ -1,7 +1,9 @@
-*更新时间：09-06 20:50*
+*更新时间：09-08 16:50*
 
 
 
+
+- [好中文写作营第五期开始报名 - 白板报](https://wangpei.net/2020/09/08/good-chinese-writing-camp-now-is-available/)
 
 - [天快要亮了吗 - 林海草原](https://lhcy.org/archives/154.html)
 
@@ -40,8 +42,6 @@
 - [我有一片大海 - 非礼勿言](https://feiliwuyan.com/i-have-a-sea/)
 
 - [我是清都山水郎，天教分付与疏狂 - 破袜子](https://pewae.com/2020/08/e68891-e698af-e6b885-e983bd-e5b1b1-e6b0b4-e9838e-efbc8c-e5a4a9-e69599-e58886-e4bb98-e4b88e-e7968f-e78b82.html)
-
-- [一個人的書店 - 渚碧](https://jubeny.com/2020/08/bookstore-of-one-person/)
 
 
 
