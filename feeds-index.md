@@ -1,7 +1,9 @@
-*更新时间：09-08 18:05*
+*更新时间：09-09 16:05*
 
 
 
+
+- [每夫吐槽（053） - 破袜子](https://pewae.com/2020/09/random_kuso_53.html)
 
 - [好中文写作营第五期开始报名 - 白板报](https://wangpei.net/2020/09/08/good-chinese-writing-camp-now-is-available/)
 
@@ -40,8 +42,6 @@
 - [安倍総理応援歌 - 非礼勿言](https://feiliwuyan.com/abe-support-song/)
 
 - [感受浙江小镇 - 攻城狮笔记](https://qumac.com/?p=1827)
-
-- [我有一片大海 - 非礼勿言](https://feiliwuyan.com/i-have-a-sea/)
 
 
 
