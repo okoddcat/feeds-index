@@ -1,7 +1,15 @@
-*更新时间：09-11 23:50*
+*更新时间：09-18 17:55*
 
 
 
+
+- [假期余额不足 - 木先森](https://www.meizg.cn/410/)
+
+- [重温老片《傻冒经理》 - 破袜子](https://pewae.com/2020/09/review-the-silly-manager.html)
+
+- [中港台苹果 2020 秋季新品文案对比 - 一天世界](https://blog.yitianshijie.net/2020/09/16/apple-new-products-2020-autumn-chinese-hk-taiwan-copy/)
+
+- [淘书又奇遇 - 尺宅江湖](http://www.qtwm.com/?p=4598)
 
 - [WordPress从某网站不问自取的方法 - 破袜子](https://pewae.com/2020/09/how-to-get-information-from-douban-by-wordpress.html)
 
@@ -34,14 +42,6 @@
 - [他们比我聪明 - 尺宅江湖](http://www.qtwm.com/?p=4562)
 
 - [逼良为娼 - 随望淡思](https://www.lushaojun.com/4605.html)
-
-- [我来跟我干杯 - 破袜子](https://pewae.com/2020/08/cheer-with-myself.html)
-
-- [寻找开源应用 - 渚碧](https://jubeny.com/2020/08/search-for-open-source-apps/)
-
-- [《梁书》终入手 - 尺宅江湖](http://www.qtwm.com/?p=4559)
-
-- [觊觎已久，终于到手 - 尺宅江湖](http://www.qtwm.com/?p=4555)
 
 
 
