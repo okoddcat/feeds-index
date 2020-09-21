@@ -1,7 +1,11 @@
-*更新时间：09-21 17:05*
+*更新时间：09-21 18:50*
 
 
 
+
+- [《热情似火》中文剧本 - 白板报](https://wangpei.net/2020/09/21/%e3%80%8a%e7%83%ad%e6%83%85%e4%bc%bc%e7%81%ab%e3%80%8b%e4%b8%ad%e6%96%87%e5%89%a7%e6%9c%ac/)
+
+- [悬疑大片《齐白石密码》 - 白板报](https://wangpei.net/2020/09/21/%e6%82%ac%e7%96%91%e5%a4%a7%e7%89%87%e3%80%8a%e9%bd%90%e7%99%bd%e7%9f%b3%e5%af%86%e7%a0%81%e3%80%8b/)
 
 - [我的大姑 - 白板报](https://wangpei.net/2020/09/21/my-great-aunt/)
 
@@ -38,10 +42,6 @@
 - [宁乡炭河古城游 - 随望淡思](https://www.lushaojun.com/4615.html)
 
 - [淘旧书的一种有趣又无奈 - 尺宅江湖](http://www.qtwm.com/?p=4581)
-
-- [我必功不唐捐 - 尺宅江湖](http://www.qtwm.com/?p=4570)
-
-- [为 skynet 增加并行多请求的功能 - 云风的 BLOG](https://blog.codingnow.com/2020/09/skynet_select.html)
 
 
 
