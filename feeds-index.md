@@ -1,7 +1,9 @@
-*更新时间：09-23 20:50*
+*更新时间：09-23 22:50*
 
 
 
+
+- [野贤书局新光分店：大家都有病 - 尺宅江湖](http://www.qtwm.com/?p=4621)
 
 - [改名 - 尺宅江湖](http://www.qtwm.com/?p=4618)
 
@@ -40,8 +42,6 @@
 - [惠州白鹭湖戏水游 - 随望淡思](https://www.lushaojun.com/4621.html)
 
 - [每夫吐槽（053） - 破袜子](https://pewae.com/2020/09/random_kuso_53.html)
-
-- [好中文写作营第五期开始报名 - 白板报](https://wangpei.net/2020/09/08/good-chinese-writing-camp-now-is-available/)
 
 
 
