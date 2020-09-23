@@ -1,7 +1,9 @@
-*更新时间：09-22 12:50*
+*更新时间：09-23 16:05*
 
 
 
+
+- [毕业了，新生活 - 狡猫三窝](https://slykiten.com/life-note/graduation_and_new_life/)
 
 - [多抓鱼卖书 - 渚碧](https://jubeny.com/2020/09/selling-books-on-duozhuayu/)
 
@@ -40,8 +42,6 @@
 - [天快要亮了吗 - 林海草原](https://lhcy.org/archives/154.html)
 
 - [未来的文学新人奖得主 - 尺宅江湖](http://www.qtwm.com/?p=4585)
-
-- [宁乡炭河古城游 - 随望淡思](https://www.lushaojun.com/4615.html)
 
 
 
