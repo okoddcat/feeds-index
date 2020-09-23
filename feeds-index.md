@@ -1,7 +1,9 @@
-*更新时间：09-23 20:05*
+*更新时间：09-23 20:50*
 
 
 
+
+- [改名 - 尺宅江湖](http://www.qtwm.com/?p=4618)
 
 - [怀念漫无目的读书 - 尺宅江湖](http://www.qtwm.com/?p=4613)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（053） - 破袜子](https://pewae.com/2020/09/random_kuso_53.html)
 
 - [好中文写作营第五期开始报名 - 白板报](https://wangpei.net/2020/09/08/good-chinese-writing-camp-now-is-available/)
-
-- [天快要亮了吗 - 林海草原](https://lhcy.org/archives/154.html)
 
 
 
