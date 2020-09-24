@@ -1,7 +1,9 @@
-*更新时间：09-23 22:50*
+*更新时间：09-24 23:50*
 
 
 
+
+- [梦三十九 - 破袜子](https://pewae.com/2020/09/dream_39.html)
 
 - [野贤书局新光分店：大家都有病 - 尺宅江湖](http://www.qtwm.com/?p=4621)
 
@@ -40,8 +42,6 @@
 - [WordPress从某网站不问自取的方法 - 破袜子](https://pewae.com/2020/09/how-to-get-information-from-douban-by-wordpress.html)
 
 - [惠州白鹭湖戏水游 - 随望淡思](https://www.lushaojun.com/4621.html)
-
-- [每夫吐槽（053） - 破袜子](https://pewae.com/2020/09/random_kuso_53.html)
 
 
 
