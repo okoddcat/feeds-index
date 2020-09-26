@@ -1,9 +1,11 @@
-*更新时间：09-26 19:50*
+*更新时间：09-27 00:50*
 
 
 
 
 - [CKAD认证备考经验分享 - iTimothy](https://xiaozhou.net/tips-to-pass-the-ckad-exam-2020-09-26.html)
+
+- [重温老片《蝙蝠侠》 - 破袜子](https://pewae.com/2020/09/review_batman.html)
 
 - [梦三十九 - 破袜子](https://pewae.com/2020/09/dream_39.html)
 
@@ -40,8 +42,6 @@
 - [中港台苹果 2020 秋季新品文案对比 - 一天世界](https://blog.yitianshijie.net/2020/09/16/apple-new-products-2020-autumn-chinese-hk-taiwan-copy/)
 
 - [淘书又奇遇 - 尺宅江湖](http://www.qtwm.com/?p=4598)
-
-- [WordPress从某网站不问自取的方法 - 破袜子](https://pewae.com/2020/09/how-to-get-information-from-douban-by-wordpress.html)
 
 
 
