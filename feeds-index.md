@@ -1,7 +1,9 @@
-*更新时间：09-27 00:50*
+*更新时间：09-27 02:50*
 
 
 
+
+- [努力翻译吧 - 白板报](https://wangpei.net/2020/09/27/on-translation-work/)
 
 - [CKAD认证备考经验分享 - iTimothy](https://xiaozhou.net/tips-to-pass-the-ckad-exam-2020-09-26.html)
 
@@ -40,8 +42,6 @@
 - [重温老片《傻冒经理》 - 破袜子](https://pewae.com/2020/09/review-the-silly-manager.html)
 
 - [中港台苹果 2020 秋季新品文案对比 - 一天世界](https://blog.yitianshijie.net/2020/09/16/apple-new-products-2020-autumn-chinese-hk-taiwan-copy/)
-
-- [淘书又奇遇 - 尺宅江湖](http://www.qtwm.com/?p=4598)
 
 
 
