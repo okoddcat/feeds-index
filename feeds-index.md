@@ -1,7 +1,9 @@
-*更新时间：09-27 22:50*
+*更新时间：09-28 00:50*
 
 
 
+
+- [一生中最重要的一次见证 - 白板报](https://wangpei.net/2020/09/28/my-witness/)
 
 - [在关西与黛西一起的时光5 / 再会 - 非礼勿言](https://feiliwuyan.com/love-trip-in-kansai-new-start/)
 
@@ -40,8 +42,6 @@
 - [淘旧书八种记 - 尺宅江湖](http://www.qtwm.com/?p=4601)
 
 - [假期余额不足 - 木先森](https://www.meizg.cn/410/)
-
-- [重温老片《傻冒经理》 - 破袜子](https://pewae.com/2020/09/review-the-silly-manager.html)
 
 
 
