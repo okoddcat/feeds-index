@@ -1,7 +1,9 @@
-*更新时间：09-27 02:50*
+*更新时间：09-27 22:50*
 
 
 
+
+- [在关西与黛西一起的时光5 / 再会 - 非礼勿言](https://feiliwuyan.com/love-trip-in-kansai-new-start/)
 
 - [努力翻译吧 - 白板报](https://wangpei.net/2020/09/27/on-translation-work/)
 
@@ -40,8 +42,6 @@
 - [假期余额不足 - 木先森](https://www.meizg.cn/410/)
 
 - [重温老片《傻冒经理》 - 破袜子](https://pewae.com/2020/09/review-the-silly-manager.html)
-
-- [中港台苹果 2020 秋季新品文案对比 - 一天世界](https://blog.yitianshijie.net/2020/09/16/apple-new-products-2020-autumn-chinese-hk-taiwan-copy/)
 
 
 
