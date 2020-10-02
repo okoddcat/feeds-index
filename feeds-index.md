@@ -1,7 +1,9 @@
-*更新时间：10-02 17:05*
+*更新时间：10-02 21:50*
 
 
 
+
+- [iMessage 里的对话串设计 - 一天世界](https://blog.yitianshijie.net/2020/10/02/message-threading-in-imessage-ios14/)
 
 - [每天都是历史 - 尺宅江湖](http://www.qtwm.com/?p=4638)
 
@@ -40,8 +42,6 @@
 - [skynet 版的 cache server 引出的一点改进 - 云风的 BLOG](https://blog.codingnow.com/2020/09/skynet_cache_server.html)
 
 - [第一本网格本 - 尺宅江湖](http://www.qtwm.com/?p=4610)
-
-- [某云的态度问题 - 随望淡思](https://www.lushaojun.com/4629.html)
 
 
 
