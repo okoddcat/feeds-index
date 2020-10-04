@@ -1,7 +1,9 @@
-*更新时间：10-04 04:50*
+*更新时间：10-04 23:50*
 
 
 
+
+- [如何活出不惧怕的心 - 白板报](https://wangpei.net/2020/10/04/how-to-live-fearlessly/)
 
 - [爱与好中文 - 白板报](https://wangpei.net/2020/10/04/love-and-haozhongwen/)
 
@@ -40,8 +42,6 @@
 - [悬疑大片《齐白石密码》 - 白板报](https://wangpei.net/2020/09/21/%e6%82%ac%e7%96%91%e5%a4%a7%e7%89%87%e3%80%8a%e9%bd%90%e7%99%bd%e7%9f%b3%e5%af%86%e7%a0%81%e3%80%8b/)
 
 - [我的大姑 - 白板报](https://wangpei.net/2020/09/21/my-great-aunt/)
-
-- [skynet 版的 cache server 引出的一点改进 - 云风的 BLOG](https://blog.codingnow.com/2020/09/skynet_cache_server.html)
 
 
 
