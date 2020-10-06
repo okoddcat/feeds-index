@@ -1,7 +1,9 @@
-*更新时间：10-05 22:50*
+*更新时间：10-06 20:50*
 
 
 
+
+- [自得其乐 - 尺宅江湖](http://www.qtwm.com/?p=4643)
 
 - [象牙塔里的跳动/高效的面试 - 非礼勿言](https://feiliwuyan.com/dancing-in-the-ivory-tower-efficient-interview/)
 
@@ -40,8 +42,6 @@
 - [多抓鱼卖书 - 渚碧](https://jubeny.com/2020/09/selling-books-on-duozhuayu/)
 
 - [《热情似火》中文剧本 - 白板报](https://wangpei.net/2020/09/21/%e3%80%8a%e7%83%ad%e6%83%85%e4%bc%bc%e7%81%ab%e3%80%8b%e4%b8%ad%e6%96%87%e5%89%a7%e6%9c%ac/)
-
-- [悬疑大片《齐白石密码》 - 白板报](https://wangpei.net/2020/09/21/%e6%82%ac%e7%96%91%e5%a4%a7%e7%89%87%e3%80%8a%e9%bd%90%e7%99%bd%e7%9f%b3%e5%af%86%e7%a0%81%e3%80%8b/)
 
 
 
