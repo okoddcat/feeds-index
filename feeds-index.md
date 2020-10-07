@@ -1,7 +1,9 @@
-*更新时间：10-07 17:50*
+*更新时间：10-07 22:05*
 
 
 
+
+- [《独唱团》十年 - 尺宅江湖](http://www.qtwm.com/?p=4646)
 
 - [好中文网站重开记 - 白板报](https://wangpei.net/2020/10/07/the-haozhongwen-official-site/)
 
@@ -40,8 +42,6 @@
 - [梦三十九 - 破袜子](https://pewae.com/2020/09/dream_39.html)
 
 - [野贤书局新光分店：大家都有病 - 尺宅江湖](http://www.qtwm.com/?p=4621)
-
-- [改名 - 尺宅江湖](http://www.qtwm.com/?p=4618)
 
 
 
