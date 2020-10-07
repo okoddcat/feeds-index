@@ -1,7 +1,9 @@
-*更新时间：10-07 00:50*
+*更新时间：10-07 17:50*
 
 
 
+
+- [好中文网站重开记 - 白板报](https://wangpei.net/2020/10/07/the-haozhongwen-official-site/)
 
 - [2020中秋国庆家乡掠影 - 随望淡思](https://www.lushaojun.com/4638.html)
 
@@ -40,8 +42,6 @@
 - [野贤书局新光分店：大家都有病 - 尺宅江湖](http://www.qtwm.com/?p=4621)
 
 - [改名 - 尺宅江湖](http://www.qtwm.com/?p=4618)
-
-- [怀念漫无目的读书 - 尺宅江湖](http://www.qtwm.com/?p=4613)
 
 
 
