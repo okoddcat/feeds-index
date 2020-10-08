@@ -1,7 +1,9 @@
-*更新时间：10-07 22:50*
+*更新时间：10-08 21:05*
 
 
 
+
+- [今日の收获 - 尺宅江湖](http://www.qtwm.com/?p=4650)
 
 - [象牙塔里的跳动/聊天与面试 - 非礼勿言](https://feiliwuyan.com/dancing-in-the-ivory-tower-talk-interview/)
 
@@ -40,8 +42,6 @@
 - [CKAD认证备考经验分享 - iTimothy](https://xiaozhou.net/tips-to-pass-the-ckad-exam-2020-09-26.html)
 
 - [重温老片《蝙蝠侠》 - 破袜子](https://pewae.com/2020/09/review_batman.html)
-
-- [梦三十九 - 破袜子](https://pewae.com/2020/09/dream_39.html)
 
 
 
