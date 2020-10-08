@@ -1,9 +1,11 @@
-*更新时间：10-08 21:05*
+*更新时间：10-09 00:05*
 
 
 
 
 - [今日の收获 - 尺宅江湖](http://www.qtwm.com/?p=4650)
+
+- [还会有更多的企业投资比特币吗？ - 土木坛子](https://tumutanzi.com/archives/16748)
 
 - [象牙塔里的跳动/聊天与面试 - 非礼勿言](https://feiliwuyan.com/dancing-in-the-ivory-tower-talk-interview/)
 
@@ -40,8 +42,6 @@
 - [努力翻译吧 - 白板报](https://wangpei.net/2020/09/27/on-translation-work/)
 
 - [CKAD认证备考经验分享 - iTimothy](https://xiaozhou.net/tips-to-pass-the-ckad-exam-2020-09-26.html)
-
-- [重温老片《蝙蝠侠》 - 破袜子](https://pewae.com/2020/09/review_batman.html)
 
 
 
