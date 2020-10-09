@@ -1,7 +1,9 @@
-*更新时间：10-09 00:05*
+*更新时间：10-09 22:50*
 
 
 
+
+- [每夫吐槽（054） - 破袜子](https://pewae.com/2020/10/random_kuso_54.html)
 
 - [今日の收获 - 尺宅江湖](http://www.qtwm.com/?p=4650)
 
@@ -40,8 +42,6 @@
 - [在关西与黛西一起的时光5 / 再会 - 非礼勿言](https://feiliwuyan.com/love-trip-in-kansai-new-start/)
 
 - [努力翻译吧 - 白板报](https://wangpei.net/2020/09/27/on-translation-work/)
-
-- [CKAD认证备考经验分享 - iTimothy](https://xiaozhou.net/tips-to-pass-the-ckad-exam-2020-09-26.html)
 
 
 
