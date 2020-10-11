@@ -1,7 +1,9 @@
-*更新时间：10-09 22:50*
+*更新时间：10-11 15:50*
 
 
 
+
+- [第一本水上勉 - 尺宅江湖](http://www.qtwm.com/?p=4655)
 
 - [每夫吐槽（054） - 破袜子](https://pewae.com/2020/10/random_kuso_54.html)
 
@@ -40,8 +42,6 @@
 - [一生中最重要的一次见证 - 白板报](https://wangpei.net/2020/09/28/my-witness/)
 
 - [在关西与黛西一起的时光5 / 再会 - 非礼勿言](https://feiliwuyan.com/love-trip-in-kansai-new-start/)
-
-- [努力翻译吧 - 白板报](https://wangpei.net/2020/09/27/on-translation-work/)
 
 
 
