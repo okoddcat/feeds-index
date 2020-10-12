@@ -1,7 +1,9 @@
-*更新时间：10-12 16:50*
+*更新时间：10-12 23:50*
 
 
 
+
+- [青海游记——青海湖至茶卡 - 随望淡思](https://www.lushaojun.com/4653.html)
 
 - [比特币改革 The BitCoin Reformation - DHTalk's Blog](https://zhangdinghao.cn/2020/10/12/BitcoinReformationFinal/)
 
@@ -40,8 +42,6 @@
 - [特朗普好奢侈 - 尺宅江湖](http://www.qtwm.com/?p=4635)
 
 - [粤西第一峰——信宜大雾岭之大田顶露营徒步记 - 土木坛子](https://tumutanzi.com/archives/16745)
-
-- [一生中最重要的一次见证 - 白板报](https://wangpei.net/2020/09/28/my-witness/)
 
 
 
