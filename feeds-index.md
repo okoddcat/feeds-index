@@ -1,7 +1,9 @@
-*更新时间：10-11 15:50*
+*更新时间：10-12 16:50*
 
 
 
+
+- [比特币改革 The BitCoin Reformation - DHTalk's Blog](https://zhangdinghao.cn/2020/10/12/BitcoinReformationFinal/)
 
 - [第一本水上勉 - 尺宅江湖](http://www.qtwm.com/?p=4655)
 
@@ -40,8 +42,6 @@
 - [粤西第一峰——信宜大雾岭之大田顶露营徒步记 - 土木坛子](https://tumutanzi.com/archives/16745)
 
 - [一生中最重要的一次见证 - 白板报](https://wangpei.net/2020/09/28/my-witness/)
-
-- [在关西与黛西一起的时光5 / 再会 - 非礼勿言](https://feiliwuyan.com/love-trip-in-kansai-new-start/)
 
 
 
