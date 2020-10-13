@@ -1,7 +1,9 @@
-*更新时间：10-12 23:50*
+*更新时间：10-13 23:50*
 
 
 
+
+- [青海游记——茶卡盐湖至西宁 - 随望淡思](https://www.lushaojun.com/4671.html)
 
 - [青海游记——青海湖至茶卡 - 随望淡思](https://www.lushaojun.com/4653.html)
 
@@ -40,8 +42,6 @@
 - [每天都是历史 - 尺宅江湖](http://www.qtwm.com/?p=4638)
 
 - [特朗普好奢侈 - 尺宅江湖](http://www.qtwm.com/?p=4635)
-
-- [粤西第一峰——信宜大雾岭之大田顶露营徒步记 - 土木坛子](https://tumutanzi.com/archives/16745)
 
 
 
