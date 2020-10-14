@@ -1,7 +1,9 @@
-*更新时间：10-13 23:50*
+*更新时间：10-15 03:50*
 
 
 
+
+- [编剧故事营第V期可以报名啦 - 白板报](https://wangpei.net/2020/10/15/goodstorycamp-v-is-coming/)
 
 - [青海游记——茶卡盐湖至西宁 - 随望淡思](https://www.lushaojun.com/4671.html)
 
@@ -40,8 +42,6 @@
 - [iMessage 里的对话串设计 - 一天世界](https://blog.yitianshijie.net/2020/10/02/message-threading-in-imessage-ios14/)
 
 - [每天都是历史 - 尺宅江湖](http://www.qtwm.com/?p=4638)
-
-- [特朗普好奢侈 - 尺宅江湖](http://www.qtwm.com/?p=4635)
 
 
 
