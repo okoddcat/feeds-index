@@ -1,7 +1,9 @@
-*更新时间：10-15 03:50*
+*更新时间：10-15 12:50*
 
 
 
+
+- [青岛全员核酸检测 - 攻城狮笔记](https://qumac.com/?p=1843)
 
 - [编剧故事营第V期可以报名啦 - 白板报](https://wangpei.net/2020/10/15/goodstorycamp-v-is-coming/)
 
@@ -40,8 +42,6 @@
 - [爱与好中文 - 白板报](https://wangpei.net/2020/10/04/love-and-haozhongwen/)
 
 - [iMessage 里的对话串设计 - 一天世界](https://blog.yitianshijie.net/2020/10/02/message-threading-in-imessage-ios14/)
-
-- [每天都是历史 - 尺宅江湖](http://www.qtwm.com/?p=4638)
 
 
 
