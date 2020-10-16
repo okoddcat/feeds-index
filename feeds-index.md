@@ -1,7 +1,9 @@
-*更新时间：10-15 12:50*
+*更新时间：10-17 00:05*
 
 
 
+
+- [好中文日更一百天计划 - 白板报](https://wangpei.net/2020/10/16/100days-of-writing-day-001/)
 
 - [青岛全员核酸检测 - 攻城狮笔记](https://qumac.com/?p=1843)
 
@@ -40,8 +42,6 @@
 - [如何活出不惧怕的心 - 白板报](https://wangpei.net/2020/10/04/how-to-live-fearlessly/)
 
 - [爱与好中文 - 白板报](https://wangpei.net/2020/10/04/love-and-haozhongwen/)
-
-- [iMessage 里的对话串设计 - 一天世界](https://blog.yitianshijie.net/2020/10/02/message-threading-in-imessage-ios14/)
 
 
 
