@@ -1,7 +1,9 @@
-*更新时间：10-17 14:50*
+*更新时间：10-17 22:05*
 
 
 
+
+- [读译作最大的冒险 - 尺宅江湖](http://www.qtwm.com/?p=4659)
 
 - [避免空谈，言必对己或对人有益 - 土木坛子](https://tumutanzi.com/archives/16749)
 
@@ -40,8 +42,6 @@
 - [自得其乐 - 尺宅江湖](http://www.qtwm.com/?p=4643)
 
 - [象牙塔里的跳动/高效的面试 - 非礼勿言](https://feiliwuyan.com/dancing-in-the-ivory-tower-efficient-interview/)
-
-- [如何活出不惧怕的心 - 白板报](https://wangpei.net/2020/10/04/how-to-live-fearlessly/)
 
 
 
