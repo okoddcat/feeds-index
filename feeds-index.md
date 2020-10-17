@@ -1,7 +1,9 @@
-*更新时间：10-18 00:05*
+*更新时间：10-18 04:50*
 
 
 
+
+- [日更day2：意想不到 - 白板报](https://wangpei.net/2020/10/18/100days-of-writing-day2/)
 
 - [王守义十三香 - 木先森](https://www.meizg.cn/411/)
 
@@ -40,8 +42,6 @@
 - [到镇江去 - 渚碧](https://jubeny.com/2020/10/to-zhenjiang/)
 
 - [象牙塔里的跳动/应募大学教员 - 非礼勿言](https://feiliwuyan.com/dancing-in-the-ivory-tower-apply-for-university-faculty/)
-
-- [自得其乐 - 尺宅江湖](http://www.qtwm.com/?p=4643)
 
 
 
