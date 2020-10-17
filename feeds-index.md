@@ -1,7 +1,9 @@
-*更新时间：10-17 00:05*
+*更新时间：10-17 14:50*
 
 
 
+
+- [避免空谈，言必对己或对人有益 - 土木坛子](https://tumutanzi.com/archives/16749)
 
 - [好中文日更一百天计划 - 白板报](https://wangpei.net/2020/10/16/100days-of-writing-day-001/)
 
@@ -40,8 +42,6 @@
 - [象牙塔里的跳动/高效的面试 - 非礼勿言](https://feiliwuyan.com/dancing-in-the-ivory-tower-efficient-interview/)
 
 - [如何活出不惧怕的心 - 白板报](https://wangpei.net/2020/10/04/how-to-live-fearlessly/)
-
-- [爱与好中文 - 白板报](https://wangpei.net/2020/10/04/love-and-haozhongwen/)
 
 
 
