@@ -1,4 +1,4 @@
-*更新时间：10-18 12:50*
+*更新时间：10-18 19:50*
 
 
 
@@ -6,6 +6,8 @@
 - [cache server 问题总结 - 云风的 BLOG](https://blog.codingnow.com/2020/10/cache_server_summary.html)
 
 - [日更day2：意想不到 - 白板报](https://wangpei.net/2020/10/18/100days-of-writing-day2/)
+
+- [你也能不劳而获：开启Circles无条件基本收入 - 土木坛子](https://tumutanzi.com/archives/16750)
 
 - [王守义十三香 - 木先森](https://www.meizg.cn/411/)
 
@@ -40,8 +42,6 @@
 - [《独唱团》十年 - 尺宅江湖](http://www.qtwm.com/?p=4646)
 
 - [好中文网站重开记 - 白板报](https://wangpei.net/2020/10/07/the-haozhongwen-official-site/)
-
-- [2020中秋国庆家乡掠影 - 随望淡思](https://www.lushaojun.com/4638.html)
 
 
 
