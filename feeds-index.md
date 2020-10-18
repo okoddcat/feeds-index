@@ -1,4 +1,4 @@
-*更新时间：10-18 04:50*
+*更新时间：10-18 09:50*
 
 
 
@@ -16,6 +16,8 @@
 - [青岛全员核酸检测 - 攻城狮笔记](https://qumac.com/?p=1843)
 
 - [编剧故事营第V期可以报名啦 - 白板报](https://wangpei.net/2020/10/15/goodstorycamp-v-is-coming/)
+
+- [青海游记——塔尔寺 - 随望淡思](https://www.lushaojun.com/4687.html)
 
 - [青海游记——茶卡盐湖至西宁 - 随望淡思](https://www.lushaojun.com/4671.html)
 
@@ -40,8 +42,6 @@
 - [2020中秋国庆家乡掠影 - 随望淡思](https://www.lushaojun.com/4638.html)
 
 - [到镇江去 - 渚碧](https://jubeny.com/2020/10/to-zhenjiang/)
-
-- [象牙塔里的跳动/应募大学教员 - 非礼勿言](https://feiliwuyan.com/dancing-in-the-ivory-tower-apply-for-university-faculty/)
 
 
 
