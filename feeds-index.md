@@ -1,4 +1,4 @@
-*更新时间：10-19 23:05*
+*更新时间：10-19 23:50*
 
 
 
@@ -23,6 +23,8 @@
 
 - [编剧故事营第V期可以报名啦 - 白板报](https://wangpei.net/2020/10/15/goodstorycamp-v-is-coming/)
 
+- [青海游记——贵德丹霞 - 随望淡思](https://www.lushaojun.com/4694.html)
+
 - [青海游记——塔尔寺 - 随望淡思](https://www.lushaojun.com/4687.html)
 
 - [青海游记——茶卡盐湖至西宁 - 随望淡思](https://www.lushaojun.com/4671.html)
@@ -40,8 +42,6 @@
 - [还会有更多的企业投资比特币吗？ - 土木坛子](https://tumutanzi.com/archives/16748)
 
 - [象牙塔里的跳动/聊天与面试 - 非礼勿言](https://feiliwuyan.com/dancing-in-the-ivory-tower-talk-interview/)
-
-- [《独唱团》十年 - 尺宅江湖](http://www.qtwm.com/?p=4646)
 
 
 
