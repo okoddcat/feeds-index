@@ -1,7 +1,9 @@
-*更新时间：10-19 23:50*
+*更新时间：10-20 00:50*
 
 
 
+
+- [译诗：受难日 - 白板报](https://wangpei.net/2020/10/20/good-friday/)
 
 - [电影国庆春节档 - 陈仓颉](https://imzm.im/welcome-back-to-the-cinema/)
 
@@ -40,8 +42,6 @@
 - [今日の收获 - 尺宅江湖](http://www.qtwm.com/?p=4650)
 
 - [还会有更多的企业投资比特币吗？ - 土木坛子](https://tumutanzi.com/archives/16748)
-
-- [象牙塔里的跳动/聊天与面试 - 非礼勿言](https://feiliwuyan.com/dancing-in-the-ivory-tower-talk-interview/)
 
 
 
