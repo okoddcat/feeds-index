@@ -1,7 +1,9 @@
-*更新时间：10-20 00:50*
+*更新时间：10-20 01:50*
 
 
 
+
+- [编剧故事营百日剧作训练day3-4 - 白板报](https://wangpei.net/2020/10/20/100-days-of-playwrting-day3-4/)
 
 - [译诗：受难日 - 白板报](https://wangpei.net/2020/10/20/good-friday/)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（054） - 破袜子](https://pewae.com/2020/10/random_kuso_54.html)
 
 - [今日の收获 - 尺宅江湖](http://www.qtwm.com/?p=4650)
-
-- [还会有更多的企业投资比特币吗？ - 土木坛子](https://tumutanzi.com/archives/16748)
 
 
 
