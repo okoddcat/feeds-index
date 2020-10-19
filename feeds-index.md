@@ -1,7 +1,9 @@
-*更新时间：10-18 19:50*
+*更新时间：10-19 23:05*
 
 
 
+
+- [电影国庆春节档 - 陈仓颉](https://imzm.im/welcome-back-to-the-cinema/)
 
 - [cache server 问题总结 - 云风的 BLOG](https://blog.codingnow.com/2020/10/cache_server_summary.html)
 
@@ -40,8 +42,6 @@
 - [象牙塔里的跳动/聊天与面试 - 非礼勿言](https://feiliwuyan.com/dancing-in-the-ivory-tower-talk-interview/)
 
 - [《独唱团》十年 - 尺宅江湖](http://www.qtwm.com/?p=4646)
-
-- [好中文网站重开记 - 白板报](https://wangpei.net/2020/10/07/the-haozhongwen-official-site/)
 
 
 
