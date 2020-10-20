@@ -1,7 +1,9 @@
-*更新时间：10-20 12:50*
+*更新时间：10-20 15:50*
 
 
 
+
+- [skynet 1.4.0 - 云风的 BLOG](https://blog.codingnow.com/2020/10/skynet_140.html)
 
 - [搜索马达？ - 非礼勿言](https://feiliwuyan.com/search-engine-201020/)
 
@@ -40,8 +42,6 @@
 - [比特币改革 The BitCoin Reformation - DHTalk's Blog](https://zhangdinghao.cn/2020/10/12/BitcoinReformationFinal/)
 
 - [第一本水上勉 - 尺宅江湖](http://www.qtwm.com/?p=4655)
-
-- [每夫吐槽（054） - 破袜子](https://pewae.com/2020/10/random_kuso_54.html)
 
 
 
