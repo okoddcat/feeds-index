@@ -1,7 +1,9 @@
-*更新时间：10-20 15:50*
+*更新时间：10-20 22:50*
 
 
 
+
+- [逃离象牙塔 - 非礼勿言](https://feiliwuyan.com/escape-from-the-ivory-tower/)
 
 - [skynet 1.4.0 - 云风的 BLOG](https://blog.codingnow.com/2020/10/skynet_140.html)
 
@@ -40,8 +42,6 @@
 - [青海游记——青海湖至茶卡 - 随望淡思](https://www.lushaojun.com/4653.html)
 
 - [比特币改革 The BitCoin Reformation - DHTalk's Blog](https://zhangdinghao.cn/2020/10/12/BitcoinReformationFinal/)
-
-- [第一本水上勉 - 尺宅江湖](http://www.qtwm.com/?p=4655)
 
 
 
