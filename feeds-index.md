@@ -1,7 +1,9 @@
-*更新时间：10-20 22:50*
+*更新时间：10-22 08:50*
 
 
 
+
+- [五台碎片（上）：无知之旅 - 最好金龟换酒](http://fz0512.com/archives/2152)
 
 - [逃离象牙塔 - 非礼勿言](https://feiliwuyan.com/escape-from-the-ivory-tower/)
 
@@ -40,8 +42,6 @@
 - [青海游记——茶卡盐湖至西宁 - 随望淡思](https://www.lushaojun.com/4671.html)
 
 - [青海游记——青海湖至茶卡 - 随望淡思](https://www.lushaojun.com/4653.html)
-
-- [比特币改革 The BitCoin Reformation - DHTalk's Blog](https://zhangdinghao.cn/2020/10/12/BitcoinReformationFinal/)
 
 
 
