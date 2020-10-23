@@ -1,9 +1,11 @@
-*更新时间：10-23 10:50*
+*更新时间：10-23 13:50*
 
 
 
 
 - [我和我的家乡 - 伪医生律师的博客](https://chidd.net/2020/10/23/homeland.html)
+
+- [[薅羊毛]Coinbase看视频获加密货币奖励 - 土木坛子](https://tumutanzi.com/archives/16751)
 
 - [五台碎片（上）：无知之旅 - 最好金龟换酒](http://fz0512.com/archives/2152)
 
@@ -40,8 +42,6 @@
 - [青海游记——贵德丹霞 - 随望淡思](https://www.lushaojun.com/4694.html)
 
 - [青海游记——塔尔寺 - 随望淡思](https://www.lushaojun.com/4687.html)
-
-- [青海游记——茶卡盐湖至西宁 - 随望淡思](https://www.lushaojun.com/4671.html)
 
 
 
