@@ -1,7 +1,9 @@
-*更新时间：10-23 13:50*
+*更新时间：10-24 23:05*
 
 
 
+
+- [二十四书香书店最后一天营业 - 尺宅江湖](http://www.qtwm.com/?p=4665)
 
 - [我和我的家乡 - 伪医生律师的博客](https://chidd.net/2020/10/23/homeland.html)
 
@@ -40,8 +42,6 @@
 - [编剧故事营第V期可以报名啦 - 白板报](https://wangpei.net/2020/10/15/goodstorycamp-v-is-coming/)
 
 - [青海游记——贵德丹霞 - 随望淡思](https://www.lushaojun.com/4694.html)
-
-- [青海游记——塔尔寺 - 随望淡思](https://www.lushaojun.com/4687.html)
 
 
 
