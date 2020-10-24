@@ -1,4 +1,4 @@
-*更新时间：10-24 23:05*
+*更新时间：10-25 00:25*
 
 
 
@@ -11,6 +11,8 @@
 
 - [五台碎片（上）：无知之旅 - 最好金龟换酒](http://fz0512.com/archives/2152)
 
+- [重温老片《火种》 - 破袜子](https://pewae.com/2020/10/review-angel-terminators-ii.html)
+
 - [逃离象牙塔 - 非礼勿言](https://feiliwuyan.com/escape-from-the-ivory-tower/)
 
 - [skynet 1.4.0 - 云风的 BLOG](https://blog.codingnow.com/2020/10/skynet_140.html)
@@ -22,6 +24,8 @@
 - [译诗：受难日 - 白板报](https://wangpei.net/2020/10/20/good-friday/)
 
 - [电影国庆春节档 - 陈仓颉](https://imzm.im/welcome-back-to-the-cinema/)
+
+- [添丁 - 破袜子](https://pewae.com/2020/10/e6b7bb-e4b881.html)
 
 - [cache server 问题总结 - 云风的 BLOG](https://blog.codingnow.com/2020/10/cache_server_summary.html)
 
@@ -38,10 +42,6 @@
 - [好中文日更一百天计划 - 白板报](https://wangpei.net/2020/10/16/100days-of-writing-day-001/)
 
 - [青岛全员核酸检测 - 攻城狮笔记](https://qumac.com/?p=1843)
-
-- [编剧故事营第V期可以报名啦 - 白板报](https://wangpei.net/2020/10/15/goodstorycamp-v-is-coming/)
-
-- [青海游记——贵德丹霞 - 随望淡思](https://www.lushaojun.com/4694.html)
 
 
 
