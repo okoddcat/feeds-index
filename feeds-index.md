@@ -1,7 +1,9 @@
-*更新时间：10-25 00:25*
+*更新时间：10-25 21:50*
 
 
 
+
+- [半沢直樹 - 非礼勿言](https://feiliwuyan.com/hanzawa-naoki/)
 
 - [二十四书香书店最后一天营业 - 尺宅江湖](http://www.qtwm.com/?p=4665)
 
@@ -40,8 +42,6 @@
 - [避免空谈，言必对己或对人有益 - 土木坛子](https://tumutanzi.com/archives/16749)
 
 - [好中文日更一百天计划 - 白板报](https://wangpei.net/2020/10/16/100days-of-writing-day-001/)
-
-- [青岛全员核酸检测 - 攻城狮笔记](https://qumac.com/?p=1843)
 
 
 
