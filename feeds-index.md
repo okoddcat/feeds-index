@@ -1,7 +1,9 @@
-*更新时间：10-25 21:50*
+*更新时间：10-27 22:50*
 
 
 
+
+- [広島の秋旅6 / 瀬戸内 - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-19-6/)
 
 - [半沢直樹 - 非礼勿言](https://feiliwuyan.com/hanzawa-naoki/)
 
@@ -40,8 +42,6 @@
 - [读译作最大的冒险 - 尺宅江湖](http://www.qtwm.com/?p=4659)
 
 - [避免空谈，言必对己或对人有益 - 土木坛子](https://tumutanzi.com/archives/16749)
-
-- [好中文日更一百天计划 - 白板报](https://wangpei.net/2020/10/16/100days-of-writing-day-001/)
 
 
 
