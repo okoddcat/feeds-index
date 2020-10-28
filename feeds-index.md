@@ -1,7 +1,9 @@
-*更新时间：10-28 13:50*
+*更新时间：10-28 22:05*
 
 
 
+
+- [了解 AES 加密算法 - 枫言枫语](https://justinyan.me/post/4356)
 
 - [枫影夜读 #5 - James Clear “Atomic Habits” - 枫言枫语](https://justinyan.me/post/4352)
 
@@ -40,8 +42,6 @@
 - [你也能不劳而获：开启Circles无条件基本收入 - 土木坛子](https://tumutanzi.com/archives/16750)
 
 - [王守义十三香 - 木先森](https://www.meizg.cn/411/)
-
-- [读译作最大的冒险 - 尺宅江湖](http://www.qtwm.com/?p=4659)
 
 
 
