@@ -1,7 +1,9 @@
-*更新时间：10-28 22:05*
+*更新时间：10-31 23:05*
 
 
 
+
+- [也许再见 - 破袜子](https://pewae.com/2020/10/maybe-seeyou.html)
 
 - [了解 AES 加密算法 - 枫言枫语](https://justinyan.me/post/4356)
 
@@ -40,8 +42,6 @@
 - [日更day2：意想不到 - 白板报](https://wangpei.net/2020/10/18/100days-of-writing-day2/)
 
 - [你也能不劳而获：开启Circles无条件基本收入 - 土木坛子](https://tumutanzi.com/archives/16750)
-
-- [王守义十三香 - 木先森](https://www.meizg.cn/411/)
 
 
 
