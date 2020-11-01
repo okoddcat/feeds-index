@@ -1,7 +1,9 @@
-*更新时间：10-31 23:05*
+*更新时间：11-01 09:50*
 
 
 
+
+- [求学记 - 尺宅江湖](http://www.qtwm.com/?p=4669)
 
 - [也许再见 - 破袜子](https://pewae.com/2020/10/maybe-seeyou.html)
 
@@ -40,8 +42,6 @@
 - [cache server 问题总结 - 云风的 BLOG](https://blog.codingnow.com/2020/10/cache_server_summary.html)
 
 - [日更day2：意想不到 - 白板报](https://wangpei.net/2020/10/18/100days-of-writing-day2/)
-
-- [你也能不劳而获：开启Circles无条件基本收入 - 土木坛子](https://tumutanzi.com/archives/16750)
 
 
 
