@@ -1,7 +1,9 @@
-*更新时间：11-01 09:50*
+*更新时间：11-01 23:50*
 
 
 
+
+- [社交网络的反乌托邦 ——枫言枫语播客 27 期 - 枫言枫语](https://justinyan.me/post/4361)
 
 - [求学记 - 尺宅江湖](http://www.qtwm.com/?p=4669)
 
@@ -40,8 +42,6 @@
 - [添丁 - 破袜子](https://pewae.com/2020/10/e6b7bb-e4b881.html)
 
 - [cache server 问题总结 - 云风的 BLOG](https://blog.codingnow.com/2020/10/cache_server_summary.html)
-
-- [日更day2：意想不到 - 白板报](https://wangpei.net/2020/10/18/100days-of-writing-day2/)
 
 
 
