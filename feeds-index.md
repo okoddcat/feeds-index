@@ -1,7 +1,9 @@
-*更新时间：11-02 08:05*
+*更新时间：11-02 22:50*
 
 
 
+
+- [重温老片《偷天陷阱》 - 破袜子](https://pewae.com/2020/11/review-entrapment.html)
 
 - [枫影夜读 #6 - 角田光代《坡道上的家》 - 枫言枫语](https://justinyan.me/post/4363)
 
@@ -40,8 +42,6 @@
 - [译诗：受难日 - 白板报](https://wangpei.net/2020/10/20/good-friday/)
 
 - [电影国庆春节档 - 陈仓颉](https://imzm.im/welcome-back-to-the-cinema/)
-
-- [添丁 - 破袜子](https://pewae.com/2020/10/e6b7bb-e4b881.html)
 
 
 
