@@ -1,7 +1,9 @@
-*更新时间：11-01 23:50*
+*更新时间：11-02 08:05*
 
 
 
+
+- [枫影夜读 #6 - 角田光代《坡道上的家》 - 枫言枫语](https://justinyan.me/post/4363)
 
 - [社交网络的反乌托邦 ——枫言枫语播客 27 期 - 枫言枫语](https://justinyan.me/post/4361)
 
@@ -40,8 +42,6 @@
 - [电影国庆春节档 - 陈仓颉](https://imzm.im/welcome-back-to-the-cinema/)
 
 - [添丁 - 破袜子](https://pewae.com/2020/10/e6b7bb-e4b881.html)
-
-- [cache server 问题总结 - 云风的 BLOG](https://blog.codingnow.com/2020/10/cache_server_summary.html)
 
 
 
