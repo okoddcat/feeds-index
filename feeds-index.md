@@ -1,7 +1,9 @@
-*更新时间：11-02 22:50*
+*更新时间：11-04 21:50*
 
 
 
+
+- [再次推荐比特币硬件钱包Ledger - 土木坛子](https://tumutanzi.com/archives/16753)
 
 - [重温老片《偷天陷阱》 - 破袜子](https://pewae.com/2020/11/review-entrapment.html)
 
@@ -40,8 +42,6 @@
 - [编剧故事营百日剧作训练day3-4 - 白板报](https://wangpei.net/2020/10/20/100-days-of-playwrting-day3-4/)
 
 - [译诗：受难日 - 白板报](https://wangpei.net/2020/10/20/good-friday/)
-
-- [电影国庆春节档 - 陈仓颉](https://imzm.im/welcome-back-to-the-cinema/)
 
 
 
