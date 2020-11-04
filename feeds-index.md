@@ -1,7 +1,9 @@
-*更新时间：11-04 21:50*
+*更新时间：11-05 00:50*
 
 
 
+
+- [接连犯错的一天 - 白板报](https://wangpei.net/2020/11/05/a-day-full-of-fault/)
 
 - [再次推荐比特币硬件钱包Ledger - 土木坛子](https://tumutanzi.com/archives/16753)
 
@@ -40,8 +42,6 @@
 - [搜索马达？ - 非礼勿言](https://feiliwuyan.com/search-engine-201020/)
 
 - [编剧故事营百日剧作训练day3-4 - 白板报](https://wangpei.net/2020/10/20/100-days-of-playwrting-day3-4/)
-
-- [译诗：受难日 - 白板报](https://wangpei.net/2020/10/20/good-friday/)
 
 
 
