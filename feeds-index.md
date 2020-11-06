@@ -1,7 +1,9 @@
-*更新时间：11-07 02:05*
+*更新时间：11-07 02:50*
 
 
 
+
+- [余杭一日还 - 白板报](https://wangpei.net/2020/11/07/to-and-fro-yuhang/)
 
 - [微信视频号与武器库 - 白板报](https://wangpei.net/2020/11/07/wechat-video-and-weapons/)
 
@@ -40,8 +42,6 @@
 - [重温老片《火种》 - 破袜子](https://pewae.com/2020/10/review-angel-terminators-ii.html)
 
 - [逃离象牙塔 - 非礼勿言](https://feiliwuyan.com/escape-from-the-ivory-tower/)
-
-- [skynet 1.4.0 - 云风的 BLOG](https://blog.codingnow.com/2020/10/skynet_140.html)
 
 
 
