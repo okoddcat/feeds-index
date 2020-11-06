@@ -1,7 +1,9 @@
-*更新时间：11-05 00:50*
+*更新时间：11-06 10:50*
 
 
 
+
+- [早安，打工人！给自己可控的人生？——枫言枫语播客 28 期 - 枫言枫语](https://justinyan.me/post/4365)
 
 - [接连犯错的一天 - 白板报](https://wangpei.net/2020/11/05/a-day-full-of-fault/)
 
@@ -40,8 +42,6 @@
 - [skynet 1.4.0 - 云风的 BLOG](https://blog.codingnow.com/2020/10/skynet_140.html)
 
 - [搜索马达？ - 非礼勿言](https://feiliwuyan.com/search-engine-201020/)
-
-- [编剧故事营百日剧作训练day3-4 - 白板报](https://wangpei.net/2020/10/20/100-days-of-playwrting-day3-4/)
 
 
 
