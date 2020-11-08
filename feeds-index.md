@@ -1,9 +1,11 @@
-*更新时间：11-08 19:05*
+*更新时间：11-08 19:50*
 
 
 
 
 - [重温老片《纵横四海》 - 破袜子](https://pewae.com/2020/11/review-once-a-thief.html)
+
+- [Lua binding 的一些方法 - 云风的 BLOG](https://blog.codingnow.com/2020/11/rmlui_lua_binding.html)
 
 - [枫影夜读 #7 —— Kieran Setiya 《重来也不会好过现在》 - 枫言枫语](https://justinyan.me/post/4369)
 
@@ -40,8 +42,6 @@
 - [二十四书香书店最后一天营业 - 尺宅江湖](http://www.qtwm.com/?p=4665)
 
 - [我和我的家乡 - 伪医生律师的博客](https://chidd.net/2020/10/23/homeland.html)
-
-- [[薅羊毛]Coinbase看视频获加密货币奖励 - 土木坛子](https://tumutanzi.com/archives/16751)
 
 
 
