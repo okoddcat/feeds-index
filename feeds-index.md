@@ -1,7 +1,9 @@
-*更新时间：11-07 16:05*
+*更新时间：11-08 18:05*
 
 
 
+
+- [枫影夜读 #7 —— Kieran Setiya 《重来也不会好过现在》 - 枫言枫语](https://justinyan.me/post/4369)
 
 - [化赞为赏：成为Matters.news赞赏公民 - 土木坛子](https://tumutanzi.com/archives/16762)
 
@@ -40,8 +42,6 @@
 - [[薅羊毛]Coinbase看视频获加密货币奖励 - 土木坛子](https://tumutanzi.com/archives/16751)
 
 - [五台碎片（上）：无知之旅 - 最好金龟换酒](http://fz0512.com/archives/2152)
-
-- [重温老片《火种》 - 破袜子](https://pewae.com/2020/10/review-angel-terminators-ii.html)
 
 
 
