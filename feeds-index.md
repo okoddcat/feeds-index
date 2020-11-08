@@ -1,7 +1,9 @@
-*更新时间：11-08 19:50*
+*更新时间：11-08 21:50*
 
 
 
+
+- [城里没了书店 - 尺宅江湖](http://www.qtwm.com/?p=4675)
 
 - [重温老片《纵横四海》 - 破袜子](https://pewae.com/2020/11/review-once-a-thief.html)
 
@@ -40,8 +42,6 @@
 - [半沢直樹 - 非礼勿言](https://feiliwuyan.com/hanzawa-naoki/)
 
 - [二十四书香书店最后一天营业 - 尺宅江湖](http://www.qtwm.com/?p=4665)
-
-- [我和我的家乡 - 伪医生律师的博客](https://chidd.net/2020/10/23/homeland.html)
 
 
 
