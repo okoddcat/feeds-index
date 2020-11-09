@@ -1,9 +1,11 @@
-*更新时间：11-09 09:50*
+*更新时间：11-09 21:50*
 
 
 
 
 - [五台碎片（下）：路过唐诗现场 - 最好金龟换酒](http://fz0512.com/archives/2158)
+
+- [班门弄斧：在广东人面前作建筑风水学讲座 - 土木坛子](https://tumutanzi.com/archives/16764)
 
 - [城里没了书店 - 尺宅江湖](http://www.qtwm.com/?p=4675)
 
@@ -40,8 +42,6 @@
 - [枫影夜读 #5 - James Clear “Atomic Habits” - 枫言枫语](https://justinyan.me/post/4352)
 
 - [広島の秋旅6 / 瀬戸内 - 非礼勿言](https://feiliwuyan.com/hiroshima-autumn-19-6/)
-
-- [半沢直樹 - 非礼勿言](https://feiliwuyan.com/hanzawa-naoki/)
 
 
 
