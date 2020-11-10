@@ -1,7 +1,9 @@
-*更新时间：11-09 22:50*
+*更新时间：11-10 21:05*
 
 
 
+
+- [小贩的叫卖声 - 渚碧](https://jubeny.com/2020/11/the-street-cries-of-hawker/)
 
 - [告别学生时代的毕业 - 狡猫三窝](https://slykiten.com/life-note/failwell_to_student_life/)
 
@@ -40,8 +42,6 @@
 - [也许再见 - 破袜子](https://pewae.com/2020/10/maybe-seeyou.html)
 
 - [了解 AES 加密算法 - 枫言枫语](https://justinyan.me/post/4356)
-
-- [枫影夜读 #5 - James Clear “Atomic Habits” - 枫言枫语](https://justinyan.me/post/4352)
 
 
 
