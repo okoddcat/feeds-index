@@ -1,7 +1,9 @@
-*更新时间：11-10 21:05*
+*更新时间：11-11 09:50*
 
 
 
+
+- [编剧故事营第五期限时报名 - 白板报](https://wangpei.net/2020/11/11/screenwriting-and-storytelling-class-is-waiting-for-you/)
 
 - [小贩的叫卖声 - 渚碧](https://jubeny.com/2020/11/the-street-cries-of-hawker/)
 
@@ -40,8 +42,6 @@
 - [求学记 - 尺宅江湖](http://www.qtwm.com/?p=4669)
 
 - [也许再见 - 破袜子](https://pewae.com/2020/10/maybe-seeyou.html)
-
-- [了解 AES 加密算法 - 枫言枫语](https://justinyan.me/post/4356)
 
 
 
