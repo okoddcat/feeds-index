@@ -1,7 +1,9 @@
-*更新时间：11-11 09:50*
+*更新时间：11-13 16:05*
 
 
 
+
+- [我的不消费主义 - 土木坛子](https://tumutanzi.com/archives/16766)
 
 - [编剧故事营第五期限时报名 - 白板报](https://wangpei.net/2020/11/11/screenwriting-and-storytelling-class-is-waiting-for-you/)
 
@@ -40,8 +42,6 @@
 - [社交网络的反乌托邦 ——枫言枫语播客 27 期 - 枫言枫语](https://justinyan.me/post/4361)
 
 - [求学记 - 尺宅江湖](http://www.qtwm.com/?p=4669)
-
-- [也许再见 - 破袜子](https://pewae.com/2020/10/maybe-seeyou.html)
 
 
 
