@@ -1,7 +1,9 @@
-*更新时间：11-13 21:50*
+*更新时间：11-15 15:50*
 
 
 
+
+- [枫影夜读 #8 —— Christian White《消失的女孩》 - 枫言枫语](https://justinyan.me/post/4381)
 
 - [九品寺 - 狡猫三窝](https://slykiten.com/life-note/kuhonji/)
 
@@ -40,8 +42,6 @@
 - [重温老片《偷天陷阱》 - 破袜子](https://pewae.com/2020/11/review-entrapment.html)
 
 - [枫影夜读 #6 - 角田光代《坡道上的家》 - 枫言枫语](https://justinyan.me/post/4363)
-
-- [社交网络的反乌托邦 ——枫言枫语播客 27 期 - 枫言枫语](https://justinyan.me/post/4361)
 
 
 
