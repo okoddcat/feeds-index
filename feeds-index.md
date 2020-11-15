@@ -1,7 +1,9 @@
-*更新时间：11-15 15:50*
+*更新时间：11-15 21:50*
 
 
 
+
+- [Mendeley添加参考文献的格式问题 - 非礼勿言](https://feiliwuyan.com/mendeley-add-reference-format-problem/)
 
 - [枫影夜读 #8 —— Christian White《消失的女孩》 - 枫言枫语](https://justinyan.me/post/4381)
 
@@ -40,8 +42,6 @@
 - [再次推荐比特币硬件钱包Ledger - 土木坛子](https://tumutanzi.com/archives/16753)
 
 - [重温老片《偷天陷阱》 - 破袜子](https://pewae.com/2020/11/review-entrapment.html)
-
-- [枫影夜读 #6 - 角田光代《坡道上的家》 - 枫言枫语](https://justinyan.me/post/4363)
 
 
 
