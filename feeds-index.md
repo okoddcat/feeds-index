@@ -1,7 +1,9 @@
-*更新时间：11-16 09:05*
+*更新时间：11-16 14:05*
 
 
 
+
+- [每夫吐槽（055） - 破袜子](https://pewae.com/2020/11/random_kuso_55.html)
 
 - [神户购物记：什么都没有买 - 狡猫三窝](https://slykiten.com/life-note/kobe_outlets_without_shopping/)
 
@@ -40,8 +42,6 @@
 - [早安，打工人！给自己可控的人生？——枫言枫语播客 28 期 - 枫言枫语](https://justinyan.me/post/4365)
 
 - [接连犯错的一天 - 白板报](https://wangpei.net/2020/11/05/a-day-full-of-fault/)
-
-- [再次推荐比特币硬件钱包Ledger - 土木坛子](https://tumutanzi.com/archives/16753)
 
 
 
