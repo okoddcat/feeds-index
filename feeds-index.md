@@ -1,7 +1,9 @@
-*更新时间：11-15 21:50*
+*更新时间：11-16 09:05*
 
 
 
+
+- [神户购物记：什么都没有买 - 狡猫三窝](https://slykiten.com/life-note/kobe_outlets_without_shopping/)
 
 - [Mendeley添加参考文献的格式问题 - 非礼勿言](https://feiliwuyan.com/mendeley-add-reference-format-problem/)
 
@@ -40,8 +42,6 @@
 - [接连犯错的一天 - 白板报](https://wangpei.net/2020/11/05/a-day-full-of-fault/)
 
 - [再次推荐比特币硬件钱包Ledger - 土木坛子](https://tumutanzi.com/archives/16753)
-
-- [重温老片《偷天陷阱》 - 破袜子](https://pewae.com/2020/11/review-entrapment.html)
 
 
 
