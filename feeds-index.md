@@ -1,7 +1,9 @@
-*更新时间：11-16 14:05*
+*更新时间：11-16 22:05*
 
 
 
+
+- [书非借不能读 - 攻城狮笔记](https://qumac.com/?p=1862)
 
 - [每夫吐槽（055） - 破袜子](https://pewae.com/2020/11/random_kuso_55.html)
 
@@ -40,8 +42,6 @@
 - [微信视频号与武器库 - 白板报](https://wangpei.net/2020/11/07/wechat-video-and-weapons/)
 
 - [早安，打工人！给自己可控的人生？——枫言枫语播客 28 期 - 枫言枫语](https://justinyan.me/post/4365)
-
-- [接连犯错的一天 - 白板报](https://wangpei.net/2020/11/05/a-day-full-of-fault/)
 
 
 
