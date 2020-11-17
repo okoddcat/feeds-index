@@ -1,7 +1,9 @@
-*更新时间：11-16 22:05*
+*更新时间：11-17 08:50*
 
 
 
+
+- [药师寺与唐招提寺 - 狡猫三窝](https://slykiten.com/life-note/yakushiji_and_toshodaiji/)
 
 - [书非借不能读 - 攻城狮笔记](https://qumac.com/?p=1862)
 
@@ -40,8 +42,6 @@
 - [余杭一日还 - 白板报](https://wangpei.net/2020/11/07/to-and-fro-yuhang/)
 
 - [微信视频号与武器库 - 白板报](https://wangpei.net/2020/11/07/wechat-video-and-weapons/)
-
-- [早安，打工人！给自己可控的人生？——枫言枫语播客 28 期 - 枫言枫语](https://justinyan.me/post/4365)
 
 
 
