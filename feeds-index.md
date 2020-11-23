@@ -1,7 +1,9 @@
-*更新时间：11-21 12:50*
+*更新时间：11-23 09:05*
 
 
 
+
+- [【科技007】为什么iPhone一次只能运行一个App？——枫言枫语播客29期 - 枫言枫语](https://justinyan.me/post/4383)
 
 - [Metion之卧虎藏龙 - 白板报](https://wangpei.net/2020/11/21/on-metion/)
 
@@ -40,8 +42,6 @@
 - [城里没了书店 - 尺宅江湖](http://www.qtwm.com/?p=4675)
 
 - [重温老片《纵横四海》 - 破袜子](https://pewae.com/2020/11/review-once-a-thief.html)
-
-- [Lua binding 的一些方法 - 云风的 BLOG](https://blog.codingnow.com/2020/11/rmlui_lua_binding.html)
 
 
 
