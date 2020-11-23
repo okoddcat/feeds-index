@@ -1,7 +1,9 @@
-*更新时间：11-23 09:05*
+*更新时间：11-23 16:50*
 
 
 
+
+- [送祝米 - 攻城狮笔记](https://qumac.com/?p=1865)
 
 - [【科技007】为什么iPhone一次只能运行一个App？——枫言枫语播客29期 - 枫言枫语](https://justinyan.me/post/4383)
 
@@ -40,8 +42,6 @@
 - [班门弄斧：在广东人面前作建筑风水学讲座 - 土木坛子](https://tumutanzi.com/archives/16764)
 
 - [城里没了书店 - 尺宅江湖](http://www.qtwm.com/?p=4675)
-
-- [重温老片《纵横四海》 - 破袜子](https://pewae.com/2020/11/review-once-a-thief.html)
 
 
 
