@@ -1,7 +1,9 @@
-*更新时间：11-25 16:50*
+*更新时间：11-26 21:50*
 
 
 
+
+- [工学领域主要研究手段 - 非礼勿言](https://feiliwuyan.com/main-research-methods-in-eng/)
 
 - [万物皆可usb-c - 攻城狮笔记](https://qumac.com/?p=1869)
 
@@ -40,8 +42,6 @@
 - [告别学生时代的毕业 - 狡猫三窝](https://slykiten.com/life-note/failwell_to_student_life/)
 
 - [五台碎片（下）：路过唐诗现场 - 最好金龟换酒](http://fz0512.com/archives/2158)
-
-- [班门弄斧：在广东人面前作建筑风水学讲座 - 土木坛子](https://tumutanzi.com/archives/16764)
 
 
 
