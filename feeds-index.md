@@ -1,7 +1,9 @@
-*更新时间：11-27 22:50*
+*更新时间：11-28 22:50*
 
 
 
+
+- [事后一根烟是一种文化吗 - 非礼勿言](https://feiliwuyan.com/is-a-cigarette-a-culture-afterwards/)
 
 - [粒子管理器的 C++ 封装 - 云风的 BLOG](https://blog.codingnow.com/2020/11/ps_cpp_warpper.html)
 
@@ -40,8 +42,6 @@
 - [编剧故事营第五期限时报名 - 白板报](https://wangpei.net/2020/11/11/screenwriting-and-storytelling-class-is-waiting-for-you/)
 
 - [小贩的叫卖声 - 渚碧](https://jubeny.com/2020/11/the-street-cries-of-hawker/)
-
-- [告别学生时代的毕业 - 狡猫三窝](https://slykiten.com/life-note/failwell_to_student_life/)
 
 
 
