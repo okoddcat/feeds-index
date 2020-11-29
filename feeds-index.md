@@ -1,7 +1,9 @@
-*更新时间：11-28 22:50*
+*更新时间：11-29 11:50*
 
 
 
+
+- [没有书店，生活都快枯萎 - 尺宅江湖](http://www.qtwm.com/?p=4687)
 
 - [事后一根烟是一种文化吗 - 非礼勿言](https://feiliwuyan.com/is-a-cigarette-a-culture-afterwards/)
 
@@ -40,8 +42,6 @@
 - [我的不消费主义 - 土木坛子](https://tumutanzi.com/archives/16766)
 
 - [编剧故事营第五期限时报名 - 白板报](https://wangpei.net/2020/11/11/screenwriting-and-storytelling-class-is-waiting-for-you/)
-
-- [小贩的叫卖声 - 渚碧](https://jubeny.com/2020/11/the-street-cries-of-hawker/)
 
 
 
