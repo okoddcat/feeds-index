@@ -1,7 +1,9 @@
-*更新时间：11-29 11:50*
+*更新时间：11-30 23:50*
 
 
 
+
+- [长生木 - 随望淡思](https://www.lushaojun.com/4736.html)
 
 - [没有书店，生活都快枯萎 - 尺宅江湖](http://www.qtwm.com/?p=4687)
 
@@ -40,8 +42,6 @@
 - [九品寺 - 狡猫三窝](https://slykiten.com/life-note/kuhonji/)
 
 - [我的不消费主义 - 土木坛子](https://tumutanzi.com/archives/16766)
-
-- [编剧故事营第五期限时报名 - 白板报](https://wangpei.net/2020/11/11/screenwriting-and-storytelling-class-is-waiting-for-you/)
 
 
 
