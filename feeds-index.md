@@ -1,7 +1,9 @@
-*更新时间：11-30 23:50*
+*更新时间：12-01 01:05*
 
 
 
+
+- [编剧故事营访谈录 - 白板报](https://wangpei.net/2020/12/01/the-interview-of-good-storycamp/)
 
 - [长生木 - 随望淡思](https://www.lushaojun.com/4736.html)
 
@@ -40,8 +42,6 @@
 - [枫影夜读 #8 —— Christian White《消失的女孩》 - 枫言枫语](https://justinyan.me/post/4381)
 
 - [九品寺 - 狡猫三窝](https://slykiten.com/life-note/kuhonji/)
-
-- [我的不消费主义 - 土木坛子](https://tumutanzi.com/archives/16766)
 
 
 
