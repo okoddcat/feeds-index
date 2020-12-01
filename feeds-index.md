@@ -1,7 +1,9 @@
-*更新时间：12-01 09:05*
+*更新时间：12-01 10:50*
 
 
 
+
+- [新家 - 狡猫三窝](https://slykiten.com/life-note/new_home/)
 
 - [Vol.30 科技007：5G只能用来凡尔赛吗？ - 枫言枫语](https://justinyan.me/post/4388)
 
@@ -40,8 +42,6 @@
 - [神户购物记：什么都没有买 - 狡猫三窝](https://slykiten.com/life-note/kobe_outlets_without_shopping/)
 
 - [Mendeley添加参考文献的格式问题 - 非礼勿言](https://feiliwuyan.com/mendeley-add-reference-format-problem/)
-
-- [枫影夜读 #8 —— Christian White《消失的女孩》 - 枫言枫语](https://justinyan.me/post/4381)
 
 
 
