@@ -1,7 +1,9 @@
-*更新时间：12-09 21:05*
+*更新时间：12-09 23:50*
 
 
 
+
+- [元気でいるよ - 渚碧](https://jubeny.com/2020/12/i-am-fine/)
 
 - [macOS下IDEA、PyCharm、WebStorm等IDE的字体渲染问题 - 40huo's - 知至知终](https://www.40huo.cn/blog/macos-ide-font-render.html)
 
@@ -40,8 +42,6 @@
 - [工学领域主要研究手段 - 非礼勿言](https://feiliwuyan.com/main-research-methods-in-eng/)
 
 - [万物皆可usb-c - 攻城狮笔记](https://qumac.com/?p=1869)
-
-- [送祝米 - 攻城狮笔记](https://qumac.com/?p=1865)
 
 
 
