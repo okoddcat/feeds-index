@@ -1,7 +1,9 @@
-*更新时间：12-09 16:50*
+*更新时间：12-09 21:05*
 
 
 
+
+- [macOS下IDEA、PyCharm、WebStorm等IDE的字体渲染问题 - 40huo's - 知至知终](https://www.40huo.cn/blog/macos-ide-font-render.html)
 
 - [【三近斋笔记】一 - 尺宅江湖](http://www.qtwm.com/?p=4700)
 
@@ -40,8 +42,6 @@
 - [万物皆可usb-c - 攻城狮笔记](https://qumac.com/?p=1869)
 
 - [送祝米 - 攻城狮笔记](https://qumac.com/?p=1865)
-
-- [【科技007】为什么iPhone一次只能运行一个App？——枫言枫语播客29期 - 枫言枫语](https://justinyan.me/post/4383)
 
 
 
