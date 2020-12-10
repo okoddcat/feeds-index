@@ -1,7 +1,9 @@
-*更新时间：12-09 23:50*
+*更新时间：12-10 14:50*
 
 
 
+
+- [枫影夜读 #10——Jared Diamond《枪炮、病菌与钢铁》 - 枫言枫语](https://justinyan.me/post/4398)
 
 - [元気でいるよ - 渚碧](https://jubeny.com/2020/12/i-am-fine/)
 
@@ -40,8 +42,6 @@
 - [粒子管理器的 C++ 封装 - 云风的 BLOG](https://blog.codingnow.com/2020/11/ps_cpp_warpper.html)
 
 - [工学领域主要研究手段 - 非礼勿言](https://feiliwuyan.com/main-research-methods-in-eng/)
-
-- [万物皆可usb-c - 攻城狮笔记](https://qumac.com/?p=1869)
 
 
 
