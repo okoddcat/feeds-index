@@ -1,7 +1,9 @@
-*更新时间：12-10 14:50*
+*更新时间：12-10 16:50*
 
 
 
+
+- [手机和车 - 伪医生律师的博客](https://chidd.net/2020/12/10/phone-car.html)
 
 - [枫影夜读 #10——Jared Diamond《枪炮、病菌与钢铁》 - 枫言枫语](https://justinyan.me/post/4398)
 
@@ -40,8 +42,6 @@
 - [事后一根烟是一种文化吗 - 非礼勿言](https://feiliwuyan.com/is-a-cigarette-a-culture-afterwards/)
 
 - [粒子管理器的 C++ 封装 - 云风的 BLOG](https://blog.codingnow.com/2020/11/ps_cpp_warpper.html)
-
-- [工学领域主要研究手段 - 非礼勿言](https://feiliwuyan.com/main-research-methods-in-eng/)
 
 
 
