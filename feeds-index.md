@@ -1,7 +1,9 @@
-*更新时间：12-12 22:50*
+*更新时间：12-13 09:05*
 
 
 
+
+- [Vol.31 2077，你赛博朋克了吗？ - 枫言枫语](https://justinyan.me/post/4402)
 
 - [妈妈的送命题 - 尺宅江湖](http://www.qtwm.com/?p=4728)
 
@@ -40,8 +42,6 @@
 - [枫影夜读 #9 —— 黄仁宇《中国大历史》 - 枫言枫语](https://justinyan.me/post/4393)
 
 - [新家 - 狡猫三窝](https://slykiten.com/life-note/new_home/)
-
-- [Vol.30 科技007：5G只能用来凡尔赛吗？ - 枫言枫语](https://justinyan.me/post/4388)
 
 
 
