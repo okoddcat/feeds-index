@@ -1,7 +1,9 @@
-*更新时间：12-14 21:50*
+*更新时间：12-15 23:05*
 
 
 
+
+- [当我发呆时，我在想什么 - 陈仓颉](https://imzm.im/what-i-am-thinking-while-i-am-idle/)
 
 - [【三近斋杂记】四：偷得浮生半日闲 - 尺宅江湖](http://www.qtwm.com/?p=4735)
 
@@ -40,8 +42,6 @@
 - [保持警惕 - 随望淡思](https://www.lushaojun.com/4741.html)
 
 - [倘若日常便是道 - 尺宅江湖](http://www.qtwm.com/?p=4694)
-
-- [粒子系统中的材质组织 - 云风的 BLOG](https://blog.codingnow.com/2020/12/particle_system_material.html)
 
 
 
