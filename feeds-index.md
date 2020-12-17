@@ -1,7 +1,9 @@
-*更新时间：12-15 23:50*
+*更新时间：12-17 11:05*
 
 
 
+
+- [内存的惰性初始化 - 云风的 BLOG](https://blog.codingnow.com/2020/12/lazy_memory.html)
 
 - [宋太祖凶猛 - 尺宅江湖](http://www.qtwm.com/?p=4739)
 
@@ -40,8 +42,6 @@
 - [集齐《陈寅恪全集》 - 尺宅江湖](http://www.qtwm.com/?p=4697)
 
 - [一加8T 使用体验 - 陈仓颉](https://imzm.im/oneplus-8t/)
-
-- [保持警惕 - 随望淡思](https://www.lushaojun.com/4741.html)
 
 
 
