@@ -1,7 +1,9 @@
-*更新时间：12-20 18:50*
+*更新时间：12-20 20:50*
 
 
 
+
+- [我（怎么）还不是诗人 - 尺宅江湖](http://www.qtwm.com/?p=4770)
 
 - [「明日世界生存指南——给女儿的三十封信」连载完毕 - 一天世界](https://blog.yitianshijie.net/2020/12/20/surviving-in-the-near-future/)
 
@@ -40,8 +42,6 @@
 - [元気でいるよ - 渚碧](https://jubeny.com/2020/12/i-am-fine/)
 
 - [macOS下IDEA、PyCharm、WebStorm等IDE的字体渲染问题 - 40huo's - 知至知终](https://www.40huo.cn/blog/macos-ide-font-render.html)
-
-- [【三近斋笔记】一 - 尺宅江湖](http://www.qtwm.com/?p=4700)
 
 
 
