@@ -1,9 +1,11 @@
-*更新时间：12-20 23:50*
+*更新时间：12-21 00:05*
 
 
 
 
 - [事不过三 - 攻城狮笔记](https://qumac.com/?p=1881)
+
+- [继三丧门之后 - 破袜子](https://pewae.com/2020/12/e7bba7-e4b889-e4b8a7-e997a8-e4b98b-e5908e.html)
 
 - [秋冬季 - 陈仓颉](https://imzm.im/fall-and-winter/)
 
@@ -40,8 +42,6 @@
 - [【三近斋杂记】二 - 尺宅江湖](http://www.qtwm.com/?p=4712)
 
 - [手机和车 - 伪医生律师的博客](https://chidd.net/2020/12/10/phone-car.html)
-
-- [枫影夜读 #10——Jared Diamond《枪炮、病菌与钢铁》 - 枫言枫语](https://justinyan.me/post/4398)
 
 
 
