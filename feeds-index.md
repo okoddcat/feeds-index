@@ -1,7 +1,9 @@
-*更新时间：12-19 16:50*
+*更新时间：12-20 18:50*
 
 
 
+
+- [「明日世界生存指南——给女儿的三十封信」连载完毕 - 一天世界](https://blog.yitianshijie.net/2020/12/20/surviving-in-the-near-future/)
 
 - [也闲书局巡阅使 - 尺宅江湖](http://www.qtwm.com/?p=4742)
 
@@ -40,8 +42,6 @@
 - [macOS下IDEA、PyCharm、WebStorm等IDE的字体渲染问题 - 40huo's - 知至知终](https://www.40huo.cn/blog/macos-ide-font-render.html)
 
 - [【三近斋笔记】一 - 尺宅江湖](http://www.qtwm.com/?p=4700)
-
-- [从罗永浩说起 - 伪医生律师的博客](https://chidd.net/2020/12/09/tuo-kou-xiu.html)
 
 
 
