@@ -1,7 +1,11 @@
-*更新时间：12-20 20:50*
+*更新时间：12-20 23:50*
 
 
 
+
+- [事不过三 - 攻城狮笔记](https://qumac.com/?p=1881)
+
+- [秋冬季 - 陈仓颉](https://imzm.im/fall-and-winter/)
 
 - [我（怎么）还不是诗人 - 尺宅江湖](http://www.qtwm.com/?p=4770)
 
@@ -38,10 +42,6 @@
 - [手机和车 - 伪医生律师的博客](https://chidd.net/2020/12/10/phone-car.html)
 
 - [枫影夜读 #10——Jared Diamond《枪炮、病菌与钢铁》 - 枫言枫语](https://justinyan.me/post/4398)
-
-- [元気でいるよ - 渚碧](https://jubeny.com/2020/12/i-am-fine/)
-
-- [macOS下IDEA、PyCharm、WebStorm等IDE的字体渲染问题 - 40huo's - 知至知终](https://www.40huo.cn/blog/macos-ide-font-render.html)
 
 
 
