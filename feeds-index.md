@@ -1,4 +1,4 @@
-*更新时间：12-22 13:50*
+*更新时间：12-22 14:50*
 
 
 
@@ -29,6 +29,8 @@
 
 - [当我发呆时，我在想什么 - 陈仓颉](https://imzm.im/what-i-am-thinking-while-i-am-idle/)
 
+- [假装是个烟民 - 攻城狮笔记](https://qumac.com/?p=1891)
+
 - [【三近斋杂记】四：偷得浮生半日闲 - 尺宅江湖](http://www.qtwm.com/?p=4735)
 
 - [重温老片《环游世界八十天》 - 破袜子](https://pewae.com/2020/12/review-around-the-world-in-80-days.html)
@@ -40,8 +42,6 @@
 - [妈妈的送命题 - 尺宅江湖](http://www.qtwm.com/?p=4728)
 
 - [网上申请转移社保？呵呵 - 林海草原](https://lhcy.org/archives/155.html)
-
-- [ - 狡猫三窝](https://slykiten.com/research/6060/)
 
 
 
