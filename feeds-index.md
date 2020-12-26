@@ -1,7 +1,9 @@
-*更新时间：12-26 17:05*
+*更新时间：12-26 17:50*
 
 
 
+
+- [Go编程模式：Pipeline - 酷 壳 – CoolShell](https://coolshell.cn/articles/21228.html)
 
 - [Go编程模式：委托和反转控制 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21214.html)
 
@@ -40,8 +42,6 @@
 - [人生苦短 - 随望淡思](https://www.lushaojun.com/4744.html)
 
 - [Go编程模式：切片，接口，时间和性能 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21128.html)
-
-- [内存的惰性初始化 - 云风的 BLOG](https://blog.codingnow.com/2020/12/lazy_memory.html)
 
 
 
