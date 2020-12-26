@@ -1,13 +1,19 @@
-*更新时间：12-26 16:05*
+*更新时间：12-26 17:05*
 
 
 
+
+- [Go编程模式：委托和反转控制 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21214.html)
 
 - [【三近斋杂记】七：表白 - 尺宅江湖](http://www.qtwm.com/?p=4796)
 
 - [【三近斋杂记】六：圣诞节的礼物 - 尺宅江湖](http://www.qtwm.com/?p=4793)
 
+- [Go 编程模式：Go Generation - 酷 壳 – CoolShell](https://coolshell.cn/articles/21179.html)
+
 - [WW84? - 陈仓颉](https://imzm.im/ww84/)
+
+- [Go编程模式：Map-Reduce - 酷 壳 – CoolShell](https://coolshell.cn/articles/21164.html)
 
 - [Go 编程模式：Functional Options - 酷 壳 – CoolShell](https://coolshell.cn/articles/21146.html)
 
@@ -36,12 +42,6 @@
 - [Go编程模式：切片，接口，时间和性能 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21128.html)
 
 - [内存的惰性初始化 - 云风的 BLOG](https://blog.codingnow.com/2020/12/lazy_memory.html)
-
-- [百度为什么掉队了 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21113.html)
-
-- [宋太祖凶猛 - 尺宅江湖](http://www.qtwm.com/?p=4739)
-
-- [当我发呆时，我在想什么 - 陈仓颉](https://imzm.im/what-i-am-thinking-while-i-am-idle/)
 
 
 
