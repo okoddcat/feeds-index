@@ -1,7 +1,9 @@
-*更新时间：12-26 19:50*
+*更新时间：12-26 22:50*
 
 
 
+
+- [愿望 - 尺宅江湖](http://www.qtwm.com/?p=4802)
 
 - [Go 编程模式：k8s Visitor 模式 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21263.html)
 
@@ -40,8 +42,6 @@
 - [「明日世界生存指南——给女儿的三十封信」连载完毕 - 一天世界](https://blog.yitianshijie.net/2020/12/20/surviving-in-the-near-future/)
 
 - [也闲书局巡阅使 - 尺宅江湖](http://www.qtwm.com/?p=4742)
-
-- [人生苦短 - 随望淡思](https://www.lushaojun.com/4744.html)
 
 
 
