@@ -1,7 +1,9 @@
-*更新时间：12-27 21:50*
+*更新时间：12-27 22:50*
 
 
 
+
+- [凝固时光 - 随望淡思](https://www.lushaojun.com/4746.html)
 
 - [【人间喜剧】二：最好的事情 - 尺宅江湖](http://www.qtwm.com/?p=4808)
 
@@ -40,8 +42,6 @@
 - [秋冬季 - 陈仓颉](https://imzm.im/fall-and-winter/)
 
 - [我（怎么）还不是诗人 - 尺宅江湖](http://www.qtwm.com/?p=4770)
-
-- [「明日世界生存指南——给女儿的三十封信」连载完毕 - 一天世界](https://blog.yitianshijie.net/2020/12/20/surviving-in-the-near-future/)
 
 
 
