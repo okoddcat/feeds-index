@@ -1,4 +1,4 @@
-*更新时间：12-27 22:50*
+*更新时间：12-28 08:50*
 
 
 
@@ -6,6 +6,8 @@
 - [凝固时光 - 随望淡思](https://www.lushaojun.com/4746.html)
 
 - [【人间喜剧】二：最好的事情 - 尺宅江湖](http://www.qtwm.com/?p=4808)
+
+- [2020 年年终总结 - DHTalk's Blog](https://zhangdinghao.cn/2020/12/27/goodbye2020/)
 
 - [愿望 - 尺宅江湖](http://www.qtwm.com/?p=4802)
 
@@ -40,8 +42,6 @@
 - [继三丧门之后 - 破袜子](https://pewae.com/2020/12/e7bba7-e4b889-e4b8a7-e997a8-e4b98b-e5908e.html)
 
 - [秋冬季 - 陈仓颉](https://imzm.im/fall-and-winter/)
-
-- [我（怎么）还不是诗人 - 尺宅江湖](http://www.qtwm.com/?p=4770)
 
 
 
