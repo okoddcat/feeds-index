@@ -1,7 +1,11 @@
-*更新时间：12-30 12:05*
+*更新时间：12-30 21:50*
 
 
 
+
+- [2020读书记录 - 破袜子](https://pewae.com/2020/12/2020-reading-record.html)
+
+- [【人间喜剧】六：如人饮水 - 尺宅江湖](http://www.qtwm.com/?p=4845)
 
 - [我的2020年年终总结 - 伪医生律师的博客](https://chidd.net/2020/12/30/2020-zong-jie.html)
 
@@ -38,10 +42,6 @@
 - [WW84? - 陈仓颉](https://imzm.im/ww84/)
 
 - [Go编程模式：Map-Reduce - 酷 壳 – CoolShell](https://coolshell.cn/articles/21164.html)
-
-- [Go 编程模式：Functional Options - 酷 壳 – CoolShell](https://coolshell.cn/articles/21146.html)
-
-- [大江大河2 - 攻城狮笔记](https://qumac.com/?p=1886)
 
 
 
