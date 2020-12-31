@@ -1,7 +1,9 @@
-*更新时间：12-31 12:05*
+*更新时间：12-31 20:50*
 
 
 
+
+- [失败2020 - 陈仓颉](https://imzm.im/lost-in-2020/)
 
 - [三希堂法帖-书格 - 攻城狮笔记](https://qumac.com/?p=1894)
 
@@ -40,8 +42,6 @@
 - [【三近斋杂记】七：表白 - 尺宅江湖](http://www.qtwm.com/?p=4796)
 
 - [【三近斋杂记】六：圣诞节的礼物 - 尺宅江湖](http://www.qtwm.com/?p=4793)
-
-- [Go 编程模式：Go Generation - 酷 壳 – CoolShell](https://coolshell.cn/articles/21179.html)
 
 
 
