@@ -1,7 +1,9 @@
-*更新时间：12-30 21:50*
+*更新时间：12-31 11:05*
 
 
 
+
+- [论道歉的正确姿势 - 伪医生律师的博客](https://chidd.net/2020/12/31/guo-jing-ming.html)
 
 - [2020读书记录 - 破袜子](https://pewae.com/2020/12/2020-reading-record.html)
 
@@ -40,8 +42,6 @@
 - [Go 编程模式：Go Generation - 酷 壳 – CoolShell](https://coolshell.cn/articles/21179.html)
 
 - [WW84? - 陈仓颉](https://imzm.im/ww84/)
-
-- [Go编程模式：Map-Reduce - 酷 壳 – CoolShell](https://coolshell.cn/articles/21164.html)
 
 
 
