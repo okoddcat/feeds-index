@@ -1,7 +1,9 @@
-*更新时间：12-31 20:50*
+*更新时间：12-31 21:50*
 
 
 
+
+- [【总结】2020の读写看 - 尺宅江湖](http://www.qtwm.com/?p=4852)
 
 - [失败2020 - 陈仓颉](https://imzm.im/lost-in-2020/)
 
@@ -40,8 +42,6 @@
 - [Go编程模式：委托和反转控制 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21214.html)
 
 - [【三近斋杂记】七：表白 - 尺宅江湖](http://www.qtwm.com/?p=4796)
-
-- [【三近斋杂记】六：圣诞节的礼物 - 尺宅江湖](http://www.qtwm.com/?p=4793)
 
 
 
