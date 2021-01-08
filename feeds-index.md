@@ -1,7 +1,9 @@
-*更新时间：01-06 23:50*
+*更新时间：01-08 20:50*
 
 
 
+
+- [下品之花 - 一天世界](https://blog.yitianshijie.net/2021/01/08/gehin-no-hana/)
 
 - [【何事惊慌】十六：安忍 - 尺宅江湖](http://www.qtwm.com/?p=4932)
 
@@ -40,8 +42,6 @@
 - [写于2020年末 - 随望淡思](https://www.lushaojun.com/4749.html)
 
 - [【总结】2020の读写看 - 尺宅江湖](http://www.qtwm.com/?p=4852)
-
-- [失败2020 - 陈仓颉](https://imzm.im/lost-in-2020/)
 
 
 
