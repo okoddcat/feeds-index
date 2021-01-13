@@ -1,7 +1,9 @@
-*更新时间：01-13 17:50*
+*更新时间：01-13 18:50*
 
 
 
+
+- [也谈996 - oldj's blog](https://oldj.net/article/2021/01/13/talk-about-996/)
 
 - [路边汽修店套路多 - 伪医生律师的博客](https://chidd.net/2021/01/13/tao-lu-2.html)
 
@@ -40,8 +42,6 @@
 - [【何事惊慌】十三：小女生的眼神 - 尺宅江湖](http://www.qtwm.com/?p=4918)
 
 - [【何事惊慌】十二：奥特曼家族研究专家 - 尺宅江湖](http://www.qtwm.com/?p=4909)
-
-- [再见，虾米 - 狡猫三窝](https://slykiten.com/life-note/goodbye-xiami/)
 
 
 
