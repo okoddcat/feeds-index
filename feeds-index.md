@@ -1,7 +1,9 @@
-*更新时间：01-19 22:05*
+*更新时间：01-20 03:50*
 
 
 
+
+- [好中文第15课：读书的终极方法–评点法 - 白板报](https://wangpei.net/2021/01/20/the-commentary-tradition-of-chinese-literature/)
 
 - [装饰 - 尺宅江湖](http://www.qtwm.com/?p=4970)
 
@@ -40,8 +42,6 @@
 - [电影推个荐/2020-2 - 非礼勿言](https://feiliwuyan.com/movie-recommendation-2020-2/)
 
 - [GFW 君临香港 - 一天世界](https://blog.yitianshijie.net/2021/01/09/the-advent-of-gfw-in-hong-kong/)
-
-- [下品之花 - 一天世界](https://blog.yitianshijie.net/2021/01/08/gehin-no-hana/)
 
 
 
