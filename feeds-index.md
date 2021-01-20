@@ -1,7 +1,9 @@
-*更新时间：01-20 03:50*
+*更新时间：01-20 08:50*
 
 
 
+
+- [Vol. 32 未来简史，当旧神遇上新科技 - 枫言枫语](https://justinyan.me/post/4419)
 
 - [好中文第15课：读书的终极方法–评点法 - 白板报](https://wangpei.net/2021/01/20/the-commentary-tradition-of-chinese-literature/)
 
@@ -40,8 +42,6 @@
 - [再见，奶奶（上） - 林海草原](https://lhcy.org/archives/157.html)
 
 - [电影推个荐/2020-2 - 非礼勿言](https://feiliwuyan.com/movie-recommendation-2020-2/)
-
-- [GFW 君临香港 - 一天世界](https://blog.yitianshijie.net/2021/01/09/the-advent-of-gfw-in-hong-kong/)
 
 
 
