@@ -1,7 +1,9 @@
-*更新时间：01-21 11:05*
+*更新时间：01-21 12:50*
 
 
 
+
+- [RSS 阅读器回春 - 一天世界](https://blog.yitianshijie.net/2021/01/21/revitalization-of-rss-readers/)
 
 - [科技创业者不是好编辑 - 一天世界](https://blog.yitianshijie.net/2021/01/21/entrepreneurs-are-lousy-editors/)
 
@@ -40,8 +42,6 @@
 - [【何事惊慌】十八：人间味 - 尺宅江湖](http://www.qtwm.com/?p=4944)
 
 - [【何事惊慌】十七：做好自己 - 尺宅江湖](http://www.qtwm.com/?p=4937)
-
-- [十二月的雪 - 非礼勿言](https://feiliwuyan.com/december-snow-r2/)
 
 
 
