@@ -1,7 +1,9 @@
-*更新时间：01-20 15:50*
+*更新时间：01-21 11:05*
 
 
 
+
+- [科技创业者不是好编辑 - 一天世界](https://blog.yitianshijie.net/2021/01/21/entrepreneurs-are-lousy-editors/)
 
 - [枫影夜读 #11——尤瓦尔·赫拉利《未来简史》 - 枫言枫语](https://justinyan.me/post/4415)
 
@@ -40,8 +42,6 @@
 - [【何事惊慌】十七：做好自己 - 尺宅江湖](http://www.qtwm.com/?p=4937)
 
 - [十二月的雪 - 非礼勿言](https://feiliwuyan.com/december-snow-r2/)
-
-- [再见，奶奶（上） - 林海草原](https://lhcy.org/archives/157.html)
 
 
 
