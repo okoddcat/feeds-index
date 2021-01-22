@@ -1,7 +1,9 @@
-*更新时间：01-22 12:50*
+*更新时间：01-22 18:50*
 
 
 
+
+- [我走过的2020 - 林海草原](https://lhcy.org/archives/158.html)
 
 - [关于 skynet 调度器的一点想法(续) - 云风的 BLOG](https://blog.codingnow.com/2021/01/new_schedule.html)
 
@@ -40,8 +42,6 @@
 - [把 skynet 的原子操作换成了 stdatomic  - 云风的 BLOG](https://blog.codingnow.com/2021/01/skynet_stdatomic.html)
 
 - [当我发呆时，我在想什么 – 季冬 - 陈仓颉](https://imzm.im/idle-jan-2020/)
-
-- [卸载支付宝之后 - 渚碧](https://jubeny.com/2021/01/after-uninstalling-alipay/)
 
 
 
