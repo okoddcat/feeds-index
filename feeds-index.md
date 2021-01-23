@@ -1,7 +1,9 @@
-*更新时间：01-22 20:50*
+*更新时间：01-23 10:50*
 
 
 
+
+- [如何提高中国民众的爵士乐欣赏水平 - 一天世界](https://blog.yitianshijie.net/2021/01/23/how-to-make-chinese-people-like-jazz/)
 
 - [好朋友 - 非礼勿言](https://feiliwuyan.com/once-i-have-many-good-friends/)
 
@@ -40,8 +42,6 @@
 - [路边汽修店套路多 - 伪医生律师的博客](https://chidd.net/2021/01/13/tao-lu-2.html)
 
 - [【何事惊慌】十九：未完待续 - 尺宅江湖](http://www.qtwm.com/?p=4950)
-
-- [把 skynet 的原子操作换成了 stdatomic  - 云风的 BLOG](https://blog.codingnow.com/2021/01/skynet_stdatomic.html)
 
 
 
