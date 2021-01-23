@@ -1,7 +1,9 @@
-*更新时间：01-23 10:50*
+*更新时间：01-23 11:50*
 
 
 
+
+- [Read.002《俞军产品方法论》产品经理的高级进阶 - DHTalk's Blog](https://zhangdinghao.cn/2021/01/23/read002/)
 
 - [如何提高中国民众的爵士乐欣赏水平 - 一天世界](https://blog.yitianshijie.net/2021/01/23/how-to-make-chinese-people-like-jazz/)
 
@@ -40,8 +42,6 @@
 - [也谈996 - oldj's blog](https://oldj.net/article/2021/01/13/talk-about-996/)
 
 - [路边汽修店套路多 - 伪医生律师的博客](https://chidd.net/2021/01/13/tao-lu-2.html)
-
-- [【何事惊慌】十九：未完待续 - 尺宅江湖](http://www.qtwm.com/?p=4950)
 
 
 
