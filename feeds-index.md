@@ -1,7 +1,9 @@
-*更新时间：01-23 11:50*
+*更新时间：01-24 15:05*
 
 
 
+
+- [反封装的世界 - 一天世界](https://blog.yitianshijie.net/2021/01/24/internet-is-anti-encapsulation/)
 
 - [Read.002《俞军产品方法论》产品经理的高级进阶 - DHTalk's Blog](https://zhangdinghao.cn/2021/01/23/read002/)
 
@@ -40,8 +42,6 @@
 - [新疆美食之：马肠 - 伪医生律师的博客](https://chidd.net/2021/01/14/ma-chang.html)
 
 - [也谈996 - oldj's blog](https://oldj.net/article/2021/01/13/talk-about-996/)
-
-- [路边汽修店套路多 - 伪医生律师的博客](https://chidd.net/2021/01/13/tao-lu-2.html)
 
 
 
