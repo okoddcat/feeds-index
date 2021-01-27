@@ -1,9 +1,11 @@
-*更新时间：01-27 23:05*
+*更新时间：01-28 00:50*
 
 
 
 
 - [【读书记】《明亮的对话：公共说理十八讲》一 - 尺宅江湖](http://www.qtwm.com/?p=4988)
+
+- [亚里士多德与处女 - 渚碧](https://jubeny.com/2021/01/aristotle-and-virgin/)
 
 - [帮师弟找回近50万块钱的比特币 - 土木坛子](https://tumutanzi.com/archives/16773)
 
@@ -40,8 +42,6 @@
 - [Vol. 32 未来简史，当旧神遇上新科技 - 枫言枫语](https://justinyan.me/post/4419)
 
 - [好中文第15课：读书的终极方法–评点法 - 白板报](https://wangpei.net/2021/01/20/the-commentary-tradition-of-chinese-literature/)
-
-- [在地铁上两次遇到“矿业富婆”…… - 土木坛子](https://tumutanzi.com/archives/16771)
 
 
 
