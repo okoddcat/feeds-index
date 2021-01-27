@@ -1,7 +1,9 @@
-*更新时间：01-27 20:50*
+*更新时间：01-27 23:05*
 
 
 
+
+- [【读书记】《明亮的对话：公共说理十八讲》一 - 尺宅江湖](http://www.qtwm.com/?p=4988)
 
 - [帮师弟找回近50万块钱的比特币 - 土木坛子](https://tumutanzi.com/archives/16773)
 
@@ -40,8 +42,6 @@
 - [好中文第15课：读书的终极方法–评点法 - 白板报](https://wangpei.net/2021/01/20/the-commentary-tradition-of-chinese-literature/)
 
 - [在地铁上两次遇到“矿业富婆”…… - 土木坛子](https://tumutanzi.com/archives/16771)
-
-- [装饰 - 尺宅江湖](http://www.qtwm.com/?p=4970)
 
 
 
