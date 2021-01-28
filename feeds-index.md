@@ -1,4 +1,4 @@
-*更新时间：01-28 16:50*
+*更新时间：01-28 22:50*
 
 
 
@@ -8,6 +8,8 @@
 - [【读书记】《明亮的对话：公共说理十八讲》一 - 尺宅江湖](http://www.qtwm.com/?p=4988)
 
 - [亚里士多德与处女 - 渚碧](https://jubeny.com/2021/01/aristotle-and-virgin/)
+
+- [余早合集（篇三） - 雨落泪尽](https://couqiao.net/archives/collection-of-yu-zao-part-3.html)
 
 - [帮师弟找回近50万块钱的比特币 - 土木坛子](https://tumutanzi.com/archives/16773)
 
@@ -40,8 +42,6 @@
 - [科技创业者不是好编辑 - 一天世界](https://blog.yitianshijie.net/2021/01/21/entrepreneurs-are-lousy-editors/)
 
 - [枫影夜读 #11——尤瓦尔·赫拉利《未来简史》 - 枫言枫语](https://justinyan.me/post/4415)
-
-- [Vol. 32 未来简史，当旧神遇上新科技 - 枫言枫语](https://justinyan.me/post/4419)
 
 
 
