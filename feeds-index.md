@@ -1,7 +1,9 @@
-*更新时间：01-28 22:50*
+*更新时间：01-29 21:50*
 
 
 
+
+- [生活的味道 - 陈仓颉](https://imzm.im/taste-of-life/)
 
 - [故地重游 - 狡猫三窝](https://slykiten.com/life-note/back-to-the-university/)
 
@@ -40,8 +42,6 @@
 - [RSS 阅读器回春 - 一天世界](https://blog.yitianshijie.net/2021/01/21/revitalization-of-rss-readers/)
 
 - [科技创业者不是好编辑 - 一天世界](https://blog.yitianshijie.net/2021/01/21/entrepreneurs-are-lousy-editors/)
-
-- [枫影夜读 #11——尤瓦尔·赫拉利《未来简史》 - 枫言枫语](https://justinyan.me/post/4415)
 
 
 
