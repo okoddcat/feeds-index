@@ -1,7 +1,9 @@
-*更新时间：01-30 23:50*
+*更新时间：01-31 01:50*
 
 
 
+
+- [微信十年的产品思考 - 陈仓颉](https://imzm.im/my-thoughts-on-wechat-ten-years/)
 
 - [世遗雕版《龙藏地藏经》 - 尺宅江湖](http://www.qtwm.com/?p=5004)
 
@@ -40,8 +42,6 @@
 - [关于 skynet 调度器的一点想法(续) - 云风的 BLOG](https://blog.codingnow.com/2021/01/new_schedule.html)
 
 - [旧锻坊题题题 - 尺宅江湖](http://www.qtwm.com/?p=4977)
-
-- [RSS 阅读器回春 - 一天世界](https://blog.yitianshijie.net/2021/01/21/revitalization-of-rss-readers/)
 
 
 
