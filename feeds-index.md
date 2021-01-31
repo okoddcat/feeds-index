@@ -1,7 +1,9 @@
-*更新时间：01-31 11:50*
+*更新时间：01-31 15:50*
 
 
 
+
+- [我是如何统计个人财务状况的 - 枫言枫语](https://justinyan.me/post/4427)
 
 - [推荐：东野圭吾《白夜行》 - 伪医生律师的博客](https://chidd.net/2021/01/31/bai-ye-xing.html)
 
@@ -40,8 +42,6 @@
 - [好朋友 - 非礼勿言](https://feiliwuyan.com/once-i-have-many-good-friends/)
 
 - [我走过的2020 - 林海草原](https://lhcy.org/archives/158.html)
-
-- [关于 skynet 调度器的一点想法(续) - 云风的 BLOG](https://blog.codingnow.com/2021/01/new_schedule.html)
 
 
 
