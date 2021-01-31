@@ -1,7 +1,9 @@
-*更新时间：01-31 15:50*
+*更新时间：01-31 21:50*
 
 
 
+
+- [【读书记】《明亮的对话：公共说理十八讲》二 - 尺宅江湖](http://www.qtwm.com/?p=5010)
 
 - [我是如何统计个人财务状况的 - 枫言枫语](https://justinyan.me/post/4427)
 
@@ -40,8 +42,6 @@
 - [如何提高中国民众的爵士乐欣赏水平 - 一天世界](https://blog.yitianshijie.net/2021/01/23/how-to-make-chinese-people-like-jazz/)
 
 - [好朋友 - 非礼勿言](https://feiliwuyan.com/once-i-have-many-good-friends/)
-
-- [我走过的2020 - 林海草原](https://lhcy.org/archives/158.html)
 
 
 
