@@ -1,9 +1,13 @@
-*更新时间：01-31 21:50*
+*更新时间：01-31 22:50*
 
 
 
+
+- [一道选择题：朋友or恋人 - 非礼勿言](https://feiliwuyan.com/what-will-you-choose-friends-or-lovers/)
 
 - [【读书记】《明亮的对话：公共说理十八讲》二 - 尺宅江湖](http://www.qtwm.com/?p=5010)
+
+- [2021年1月投资月报：投资还是投机？ - DHTalk's Blog](https://zhangdinghao.cn/2021/01/31/investment2101/)
 
 - [我是如何统计个人财务状况的 - 枫言枫语](https://justinyan.me/post/4427)
 
@@ -38,10 +42,6 @@
 - [反封装的世界 - 一天世界](https://blog.yitianshijie.net/2021/01/24/internet-is-anti-encapsulation/)
 
 - [Read.002《俞军产品方法论》产品经理的高级进阶 - DHTalk's Blog](https://zhangdinghao.cn/2021/01/23/read002/)
-
-- [如何提高中国民众的爵士乐欣赏水平 - 一天世界](https://blog.yitianshijie.net/2021/01/23/how-to-make-chinese-people-like-jazz/)
-
-- [好朋友 - 非礼勿言](https://feiliwuyan.com/once-i-have-many-good-friends/)
 
 
 
