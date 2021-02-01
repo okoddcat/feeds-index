@@ -1,7 +1,9 @@
-*更新时间：01-31 22:50*
+*更新时间：02-01 16:50*
 
 
 
+
+- [自私的基因观点下的婚姻 - 渚碧](https://jubeny.com/2021/02/marriage-under-the-view-of-selfish-gene/)
 
 - [一道选择题：朋友or恋人 - 非礼勿言](https://feiliwuyan.com/what-will-you-choose-friends-or-lovers/)
 
@@ -40,8 +42,6 @@
 - [回家难 - 随望淡思](https://www.lushaojun.com/4757.html)
 
 - [反封装的世界 - 一天世界](https://blog.yitianshijie.net/2021/01/24/internet-is-anti-encapsulation/)
-
-- [Read.002《俞军产品方法论》产品经理的高级进阶 - DHTalk's Blog](https://zhangdinghao.cn/2021/01/23/read002/)
 
 
 
