@@ -1,7 +1,9 @@
-*更新时间：02-01 16:50*
+*更新时间：02-03 12:50*
 
 
 
+
+- [当我发呆时，我在拍什么 – 立春 - 陈仓颉](https://imzm.im/idle-shooting-feb/)
 
 - [自私的基因观点下的婚姻 - 渚碧](https://jubeny.com/2021/02/marriage-under-the-view-of-selfish-gene/)
 
@@ -40,8 +42,6 @@
 - [广东的冬天寒流 - 土木坛子](https://tumutanzi.com/archives/16772)
 
 - [回家难 - 随望淡思](https://www.lushaojun.com/4757.html)
-
-- [反封装的世界 - 一天世界](https://blog.yitianshijie.net/2021/01/24/internet-is-anti-encapsulation/)
 
 
 
