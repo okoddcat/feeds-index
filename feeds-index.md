@@ -1,7 +1,9 @@
-*更新时间：02-04 18:50*
+*更新时间：02-05 15:50*
 
 
 
+
+- [【读书记】《明亮的对话：公共说理十八讲》三 - 尺宅江湖](http://www.qtwm.com/?p=5022)
 
 - [Clubhouse 印象 - 一天世界](https://blog.yitianshijie.net/2021/02/04/clubhouse-first-impressions/)
 
@@ -40,8 +42,6 @@
 - [【淘书记】按图索骥 - 尺宅江湖](http://www.qtwm.com/?p=4984)
 
 - [寒假作业 - 尺宅江湖](http://www.qtwm.com/?p=4980)
-
-- [广东的冬天寒流 - 土木坛子](https://tumutanzi.com/archives/16772)
 
 
 
