@@ -1,7 +1,9 @@
-*更新时间：02-05 15:50*
+*更新时间：02-06 21:50*
 
 
 
+
+- [水茧房（Clubhouse）不值得信任 - 一天世界](https://blog.yitianshijie.net/2021/02/06/do-not-trust-clubhouse/)
 
 - [【读书记】《明亮的对话：公共说理十八讲》三 - 尺宅江湖](http://www.qtwm.com/?p=5022)
 
@@ -40,8 +42,6 @@
 - [一点碎碎念 - 陈仓颉](https://imzm.im/gossip-january/)
 
 - [【淘书记】按图索骥 - 尺宅江湖](http://www.qtwm.com/?p=4984)
-
-- [寒假作业 - 尺宅江湖](http://www.qtwm.com/?p=4980)
 
 
 
