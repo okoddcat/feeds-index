@@ -1,7 +1,9 @@
-*更新时间：02-08 12:50*
+*更新时间：02-08 17:05*
 
 
 
+
+- [如何区分真正的好东西和集体意淫？ - 一天世界](https://blog.yitianshijie.net/2021/02/08/how-to-tell-real-good-things-from-fake-ones-you-cannot-because-all-good-things-are-fake/)
 
 - [Vol. 33 沉迷Clubhouse，当声音在此相遇 - 枫言枫语](https://justinyan.me/post/4436)
 
@@ -40,8 +42,6 @@
 - [亚里士多德与处女 - 渚碧](https://jubeny.com/2021/01/aristotle-and-virgin/)
 
 - [余早合集（篇三） - 雨落泪尽](https://couqiao.net/archives/collection-of-yu-zao-part-3.html)
-
-- [帮师弟找回近50万块钱的比特币 - 土木坛子](https://tumutanzi.com/archives/16773)
 
 
 
