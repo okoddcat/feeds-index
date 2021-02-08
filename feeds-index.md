@@ -1,9 +1,11 @@
-*更新时间：02-08 17:05*
+*更新时间：02-08 17:50*
 
 
 
 
 - [如何区分真正的好东西和集体意淫？ - 一天世界](https://blog.yitianshijie.net/2021/02/08/how-to-tell-real-good-things-from-fake-ones-you-cannot-because-all-good-things-are-fake/)
+
+- [补记新旧书四种 - 尺宅江湖](http://www.qtwm.com/?p=5038)
 
 - [Vol. 33 沉迷Clubhouse，当声音在此相遇 - 枫言枫语](https://justinyan.me/post/4436)
 
@@ -40,8 +42,6 @@
 - [【读书记】《明亮的对话：公共说理十八讲》一 - 尺宅江湖](http://www.qtwm.com/?p=4988)
 
 - [亚里士多德与处女 - 渚碧](https://jubeny.com/2021/01/aristotle-and-virgin/)
-
-- [余早合集（篇三） - 雨落泪尽](https://couqiao.net/archives/collection-of-yu-zao-part-3.html)
 
 
 
