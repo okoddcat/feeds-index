@@ -1,7 +1,9 @@
-*更新时间：02-10 23:50*
+*更新时间：02-11 07:50*
 
 
 
+
+- [日更的力量 - 白板报](https://wangpei.net/2021/02/11/the-power-of-daily-writing/)
 
 - [每夫吐槽（058） - 破袜子](https://pewae.com/2021/02/random_kuso_58.html)
 
@@ -40,8 +42,6 @@
 - [推荐：东野圭吾《白夜行》 - 伪医生律师的博客](https://chidd.net/2021/01/31/bai-ye-xing.html)
 
 - [微信十年的产品思考 - 陈仓颉](https://imzm.im/my-thoughts-on-wechat-ten-years/)
-
-- [世遗雕版《龙藏地藏经》 - 尺宅江湖](http://www.qtwm.com/?p=5004)
 
 
 
