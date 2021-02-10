@@ -1,7 +1,9 @@
-*更新时间：02-10 23:05*
+*更新时间：02-10 23:50*
 
 
 
+
+- [每夫吐槽（058） - 破袜子](https://pewae.com/2021/02/random_kuso_58.html)
 
 - [【读书记】《阅读经典：美国大学的人文教育》 - 尺宅江湖](http://www.qtwm.com/?p=5046)
 
@@ -40,8 +42,6 @@
 - [微信十年的产品思考 - 陈仓颉](https://imzm.im/my-thoughts-on-wechat-ten-years/)
 
 - [世遗雕版《龙藏地藏经》 - 尺宅江湖](http://www.qtwm.com/?p=5004)
-
-- [生活的味道 - 陈仓颉](https://imzm.im/taste-of-life/)
 
 
 
