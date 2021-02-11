@@ -1,7 +1,9 @@
-*更新时间：02-11 21:05*
+*更新时间：02-11 22:05*
 
 
 
+
+- [终究成为祭拜的人 - 随望淡思](https://www.lushaojun.com/4770.html)
 
 - [奇妙的友情 - 渚碧](https://jubeny.com/2021/02/weird-friendship/)
 
@@ -40,8 +42,6 @@
 - [【读书记】《明亮的对话：公共说理十八讲》二 - 尺宅江湖](http://www.qtwm.com/?p=5010)
 
 - [2021年1月投资月报：投资还是投机？ - DHTalk's Blog](https://zhangdinghao.cn/2021/01/31/investment2101/)
-
-- [我是如何统计个人财务状况的 - 枫言枫语](https://justinyan.me/post/4427)
 
 
 
