@@ -1,7 +1,9 @@
-*更新时间：02-11 07:50*
+*更新时间：02-11 11:50*
 
 
 
+
+- [庚子观影记录 - 破袜子](https://pewae.com/2021/02/record-of-movies-2020.html)
 
 - [日更的力量 - 白板报](https://wangpei.net/2021/02/11/the-power-of-daily-writing/)
 
@@ -40,8 +42,6 @@
 - [我是如何统计个人财务状况的 - 枫言枫语](https://justinyan.me/post/4427)
 
 - [推荐：东野圭吾《白夜行》 - 伪医生律师的博客](https://chidd.net/2021/01/31/bai-ye-xing.html)
-
-- [微信十年的产品思考 - 陈仓颉](https://imzm.im/my-thoughts-on-wechat-ten-years/)
 
 
 
