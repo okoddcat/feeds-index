@@ -1,7 +1,9 @@
-*更新时间：02-11 22:05*
+*更新时间：02-12 09:50*
 
 
 
+
+- [2021牛年新春 - 随望淡思](https://www.lushaojun.com/4772.html)
 
 - [终究成为祭拜的人 - 随望淡思](https://www.lushaojun.com/4770.html)
 
@@ -40,8 +42,6 @@
 - [一道选择题：朋友or恋人 - 非礼勿言](https://feiliwuyan.com/what-will-you-choose-friends-or-lovers/)
 
 - [【读书记】《明亮的对话：公共说理十八讲》二 - 尺宅江湖](http://www.qtwm.com/?p=5010)
-
-- [2021年1月投资月报：投资还是投机？ - DHTalk's Blog](https://zhangdinghao.cn/2021/01/31/investment2101/)
 
 
 
