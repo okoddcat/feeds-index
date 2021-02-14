@@ -1,7 +1,9 @@
-*更新时间：02-14 21:05*
+*更新时间：02-14 21:50*
 
 
 
+
+- [买书穷三代，读书毁一生 - 尺宅江湖](http://www.qtwm.com/?p=5077)
 
 - [情人节的思考 - 渚碧](https://jubeny.com/2021/02/thoughts-on-valentine-day/)
 
@@ -40,8 +42,6 @@
 - [ltask ：Lua 的多任务库 - 云风的 BLOG](https://blog.codingnow.com/2021/02/ltask.html)
 
 - [水茧房（Clubhouse）不值得信任 - 一天世界](https://blog.yitianshijie.net/2021/02/06/do-not-trust-clubhouse/)
-
-- [【读书记】《明亮的对话：公共说理十八讲》三 - 尺宅江湖](http://www.qtwm.com/?p=5022)
 
 
 
