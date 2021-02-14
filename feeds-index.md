@@ -1,7 +1,9 @@
-*更新时间：02-14 21:50*
+*更新时间：02-15 00:50*
 
 
 
+
+- [跟喜剧共度一百天1：跟上帝打电话 - 白板报](https://wangpei.net/2021/02/14/comedy-day1-ellen-calls-god/)
 
 - [买书穷三代，读书毁一生 - 尺宅江湖](http://www.qtwm.com/?p=5077)
 
@@ -40,8 +42,6 @@
 - [Vol. 33 沉迷Clubhouse，当声音在此相遇 - 枫言枫语](https://justinyan.me/post/4436)
 
 - [ltask ：Lua 的多任务库 - 云风的 BLOG](https://blog.codingnow.com/2021/02/ltask.html)
-
-- [水茧房（Clubhouse）不值得信任 - 一天世界](https://blog.yitianshijie.net/2021/02/06/do-not-trust-clubhouse/)
 
 
 
