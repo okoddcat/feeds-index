@@ -1,7 +1,33 @@
-*更新时间：02-16 00:50*
+*更新时间：03-08 18:25*
 
 
 
+
+- [醒在边缘之地（上） - 最好金龟换酒](http://fz0512.com/archives/2168)
+
+- [水洒进笔记本电脑后的教训 - 一天世界](https://blog.yitianshijie.net/2021/03/05/what-do-we-learn-after-water-poured-into-laptop/)
+
+- [索尼大法好 - 攻城狮笔记](https://qumac.com/?p=1928)
+
+- [裝（sui）屄（bai）失（you）败（rong） - 一天世界](https://blog.yitianshijie.net/2021/03/02/how-not-to-be-cynical-in-chinese/)
+
+- [每夫吐槽（059） - 破袜子](https://pewae.com/2021/02/random_kuso_59.html)
+
+- [模板或者皮肤 - 攻城狮笔记](https://qumac.com/?p=1923)
+
+- [skynet 处理 TCP 连接半关闭问题 - 云风的 BLOG](https://blog.codingnow.com/2021/02/skynet_tcp_halfclose.html)
+
+- [为什么 Paul Graham 不画画了？ - 一天世界](https://blog.yitianshijie.net/2021/02/20/why-did-paul-graham-stop-painting/)
+
+- [与喜剧共度一百天6:也算失恋 - 白板报](https://wangpei.net/2021/02/20/day6-love-is-counted-to-lost/)
+
+- [与喜剧共度一百天day5：你有梗吗？ - 白板报](https://wangpei.net/2021/02/19/do-u-have-punchlines/)
+
+- [与喜剧共度一百天4: 我们的愚人节 - 白板报](https://wangpei.net/2021/02/18/day4-our-april-fool/)
+
+- [与喜剧共度一百天3:发挥余热 - 白板报](https://wangpei.net/2021/02/16/%e4%b8%8e%e5%96%9c%e5%89%a7%e5%85%b1%e5%ba%a6%e4%b8%80%e7%99%be%e5%a4%a93%e5%8f%91%e6%8c%a5%e4%bd%99%e7%83%ad/)
+
+- [另一个互联网 - 攻城狮笔记](https://qumac.com/?p=1912)
 
 - [与喜剧共度一百天2：天上的笑声 - 白板报](https://wangpei.net/2021/02/15/day2-laughter-in-heaven/)
 
@@ -16,32 +42,6 @@
 - [情人节的思考 - 渚碧](https://jubeny.com/2021/02/thoughts-on-valentine-day/)
 
 - [情人节的思考 - 渚碧](https://jubeny.com/2021/02/thoughts-on-valentines-day/)
-
-- [家乡的路、灯与水 - 随望淡思](https://www.lushaojun.com/4774.html)
-
-- [Vol. 34 来黑胶俱乐部喝酒聊天啊！ - 枫言枫语](https://justinyan.me/post/4444)
-
-- [除夕夜枕边书 - 尺宅江湖](http://www.qtwm.com/?p=5074)
-
-- [2021牛年新春 - 随望淡思](https://www.lushaojun.com/4772.html)
-
-- [终究成为祭拜的人 - 随望淡思](https://www.lushaojun.com/4770.html)
-
-- [奇妙的友情 - 渚碧](https://jubeny.com/2021/02/weird-friendship/)
-
-- [庚子观影记录 - 破袜子](https://pewae.com/2021/02/record-of-movies-2020.html)
-
-- [日更的力量 - 白板报](https://wangpei.net/2021/02/11/the-power-of-daily-writing/)
-
-- [每夫吐槽（058） - 破袜子](https://pewae.com/2021/02/random_kuso_58.html)
-
-- [【读书记】《阅读经典：美国大学的人文教育》 - 尺宅江湖](http://www.qtwm.com/?p=5046)
-
-- [“散装”花市 - 随望淡思](https://www.lushaojun.com/4765.html)
-
-- [《历史：地图上的世界简史》一本包装精美的垃圾书 - 尺宅江湖](http://www.qtwm.com/?p=5042)
-
-- [如何区分真正的好东西和集体意淫？ - 一天世界](https://blog.yitianshijie.net/2021/02/08/how-to-tell-real-good-things-from-fake-ones-you-cannot-because-all-good-things-are-fake/)
 
 
 
