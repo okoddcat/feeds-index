@@ -1,9 +1,11 @@
-*更新时间：03-11 16:05*
+*更新时间：03-11 20:50*
 
 
 
 
 - [windows 10 三月份更新导致用京瓷打印机打印时蓝屏 - 攻城狮笔记](https://qumac.com/?p=1935)
+
+- [东日本大地震之十周年 - 非礼勿言](https://feiliwuyan.com/the-10th-anniversary-of-the-great-east-japan-earthquake/)
 
 - [醒在边缘之地（上） - 最好金龟换酒](http://fz0512.com/archives/2168)
 
@@ -40,8 +42,6 @@
 - [【书评】《小蘑菇》by一十四洲 - 狡猫三窝](https://slykiten.com/novel-comments/bl-novel/%e3%80%90%e4%b9%a6%e8%af%84%e3%80%91%e3%80%8a%e5%b0%8f%e8%98%91%e8%8f%87%e3%80%8bby%e4%b8%80%e5%8d%81%e5%9b%9b%e6%b4%b2/)
 
 - [一本可怕的病毒科普 - 尺宅江湖](http://www.qtwm.com/?p=5124)
-
-- [为什么 Paul Graham 不画画了？ - 一天世界](https://blog.yitianshijie.net/2021/02/20/why-did-paul-graham-stop-painting/)
 
 
 
