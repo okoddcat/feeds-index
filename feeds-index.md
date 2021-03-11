@@ -1,7 +1,9 @@
-*更新时间：03-08 18:50*
+*更新时间：03-11 16:05*
 
 
 
+
+- [windows 10 三月份更新导致用京瓷打印机打印时蓝屏 - 攻城狮笔记](https://qumac.com/?p=1935)
 
 - [醒在边缘之地（上） - 最好金龟换酒](http://fz0512.com/archives/2168)
 
@@ -40,8 +42,6 @@
 - [一本可怕的病毒科普 - 尺宅江湖](http://www.qtwm.com/?p=5124)
 
 - [为什么 Paul Graham 不画画了？ - 一天世界](https://blog.yitianshijie.net/2021/02/20/why-did-paul-graham-stop-painting/)
-
-- [与喜剧共度一百天6:也算失恋 - 白板报](https://wangpei.net/2021/02/20/day6-love-is-counted-to-lost/)
 
 
 
