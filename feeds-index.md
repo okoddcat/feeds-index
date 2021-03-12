@@ -1,7 +1,9 @@
-*更新时间：03-12 15:50*
+*更新时间：03-12 17:50*
 
 
 
+
+- [简体中文癌：自我诊断，自我治疗 - 一天世界](https://blog.yitianshijie.net/2021/03/12/desperate-attempt-at-curing-our-language-cancer/)
 
 - [工作见闻 - 狡猫三窝](https://slykiten.com/research/work/)
 
@@ -40,8 +42,6 @@
 - [2021年回老家过春节体现社会主义优越性 - 土木坛子](https://tumutanzi.com/archives/16774)
 
 - [读书与做笔记 - 渚碧](https://jubeny.com/2021/02/reading-and-taking-notes/)
-
-- [【书评】《小蘑菇》by一十四洲 - 狡猫三窝](https://slykiten.com/novel-comments/bl-novel/%e3%80%90%e4%b9%a6%e8%af%84%e3%80%91%e3%80%8a%e5%b0%8f%e8%98%91%e8%8f%87%e3%80%8bby%e4%b8%80%e5%8d%81%e5%9b%9b%e6%b4%b2/)
 
 
 
