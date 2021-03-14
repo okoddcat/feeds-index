@@ -1,7 +1,9 @@
-*更新时间：03-12 17:50*
+*更新时间：03-14 11:50*
 
 
 
+
+- [鲁迅的抄袭确有其事 - 尺宅江湖](http://www.qtwm.com/?p=5137)
 
 - [简体中文癌：自我诊断，自我治疗 - 一天世界](https://blog.yitianshijie.net/2021/03/12/desperate-attempt-at-curing-our-language-cancer/)
 
@@ -40,8 +42,6 @@
 - [offer - 狡猫三窝](https://slykiten.com/research/offer/)
 
 - [2021年回老家过春节体现社会主义优越性 - 土木坛子](https://tumutanzi.com/archives/16774)
-
-- [读书与做笔记 - 渚碧](https://jubeny.com/2021/02/reading-and-taking-notes/)
 
 
 
