@@ -1,7 +1,9 @@
-*更新时间：03-15 09:50*
+*更新时间：03-15 17:50*
 
 
 
+
+- [如何使用Sparkle实现Mac App自动更新 - 枫言枫语](https://justinyan.me/post/4464)
 
 - [Just Focus for Mac 2.0 Beta 来啦！ - 枫言枫语](https://justinyan.me/post/4453)
 
@@ -40,8 +42,6 @@
 - [模板或者皮肤 - 攻城狮笔记](https://qumac.com/?p=1923)
 
 - [skynet 处理 TCP 连接半关闭问题 - 云风的 BLOG](https://blog.codingnow.com/2021/02/skynet_tcp_halfclose.html)
-
-- [春节电影集 - 陈仓颉](https://imzm.im/spring-festival-movies-2021/)
 
 
 
