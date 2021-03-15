@@ -1,7 +1,9 @@
-*更新时间：03-15 00:05*
+*更新时间：03-15 09:50*
 
 
 
+
+- [Just Focus for Mac 2.0 Beta 来啦！ - 枫言枫语](https://justinyan.me/post/4453)
 
 - [重温老片《天若有情》 - 破袜子](https://pewae.com/2021/03/review-a-moment-of-romance.html)
 
@@ -40,8 +42,6 @@
 - [skynet 处理 TCP 连接半关闭问题 - 云风的 BLOG](https://blog.codingnow.com/2021/02/skynet_tcp_halfclose.html)
 
 - [春节电影集 - 陈仓颉](https://imzm.im/spring-festival-movies-2021/)
-
-- [offer - 狡猫三窝](https://slykiten.com/research/offer/)
 
 
 
