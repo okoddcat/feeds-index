@@ -1,7 +1,9 @@
-*更新时间：03-15 17:50*
+*更新时间：03-16 21:50*
 
 
 
+
+- [做个少数派 - 渚碧](https://jubeny.com/2021/03/to-be-minority/)
 
 - [如何使用Sparkle实现Mac App自动更新 - 枫言枫语](https://justinyan.me/post/4464)
 
@@ -40,8 +42,6 @@
 - [2021年2月投资月报：经历过山车行情 - DHTalk's Blog](https://zhangdinghao.cn/2021/02/28/investment2102/)
 
 - [模板或者皮肤 - 攻城狮笔记](https://qumac.com/?p=1923)
-
-- [skynet 处理 TCP 连接半关闭问题 - 云风的 BLOG](https://blog.codingnow.com/2021/02/skynet_tcp_halfclose.html)
 
 
 
