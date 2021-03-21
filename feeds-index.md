@@ -1,7 +1,9 @@
-*更新时间：03-19 15:50*
+*更新时间：03-21 11:50*
 
 
 
+
+- [二〇二一年三月二十一日 - 尺宅江湖](http://www.qtwm.com/?p=5149)
 
 - [可怕的复利 - 白板报](https://wangpei.net/2021/03/19/the-compound-interest-and-writing/)
 
@@ -40,8 +42,6 @@
 - [【三近斋杂谈】闲读《论语》“学而时习之” - 尺宅江湖](http://www.qtwm.com/?p=5129)
 
 - [「下沉年代」读后 - 渚碧](https://jubeny.com/2021/03/reading-the-unwinding/)
-
-- [每夫吐槽（059） - 破袜子](https://pewae.com/2021/02/random_kuso_59.html)
 
 
 
