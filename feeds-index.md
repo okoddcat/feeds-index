@@ -1,4 +1,4 @@
-*更新时间：03-21 19:50*
+*更新时间：03-21 22:50*
 
 
 
@@ -6,6 +6,8 @@
 - [读《郑珍全集》的铺垫 - 尺宅江湖](http://www.qtwm.com/?p=5164)
 
 - [二〇二一年三月二十一日 - 尺宅江湖](http://www.qtwm.com/?p=5149)
+
+- [货币贬值，手中的钱不值钱，如何避免被全球大放水收割？ - 土木坛子](https://tumutanzi.com/archives/16776)
 
 - [可怕的复利 - 白板报](https://wangpei.net/2021/03/19/the-compound-interest-and-writing/)
 
@@ -40,8 +42,6 @@
 - [裝（sui）屄（bai）失（you）败（rong） - 一天世界](https://blog.yitianshijie.net/2021/03/02/how-not-to-be-cynical-in-chinese/)
 
 - [我的独立博客，一晃十年过去了 - 土木坛子](https://tumutanzi.com/archives/16775)
-
-- [【三近斋杂谈】闲读《论语》“学而时习之” - 尺宅江湖](http://www.qtwm.com/?p=5129)
 
 
 
