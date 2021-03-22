@@ -1,7 +1,9 @@
-*更新时间：03-22 11:05*
+*更新时间：03-22 16:50*
 
 
 
+
+- [fbx 到 gltf 转换问题 - 云风的 BLOG](https://blog.codingnow.com/2021/03/fbx_gltf.html)
 
 - [买了一把新弓 - 狡猫三窝](https://slykiten.com/life-note/new_bow/)
 
@@ -40,8 +42,6 @@
 - [醒在边缘之地（上） - 最好金龟换酒](http://fz0512.com/archives/2168)
 
 - [水洒进笔记本电脑后的教训 - 一天世界](https://blog.yitianshijie.net/2021/03/05/what-do-we-learn-after-water-poured-into-laptop/)
-
-- [索尼大法好 - 攻城狮笔记](https://qumac.com/?p=1928)
 
 
 
