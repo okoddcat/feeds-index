@@ -1,7 +1,9 @@
-*更新时间：03-21 22:50*
+*更新时间：03-22 09:05*
 
 
 
+
+- [Vol. 35 科技007: Setapp还值得续费吗？ - 枫言枫语](https://justinyan.me/post/4470)
 
 - [读《郑珍全集》的铺垫 - 尺宅江湖](http://www.qtwm.com/?p=5164)
 
@@ -40,8 +42,6 @@
 - [信用问题——关于Tutanota变更订阅 - 渚碧](https://jubeny.com/2021/03/credit-problem-on-tutanotas-subscription-changes/)
 
 - [裝（sui）屄（bai）失（you）败（rong） - 一天世界](https://blog.yitianshijie.net/2021/03/02/how-not-to-be-cynical-in-chinese/)
-
-- [我的独立博客，一晃十年过去了 - 土木坛子](https://tumutanzi.com/archives/16775)
 
 
 
