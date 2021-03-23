@@ -1,7 +1,9 @@
-*更新时间：03-23 10:50*
+*更新时间：03-24 00:05*
 
 
 
+
+- [不要忘了那些死去的网盘 - 随望淡思](https://www.lushaojun.com/4790.html)
 
 - [电子烟或迎来新规 - 狡猫三窝](https://slykiten.com/life-note/new-law-for-electronic-cigarette/)
 
@@ -40,8 +42,6 @@
 - [windows 10 三月份更新导致用京瓷打印机打印时蓝屏 - 攻城狮笔记](https://qumac.com/?p=1935)
 
 - [东日本大地震之十周年 - 非礼勿言](https://feiliwuyan.com/the-10th-anniversary-of-the-great-east-japan-earthquake/)
-
-- [醒在边缘之地（上） - 最好金龟换酒](http://fz0512.com/archives/2168)
 
 
 
