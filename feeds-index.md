@@ -1,7 +1,9 @@
-*更新时间：03-22 16:50*
+*更新时间：03-23 10:50*
 
 
 
+
+- [电子烟或迎来新规 - 狡猫三窝](https://slykiten.com/life-note/new-law-for-electronic-cigarette/)
 
 - [fbx 到 gltf 转换问题 - 云风的 BLOG](https://blog.codingnow.com/2021/03/fbx_gltf.html)
 
@@ -40,8 +42,6 @@
 - [东日本大地震之十周年 - 非礼勿言](https://feiliwuyan.com/the-10th-anniversary-of-the-great-east-japan-earthquake/)
 
 - [醒在边缘之地（上） - 最好金龟换酒](http://fz0512.com/archives/2168)
-
-- [水洒进笔记本电脑后的教训 - 一天世界](https://blog.yitianshijie.net/2021/03/05/what-do-we-learn-after-water-poured-into-laptop/)
 
 
 
