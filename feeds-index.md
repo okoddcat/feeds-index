@@ -1,7 +1,9 @@
-*更新时间：03-24 13:05*
+*更新时间：03-24 23:50*
 
 
 
+
+- [每夫吐槽（060） - 破袜子](https://pewae.com/2021/03/random_kuso_60.html)
 
 - [《山河令》观感 - 狡猫三窝](https://slykiten.com/vidio%c2%b7sound/movie%c2%b7drama/%e3%80%8a%e5%b1%b1%e6%b2%b3%e4%bb%a4%e3%80%8b%e8%a7%82%e6%84%9f/)
 
@@ -40,8 +42,6 @@
 - [鲁迅的抄袭确有其事 - 尺宅江湖](http://www.qtwm.com/?p=5137)
 
 - [简体中文癌：自我诊断，自我治疗 - 一天世界](https://blog.yitianshijie.net/2021/03/12/desperate-attempt-at-curing-our-language-cancer/)
-
-- [工作见闻 - 狡猫三窝](https://slykiten.com/research/work/)
 
 
 
