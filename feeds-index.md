@@ -1,7 +1,9 @@
-*更新时间：03-24 23:50*
+*更新时间：03-25 11:50*
 
 
 
+
+- [服务的创建和退出问题 - 云风的 BLOG](https://blog.codingnow.com/2021/03/service_quit.html)
 
 - [每夫吐槽（060） - 破袜子](https://pewae.com/2021/03/random_kuso_60.html)
 
@@ -40,8 +42,6 @@
 - [重温老片《天若有情》 - 破袜子](https://pewae.com/2021/03/review-a-moment-of-romance.html)
 
 - [鲁迅的抄袭确有其事 - 尺宅江湖](http://www.qtwm.com/?p=5137)
-
-- [简体中文癌：自我诊断，自我治疗 - 一天世界](https://blog.yitianshijie.net/2021/03/12/desperate-attempt-at-curing-our-language-cancer/)
 
 
 
