@@ -1,7 +1,9 @@
-*更新时间：03-28 09:50*
+*更新时间：03-28 16:50*
 
 
 
+
+- [《山河令》观后感 - 狡猫三窝](https://slykiten.com/vidio%c2%b7sound/movie%c2%b7drama/%e3%80%8a%e5%b1%b1%e6%b2%b3%e4%bb%a4%e3%80%8b%e8%a7%82%e5%90%8e%e6%84%9f/)
 
 - [《八十三天皇帝梦》 - 尺宅江湖](http://www.qtwm.com/?p=5175)
 
@@ -40,8 +42,6 @@
 - [做个少数派 - 渚碧](https://jubeny.com/2021/03/to-be-minority/)
 
 - [如何使用Sparkle实现Mac App自动更新 - 枫言枫语](https://justinyan.me/post/4464)
-
-- [Just Focus for Mac 2.0 Beta 来啦！ - 枫言枫语](https://justinyan.me/post/4453)
 
 
 
