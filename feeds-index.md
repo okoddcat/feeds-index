@@ -1,7 +1,9 @@
-*更新时间：03-28 16:50*
+*更新时间：03-29 14:05*
 
 
 
+
+- [Vol. 36 韭菜是如何搞钱的？ - 枫言枫语](https://justinyan.me/post/4475)
 
 - [《山河令》观后感 - 狡猫三窝](https://slykiten.com/vidio%c2%b7sound/movie%c2%b7drama/%e3%80%8a%e5%b1%b1%e6%b2%b3%e4%bb%a4%e3%80%8b%e8%a7%82%e5%90%8e%e6%84%9f/)
 
@@ -40,8 +42,6 @@
 - [前三朵樱花 - 狡猫三窝](https://slykiten.com/fragment/first-3-sakura-in-2021/)
 
 - [做个少数派 - 渚碧](https://jubeny.com/2021/03/to-be-minority/)
-
-- [如何使用Sparkle实现Mac App自动更新 - 枫言枫语](https://justinyan.me/post/4464)
 
 
 
