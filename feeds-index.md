@@ -1,7 +1,9 @@
-*更新时间：04-01 17:05*
+*更新时间：04-02 01:50*
 
 
 
+
+- [当我发呆时，我在想什么 – 清明 - 陈仓颉](https://imzm.im/idle-march-2021/)
 
 - [快乐打工人 - 狡猫三窝](https://slykiten.com/vidio%c2%b7sound/movie%c2%b7drama/%e5%bf%ab%e4%b9%90%e6%89%93%e5%b7%a5%e4%ba%ba/)
 
@@ -40,8 +42,6 @@
 - [买了一把新弓 - 狡猫三窝](https://slykiten.com/life-note/new_bow/)
 
 - [醒在边缘之地（下） - 最好金龟换酒](http://fz0512.com/archives/2178)
-
-- [Vol. 35 科技007: Setapp还值得续费吗？ - 枫言枫语](https://justinyan.me/post/4470)
 
 
 
