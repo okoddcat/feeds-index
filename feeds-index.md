@@ -1,7 +1,9 @@
-*更新时间：04-05 23:50*
+*更新时间：04-07 00:05*
 
 
 
+
+- [构筑局部优势——浅谈应用安全「全局视野」建设 - 40huo's - 知至知终](https://www.40huo.cn/blog/how-to-build-global-vision-for-security.html)
 
 - [白字先生 - 攻城狮笔记](https://qumac.com/?p=1943)
 
@@ -40,8 +42,6 @@
 - [《山河令》观后感——客行悲故乡 - 狡猫三窝](https://slykiten.com/vidio%c2%b7sound/movie%c2%b7drama/after-watching_word-of-honor/)
 
 - [《八十三天皇帝梦》 - 尺宅江湖](http://www.qtwm.com/?p=5175)
-
-- [吉井忍《东京书房》 - 尺宅江湖](http://www.qtwm.com/?p=5171)
 
 
 
