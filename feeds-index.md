@@ -1,7 +1,9 @@
-*更新时间：04-10 13:50*
+*更新时间：04-10 16:50*
 
 
 
+
+- [存在就是幸福 - 尺宅江湖](http://www.qtwm.com/?p=5227)
 
 - [关于寻求财富密码的几点思考 - 土木坛子](https://tumutanzi.com/archives/16777)
 
@@ -40,8 +42,6 @@
 - [2021年3月投资月报：稳是王道 - DHTalk's Blog](https://zhangdinghao.cn/2021/03/31/investment2103/)
 
 - [Signal被墙 - 渚碧](https://jubeny.com/2021/03/signal-is-blocked/)
-
-- [Vol. 36 韭菜是如何搞钱的？ - 枫言枫语](https://justinyan.me/post/4475)
 
 
 
