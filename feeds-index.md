@@ -1,7 +1,9 @@
-*更新时间：04-09 17:50*
+*更新时间：04-10 13:50*
 
 
 
+
+- [关于寻求财富密码的几点思考 - 土木坛子](https://tumutanzi.com/archives/16777)
 
 - [做一个俗人 - 狡猫三窝](https://slykiten.com/life-note/be-ordinary-people/)
 
@@ -40,8 +42,6 @@
 - [Signal被墙 - 渚碧](https://jubeny.com/2021/03/signal-is-blocked/)
 
 - [Vol. 36 韭菜是如何搞钱的？ - 枫言枫语](https://justinyan.me/post/4475)
-
-- [《山河令》观后感 - 狡猫三窝](https://slykiten.com/vidio%c2%b7sound/movie%c2%b7drama/%e3%80%8a%e5%b1%b1%e6%b2%b3%e4%bb%a4%e3%80%8b%e8%a7%82%e5%90%8e%e6%84%9f/)
 
 
 
