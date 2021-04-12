@@ -1,7 +1,9 @@
-*更新时间：04-10 16:50*
+*更新时间：04-12 15:05*
 
 
 
+
+- [机器翻译不是民族主义者 - 一天世界](https://blog.yitianshijie.net/2021/04/12/machine-translation-is-not-nationalist/)
 
 - [存在就是幸福 - 尺宅江湖](http://www.qtwm.com/?p=5227)
 
@@ -40,8 +42,6 @@
 - [快乐打工人 - 狡猫三窝](https://slykiten.com/vidio%c2%b7sound/movie%c2%b7drama/word-of-honor_gongjun/)
 
 - [2021年3月投资月报：稳是王道 - DHTalk's Blog](https://zhangdinghao.cn/2021/03/31/investment2103/)
-
-- [Signal被墙 - 渚碧](https://jubeny.com/2021/03/signal-is-blocked/)
 
 
 
