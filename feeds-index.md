@@ -1,7 +1,9 @@
-*更新时间：04-14 00:50*
+*更新时间：04-14 23:50*
 
 
 
+
+- [说说Wordpress 的 register_setting()函数 - 破袜子](https://pewae.com/2021/04/somethins-about-register_setting-function-of-wordpress.html)
 
 - [每夫吐槽（061） - 破袜子](https://pewae.com/2021/04/random_kuso_61.html)
 
@@ -40,8 +42,6 @@
 - [清明读闲书 - 尺宅江湖](http://www.qtwm.com/?p=5182)
 
 - [2021年度阅读计划 - 雨落泪尽](https://couqiao.net/archives/386.html)
-
-- [三则 - 尺宅江湖](http://www.qtwm.com/?p=5179)
 
 
 
