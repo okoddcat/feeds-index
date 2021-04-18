@@ -1,7 +1,9 @@
-*更新时间：04-16 16:50*
+*更新时间：04-18 14:05*
 
 
 
+
+- [SwitchHosts v4.0 发布 - oldj's blog](https://oldj.net/article/2021/04/18/switchhosts-v4/)
 
 - [过学校小门有感 - 狡猫三窝](https://slykiten.com/life-note/pass-the-gate-of-college/)
 
@@ -40,8 +42,6 @@
 - [【三近斋杂谈】逍遥游 - 尺宅江湖](http://www.qtwm.com/?p=5193)
 
 - [两个人的游学准备：贵州土司史 - 尺宅江湖](http://www.qtwm.com/?p=5187)
-
-- [清明读闲书 - 尺宅江湖](http://www.qtwm.com/?p=5182)
 
 
 
