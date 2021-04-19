@@ -1,7 +1,11 @@
-*更新时间：04-18 14:05*
+*更新时间：04-19 15:50*
 
 
 
+
+- [收到DS2019 - 狡猫三窝](https://slykiten.com/life-note/received-ds2019/)
+
+- [选择开源项目的几点原则 - 云风的 BLOG](https://blog.codingnow.com/2021/04/opensource.html)
 
 - [SwitchHosts v4.0 发布 - oldj's blog](https://oldj.net/article/2021/04/18/switchhosts-v4/)
 
@@ -38,10 +42,6 @@
 - [2021樱花季 - 狡猫三窝](https://slykiten.com/life-note/2021sakura-season/)
 
 - [重温老片《最佳女婿》 - 破袜子](https://pewae.com/2021/04/review-faithfully-yours.html)
-
-- [【三近斋杂谈】逍遥游 - 尺宅江湖](http://www.qtwm.com/?p=5193)
-
-- [两个人的游学准备：贵州土司史 - 尺宅江湖](http://www.qtwm.com/?p=5187)
 
 
 
