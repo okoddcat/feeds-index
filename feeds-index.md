@@ -1,7 +1,9 @@
-*更新时间：04-19 15:50*
+*更新时间：04-22 15:50*
 
 
 
+
+- [面签J1吐槽 - 狡猫三窝](https://slykiten.com/life-note/j1-appointment/)
 
 - [收到DS2019 - 狡猫三窝](https://slykiten.com/life-note/received-ds2019/)
 
@@ -40,8 +42,6 @@
 - [《贵州土司史》的“历史价值” - 尺宅江湖](http://www.qtwm.com/?p=5218)
 
 - [2021樱花季 - 狡猫三窝](https://slykiten.com/life-note/2021sakura-season/)
-
-- [重温老片《最佳女婿》 - 破袜子](https://pewae.com/2021/04/review-faithfully-yours.html)
 
 
 
