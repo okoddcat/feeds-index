@@ -1,7 +1,9 @@
-*更新时间：04-24 00:05*
+*更新时间：04-24 15:50*
 
 
 
+
+- [陋习 - 尺宅江湖](http://www.qtwm.com/?p=5232)
 
 - [一些标语 - 陈仓颉](https://imzm.im/slogans/)
 
@@ -40,8 +42,6 @@
 - [Netflix DVD 库的缩水 - 一天世界](https://blog.yitianshijie.net/2021/04/09/the-shrinking-netflix-dvd-library/)
 
 - [构筑局部优势——浅谈应用安全「全局视野」建设 - 40huo's - 知至知终](https://www.40huo.cn/blog/how-to-build-global-vision-for-security.html)
-
-- [白字先生 - 攻城狮笔记](https://qumac.com/?p=1943)
 
 
 
