@@ -1,7 +1,9 @@
-*更新时间：04-24 15:50*
+*更新时间：04-25 11:50*
 
 
 
+
+- [扩展 Lua 的常量类型 - 云风的 BLOG](https://blog.codingnow.com/2021/04/lua_constant.html)
 
 - [陋习 - 尺宅江湖](http://www.qtwm.com/?p=5232)
 
@@ -40,8 +42,6 @@
 - [做一个俗人 - 狡猫三窝](https://slykiten.com/life-note/be-ordinary-people/)
 
 - [Netflix DVD 库的缩水 - 一天世界](https://blog.yitianshijie.net/2021/04/09/the-shrinking-netflix-dvd-library/)
-
-- [构筑局部优势——浅谈应用安全「全局视野」建设 - 40huo's - 知至知终](https://www.40huo.cn/blog/how-to-build-global-vision-for-security.html)
 
 
 
