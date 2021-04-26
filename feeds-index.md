@@ -1,7 +1,9 @@
-*更新时间：04-25 11:50*
+*更新时间：04-26 21:50*
 
 
 
+
+- [怪力乱神事件簿(四) - 破袜子](https://pewae.com/2021/04/weird-stories-04.html)
 
 - [扩展 Lua 的常量类型 - 云风的 BLOG](https://blog.codingnow.com/2021/04/lua_constant.html)
 
@@ -40,8 +42,6 @@
 - [关于寻求财富密码的几点思考 - 土木坛子](https://tumutanzi.com/archives/16777)
 
 - [做一个俗人 - 狡猫三窝](https://slykiten.com/life-note/be-ordinary-people/)
-
-- [Netflix DVD 库的缩水 - 一天世界](https://blog.yitianshijie.net/2021/04/09/the-shrinking-netflix-dvd-library/)
 
 
 
