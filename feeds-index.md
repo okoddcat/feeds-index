@@ -1,7 +1,9 @@
-*更新时间：04-26 21:50*
+*更新时间：04-26 23:05*
 
 
 
+
+- [没有色彩的多崎作 - 渚碧](https://jubeny.com/2021/04/colorless-tsukuru-tazaki/)
 
 - [怪力乱神事件簿(四) - 破袜子](https://pewae.com/2021/04/weird-stories-04.html)
 
@@ -40,8 +42,6 @@
 - [存在就是幸福 - 尺宅江湖](http://www.qtwm.com/?p=5227)
 
 - [关于寻求财富密码的几点思考 - 土木坛子](https://tumutanzi.com/archives/16777)
-
-- [做一个俗人 - 狡猫三窝](https://slykiten.com/life-note/be-ordinary-people/)
 
 
 
