@@ -1,7 +1,9 @@
-*更新时间：04-26 23:05*
+*更新时间：04-28 00:05*
 
 
 
+
+- [单机日记软件_eDiary - 随望淡思](https://www.lushaojun.com/4819.html)
 
 - [没有色彩的多崎作 - 渚碧](https://jubeny.com/2021/04/colorless-tsukuru-tazaki/)
 
@@ -40,8 +42,6 @@
 - [机器翻译不是民族主义者 - 一天世界](https://blog.yitianshijie.net/2021/04/12/machine-translation-is-not-nationalist/)
 
 - [存在就是幸福 - 尺宅江湖](http://www.qtwm.com/?p=5227)
-
-- [关于寻求财富密码的几点思考 - 土木坛子](https://tumutanzi.com/archives/16777)
 
 
 
