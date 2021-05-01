@@ -1,7 +1,9 @@
-*更新时间：05-01 22:50*
+*更新时间：05-02 00:05*
 
 
 
+
+- [当我发呆时，我在拍什么 – 劳动 - 陈仓颉](https://imzm.im/idle-shooting-may/)
 
 - [三个月以来 - 林海草原](https://lhcy.org/archives/159.html)
 
@@ -40,8 +42,6 @@
 - [说说Wordpress 的 register_setting()函数 - 破袜子](https://pewae.com/2021/04/somethins-about-register_setting-function-of-wordpress.html)
 
 - [每夫吐槽（061） - 破袜子](https://pewae.com/2021/04/random_kuso_61.html)
-
-- [我国现阶段国情和国内正发生哪些变化以及世界正发生哪些变化？ - 土木坛子](https://tumutanzi.com/archives/16778)
 
 
 
