@@ -1,7 +1,9 @@
-*更新时间：05-02 00:05*
+*更新时间：05-02 08:50*
 
 
 
+
+- [《般若波罗蜜多心经》分段逻辑与背诵 - 土木坛子](https://tumutanzi.com/archives/16783)
 
 - [当我发呆时，我在拍什么 – 劳动 - 陈仓颉](https://imzm.im/idle-shooting-may/)
 
@@ -40,8 +42,6 @@
 - [过学校小门有感 - 狡猫三窝](https://slykiten.com/life-note/pass-the-gate-of-college/)
 
 - [说说Wordpress 的 register_setting()函数 - 破袜子](https://pewae.com/2021/04/somethins-about-register_setting-function-of-wordpress.html)
-
-- [每夫吐槽（061） - 破袜子](https://pewae.com/2021/04/random_kuso_61.html)
 
 
 
