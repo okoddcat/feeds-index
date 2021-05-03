@@ -1,7 +1,11 @@
-*更新时间：05-02 23:50*
+*更新时间：05-03 23:50*
 
 
 
+
+- [我的聪明笔记之路（一）漫漫憨砣路 - 白板报](https://wangpei.net/2021/05/03/my-smart-notes-system-part-01/)
+
+- [发现一个微信套现信用卡的漏洞 - 土木坛子](https://tumutanzi.com/archives/16785)
 
 - [书事 - 尺宅江湖](http://www.qtwm.com/?p=5236)
 
@@ -38,10 +42,6 @@
 - [Vol. 37 2021苹果春季吐槽大会 - 枫言枫语](https://justinyan.me/post/4490)
 
 - [面签J1吐槽 - 狡猫三窝](https://slykiten.com/life-note/j1-appointment/)
-
-- [收到DS2019 - 狡猫三窝](https://slykiten.com/life-note/received-ds2019/)
-
-- [选择开源项目的几点原则 - 云风的 BLOG](https://blog.codingnow.com/2021/04/opensource.html)
 
 
 
