@@ -1,4 +1,4 @@
-*更新时间：05-05 20:05*
+*更新时间：05-06 00:50*
 
 
 
@@ -6,6 +6,8 @@
 - [常识 - 尺宅江湖](http://www.qtwm.com/?p=5240)
 
 - [ - 狡猫三窝](https://slykiten.com/fragment/6232/)
+
+- [我是如何获取前沿信息？ - 土木坛子](https://tumutanzi.com/archives/16787)
 
 - [趣味诗词串烧一则 - 土木坛子](https://tumutanzi.com/archives/16786)
 
@@ -40,8 +42,6 @@
 - [扩展 Lua 的常量类型 - 云风的 BLOG](https://blog.codingnow.com/2021/04/lua_constant.html)
 
 - [陋习 - 尺宅江湖](http://www.qtwm.com/?p=5232)
-
-- [一些标语 - 陈仓颉](https://imzm.im/slogans/)
 
 
 
