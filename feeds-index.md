@@ -1,7 +1,9 @@
-*更新时间：05-06 23:50*
+*更新时间：05-08 06:50*
 
 
 
+
+- [有多少设备，需要充电 - 攻城狮笔记](https://qumac.com/?p=1955)
 
 - [重温老片《佐罗新冒险》 - 破袜子](https://pewae.com/2021/05/review-nuevas-aventuras-del-zorro.html)
 
@@ -40,8 +42,6 @@
 - [初春 - 狡猫三窝](https://slykiten.com/life-note/spring/)
 
 - [Vol. 38 QQ音乐播客线下沙龙(番外) - 枫言枫语](https://justinyan.me/post/4495)
-
-- [单机日记软件_eDiary - 随望淡思](https://www.lushaojun.com/4819.html)
 
 
 
