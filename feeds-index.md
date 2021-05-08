@@ -1,7 +1,9 @@
-*更新时间：05-08 06:50*
+*更新时间：05-08 16:50*
 
 
 
+
+- [构建工具从 Make 到 Ninja - 云风的 BLOG](https://blog.codingnow.com/2021/05/make_to_ninja.html)
 
 - [有多少设备，需要充电 - 攻城狮笔记](https://qumac.com/?p=1955)
 
@@ -40,8 +42,6 @@
 - [2021年4月投资月报：黄昏十字星？ - DHTalk's Blog](https://zhangdinghao.cn/2021/04/30/investment2104/)
 
 - [初春 - 狡猫三窝](https://slykiten.com/life-note/spring/)
-
-- [Vol. 38 QQ音乐播客线下沙龙(番外) - 枫言枫语](https://justinyan.me/post/4495)
 
 
 
