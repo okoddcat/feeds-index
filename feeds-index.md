@@ -1,7 +1,9 @@
-*更新时间：05-11 12:50*
+*更新时间：05-12 00:50*
 
 
 
+
+- [初到新疆之乌鲁木齐市 - 随望淡思](https://www.lushaojun.com/4833.html)
 
 - [花开花落，不误读诗 - 土木坛子](https://tumutanzi.com/archives/16788)
 
@@ -40,8 +42,6 @@
 - [DeFi借贷体验及感想 - 土木坛子](https://tumutanzi.com/archives/16784)
 
 - [《般若波罗蜜多心经》分段逻辑与背诵 - 土木坛子](https://tumutanzi.com/archives/16783)
-
-- [当我发呆时，我在拍什么 – 劳动 - 陈仓颉](https://imzm.im/idle-shooting-may/)
 
 
 
