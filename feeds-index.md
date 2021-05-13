@@ -1,7 +1,9 @@
-*更新时间：05-13 01:50*
+*更新时间：05-13 20:50*
 
 
 
+
+- [新疆游之可可托海路上的故事 - 随望淡思](https://www.lushaojun.com/4852.html)
 
 - [新疆游之天山天池 - 随望淡思](https://www.lushaojun.com/4838.html)
 
@@ -40,8 +42,6 @@
 - [发现一个微信套现信用卡的漏洞 - 土木坛子](https://tumutanzi.com/archives/16785)
 
 - [书事 - 尺宅江湖](http://www.qtwm.com/?p=5236)
-
-- [学习成绩好就代表一定有出息吗 - 白板报](https://wangpei.net/2021/05/02/%e5%ad%a6%e4%b9%a0%e6%88%90%e7%bb%a9%e5%a5%bd%e5%b0%b1%e4%bb%a3%e8%a1%a8%e4%b8%80%e5%ae%9a%e6%9c%89%e5%87%ba%e6%81%af%e5%90%97/)
 
 
 
