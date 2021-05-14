@@ -1,7 +1,9 @@
-*更新时间：05-14 00:50*
+*更新时间：05-14 14:05*
 
 
 
+
+- [漫无目的02 - HELP! - 枫言枫语](https://justinyan.me/post/4563)
 
 - [新疆游之可可托海（照片） - 随望淡思](https://www.lushaojun.com/4853.html)
 
@@ -40,8 +42,6 @@
 - [我是如何获取前沿信息？ - 土木坛子](https://tumutanzi.com/archives/16787)
 
 - [趣味诗词串烧一则 - 土木坛子](https://tumutanzi.com/archives/16786)
-
-- [我的聪明笔记之路（一）漫漫憨砣路 - 白板报](https://wangpei.net/2021/05/03/my-smart-notes-system-part-01/)
 
 
 
