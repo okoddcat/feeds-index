@@ -1,7 +1,9 @@
-*更新时间：05-14 14:05*
+*更新时间：05-14 20:05*
 
 
 
+
+- [我为什么要学wim - 白板报](https://wangpei.net/2021/05/14/why-i-have-decided-to-learn-vim/)
 
 - [漫无目的02 - HELP! - 枫言枫语](https://justinyan.me/post/4563)
 
@@ -40,8 +42,6 @@
 - [ - 狡猫三窝](https://slykiten.com/fragment/6232/)
 
 - [我是如何获取前沿信息？ - 土木坛子](https://tumutanzi.com/archives/16787)
-
-- [趣味诗词串烧一则 - 土木坛子](https://tumutanzi.com/archives/16786)
 
 
 
