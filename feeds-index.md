@@ -1,7 +1,9 @@
-*更新时间：05-15 00:50*
+*更新时间：05-15 01:50*
 
 
 
+
+- [vim对写作有什么用 - 白板报](https://wangpei.net/2021/05/15/using-vim-to-improve-your-writing/)
 
 - [新疆游之布尔津县_五彩滩与禾木 - 随望淡思](https://www.lushaojun.com/4865.html)
 
@@ -40,8 +42,6 @@
 - [枫影夜读 #12——恩斯特·贡布里希《艺术的故事》 - 枫言枫语](https://justinyan.me/post/4525)
 
 - [常识 - 尺宅江湖](http://www.qtwm.com/?p=5240)
-
-- [ - 狡猫三窝](https://slykiten.com/fragment/6232/)
 
 
 
