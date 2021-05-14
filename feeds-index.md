@@ -1,7 +1,9 @@
-*更新时间：05-14 20:05*
+*更新时间：05-15 00:50*
 
 
 
+
+- [新疆游之布尔津县_五彩滩与禾木 - 随望淡思](https://www.lushaojun.com/4865.html)
 
 - [我为什么要学wim - 白板报](https://wangpei.net/2021/05/14/why-i-have-decided-to-learn-vim/)
 
@@ -40,8 +42,6 @@
 - [常识 - 尺宅江湖](http://www.qtwm.com/?p=5240)
 
 - [ - 狡猫三窝](https://slykiten.com/fragment/6232/)
-
-- [我是如何获取前沿信息？ - 土木坛子](https://tumutanzi.com/archives/16787)
 
 
 
