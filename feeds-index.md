@@ -1,7 +1,9 @@
-*更新时间：05-15 17:50*
+*更新时间：05-16 00:50*
 
 
 
+
+- [新疆游之喀纳斯湖之行 - 随望淡思](https://www.lushaojun.com/4885.html)
 
 - [越简单越难 - 尺宅江湖](http://www.qtwm.com/?p=5257)
 
@@ -40,8 +42,6 @@
 - [重温老片《佐罗新冒险》 - 破袜子](https://pewae.com/2021/05/review-nuevas-aventuras-del-zorro.html)
 
 - [一生与永远 - 狡猫三窝](https://slykiten.com/vidio%c2%b7sound/movie%c2%b7drama/in-whole-life-and-forever/)
-
-- [叛逆与诗 - 尺宅江湖](http://www.qtwm.com/?p=5245)
 
 
 
