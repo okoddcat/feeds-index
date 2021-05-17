@@ -1,7 +1,9 @@
-*更新时间：05-16 21:50*
+*更新时间：05-17 08:50*
 
 
 
+
+- [新疆游之乌尔禾魔鬼城 - 随望淡思](https://www.lushaojun.com/4900.html)
 
 - [金刚手段，菩萨心肠 - 尺宅江湖](http://www.qtwm.com/?p=5262)
 
@@ -40,8 +42,6 @@
 - [谒李太白墓 - 渚碧](https://jubeny.com/2021/05/visiting-taibai-mu/)
 
 - [漫无目的01 - 宁静难得 - 枫言枫语](https://justinyan.me/post/4551)
-
-- [构建工具从 Make 到 Ninja - 云风的 BLOG](https://blog.codingnow.com/2021/05/make_to_ninja.html)
 
 
 
