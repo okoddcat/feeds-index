@@ -1,7 +1,9 @@
-*更新时间：05-20 17:50*
+*更新时间：05-21 13:50*
 
 
 
+
+- [App Store 是 iPad 的掣肘 - 一天世界](https://blog.yitianshijie.net/2021/05/21/app-store-is-the-elephant-in-the-room/)
 
 - [枫影夜读 #13——《S. 忒修斯之船》 - 枫言枫语](https://justinyan.me/post/4571)
 
@@ -40,8 +42,6 @@
 - [新疆游之天山天池 - 随望淡思](https://www.lushaojun.com/4838.html)
 
 - [美女说她不保存照片 - 土木坛子](https://tumutanzi.com/archives/16789)
-
-- [初到新疆之乌鲁木齐市 - 随望淡思](https://www.lushaojun.com/4833.html)
 
 
 
