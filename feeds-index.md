@@ -1,7 +1,9 @@
-*更新时间：05-23 15:50*
+*更新时间：05-23 16:50*
 
 
 
+
+- [我的失眠治疗史 - 林海草原](https://lhcy.org/archives/160.html)
 
 - [多数人一生中唯一的机会 - 尺宅江湖](http://www.qtwm.com/?p=5265)
 
@@ -40,8 +42,6 @@
 - [看图不说话20210513 - 破袜子](https://pewae.com/2021/05/picture-without-description-20210513.html)
 
 - [新疆游之可可托海路上的故事 - 随望淡思](https://www.lushaojun.com/4852.html)
-
-- [新疆游之天山天池 - 随望淡思](https://www.lushaojun.com/4838.html)
 
 
 
