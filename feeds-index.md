@@ -1,7 +1,9 @@
-*更新时间：05-24 13:50*
+*更新时间：05-27 11:50*
 
 
 
+
+- [打破内卷和避免躺平？ - 土木坛子](https://tumutanzi.com/archives/16790)
 
 - [漫无目的03 - 电子书和纸质书你更喜欢哪一个呢？ - 枫言枫语](https://justinyan.me/post/4575)
 
@@ -40,8 +42,6 @@
 - [我为什么要学wim - 白板报](https://wangpei.net/2021/05/14/why-i-have-decided-to-learn-vim/)
 
 - [漫无目的02 - HELP! - 枫言枫语](https://justinyan.me/post/4563)
-
-- [新疆游之可可托海（照片） - 随望淡思](https://www.lushaojun.com/4853.html)
 
 
 
