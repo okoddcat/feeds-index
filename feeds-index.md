@@ -1,7 +1,9 @@
-*更新时间：05-28 10:05*
+*更新时间：05-29 00:05*
 
 
 
+
+- [重温老片《国产凌凌漆》 - 破袜子](https://pewae.com/2021/05/review-from-beijing-with-love.html)
 
 - [伪概念 - 尺宅江湖](http://www.qtwm.com/?p=5274)
 
@@ -40,8 +42,6 @@
 - [我是谁 - 尺宅江湖](http://www.qtwm.com/?p=5251)
 
 - [vim对写作有什么用 - 白板报](https://wangpei.net/2021/05/15/using-vim-to-improve-your-writing/)
-
-- [新疆游之布尔津县_五彩滩与禾木 - 随望淡思](https://www.lushaojun.com/4865.html)
 
 
 
