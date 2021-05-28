@@ -1,7 +1,9 @@
-*更新时间：05-27 11:50*
+*更新时间：05-28 09:50*
 
 
 
+
+- [应试 - 尺宅江湖](http://www.qtwm.com/?p=5271)
 
 - [打破内卷和避免躺平？ - 土木坛子](https://tumutanzi.com/archives/16790)
 
@@ -40,8 +42,6 @@
 - [新疆游之布尔津县_五彩滩与禾木 - 随望淡思](https://www.lushaojun.com/4865.html)
 
 - [我为什么要学wim - 白板报](https://wangpei.net/2021/05/14/why-i-have-decided-to-learn-vim/)
-
-- [漫无目的02 - HELP! - 枫言枫语](https://justinyan.me/post/4563)
 
 
 
