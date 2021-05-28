@@ -1,7 +1,9 @@
-*更新时间：05-28 09:50*
+*更新时间：05-28 10:05*
 
 
 
+
+- [伪概念 - 尺宅江湖](http://www.qtwm.com/?p=5274)
 
 - [应试 - 尺宅江湖](http://www.qtwm.com/?p=5271)
 
@@ -40,8 +42,6 @@
 - [vim对写作有什么用 - 白板报](https://wangpei.net/2021/05/15/using-vim-to-improve-your-writing/)
 
 - [新疆游之布尔津县_五彩滩与禾木 - 随望淡思](https://www.lushaojun.com/4865.html)
-
-- [我为什么要学wim - 白板报](https://wangpei.net/2021/05/14/why-i-have-decided-to-learn-vim/)
 
 
 
