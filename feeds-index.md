@@ -1,7 +1,9 @@
-*更新时间：05-29 00:05*
+*更新时间：05-29 09:50*
 
 
 
+
+- [预测下次的6.0以上地震 - 非礼勿言](https://feiliwuyan.com/predict-the-next-6-0-earthquake/)
 
 - [重温老片《国产凌凌漆》 - 破袜子](https://pewae.com/2021/05/review-from-beijing-with-love.html)
 
@@ -40,8 +42,6 @@
 - [越简单越难 - 尺宅江湖](http://www.qtwm.com/?p=5257)
 
 - [我是谁 - 尺宅江湖](http://www.qtwm.com/?p=5251)
-
-- [vim对写作有什么用 - 白板报](https://wangpei.net/2021/05/15/using-vim-to-improve-your-writing/)
 
 
 
