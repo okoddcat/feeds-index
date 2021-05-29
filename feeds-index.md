@@ -1,7 +1,9 @@
-*更新时间：05-29 09:50*
+*更新时间：05-29 18:05*
 
 
 
+
+- [旧时人物 - 尺宅江湖](http://www.qtwm.com/?p=5277)
 
 - [预测下次的6.0以上地震 - 非礼勿言](https://feiliwuyan.com/predict-the-next-6-0-earthquake/)
 
@@ -40,8 +42,6 @@
 - [新疆游之喀纳斯湖之行 - 随望淡思](https://www.lushaojun.com/4885.html)
 
 - [越简单越难 - 尺宅江湖](http://www.qtwm.com/?p=5257)
-
-- [我是谁 - 尺宅江湖](http://www.qtwm.com/?p=5251)
 
 
 
