@@ -1,7 +1,9 @@
-*更新时间：05-29 21:50*
+*更新时间：05-30 15:50*
 
 
 
+
+- [《王阳明传》疑与得 - 尺宅江湖](http://www.qtwm.com/?p=5293)
 
 - [天海美术馆 - 尺宅江湖](http://www.qtwm.com/?p=5280)
 
@@ -40,8 +42,6 @@
 - [快捷键启动windows屏幕保护并锁屏之方式 - 非礼勿言](https://feiliwuyan.com/shortcut-key-to-start-screen-saver/)
 
 - [新疆游之哈萨克族习俗文化 - 随望淡思](https://www.lushaojun.com/4899.html)
-
-- [新疆游之喀纳斯湖之行 - 随望淡思](https://www.lushaojun.com/4885.html)
 
 
 
