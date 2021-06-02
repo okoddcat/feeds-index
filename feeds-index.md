@@ -1,7 +1,9 @@
-*更新时间：06-01 00:05*
+*更新时间：06-02 10:50*
 
 
 
+
+- [独立软件的价值（在哪） - 一天世界](https://blog.yitianshijie.net/2021/06/02/why-is-indie-software-important/)
 
 - [偶遇的骑友 - 渚碧](https://jubeny.com/2021/05/running-into-a-rider/)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（062） - 破袜子](https://pewae.com/2021/05/random_kuso_62.html)
 
 - [新疆游之乌尔禾魔鬼城 - 随望淡思](https://www.lushaojun.com/4900.html)
-
-- [金刚手段，菩萨心肠 - 尺宅江湖](http://www.qtwm.com/?p=5262)
 
 
 
