@@ -1,7 +1,9 @@
-*更新时间：06-02 10:50*
+*更新时间：06-04 11:05*
 
 
 
+
+- [Vol. 40 科技快乐星球02 - 枫言枫语](https://justinyan.me/post/4587)
 
 - [独立软件的价值（在哪） - 一天世界](https://blog.yitianshijie.net/2021/06/02/why-is-indie-software-important/)
 
@@ -40,8 +42,6 @@
 - [ANSI escape code 及 Lua 封装 - 云风的 BLOG](https://blog.codingnow.com/2021/05/ansi_escape_code_in_lua.html)
 
 - [每夫吐槽（062） - 破袜子](https://pewae.com/2021/05/random_kuso_62.html)
-
-- [新疆游之乌尔禾魔鬼城 - 随望淡思](https://www.lushaojun.com/4900.html)
 
 
 
