@@ -1,7 +1,9 @@
-*更新时间：06-04 11:05*
+*更新时间：06-04 13:50*
 
 
 
+
+- [漫无目的04 - 升帆！ - 枫言枫语](https://justinyan.me/post/4591)
 
 - [Vol. 40 科技快乐星球02 - 枫言枫语](https://justinyan.me/post/4587)
 
@@ -40,8 +42,6 @@
 - [枫影夜读 #13——《S. 忒修斯之船》 - 枫言枫语](https://justinyan.me/post/4571)
 
 - [ANSI escape code 及 Lua 封装 - 云风的 BLOG](https://blog.codingnow.com/2021/05/ansi_escape_code_in_lua.html)
-
-- [每夫吐槽（062） - 破袜子](https://pewae.com/2021/05/random_kuso_62.html)
 
 
 
