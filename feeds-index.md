@@ -1,7 +1,9 @@
-*更新时间：06-07 20:50*
+*更新时间：06-08 09:50*
 
 
 
+
+- [iOS 15 和 macOS Monterey 的新功能列表 - 一天世界](https://blog.yitianshijie.net/2021/06/08/ios-15-macos-monterey-all-new-features/)
 
 - [希望这是最后一次折腾评论邮件提醒 - 林海草原](https://lhcy.org/archives/161.html)
 
@@ -40,8 +42,6 @@
 - [Vol.39 什么，是科技快乐星球？ - 枫言枫语](https://justinyan.me/post/4577)
 
 - [我的失眠治疗史 - 林海草原](https://lhcy.org/archives/160.html)
-
-- [多数人一生中唯一的机会 - 尺宅江湖](http://www.qtwm.com/?p=5265)
 
 
 
