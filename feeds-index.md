@@ -1,7 +1,9 @@
-*更新时间：06-08 20:50*
+*更新时间：06-08 22:50*
 
 
 
+
+- [博客程序更换为WordPress - 林海草原](https://lhcy.org/archives/162.html)
 
 - [麻雀窝 - 狡猫三窝](https://slykiten.com/life-note/nest/)
 
@@ -40,8 +42,6 @@
 - [应试 - 尺宅江湖](http://www.qtwm.com/?p=5271)
 
 - [打破内卷和避免躺平？ - 土木坛子](https://tumutanzi.com/archives/16790)
-
-- [漫无目的03 - 电子书和纸质书你更喜欢哪一个呢？ - 枫言枫语](https://justinyan.me/post/4575)
 
 
 
