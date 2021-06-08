@@ -1,7 +1,9 @@
-*更新时间：06-08 09:50*
+*更新时间：06-08 15:50*
 
 
 
+
+- [麻雀窝 - 狡猫三窝](https://slykiten.com/life-note/nest/)
 
 - [iOS 15 和 macOS Monterey 的新功能列表 - 一天世界](https://blog.yitianshijie.net/2021/06/08/ios-15-macos-monterey-all-new-features/)
 
@@ -40,8 +42,6 @@
 - [漫无目的03 - 电子书和纸质书你更喜欢哪一个呢？ - 枫言枫语](https://justinyan.me/post/4575)
 
 - [Vol.39 什么，是科技快乐星球？ - 枫言枫语](https://justinyan.me/post/4577)
-
-- [我的失眠治疗史 - 林海草原](https://lhcy.org/archives/160.html)
 
 
 
