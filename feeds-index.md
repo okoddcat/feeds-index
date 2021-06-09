@@ -1,7 +1,11 @@
-*更新时间：06-09 19:50*
+*更新时间：06-09 21:50*
 
 
 
+
+- [杨小凯的故事：从囚徒到圣徒 - 白板报](https://wangpei.net/2021/06/09/from-a-prisoner-to-a-saint-the-story-of-yang-xiaokai/)
+
+- [时间的礼物 - 白板报](https://wangpei.net/2021/06/09/the-gift-of-time-by-jonas/)
 
 - [缓存在 Lua 中的配置表 - 云风的 BLOG](https://blog.codingnow.com/2021/06/lua_property_cache.html)
 
@@ -38,10 +42,6 @@
 - [旧时人物 - 尺宅江湖](http://www.qtwm.com/?p=5277)
 
 - [预测下次的6.0以上地震 - 非礼勿言](https://feiliwuyan.com/predict-the-next-6-0-earthquake/)
-
-- [重温老片《国产凌凌漆》 - 破袜子](https://pewae.com/2021/05/review-from-beijing-with-love.html)
-
-- [伪概念 - 尺宅江湖](http://www.qtwm.com/?p=5274)
 
 
 
