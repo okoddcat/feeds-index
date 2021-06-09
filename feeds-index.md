@@ -1,7 +1,9 @@
-*更新时间：06-08 22:50*
+*更新时间：06-09 15:50*
 
 
 
+
+- [无损 ≈ remaster，空间音频 = remix - 一天世界](https://blog.yitianshijie.net/2021/06/09/lossless-approximately-equals-remaster-spatial-audio-equals-remix/)
 
 - [博客程序更换为WordPress - 林海草原](https://lhcy.org/archives/162.html)
 
@@ -40,8 +42,6 @@
 - [伪概念 - 尺宅江湖](http://www.qtwm.com/?p=5274)
 
 - [应试 - 尺宅江湖](http://www.qtwm.com/?p=5271)
-
-- [打破内卷和避免躺平？ - 土木坛子](https://tumutanzi.com/archives/16790)
 
 
 
