@@ -1,7 +1,9 @@
-*更新时间：06-10 13:05*
+*更新时间：06-10 23:50*
 
 
 
+
+- [每夫吐槽（063） - 破袜子](https://pewae.com/2021/06/random_kuso_63.html)
 
 - [Vol. 41 WWDC 2021 X 科技早知道 - 枫言枫语](https://justinyan.me/post/4595)
 
@@ -40,8 +42,6 @@
 - [《王阳明传》疑与得 - 尺宅江湖](http://www.qtwm.com/?p=5293)
 
 - [天海美术馆 - 尺宅江湖](http://www.qtwm.com/?p=5280)
-
-- [旧时人物 - 尺宅江湖](http://www.qtwm.com/?p=5277)
 
 
 
