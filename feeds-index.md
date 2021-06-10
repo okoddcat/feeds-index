@@ -1,7 +1,9 @@
-*更新时间：06-09 21:50*
+*更新时间：06-10 13:05*
 
 
 
+
+- [Vol. 41 WWDC 2021 X 科技早知道 - 枫言枫语](https://justinyan.me/post/4595)
 
 - [杨小凯的故事：从囚徒到圣徒 - 白板报](https://wangpei.net/2021/06/09/from-a-prisoner-to-a-saint-the-story-of-yang-xiaokai/)
 
@@ -40,8 +42,6 @@
 - [天海美术馆 - 尺宅江湖](http://www.qtwm.com/?p=5280)
 
 - [旧时人物 - 尺宅江湖](http://www.qtwm.com/?p=5277)
-
-- [预测下次的6.0以上地震 - 非礼勿言](https://feiliwuyan.com/predict-the-next-6-0-earthquake/)
 
 
 
