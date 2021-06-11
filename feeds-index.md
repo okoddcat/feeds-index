@@ -1,7 +1,9 @@
-*更新时间：06-11 14:50*
+*更新时间：06-11 21:05*
 
 
 
+
+- [让我心痛的英语等级考试 - 林海草原](https://lhcy.org/archives/163.html)
 
 - [带猜测的二分查找算法 - 云风的 BLOG](https://blog.codingnow.com/2021/06/binary_search_by_guess.html)
 
@@ -40,8 +42,6 @@
 - [偶遇的骑友 - 渚碧](https://jubeny.com/2021/05/running-into-a-rider/)
 
 - [最严重的一次单月下跌 - DHTalk's Blog](https://zhangdinghao.cn/2021/05/31/investment2105/)
-
-- [《王阳明传》疑与得 - 尺宅江湖](http://www.qtwm.com/?p=5293)
 
 
 
