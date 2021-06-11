@@ -1,7 +1,9 @@
-*更新时间：06-10 23:50*
+*更新时间：06-11 14:50*
 
 
 
+
+- [带猜测的二分查找算法 - 云风的 BLOG](https://blog.codingnow.com/2021/06/binary_search_by_guess.html)
 
 - [每夫吐槽（063） - 破袜子](https://pewae.com/2021/06/random_kuso_63.html)
 
@@ -40,8 +42,6 @@
 - [最严重的一次单月下跌 - DHTalk's Blog](https://zhangdinghao.cn/2021/05/31/investment2105/)
 
 - [《王阳明传》疑与得 - 尺宅江湖](http://www.qtwm.com/?p=5293)
-
-- [天海美术馆 - 尺宅江湖](http://www.qtwm.com/?p=5280)
 
 
 
