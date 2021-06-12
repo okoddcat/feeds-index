@@ -1,7 +1,9 @@
-*更新时间：06-11 21:05*
+*更新时间：06-12 17:50*
 
 
 
+
+- [为读书而读书 - 尺宅江湖](http://www.qtwm.com/?p=5305)
 
 - [让我心痛的英语等级考试 - 林海草原](https://lhcy.org/archives/163.html)
 
@@ -40,8 +42,6 @@
 - [独立软件的价值（在哪） - 一天世界](https://blog.yitianshijie.net/2021/06/02/why-is-indie-software-important/)
 
 - [偶遇的骑友 - 渚碧](https://jubeny.com/2021/05/running-into-a-rider/)
-
-- [最严重的一次单月下跌 - DHTalk's Blog](https://zhangdinghao.cn/2021/05/31/investment2105/)
 
 
 
