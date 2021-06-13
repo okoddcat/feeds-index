@@ -1,7 +1,9 @@
-*更新时间：06-12 17:50*
+*更新时间：06-14 00:05*
 
 
 
+
+- [学校教育为什么不教如何赚钱？ - 土木坛子](https://tumutanzi.com/archives/16794)
 
 - [为读书而读书 - 尺宅江湖](http://www.qtwm.com/?p=5305)
 
@@ -40,8 +42,6 @@
 - [Vol. 40 科技快乐星球02 - 枫言枫语](https://justinyan.me/post/4587)
 
 - [独立软件的价值（在哪） - 一天世界](https://blog.yitianshijie.net/2021/06/02/why-is-indie-software-important/)
-
-- [偶遇的骑友 - 渚碧](https://jubeny.com/2021/05/running-into-a-rider/)
 
 
 
