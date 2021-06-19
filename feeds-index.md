@@ -1,7 +1,9 @@
-*更新时间：06-17 21:50*
+*更新时间：06-19 21:50*
 
 
 
+
+- [博客程序由Typecho迁移到WordPress的原因分析 - 林海草原](https://lhcy.org/archives/165.html)
 
 - [typecho极简博客主题Write公开发布 - 林海草原](https://lhcy.org/archives/164.html)
 
@@ -40,8 +42,6 @@
 - [希望这是最后一次折腾评论邮件提醒 - 林海草原](https://lhcy.org/archives/161.html)
 
 - [崛起与没落：日清两国的自强改革 - 尺宅江湖](http://www.qtwm.com/?p=5299)
-
-- [电白香格里拉——鹅凰小镇露营记 - 土木坛子](https://tumutanzi.com/archives/16793)
 
 
 
