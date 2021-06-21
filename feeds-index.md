@@ -1,7 +1,9 @@
-*更新时间：06-21 11:50*
+*更新时间：06-21 16:05*
 
 
 
+
+- [学生教育 - 狡猫三窝](https://slykiten.com/life-note/student-education/)
 
 - [补记读戴明贤《物之物语》 - 尺宅江湖](http://www.qtwm.com/?p=5336)
 
@@ -40,8 +42,6 @@
 - [无损 ≈ remaster，空间音频 = remix - 一天世界](https://blog.yitianshijie.net/2021/06/09/lossless-approximately-equals-remaster-spatial-audio-equals-remix/)
 
 - [博客程序更换为WordPress - 林海草原](https://lhcy.org/archives/162.html)
-
-- [麻雀窝 - 狡猫三窝](https://slykiten.com/life-note/nest/)
 
 
 
