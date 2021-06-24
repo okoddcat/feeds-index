@@ -1,7 +1,9 @@
-*更新时间：06-24 12:50*
+*更新时间：06-24 15:50*
 
 
 
+
+- [如何与巨物对抗 - 一天世界](https://blog.yitianshijie.net/2021/06/24/how-to-fight-giants/)
 
 - [普通打工人有选择的余地吗？ - 林海草原](https://lhcy.org/archives/166.html)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（063） - 破袜子](https://pewae.com/2021/06/random_kuso_63.html)
 
 - [Vol. 41 WWDC 2021 X 科技早知道 - 枫言枫语](https://justinyan.me/post/4595)
-
-- [杨小凯的故事：从囚徒到圣徒 - 白板报](https://wangpei.net/2021/06/09/from-a-prisoner-to-a-saint-the-story-of-yang-xiaokai/)
 
 
 
