@@ -1,7 +1,9 @@
-*更新时间：06-22 11:50*
+*更新时间：06-24 12:50*
 
 
 
+
+- [普通打工人有选择的余地吗？ - 林海草原](https://lhcy.org/archives/166.html)
 
 - [佛系的减肥 - 渚碧](https://jubeny.com/2021/06/casual-weight-loss/)
 
@@ -40,8 +42,6 @@
 - [Vol. 41 WWDC 2021 X 科技早知道 - 枫言枫语](https://justinyan.me/post/4595)
 
 - [杨小凯的故事：从囚徒到圣徒 - 白板报](https://wangpei.net/2021/06/09/from-a-prisoner-to-a-saint-the-story-of-yang-xiaokai/)
-
-- [时间的礼物 - 白板报](https://wangpei.net/2021/06/09/the-gift-of-time-by-jonas/)
 
 
 
