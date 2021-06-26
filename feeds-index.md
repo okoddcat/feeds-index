@@ -1,7 +1,9 @@
-*更新时间：06-25 09:05*
+*更新时间：06-26 23:50*
 
 
 
+
+- [人像乌龟一样一动不动能长寿吗？ - 土木坛子](https://tumutanzi.com/archives/16797)
 
 - [博客RSS暂时混乱 - 林海草原](https://lhcy.org/archives/167.html)
 
@@ -40,8 +42,6 @@
 - [让我心痛的英语等级考试 - 林海草原](https://lhcy.org/archives/163.html)
 
 - [带猜测的二分查找算法 - 云风的 BLOG](https://blog.codingnow.com/2021/06/binary_search_by_guess.html)
-
-- [每夫吐槽（063） - 破袜子](https://pewae.com/2021/06/random_kuso_63.html)
 
 
 
