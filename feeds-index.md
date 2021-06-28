@@ -1,7 +1,9 @@
-*更新时间：06-28 08:50*
+*更新时间：06-28 16:50*
 
 
 
+
+- [德波尔负我 - 破袜子](https://pewae.com/2021/06/i-am-deeply-disappointed-with-the-dutch-team.html)
 
 - [Vol. 42 科技快乐星球03: Windows 11 甜蜜蜜~ - 枫言枫语](https://justinyan.me/post/4603)
 
@@ -40,8 +42,6 @@
 - [书评《被前任看见一个人吃火锅》 - 狡猫三窝](https://slykiten.com/novel-comments/bg-novel/%e4%b9%a6%e8%af%84%e3%80%8a%e8%a2%ab%e5%89%8d%e4%bb%bb%e7%9c%8b%e8%a7%81%e4%b8%80%e4%b8%aa%e4%ba%ba%e5%90%83%e7%81%ab%e9%94%85%e3%80%8b/)
 
 - [学校教育为什么不教如何赚钱？ - 土木坛子](https://tumutanzi.com/archives/16794)
-
-- [为读书而读书 - 尺宅江湖](http://www.qtwm.com/?p=5305)
 
 
 
