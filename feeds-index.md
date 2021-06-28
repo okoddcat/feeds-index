@@ -1,7 +1,9 @@
-*更新时间：06-27 00:05*
+*更新时间：06-28 08:50*
 
 
 
+
+- [Vol. 42 科技快乐星球03: Windows 11 甜蜜蜜~ - 枫言枫语](https://justinyan.me/post/4603)
 
 - [回顾广州疫情这场战 - 随望淡思](https://www.lushaojun.com/4932.html)
 
@@ -40,8 +42,6 @@
 - [学校教育为什么不教如何赚钱？ - 土木坛子](https://tumutanzi.com/archives/16794)
 
 - [为读书而读书 - 尺宅江湖](http://www.qtwm.com/?p=5305)
-
-- [让我心痛的英语等级考试 - 林海草原](https://lhcy.org/archives/163.html)
 
 
 
