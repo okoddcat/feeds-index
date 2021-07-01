@@ -1,4 +1,4 @@
-*更新时间：07-01 23:50*
+*更新时间：07-02 00:50*
 
 
 
@@ -6,6 +6,8 @@
 - [每夫吐槽（063Plus） - 破袜子](https://pewae.com/2021/07/random_kuso_64.html)
 
 - [我是比较能理解人家买包包的 - 尺宅江湖](http://www.qtwm.com/?p=5340)
+
+- [敢于竞争—第一夫人希拉里《Living History》读后感 - 土木坛子](https://tumutanzi.com/archives/16798)
 
 - [电影推个荐/2021-1 - 非礼勿言](https://feiliwuyan.com/movie-recommendation-2021-1/)
 
@@ -40,8 +42,6 @@
 - [茂名放鸡岛游记 - 土木坛子](https://tumutanzi.com/archives/16796)
 
 - [赤水“黔老翁”的技艺始于哪一个明朝 - 尺宅江湖](http://www.qtwm.com/?p=5331)
-
-- [读书有什么意义 - 尺宅江湖](http://www.qtwm.com/?p=5320)
 
 
 
