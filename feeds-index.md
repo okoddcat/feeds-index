@@ -1,7 +1,9 @@
-*更新时间：06-30 22:50*
+*更新时间：07-01 21:50*
 
 
 
+
+- [我是比较能理解人家买包包的 - 尺宅江湖](http://www.qtwm.com/?p=5340)
 
 - [电影推个荐/2021-1 - 非礼勿言](https://feiliwuyan.com/movie-recommendation-2021-1/)
 
@@ -40,8 +42,6 @@
 - [读书有什么意义 - 尺宅江湖](http://www.qtwm.com/?p=5320)
 
 - [补记女儿的游学 - 尺宅江湖](http://www.qtwm.com/?p=5312)
-
-- [博客程序由Typecho迁移到WordPress的原因分析 - 林海草原](https://lhcy.org/archives/165.html)
 
 
 
