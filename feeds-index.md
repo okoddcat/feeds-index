@@ -1,7 +1,9 @@
-*更新时间：07-07 11:50*
+*更新时间：07-07 14:50*
 
 
 
+
+- [漫无目的 05 - 封锁 - 枫言枫语](https://justinyan.me/post/4610)
 
 - [郑诗再铺垫 - 尺宅江湖](http://www.qtwm.com/?p=5374)
 
@@ -40,8 +42,6 @@
 - [博客RSS暂时混乱 - 林海草原](https://lhcy.org/archives/167.html)
 
 - [如何与巨物对抗 - 一天世界](https://blog.yitianshijie.net/2021/06/24/how-to-fight-giants/)
-
-- [普通打工人有选择的余地吗？ - 林海草原](https://lhcy.org/archives/166.html)
 
 
 
