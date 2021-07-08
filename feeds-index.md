@@ -1,7 +1,9 @@
-*更新时间：07-07 23:05*
+*更新时间：07-08 10:05*
 
 
 
+
+- [帮百度改写邮件（you will only make it worse） - 一天世界](https://blog.yitianshijie.net/2021/07/08/rewrite-email-for-baidu-you-will-only-make-it-worse/)
 
 - [被害妄想症后续之人生如戏 - 随望淡思](https://www.lushaojun.com/4938.html)
 
@@ -40,8 +42,6 @@
 - [回顾广州疫情这场战 - 随望淡思](https://www.lushaojun.com/4932.html)
 
 - [人像乌龟一样一动不动能长寿吗？ - 土木坛子](https://tumutanzi.com/archives/16797)
-
-- [博客RSS暂时混乱 - 林海草原](https://lhcy.org/archives/167.html)
 
 
 
