@@ -1,7 +1,9 @@
-*更新时间：07-08 10:05*
+*更新时间：07-08 16:50*
 
 
 
+
+- [好中文写作营第六期开营啦 - 白板报](https://wangpei.net/2021/07/08/haozhongwen-season-6-is-open/)
 
 - [帮百度改写邮件（you will only make it worse） - 一天世界](https://blog.yitianshijie.net/2021/07/08/rewrite-email-for-baidu-you-will-only-make-it-worse/)
 
@@ -40,8 +42,6 @@
 - [Vol. 42 科技快乐星球03: Windows 11 甜蜜蜜~ - 枫言枫语](https://justinyan.me/post/4603)
 
 - [回顾广州疫情这场战 - 随望淡思](https://www.lushaojun.com/4932.html)
-
-- [人像乌龟一样一动不动能长寿吗？ - 土木坛子](https://tumutanzi.com/archives/16797)
 
 
 
