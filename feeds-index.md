@@ -1,7 +1,9 @@
-*更新时间：07-08 16:50*
+*更新时间：07-09 21:50*
 
 
 
+
+- [再见，奶奶（下） - 林海草原](https://lhcy.org/archives/170.html)
 
 - [好中文写作营第六期开营啦 - 白板报](https://wangpei.net/2021/07/08/haozhongwen-season-6-is-open/)
 
@@ -40,8 +42,6 @@
 - [德波尔负我 - 破袜子](https://pewae.com/2021/06/i-am-deeply-disappointed-with-the-dutch-team.html)
 
 - [Vol. 42 科技快乐星球03: Windows 11 甜蜜蜜~ - 枫言枫语](https://justinyan.me/post/4603)
-
-- [回顾广州疫情这场战 - 随望淡思](https://www.lushaojun.com/4932.html)
 
 
 
