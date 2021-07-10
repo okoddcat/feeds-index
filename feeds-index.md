@@ -1,7 +1,9 @@
-*更新时间：07-09 21:50*
+*更新时间：07-10 13:50*
 
 
 
+
+- [帮 FT 中文网改写读者通告（no can do） - 一天世界](https://blog.yitianshijie.net/2021/07/10/rewrite-ft-chinese-reader-notice-no-can-do/)
 
 - [再见，奶奶（下） - 林海草原](https://lhcy.org/archives/170.html)
 
@@ -40,8 +42,6 @@
 - [枫影夜读 #14 - No Filter: The Inside Story of Instagram - 枫言枫语](https://justinyan.me/post/4606)
 
 - [德波尔负我 - 破袜子](https://pewae.com/2021/06/i-am-deeply-disappointed-with-the-dutch-team.html)
-
-- [Vol. 42 科技快乐星球03: Windows 11 甜蜜蜜~ - 枫言枫语](https://justinyan.me/post/4603)
 
 
 
