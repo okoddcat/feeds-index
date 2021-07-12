@@ -1,7 +1,9 @@
-*更新时间：07-12 17:05*
+*更新时间：07-12 19:50*
 
 
 
+
+- [世界，您好！ - 林海草原](https://lhcy.org/2021/07/12/hello-world/)
 
 - [成年人对自己太狠了 - 伪医生律师的博客](https://chidd.net/2021/07/12/tai-hen-le.html)
 
@@ -40,8 +42,6 @@
 - [敢于竞争—第一夫人希拉里《Living History》读后感 - 土木坛子](https://tumutanzi.com/archives/16798)
 
 - [电影推个荐/2021-1 - 非礼勿言](https://feiliwuyan.com/movie-recommendation-2021-1/)
-
-- [2021年6月投资月报：月度级别的震荡 - DHTalk's Blog](https://zhangdinghao.cn/2021/06/30/investment2106/)
 
 
 
