@@ -1,7 +1,9 @@
-*更新时间：07-14 13:50*
+*更新时间：07-15 09:50*
 
 
 
+
+- [二日杂记 - 尺宅江湖](http://www.qtwm.com/?p=5393)
 
 - [相逢不语，一朵芙蓉著秋雨 - 尺宅江湖](http://www.qtwm.com/?p=5390)
 
@@ -40,8 +42,6 @@
 - [拖了十四年的《古代统计图形》 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2021/07/ancient-stat-graphics/)
 
 - [本博客域名被cmcc污染 - 林海草原](https://lhcy.org/archives/169.html)
-
-- [装修套路多之：选装修公司 - 伪医生律师的博客](https://chidd.net/2021/07/06/zhuang-xiu-gong-si.html)
 
 
 
