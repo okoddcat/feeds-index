@@ -1,7 +1,9 @@
-*更新时间：07-15 17:50*
+*更新时间：07-16 16:50*
 
 
 
+
+- [J1签证过了 - 狡猫三窝](https://slykiten.com/life-note/j1%e7%ad%be%e8%af%81%e8%bf%87%e4%ba%86/)
 
 - [参加校友会随记 - 伪医生律师的博客](https://chidd.net/2021/07/15/xiao-you-hui.html)
 
@@ -40,8 +42,6 @@
 - [郑诗再铺垫 - 尺宅江湖](http://www.qtwm.com/?p=5374)
 
 - [听歌系列之微风细雨 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2021/07/breeze-drizzle/)
-
-- [拖了十四年的《古代统计图形》 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2021/07/ancient-stat-graphics/)
 
 
 
