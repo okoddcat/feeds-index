@@ -1,7 +1,9 @@
-*更新时间：07-16 16:50*
+*更新时间：07-17 02:05*
 
 
 
+
+- [好中文预备课：要做大事，要找到爱 - 白板报](https://wangpei.net/2021/07/17/do-big-find-love/)
 
 - [J1签证过了 - 狡猫三窝](https://slykiten.com/life-note/j1%e7%ad%be%e8%af%81%e8%bf%87%e4%ba%86/)
 
@@ -40,8 +42,6 @@
 - [漫无目的 05 - 封锁 - 枫言枫语](https://justinyan.me/post/4610)
 
 - [郑诗再铺垫 - 尺宅江湖](http://www.qtwm.com/?p=5374)
-
-- [听歌系列之微风细雨 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2021/07/breeze-drizzle/)
 
 
 
