@@ -1,7 +1,9 @@
-*更新时间：07-17 17:05*
+*更新时间：07-17 23:50*
 
 
 
+
+- [如是，如是 - 尺宅江湖](http://www.qtwm.com/?p=5402)
 
 - [记录两次WordPress重装 - 林海草原](https://lhcy.org/archives/171.html)
 
@@ -40,8 +42,6 @@
 - [帮百度改写邮件（you will only make it worse） - 一天世界](https://blog.yitianshijie.net/2021/07/08/rewrite-email-for-baidu-you-will-only-make-it-worse/)
 
 - [最不后 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2021/07/last-not/)
-
-- [被害妄想症后续之人生如戏 - 随望淡思](https://www.lushaojun.com/4938.html)
 
 
 
