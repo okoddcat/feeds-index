@@ -1,4 +1,4 @@
-*更新时间：07-17 08:05*
+*更新时间：07-17 17:05*
 
 
 
@@ -29,6 +29,8 @@
 
 - [《随机漫步的傻瓜》读书笔记 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2021/07/fooled-by-randomness/)
 
+- [美股期权投资策略学习笔记--期权的基本概念 - iTimothy](https://xiaozhou.net/stock-options-trading-strategies-study-notes-stock-options-basics-2021-07-09.html)
+
 - [再见，奶奶（下） - 林海草原](https://lhcy.org/archives/170.html)
 
 - [三次受伤 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2021/07/injuries/)
@@ -40,8 +42,6 @@
 - [最不后 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2021/07/last-not/)
 
 - [被害妄想症后续之人生如戏 - 随望淡思](https://www.lushaojun.com/4938.html)
-
-- [漫无目的 05 - 封锁 - 枫言枫语](https://justinyan.me/post/4610)
 
 
 
