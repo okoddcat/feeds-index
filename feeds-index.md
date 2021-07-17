@@ -1,7 +1,9 @@
-*更新时间：07-17 02:05*
+*更新时间：07-17 08:05*
 
 
 
+
+- [记录两次WordPress重装 - 林海草原](https://lhcy.org/archives/171.html)
 
 - [好中文预备课：要做大事，要找到爱 - 白板报](https://wangpei.net/2021/07/17/do-big-find-love/)
 
@@ -40,8 +42,6 @@
 - [被害妄想症后续之人生如戏 - 随望淡思](https://www.lushaojun.com/4938.html)
 
 - [漫无目的 05 - 封锁 - 枫言枫语](https://justinyan.me/post/4610)
-
-- [郑诗再铺垫 - 尺宅江湖](http://www.qtwm.com/?p=5374)
 
 
 
