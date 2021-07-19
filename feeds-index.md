@@ -1,7 +1,9 @@
-*更新时间：07-19 18:50*
+*更新时间：07-19 19:50*
 
 
 
+
+- [邮件通知故障恢复记 - 伪医生律师的博客](https://chidd.net/2021/07/19/mail-notification.html)
 
 - [ECS 模型下的处理模式 - 云风的 BLOG](https://blog.codingnow.com/2021/07/lua_ecs.html)
 
@@ -40,8 +42,6 @@
 - [美股期权投资策略学习笔记--期权的基本概念 - iTimothy](https://xiaozhou.net/stock-options-trading-strategies-study-notes-stock-options-basics-2021-07-09.html)
 
 - [再见，奶奶（下） - 林海草原](https://lhcy.org/archives/170.html)
-
-- [三次受伤 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2021/07/injuries/)
 
 
 
