@@ -1,7 +1,9 @@
-*更新时间：07-19 19:50*
+*更新时间：07-20 10:50*
 
 
 
+
+- [善待一本书的最好方式 - 尺宅江湖](http://www.qtwm.com/?p=5417)
 
 - [邮件通知故障恢复记 - 伪医生律师的博客](https://chidd.net/2021/07/19/mail-notification.html)
 
@@ -40,8 +42,6 @@
 - [《随机漫步的傻瓜》读书笔记 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2021/07/fooled-by-randomness/)
 
 - [美股期权投资策略学习笔记--期权的基本概念 - iTimothy](https://xiaozhou.net/stock-options-trading-strategies-study-notes-stock-options-basics-2021-07-09.html)
-
-- [再见，奶奶（下） - 林海草原](https://lhcy.org/archives/170.html)
 
 
 
