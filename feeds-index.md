@@ -1,7 +1,11 @@
-*更新时间：07-20 10:50*
+*更新时间：07-21 15:05*
 
 
 
+
+- [争取做个好读者 - 尺宅江湖](http://www.qtwm.com/?p=5427)
+
+- [琥珀、长颈鹿和大象 - 尺宅江湖](http://www.qtwm.com/?p=5420)
 
 - [善待一本书的最好方式 - 尺宅江湖](http://www.qtwm.com/?p=5417)
 
@@ -38,10 +42,6 @@
 - [什么是学习 - 尺宅江湖](http://www.qtwm.com/?p=5383)
 
 - [帮 FT 中文网改写读者通告（no can do） - 一天世界](https://blog.yitianshijie.net/2021/07/10/rewrite-ft-chinese-reader-notice-no-can-do/)
-
-- [《随机漫步的傻瓜》读书笔记 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2021/07/fooled-by-randomness/)
-
-- [美股期权投资策略学习笔记--期权的基本概念 - iTimothy](https://xiaozhou.net/stock-options-trading-strategies-study-notes-stock-options-basics-2021-07-09.html)
 
 
 
