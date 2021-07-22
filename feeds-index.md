@@ -1,7 +1,9 @@
-*更新时间：07-21 15:05*
+*更新时间：07-22 14:05*
 
 
 
+
+- [日日是好日2 - 尺宅江湖](http://www.qtwm.com/?p=5432)
 
 - [争取做个好读者 - 尺宅江湖](http://www.qtwm.com/?p=5427)
 
@@ -40,8 +42,6 @@
 - [重温老片《少林童子功》 - 破袜子](https://pewae.com/2021/07/review-consummate-power.html)
 
 - [什么是学习 - 尺宅江湖](http://www.qtwm.com/?p=5383)
-
-- [帮 FT 中文网改写读者通告（no can do） - 一天世界](https://blog.yitianshijie.net/2021/07/10/rewrite-ft-chinese-reader-notice-no-can-do/)
 
 
 
