@@ -1,7 +1,9 @@
-*更新时间：07-23 13:50*
+*更新时间：07-24 08:50*
 
 
 
+
+- [好中文第六期第一课：一百天日更计划 - 白板报](https://wangpei.net/2021/07/24/writing-in-100-days/)
 
 - [枫影夜读 #15 - Bill Bryson "The Body" （《人体简史》） - 枫言枫语](https://justinyan.me/post/4616)
 
@@ -40,8 +42,6 @@
 - [存在 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2021/07/existence/)
 
 - [世界，您好！ - 林海草原](https://lhcy.org/2021/07/12/hello-world/)
-
-- [成年人对自己太狠了 - 伪医生律师的博客](https://chidd.net/2021/07/12/tai-hen-le.html)
 
 
 
