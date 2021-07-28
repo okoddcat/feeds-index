@@ -1,7 +1,9 @@
-*更新时间：07-28 11:05*
+*更新时间：07-28 11:50*
 
 
 
+
+- [如何免于被举报 - 一天世界](https://blog.yitianshijie.net/2021/07/28/how-to-dodge-chinese-red-guards-in-the-21st-century/)
 
 - [万盛黑山谷游记 - 伪医生律师的博客](https://chidd.net/2021/07/28/hei-san-gu.html)
 
@@ -40,8 +42,6 @@
 - [如是，如是 - 尺宅江湖](http://www.qtwm.com/?p=5402)
 
 - [记录两次WordPress重装 - 林海草原](https://lhcy.org/archives/171.html)
-
-- [好中文预备课：要做大事，要找到爱 - 白板报](https://wangpei.net/2021/07/17/do-big-find-love/)
 
 
 
