@@ -1,7 +1,9 @@
-*更新时间：07-28 11:50*
+*更新时间：07-28 15:50*
 
 
 
+
+- [一个佛教爱好者 - 尺宅江湖](http://www.qtwm.com/?p=5463)
 
 - [如何免于被举报 - 一天世界](https://blog.yitianshijie.net/2021/07/28/how-to-dodge-chinese-red-guards-in-the-21st-century/)
 
@@ -40,8 +42,6 @@
 - [蜂鸟文丛三连 - 尺宅江湖](http://www.qtwm.com/?p=5406)
 
 - [如是，如是 - 尺宅江湖](http://www.qtwm.com/?p=5402)
-
-- [记录两次WordPress重装 - 林海草原](https://lhcy.org/archives/171.html)
 
 
 
