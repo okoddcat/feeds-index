@@ -1,7 +1,9 @@
-*更新时间：07-27 23:05*
+*更新时间：07-28 11:05*
 
 
 
+
+- [万盛黑山谷游记 - 伪医生律师的博客](https://chidd.net/2021/07/28/hei-san-gu.html)
 
 - [三十年后再见莫泊桑 - 尺宅江湖](http://www.qtwm.com/?p=5458)
 
@@ -40,8 +42,6 @@
 - [记录两次WordPress重装 - 林海草原](https://lhcy.org/archives/171.html)
 
 - [好中文预备课：要做大事，要找到爱 - 白板报](https://wangpei.net/2021/07/17/do-big-find-love/)
-
-- [J1签证过了 - 狡猫三窝](https://slykiten.com/life-note/j1%e7%ad%be%e8%af%81%e8%bf%87%e4%ba%86/)
 
 
 
