@@ -1,7 +1,9 @@
-*更新时间：07-31 20:05*
+*更新时间：07-31 22:50*
 
 
 
+
+- [疫苗与审稿 - 非礼勿言](https://feiliwuyan.com/vaccines-and-review/)
 
 - [我辞职了 - 土木坛子](https://tumutanzi.com/archives/16801)
 
@@ -40,8 +42,6 @@
 - [邮件通知故障恢复记 - 伪医生律师的博客](https://chidd.net/2021/07/19/mail-notification.html)
 
 - [ECS 模型下的处理模式 - 云风的 BLOG](https://blog.codingnow.com/2021/07/lua_ecs.html)
-
-- [不假装 - 尺宅江湖](http://www.qtwm.com/?p=5409)
 
 
 
