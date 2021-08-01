@@ -1,7 +1,9 @@
-*更新时间：08-01 05:50*
+*更新时间：08-01 17:50*
 
 
 
+
+- [随便写点 - 狡猫三窝](https://slykiten.com/life-note/%e9%9a%8f%e4%be%bf%e5%86%99%e7%82%b9/)
 
 - [gc6e02p2好中文第六期第二课：长青笔记实践篇 - 白板报](https://wangpei.net/2021/08/01/how-to-take-evergreen-note/)
 
@@ -40,8 +42,6 @@
 - [琥珀、长颈鹿和大象 - 尺宅江湖](http://www.qtwm.com/?p=5420)
 
 - [善待一本书的最好方式 - 尺宅江湖](http://www.qtwm.com/?p=5417)
-
-- [邮件通知故障恢复记 - 伪医生律师的博客](https://chidd.net/2021/07/19/mail-notification.html)
 
 
 
