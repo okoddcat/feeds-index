@@ -1,4 +1,4 @@
-*更新时间：08-01 18:50*
+*更新时间：08-01 23:05*
 
 
 
@@ -10,6 +10,8 @@
 - [世间好物不坚牢，彩云易散琉璃脆——《我们仨》读后感 - 土木坛子](https://tumutanzi.com/archives/16803)
 
 - [疫苗与审稿 - 非礼勿言](https://feiliwuyan.com/vaccines-and-review/)
+
+- [2021年7月投资月报：行情开始好转 - DHTalk's Blog](https://zhangdinghao.cn/2021/07/31/investment2107/)
 
 - [我辞职了 - 土木坛子](https://tumutanzi.com/archives/16801)
 
@@ -40,8 +42,6 @@
 - [日日是好日2 - 尺宅江湖](http://www.qtwm.com/?p=5432)
 
 - [争取做个好读者 - 尺宅江湖](http://www.qtwm.com/?p=5427)
-
-- [琥珀、长颈鹿和大象 - 尺宅江湖](http://www.qtwm.com/?p=5420)
 
 
 
