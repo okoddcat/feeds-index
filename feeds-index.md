@@ -1,7 +1,9 @@
-*更新时间：08-04 17:05*
+*更新时间：08-06 11:50*
 
 
 
+
+- [从吃一顿“西餐”想到的 - 土木坛子](https://tumutanzi.com/archives/16807)
 
 - [恰如其分 - 渚碧](https://jubeny.com/2021/08/to-be-appropriate/)
 
@@ -40,8 +42,6 @@
 - [欧·亨利旧时光 - 尺宅江湖](http://www.qtwm.com/?p=5445)
 
 - [社保转移办理 - 林海草原](https://lhcy.org/archives/172.html)
-
-- [好中文第六期第一课：一百天日更计划 - 白板报](https://wangpei.net/2021/07/24/writing-in-100-days/)
 
 
 
