@@ -1,7 +1,9 @@
-*更新时间：08-09 12:50*
+*更新时间：08-09 15:50*
 
 
 
+
+- [再见爱伦·坡，再见海明威 - 尺宅江湖](http://www.qtwm.com/?p=5490)
 
 - [枫影夜读 #17 - 岸见一郎、古贺史健《被讨厌的勇气》 - 枫言枫语](https://justinyan.me/post/4625)
 
@@ -40,8 +42,6 @@
 - [一个佛教爱好者 - 尺宅江湖](http://www.qtwm.com/?p=5463)
 
 - [如何免于被举报 - 一天世界](https://blog.yitianshijie.net/2021/07/28/how-to-dodge-chinese-red-guards-in-the-21st-century/)
-
-- [万盛黑山谷游记 - 伪医生律师的博客](https://chidd.net/2021/07/28/hei-san-gu.html)
 
 
 
