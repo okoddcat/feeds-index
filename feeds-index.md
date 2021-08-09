@@ -1,7 +1,9 @@
-*更新时间：08-08 16:50*
+*更新时间：08-09 12:50*
 
 
 
+
+- [枫影夜读 #17 - 岸见一郎、古贺史健《被讨厌的勇气》 - 枫言枫语](https://justinyan.me/post/4625)
 
 - [矮纸斜行 - 尺宅江湖](http://www.qtwm.com/?p=5486)
 
@@ -40,8 +42,6 @@
 - [如何免于被举报 - 一天世界](https://blog.yitianshijie.net/2021/07/28/how-to-dodge-chinese-red-guards-in-the-21st-century/)
 
 - [万盛黑山谷游记 - 伪医生律师的博客](https://chidd.net/2021/07/28/hei-san-gu.html)
-
-- [三十年后再见莫泊桑 - 尺宅江湖](http://www.qtwm.com/?p=5458)
 
 
 
