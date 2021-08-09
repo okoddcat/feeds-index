@@ -1,7 +1,9 @@
-*更新时间：08-09 15:50*
+*更新时间：08-10 00:50*
 
 
 
+
+- [钱都是大风刮过来的：HI币空投项目【薅羊毛】 - 土木坛子](https://tumutanzi.com/archives/16808)
 
 - [再见爱伦·坡，再见海明威 - 尺宅江湖](http://www.qtwm.com/?p=5490)
 
@@ -40,8 +42,6 @@
 - [枫影夜读 #16 - 阿尔贝·加缪《局外人》 - 枫言枫语](https://justinyan.me/post/4619)
 
 - [一个佛教爱好者 - 尺宅江湖](http://www.qtwm.com/?p=5463)
-
-- [如何免于被举报 - 一天世界](https://blog.yitianshijie.net/2021/07/28/how-to-dodge-chinese-red-guards-in-the-21st-century/)
 
 
 
