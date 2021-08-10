@@ -1,7 +1,9 @@
-*更新时间：08-10 11:50*
+*更新时间：08-10 12:05*
 
 
 
+
+- [【转载】郭德纲：人在江湖 - 伪医生律师的博客](https://chidd.net/2021/08/10/guo-de-gang.html)
 
 - [这里的黎明静悄悄 - 尺宅江湖](http://www.qtwm.com/?p=5493)
 
@@ -40,8 +42,6 @@
 - [疫苗与审稿 - 非礼勿言](https://feiliwuyan.com/vaccines-and-review/)
 
 - [2021年7月投资月报：行情开始好转 - DHTalk's Blog](https://zhangdinghao.cn/2021/07/31/investment2107/)
-
-- [我辞职了 - 土木坛子](https://tumutanzi.com/archives/16801)
 
 
 
