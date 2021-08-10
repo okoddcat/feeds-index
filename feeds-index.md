@@ -1,7 +1,9 @@
-*更新时间：08-10 00:50*
+*更新时间：08-10 11:05*
 
 
 
+
+- [Vol. 43 科技快乐星球04: 苹果确认将扫描手机上的照片 - 枫言枫语](https://justinyan.me/post/4628)
 
 - [钱都是大风刮过来的：HI币空投项目【薅羊毛】 - 土木坛子](https://tumutanzi.com/archives/16808)
 
@@ -40,8 +42,6 @@
 - [我辞职了 - 土木坛子](https://tumutanzi.com/archives/16801)
 
 - [枫影夜读 #16 - 阿尔贝·加缪《局外人》 - 枫言枫语](https://justinyan.me/post/4619)
-
-- [一个佛教爱好者 - 尺宅江湖](http://www.qtwm.com/?p=5463)
 
 
 
