@@ -1,7 +1,9 @@
-*更新时间：08-10 12:05*
+*更新时间：08-12 16:50*
 
 
 
+
+- [1Password 8 与 Electron - 枫言枫语](https://justinyan.me/post/4632)
 
 - [【转载】郭德纲：人在江湖 - 伪医生律师的博客](https://chidd.net/2021/08/10/guo-de-gang.html)
 
@@ -40,8 +42,6 @@
 - [世间好物不坚牢，彩云易散琉璃脆——《我们仨》读后感 - 土木坛子](https://tumutanzi.com/archives/16803)
 
 - [疫苗与审稿 - 非礼勿言](https://feiliwuyan.com/vaccines-and-review/)
-
-- [2021年7月投资月报：行情开始好转 - DHTalk's Blog](https://zhangdinghao.cn/2021/07/31/investment2107/)
 
 
 
