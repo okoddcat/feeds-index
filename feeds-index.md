@@ -1,7 +1,9 @@
-*更新时间：08-13 15:50*
+*更新时间：08-13 17:50*
 
 
 
+
+- [朝内人文文库三种 - 尺宅江湖](http://www.qtwm.com/?p=5501)
 
 - [奈良般若寺和若草山 - 狡猫三窝](https://slykiten.com/life-note/hanyaji-wakakusayama-nara/)
 
@@ -40,8 +42,6 @@
 - [浅谈我对“双减”的认识 - 林海草原](https://lhcy.org/archives/173.html)
 
 - [随便写点 - 狡猫三窝](https://slykiten.com/life-note/%e9%9a%8f%e4%be%bf%e5%86%99%e7%82%b9/)
-
-- [gc6e02p2好中文第六期第二课：长青笔记实践篇 - 白板报](https://wangpei.net/2021/08/01/how-to-take-evergreen-note/)
 
 
 
