@@ -1,7 +1,9 @@
-*更新时间：08-13 17:50*
+*更新时间：08-14 12:50*
 
 
 
+
+- [Typecho极简博客、日记主题Simple发布 - 林海草原](https://lhcy.org/archives/174.html)
 
 - [朝内人文文库三种 - 尺宅江湖](http://www.qtwm.com/?p=5501)
 
@@ -40,8 +42,6 @@
 - [茫茫的相似 - 最好金龟换酒](http://fz0512.com/archives/2189)
 
 - [浅谈我对“双减”的认识 - 林海草原](https://lhcy.org/archives/173.html)
-
-- [随便写点 - 狡猫三窝](https://slykiten.com/life-note/%e9%9a%8f%e4%be%bf%e5%86%99%e7%82%b9/)
 
 
 
