@@ -1,9 +1,11 @@
-*更新时间：08-15 22:05*
+*更新时间：08-15 22:50*
 
 
 
 
 - [随手记 - 尺宅江湖](http://www.qtwm.com/?p=5505)
+
+- [幸亏有个自己的个人网站 - 土木坛子](https://tumutanzi.com/archives/16809)
 
 - [Typecho极简博客、日记主题Simple发布 - 林海草原](https://lhcy.org/archives/174.html)
 
@@ -40,8 +42,6 @@
 - [脆弱的生活 - 尺宅江湖](http://www.qtwm.com/?p=5476)
 
 - [怎样才算是好 - 尺宅江湖](http://www.qtwm.com/?p=5473)
-
-- [茫茫的相似 - 最好金龟换酒](http://fz0512.com/archives/2189)
 
 
 
