@@ -1,7 +1,9 @@
-*更新时间：08-15 22:50*
+*更新时间：08-16 01:50*
 
 
 
+
+- [Vol. 44 1Password 8 使用 Electron 重写，社区炸了 - 枫言枫语](https://justinyan.me/post/4637)
 
 - [随手记 - 尺宅江湖](http://www.qtwm.com/?p=5505)
 
@@ -40,8 +42,6 @@
 - [恰如其分 - 渚碧](https://jubeny.com/2021/08/to-be-appropriate/)
 
 - [脆弱的生活 - 尺宅江湖](http://www.qtwm.com/?p=5476)
-
-- [怎样才算是好 - 尺宅江湖](http://www.qtwm.com/?p=5473)
 
 
 
