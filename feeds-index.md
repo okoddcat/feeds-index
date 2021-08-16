@@ -1,7 +1,9 @@
-*更新时间：08-17 00:05*
+*更新时间：08-17 05:50*
 
 
 
+
+- [2021-08-16-每周交流：AI翻译与执剑人 - 白板报](https://wangpei.net/2021/08/17/translation-ai-and-sword-holder/)
 
 - [每夫吐槽（065） - 破袜子](https://pewae.com/2021/08/random_kuso_65.html)
 
@@ -40,8 +42,6 @@
 - [矮纸斜行 - 尺宅江湖](http://www.qtwm.com/?p=5486)
 
 - [剧本 - 尺宅江湖](http://www.qtwm.com/?p=5483)
-
-- [喜欢《第六病室》胜过其他 - 尺宅江湖](http://www.qtwm.com/?p=5479)
 
 
 
