@@ -1,7 +1,9 @@
-*更新时间：08-17 05:50*
+*更新时间：08-19 12:50*
 
 
 
+
+- [新的日记流 - 渚碧](https://jubeny.com/2021/08/new-dairy-flow/)
 
 - [2021-08-16-每周交流：AI翻译与执剑人 - 白板报](https://wangpei.net/2021/08/17/translation-ai-and-sword-holder/)
 
@@ -40,8 +42,6 @@
 - [枫影夜读 #17 - 岸见一郎、古贺史健《被讨厌的勇气》 - 枫言枫语](https://justinyan.me/post/4625)
 
 - [矮纸斜行 - 尺宅江湖](http://www.qtwm.com/?p=5486)
-
-- [剧本 - 尺宅江湖](http://www.qtwm.com/?p=5483)
 
 
 
