@@ -1,7 +1,9 @@
-*更新时间：08-21 21:50*
+*更新时间：08-21 22:05*
 
 
 
+
+- [天赋与赛道 - 随望淡思](https://www.lushaojun.com/4965.html)
 
 - [待寒山 - 尺宅江湖](http://www.qtwm.com/?p=5519)
 
@@ -40,8 +42,6 @@
 - [1Password 8 与 Electron - 枫言枫语](https://justinyan.me/post/4632)
 
 - [【转载】郭德纲：人在江湖 - 伪医生律师的博客](https://chidd.net/2021/08/10/guo-de-gang.html)
-
-- [这里的黎明静悄悄 - 尺宅江湖](http://www.qtwm.com/?p=5493)
 
 
 
