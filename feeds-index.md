@@ -1,7 +1,9 @@
-*更新时间：08-22 21:50*
+*更新时间：08-23 00:50*
 
 
 
+
+- [光明力量2～古代的封印 - 破袜子](https://pewae.com/2021/08/shinning-force-2.html)
 
 - [肉の月 - 尺宅江湖](http://www.qtwm.com/?p=5522)
 
@@ -40,8 +42,6 @@
 - [奈良般若寺和若草山 - 狡猫三窝](https://slykiten.com/life-note/hanyaji-wakakusayama-nara/)
 
 - [仁者心动 - 尺宅江湖](http://www.qtwm.com/?p=5498)
-
-- [1Password 8 与 Electron - 枫言枫语](https://justinyan.me/post/4632)
 
 
 
