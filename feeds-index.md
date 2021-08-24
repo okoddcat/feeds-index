@@ -1,7 +1,9 @@
-*更新时间：08-23 00:50*
+*更新时间：08-24 15:50*
 
 
 
+
+- [内存对齐问题和编译器优化 - 云风的 BLOG](https://blog.codingnow.com/2021/08/unalignment_memory_access.html)
 
 - [光明力量2～古代的封印 - 破袜子](https://pewae.com/2021/08/shinning-force-2.html)
 
@@ -40,8 +42,6 @@
 - [朝内人文文库三种 - 尺宅江湖](http://www.qtwm.com/?p=5501)
 
 - [奈良般若寺和若草山 - 狡猫三窝](https://slykiten.com/life-note/hanyaji-wakakusayama-nara/)
-
-- [仁者心动 - 尺宅江湖](http://www.qtwm.com/?p=5498)
 
 
 
