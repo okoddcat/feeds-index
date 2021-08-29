@@ -1,7 +1,13 @@
-*更新时间：08-27 11:05*
+*更新时间：08-29 23:05*
 
 
 
+
+- [苟延残喘 - 尺宅江湖](http://www.qtwm.com/?p=5547)
+
+- [重开文言文课 - 尺宅江湖](http://www.qtwm.com/?p=5544)
+
+- [返校日 - 尺宅江湖](http://www.qtwm.com/?p=5541)
 
 - [穿梭虫洞-随机访问十年之约博客链接 - 雨落泪尽](https://couqiao.net/archives/397.html)
 
@@ -36,12 +42,6 @@
 - [新的日记流 - 渚碧](https://jubeny.com/2021/08/new-dairy-flow/)
 
 - [2021-08-16-每周交流：AI翻译与执剑人 - 白板报](https://wangpei.net/2021/08/17/translation-ai-and-sword-holder/)
-
-- [每夫吐槽（065） - 破袜子](https://pewae.com/2021/08/random_kuso_65.html)
-
-- [枫影夜读 #18 蛤蟆先生去看心理医生 - 枫言枫语](https://justinyan.me/post/4635)
-
-- [Vol. 44 1Password 8 使用 Electron 重写，社区炸了 - 枫言枫语](https://justinyan.me/post/4637)
 
 
 
