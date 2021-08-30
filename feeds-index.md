@@ -1,7 +1,9 @@
-*更新时间：08-29 23:05*
+*更新时间：08-30 14:05*
 
 
 
+
+- [漫无目的 06 - 我看电影《失控玩家》 - 枫言枫语](https://justinyan.me/post/4651)
 
 - [苟延残喘 - 尺宅江湖](http://www.qtwm.com/?p=5547)
 
@@ -40,8 +42,6 @@
 - [闭环 - 尺宅江湖](http://www.qtwm.com/?p=5509)
 
 - [新的日记流 - 渚碧](https://jubeny.com/2021/08/new-dairy-flow/)
-
-- [2021-08-16-每周交流：AI翻译与执剑人 - 白板报](https://wangpei.net/2021/08/17/translation-ai-and-sword-holder/)
 
 
 
