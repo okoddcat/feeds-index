@@ -1,7 +1,9 @@
-*更新时间：08-30 14:05*
+*更新时间：08-31 21:50*
 
 
 
+
+- [Vol. 45 科技快乐星球05: 特斯拉要造人形机器人啦 - 枫言枫语](https://justinyan.me/post/4659)
 
 - [漫无目的 06 - 我看电影《失控玩家》 - 枫言枫语](https://justinyan.me/post/4651)
 
@@ -40,8 +42,6 @@
 - [预制件和对象集的管理 - 云风的 BLOG](https://blog.codingnow.com/2021/08/prefab_instance.html)
 
 - [闭环 - 尺宅江湖](http://www.qtwm.com/?p=5509)
-
-- [新的日记流 - 渚碧](https://jubeny.com/2021/08/new-dairy-flow/)
 
 
 
