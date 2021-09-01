@@ -1,9 +1,15 @@
-*更新时间：09-01 10:25*
+*更新时间：09-01 10:30*
 
 
 
 
 - [2021年8月投资月报：BTC 年底看到 15W 美金？ - DHTalk's Blog](https://zhangdinghao.cn/2021/08/31/investment2108/)
+
+- [完成文言文自编教材 - 尺宅江湖](http://www.qtwm.com/?p=5562)
+
+- [两个小烦恼 - 非礼勿言](https://feiliwuyan.com/two-minor-annoyances/)
+
+- [野橘猫和天龙八部 - 尺宅江湖](http://www.qtwm.com/?p=5558)
 
 - [Vol. 45 科技快乐星球05: 特斯拉要造人形机器人啦 - 枫言枫语](https://justinyan.me/post/4659)
 
@@ -36,12 +42,6 @@
 - [天赋与赛道 - 随望淡思](https://www.lushaojun.com/4965.html)
 
 - [待寒山 - 尺宅江湖](http://www.qtwm.com/?p=5519)
-
-- [人愚笨起来，连神仙也怕 - 尺宅江湖](http://www.qtwm.com/?p=5514)
-
-- [飞到芝加哥 - 狡猫三窝](https://slykiten.com/life-note/fly-to-chicago/)
-
-- [预制件和对象集的管理 - 云风的 BLOG](https://blog.codingnow.com/2021/08/prefab_instance.html)
 
 
 
