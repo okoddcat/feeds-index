@@ -1,4 +1,4 @@
-*更新时间：09-01 10:50*
+*更新时间：09-01 18:50*
 
 
 
@@ -14,6 +14,8 @@
 - [野橘猫和天龙八部 - 尺宅江湖](http://www.qtwm.com/?p=5558)
 
 - [Vol. 45 科技快乐星球05: 特斯拉要造人形机器人啦 - 枫言枫语](https://justinyan.me/post/4659)
+
+- [周末闲谈（五） - 雨落泪尽](https://couqiao.net/archives/411.html)
 
 - [漫无目的 06 - 我看电影《失控玩家》 - 枫言枫语](https://justinyan.me/post/4651)
 
@@ -40,8 +42,6 @@
 - [光明力量2～古代的封印 - 破袜子](https://pewae.com/2021/08/shinning-force-2.html)
 
 - [肉の月 - 尺宅江湖](http://www.qtwm.com/?p=5522)
-
-- [天赋与赛道 - 随望淡思](https://www.lushaojun.com/4965.html)
 
 
 
