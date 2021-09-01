@@ -1,7 +1,9 @@
-*更新时间：09-01 21:50*
+*更新时间：09-02 04:05*
 
 
 
+
+- [视频带不带字幕有天壤之别 - 白板报](https://wangpei.net/2021/09/02/%e8%a7%86%e9%a2%91%e5%b8%a6%e4%b8%8d%e5%b8%a6%e5%ad%97%e5%b9%95%e6%9c%89%e5%a4%a9%e5%a3%a4%e4%b9%8b%e5%88%ab/)
 
 - [开学季 - 陈仓颉](https://imzm.im/back-to-school/)
 
@@ -40,8 +42,6 @@
 - [土木坛子被WordPress官方推荐了 - 土木坛子](https://tumutanzi.com/archives/16812)
 
 - [内存对齐问题和编译器优化 - 云风的 BLOG](https://blog.codingnow.com/2021/08/unalignment_memory_access.html)
-
-- [光明力量2～古代的封印 - 破袜子](https://pewae.com/2021/08/shinning-force-2.html)
 
 
 
