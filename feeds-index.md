@@ -1,7 +1,9 @@
-*更新时间：09-01 18:50*
+*更新时间：09-01 21:50*
 
 
 
+
+- [开学季 - 陈仓颉](https://imzm.im/back-to-school/)
 
 - [2021年8月投资月报：BTC 年底看到 15W 美金？ - DHTalk's Blog](https://zhangdinghao.cn/2021/08/31/investment2108/)
 
@@ -40,8 +42,6 @@
 - [内存对齐问题和编译器优化 - 云风的 BLOG](https://blog.codingnow.com/2021/08/unalignment_memory_access.html)
 
 - [光明力量2～古代的封印 - 破袜子](https://pewae.com/2021/08/shinning-force-2.html)
-
-- [肉の月 - 尺宅江湖](http://www.qtwm.com/?p=5522)
 
 
 
