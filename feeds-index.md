@@ -1,4 +1,4 @@
-*更新时间：09-01 10:30*
+*更新时间：09-01 10:50*
 
 
 
@@ -6,6 +6,8 @@
 - [2021年8月投资月报：BTC 年底看到 15W 美金？ - DHTalk's Blog](https://zhangdinghao.cn/2021/08/31/investment2108/)
 
 - [完成文言文自编教材 - 尺宅江湖](http://www.qtwm.com/?p=5562)
+
+- [家长会之十鼠同穴 - 破袜子](https://pewae.com/2021/08/tenth-parents-and-teachers-committee.html)
 
 - [两个小烦恼 - 非礼勿言](https://feiliwuyan.com/two-minor-annoyances/)
 
@@ -40,8 +42,6 @@
 - [肉の月 - 尺宅江湖](http://www.qtwm.com/?p=5522)
 
 - [天赋与赛道 - 随望淡思](https://www.lushaojun.com/4965.html)
-
-- [待寒山 - 尺宅江湖](http://www.qtwm.com/?p=5519)
 
 
 
