@@ -1,7 +1,9 @@
-*更新时间：09-02 04:05*
+*更新时间：09-02 11:50*
 
 
 
+
+- [黄和吕的友谊小船说翻就翻 - 尺宅江湖](http://www.qtwm.com/?p=5567)
 
 - [视频带不带字幕有天壤之别 - 白板报](https://wangpei.net/2021/09/02/%e8%a7%86%e9%a2%91%e5%b8%a6%e4%b8%8d%e5%b8%a6%e5%ad%97%e5%b9%95%e6%9c%89%e5%a4%a9%e5%a3%a4%e4%b9%8b%e5%88%ab/)
 
@@ -40,8 +42,6 @@
 - [愚蠢、肤浅、无畏 - 尺宅江湖](http://www.qtwm.com/?p=5526)
 
 - [土木坛子被WordPress官方推荐了 - 土木坛子](https://tumutanzi.com/archives/16812)
-
-- [内存对齐问题和编译器优化 - 云风的 BLOG](https://blog.codingnow.com/2021/08/unalignment_memory_access.html)
 
 
 
