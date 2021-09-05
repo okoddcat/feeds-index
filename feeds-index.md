@@ -1,7 +1,9 @@
-*更新时间：09-05 22:50*
+*更新时间：09-05 23:50*
 
 
 
+
+- [黄杯子，绿杯子 - 破袜子](https://pewae.com/2021/09/yellow-cup-or-green-cup.html)
 
 - [拍照，读书，等死 - 尺宅江湖](http://www.qtwm.com/?p=5576)
 
@@ -40,8 +42,6 @@
 - [苟延残喘 - 尺宅江湖](http://www.qtwm.com/?p=5547)
 
 - [重开文言文课 - 尺宅江湖](http://www.qtwm.com/?p=5544)
-
-- [返校日 - 尺宅江湖](http://www.qtwm.com/?p=5541)
 
 
 
