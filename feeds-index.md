@@ -1,7 +1,9 @@
-*更新时间：09-05 02:50*
+*更新时间：09-05 22:50*
 
 
 
+
+- [拍照，读书，等死 - 尺宅江湖](http://www.qtwm.com/?p=5576)
 
 - [不用国产软件，因为没有安全，一切都等于零 - 白板报](https://wangpei.net/2021/09/05/no-security-nothing-left/)
 
@@ -40,8 +42,6 @@
 - [重开文言文课 - 尺宅江湖](http://www.qtwm.com/?p=5544)
 
 - [返校日 - 尺宅江湖](http://www.qtwm.com/?p=5541)
-
-- [穿梭虫洞-随机访问十年之约博客链接 - 雨落泪尽](https://couqiao.net/archives/397.html)
 
 
 
