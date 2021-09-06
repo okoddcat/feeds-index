@@ -1,7 +1,9 @@
-*更新时间：09-06 10:50*
+*更新时间：09-06 22:05*
 
 
 
+
+- [寻找书单 - 尺宅江湖](http://www.qtwm.com/?p=5581)
 
 - [Vol. 46 在硅谷工作和生活是一种什么样的体验 - 枫言枫语](https://justinyan.me/post/4666)
 
@@ -40,8 +42,6 @@
 - [周末闲谈（五） - 雨落泪尽](https://couqiao.net/archives/411.html)
 
 - [漫无目的 06 - 我看电影《失控玩家》 - 枫言枫语](https://justinyan.me/post/4651)
-
-- [苟延残喘 - 尺宅江湖](http://www.qtwm.com/?p=5547)
 
 
 
