@@ -1,7 +1,9 @@
-*更新时间：09-06 22:05*
+*更新时间：09-07 11:50*
 
 
 
+
+- [枫影夜读 #20 - Neil Postman 《娱乐至死》 - 枫言枫语](https://justinyan.me/post/4664)
 
 - [寻找书单 - 尺宅江湖](http://www.qtwm.com/?p=5581)
 
@@ -40,8 +42,6 @@
 - [Vol. 45 科技快乐星球05: 特斯拉要造人形机器人啦 - 枫言枫语](https://justinyan.me/post/4659)
 
 - [周末闲谈（五） - 雨落泪尽](https://couqiao.net/archives/411.html)
-
-- [漫无目的 06 - 我看电影《失控玩家》 - 枫言枫语](https://justinyan.me/post/4651)
 
 
 
