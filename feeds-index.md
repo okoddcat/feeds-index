@@ -1,7 +1,9 @@
-*更新时间：09-08 13:50*
+*更新时间：09-08 16:50*
 
 
 
+
+- [曾经努力过 - 尺宅江湖](http://www.qtwm.com/?p=5587)
 
 - [线上中文竖排现状（二零二壹） - 一天世界](https://blog.yitianshijie.net/2021/09/08/state-of-online-chinese-vertical-layout-2021/)
 
@@ -40,8 +42,6 @@
 - [两个小烦恼 - 非礼勿言](https://feiliwuyan.com/two-minor-annoyances/)
 
 - [野橘猫和天龙八部 - 尺宅江湖](http://www.qtwm.com/?p=5558)
-
-- [Vol. 45 科技快乐星球05: 特斯拉要造人形机器人啦 - 枫言枫语](https://justinyan.me/post/4659)
 
 
 
