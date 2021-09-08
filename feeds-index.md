@@ -1,7 +1,9 @@
-*更新时间：09-07 11:50*
+*更新时间：09-08 13:50*
 
 
 
+
+- [线上中文竖排现状（二零二壹） - 一天世界](https://blog.yitianshijie.net/2021/09/08/state-of-online-chinese-vertical-layout-2021/)
 
 - [枫影夜读 #20 - Neil Postman 《娱乐至死》 - 枫言枫语](https://justinyan.me/post/4664)
 
@@ -40,8 +42,6 @@
 - [野橘猫和天龙八部 - 尺宅江湖](http://www.qtwm.com/?p=5558)
 
 - [Vol. 45 科技快乐星球05: 特斯拉要造人形机器人啦 - 枫言枫语](https://justinyan.me/post/4659)
-
-- [周末闲谈（五） - 雨落泪尽](https://couqiao.net/archives/411.html)
 
 
 
