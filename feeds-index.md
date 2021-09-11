@@ -1,7 +1,9 @@
-*更新时间：09-10 09:50*
+*更新时间：09-11 22:50*
 
 
 
+
+- [Neil said it 40 years ago - 一天世界](https://blog.yitianshijie.net/2021/09/11/neil-postman-said-it-40-years-ago/)
 
 - [使用 Vue 3 + Vite.js 快速实现小型服务前端 - 枫言枫语](https://justinyan.me/post/4670)
 
@@ -40,8 +42,6 @@
 - [完成文言文自编教材 - 尺宅江湖](http://www.qtwm.com/?p=5562)
 
 - [家长会之十鼠同穴 - 破袜子](https://pewae.com/2021/08/tenth-parents-and-teachers-committee.html)
-
-- [两个小烦恼 - 非礼勿言](https://feiliwuyan.com/two-minor-annoyances/)
 
 
 
