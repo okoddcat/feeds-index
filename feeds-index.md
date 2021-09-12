@@ -1,4 +1,4 @@
-*更新时间：09-11 22:50*
+*更新时间：09-12 10:50*
 
 
 
@@ -23,6 +23,8 @@
 
 - [不用国产软件，因为没有安全，一切都等于零 - 白板报](https://wangpei.net/2021/09/05/no-security-nothing-left/)
 
+- [Go编程模式 ： 泛型编程 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21615.html)
+
 - [Awesome Websites - 白板报](https://wangpei.net/2021/09/03/awesome-websites/)
 
 - [Awesome Apps - 白板报](https://wangpei.net/2021/09/03/awesome-apps/)
@@ -40,8 +42,6 @@
 - [2021年8月投资月报：BTC 年底看到 15W 美金？ - DHTalk's Blog](https://zhangdinghao.cn/2021/08/31/investment2108/)
 
 - [完成文言文自编教材 - 尺宅江湖](http://www.qtwm.com/?p=5562)
-
-- [家长会之十鼠同穴 - 破袜子](https://pewae.com/2021/08/tenth-parents-and-teachers-committee.html)
 
 
 
