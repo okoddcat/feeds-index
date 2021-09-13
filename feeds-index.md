@@ -1,9 +1,13 @@
-*更新时间：09-13 15:05*
+*更新时间：09-13 15:50*
 
 
 
+
+- [教材骑马钉修复术 - 白板报](https://wangpei.net/2021/09/13/how-to-repair-a-textbook/)
 
 - [读书贴士 - 尺宅江湖](http://www.qtwm.com/?p=5596)
+
+- [带娃玩桌游的一些记录 - 云风的 BLOG](https://blog.codingnow.com/2021/09/boardgame_for_children.html)
 
 - [Neil said it 40 years ago - 一天世界](https://blog.yitianshijie.net/2021/09/11/neil-postman-said-it-40-years-ago/)
 
@@ -38,10 +42,6 @@
 - [视频带不带字幕有天壤之别 - 白板报](https://wangpei.net/2021/09/02/%e8%a7%86%e9%a2%91%e5%b8%a6%e4%b8%8d%e5%b8%a6%e5%ad%97%e5%b9%95%e6%9c%89%e5%a4%a9%e5%a3%a4%e4%b9%8b%e5%88%ab/)
 
 - [人生有攻略吗？ - 土木坛子](https://tumutanzi.com/archives/16826)
-
-- [开学季 - 陈仓颉](https://imzm.im/back-to-school/)
-
-- [2021年8月投资月报：BTC 年底看到 15W 美金？ - DHTalk's Blog](https://zhangdinghao.cn/2021/08/31/investment2108/)
 
 
 
