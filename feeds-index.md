@@ -1,7 +1,9 @@
-*更新时间：09-12 10:50*
+*更新时间：09-13 15:05*
 
 
 
+
+- [读书贴士 - 尺宅江湖](http://www.qtwm.com/?p=5596)
 
 - [Neil said it 40 years ago - 一天世界](https://blog.yitianshijie.net/2021/09/11/neil-postman-said-it-40-years-ago/)
 
@@ -40,8 +42,6 @@
 - [开学季 - 陈仓颉](https://imzm.im/back-to-school/)
 
 - [2021年8月投资月报：BTC 年底看到 15W 美金？ - DHTalk's Blog](https://zhangdinghao.cn/2021/08/31/investment2108/)
-
-- [完成文言文自编教材 - 尺宅江湖](http://www.qtwm.com/?p=5562)
 
 
 
