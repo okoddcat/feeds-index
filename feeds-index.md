@@ -1,7 +1,9 @@
-*更新时间：09-13 15:50*
+*更新时间：09-14 13:50*
 
 
 
+
+- [摄影展前言：他者的眼光 - 尺宅江湖](http://www.qtwm.com/?p=5599)
 
 - [教材骑马钉修复术 - 白板报](https://wangpei.net/2021/09/13/how-to-repair-a-textbook/)
 
@@ -40,8 +42,6 @@
 - [黄和吕的友谊小船说翻就翻 - 尺宅江湖](http://www.qtwm.com/?p=5567)
 
 - [视频带不带字幕有天壤之别 - 白板报](https://wangpei.net/2021/09/02/%e8%a7%86%e9%a2%91%e5%b8%a6%e4%b8%8d%e5%b8%a6%e5%ad%97%e5%b9%95%e6%9c%89%e5%a4%a9%e5%a3%a4%e4%b9%8b%e5%88%ab/)
-
-- [人生有攻略吗？ - 土木坛子](https://tumutanzi.com/archives/16826)
 
 
 
