@@ -1,7 +1,9 @@
-*更新时间：09-14 14:05*
+*更新时间：09-15 21:05*
 
 
 
+
+- [毕业生对我的评价 - 尺宅江湖](http://www.qtwm.com/?p=5603)
 
 - [枫影夜读 #21 ——阿尔贝·加缪《鼠疫》 - 枫言枫语](https://justinyan.me/post/4676)
 
@@ -40,8 +42,6 @@
 - [Awesome Apps - 白板报](https://wangpei.net/2021/09/03/awesome-apps/)
 
 - [Awesome Hardware - 白板报](https://wangpei.net/2021/09/03/awesome-hardware/)
-
-- [黄和吕的友谊小船说翻就翻 - 尺宅江湖](http://www.qtwm.com/?p=5567)
 
 
 
