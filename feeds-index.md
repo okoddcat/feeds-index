@@ -1,7 +1,9 @@
-*更新时间：09-15 21:05*
+*更新时间：09-16 00:05*
 
 
 
+
+- [重温老片《千王之王2000》 - 破袜子](https://pewae.com/2021/09/review-the-tricky-master.html)
 
 - [毕业生对我的评价 - 尺宅江湖](http://www.qtwm.com/?p=5603)
 
@@ -40,8 +42,6 @@
 - [Awesome Websites - 白板报](https://wangpei.net/2021/09/03/awesome-websites/)
 
 - [Awesome Apps - 白板报](https://wangpei.net/2021/09/03/awesome-apps/)
-
-- [Awesome Hardware - 白板报](https://wangpei.net/2021/09/03/awesome-hardware/)
 
 
 
