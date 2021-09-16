@@ -1,7 +1,9 @@
-*更新时间：09-16 00:05*
+*更新时间：09-16 15:05*
 
 
 
+
+- [Vol. 47 苹果2021秋季发布会发了啥 - 枫言枫语](https://justinyan.me/post/4674)
 
 - [重温老片《千王之王2000》 - 破袜子](https://pewae.com/2021/09/review-the-tricky-master.html)
 
@@ -40,8 +42,6 @@
 - [Go编程模式 ： 泛型编程 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21615.html)
 
 - [Awesome Websites - 白板报](https://wangpei.net/2021/09/03/awesome-websites/)
-
-- [Awesome Apps - 白板报](https://wangpei.net/2021/09/03/awesome-apps/)
 
 
 
