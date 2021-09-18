@@ -1,7 +1,9 @@
-*更新时间：09-18 12:50*
+*更新时间：09-19 00:05*
 
 
 
+
+- [用PayPal购买了2英镑的比特币 - 土木坛子](https://tumutanzi.com/archives/16831)
 
 - [报名编剧故事营 拆解伟大的电影 - 白板报](https://wangpei.net/2021/09/18/storycamp-s06-is-coming/)
 
@@ -40,8 +42,6 @@
 - [寻找书单 - 尺宅江湖](http://www.qtwm.com/?p=5581)
 
 - [Vol. 46 在硅谷工作和生活是一种什么样的体验 - 枫言枫语](https://justinyan.me/post/4666)
-
-- [黄杯子，绿杯子 - 破袜子](https://pewae.com/2021/09/yellow-cup-or-green-cup.html)
 
 
 
