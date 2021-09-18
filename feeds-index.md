@@ -1,7 +1,9 @@
-*更新时间：09-18 12:05*
+*更新时间：09-18 12:50*
 
 
 
+
+- [报名编剧故事营 拆解伟大的电影 - 白板报](https://wangpei.net/2021/09/18/storycamp-s06-is-coming/)
 
 - [Paradox 脚本语言的一点研究 - 云风的 BLOG](https://blog.codingnow.com/2021/09/paradox_script.html)
 
@@ -40,8 +42,6 @@
 - [Vol. 46 在硅谷工作和生活是一种什么样的体验 - 枫言枫语](https://justinyan.me/post/4666)
 
 - [黄杯子，绿杯子 - 破袜子](https://pewae.com/2021/09/yellow-cup-or-green-cup.html)
-
-- [拍照，读书，等死 - 尺宅江湖](http://www.qtwm.com/?p=5576)
 
 
 
