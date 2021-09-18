@@ -1,7 +1,9 @@
-*更新时间：09-18 10:05*
+*更新时间：09-18 12:05*
 
 
 
+
+- [Paradox 脚本语言的一点研究 - 云风的 BLOG](https://blog.codingnow.com/2021/09/paradox_script.html)
 
 - [读书很贵 - 白板报](https://wangpei.net/2021/09/18/reading-is-very-expensive/)
 
@@ -40,8 +42,6 @@
 - [黄杯子，绿杯子 - 破袜子](https://pewae.com/2021/09/yellow-cup-or-green-cup.html)
 
 - [拍照，读书，等死 - 尺宅江湖](http://www.qtwm.com/?p=5576)
-
-- [不用国产软件，因为没有安全，一切都等于零 - 白板报](https://wangpei.net/2021/09/05/no-security-nothing-left/)
 
 
 
