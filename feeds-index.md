@@ -1,7 +1,9 @@
-*更新时间：09-17 11:50*
+*更新时间：09-18 10:05*
 
 
 
+
+- [读书很贵 - 白板报](https://wangpei.net/2021/09/18/reading-is-very-expensive/)
 
 - [空山松子落，幽人应未眠 - 尺宅江湖](http://www.qtwm.com/?p=5608)
 
@@ -40,8 +42,6 @@
 - [拍照，读书，等死 - 尺宅江湖](http://www.qtwm.com/?p=5576)
 
 - [不用国产软件，因为没有安全，一切都等于零 - 白板报](https://wangpei.net/2021/09/05/no-security-nothing-left/)
-
-- [Go编程模式 ： 泛型编程 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21615.html)
 
 
 
