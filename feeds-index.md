@@ -1,7 +1,9 @@
-*更新时间：09-19 00:05*
+*更新时间：09-19 22:50*
 
 
 
+
+- [位置 - 渚碧](https://jubeny.com/2021/09/position/)
 
 - [用PayPal购买了2英镑的比特币 - 土木坛子](https://tumutanzi.com/archives/16831)
 
@@ -40,8 +42,6 @@
 - [枫影夜读 #20 - Neil Postman 《娱乐至死》 - 枫言枫语](https://justinyan.me/post/4664)
 
 - [寻找书单 - 尺宅江湖](http://www.qtwm.com/?p=5581)
-
-- [Vol. 46 在硅谷工作和生活是一种什么样的体验 - 枫言枫语](https://justinyan.me/post/4666)
 
 
 
