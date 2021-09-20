@@ -1,9 +1,11 @@
-*更新时间：09-20 22:50*
+*更新时间：09-20 23:05*
 
 
 
 
 - [Apple TV+ 的世界主义 - 一天世界](https://blog.yitianshijie.net/2021/09/20/universalism-of-appletv-plus/)
+
+- [再上三高 - 尺宅江湖](http://www.qtwm.com/?p=5625)
 
 - [位置 - 渚碧](https://jubeny.com/2021/09/position/)
 
@@ -40,8 +42,6 @@
 - [Neil said it 40 years ago - 一天世界](https://blog.yitianshijie.net/2021/09/11/neil-postman-said-it-40-years-ago/)
 
 - [使用 Vue 3 + Vite.js 快速实现小型服务前端 - 枫言枫语](https://justinyan.me/post/4670)
-
-- [曾经努力过 - 尺宅江湖](http://www.qtwm.com/?p=5587)
 
 
 
