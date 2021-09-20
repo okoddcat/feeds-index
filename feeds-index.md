@@ -1,4 +1,4 @@
-*更新时间：09-20 21:50*
+*更新时间：09-20 22:50*
 
 
 
@@ -8,6 +8,8 @@
 - [位置 - 渚碧](https://jubeny.com/2021/09/position/)
 
 - [用PayPal购买了2英镑的比特币 - 土木坛子](https://tumutanzi.com/archives/16831)
+
+- [金刚手段，菩萨心肠 - 尺宅江湖](http://www.qtwm.com/?p=5618)
 
 - [欢喜的与煎熬的 - 尺宅江湖](http://www.qtwm.com/?p=5612)
 
@@ -40,8 +42,6 @@
 - [使用 Vue 3 + Vite.js 快速实现小型服务前端 - 枫言枫语](https://justinyan.me/post/4670)
 
 - [曾经努力过 - 尺宅江湖](http://www.qtwm.com/?p=5587)
-
-- [线上中文竖排现状（二零二壹） - 一天世界](https://blog.yitianshijie.net/2021/09/08/state-of-online-chinese-vertical-layout-2021/)
 
 
 
