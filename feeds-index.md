@@ -1,4 +1,4 @@
-*更新时间：09-20 16:50*
+*更新时间：09-20 21:50*
 
 
 
@@ -8,6 +8,8 @@
 - [位置 - 渚碧](https://jubeny.com/2021/09/position/)
 
 - [用PayPal购买了2英镑的比特币 - 土木坛子](https://tumutanzi.com/archives/16831)
+
+- [欢喜的与煎熬的 - 尺宅江湖](http://www.qtwm.com/?p=5612)
 
 - [报名编剧故事营 拆解伟大的电影 - 白板报](https://wangpei.net/2021/09/18/storycamp-s06-is-coming/)
 
@@ -40,8 +42,6 @@
 - [曾经努力过 - 尺宅江湖](http://www.qtwm.com/?p=5587)
 
 - [线上中文竖排现状（二零二壹） - 一天世界](https://blog.yitianshijie.net/2021/09/08/state-of-online-chinese-vertical-layout-2021/)
-
-- [枫影夜读 #20 - Neil Postman 《娱乐至死》 - 枫言枫语](https://justinyan.me/post/4664)
 
 
 
