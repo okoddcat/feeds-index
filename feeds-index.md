@@ -1,7 +1,9 @@
-*更新时间：09-19 22:50*
+*更新时间：09-20 16:50*
 
 
 
+
+- [Apple TV+ 的世界主义 - 一天世界](https://blog.yitianshijie.net/2021/09/20/universalism-of-appletv-plus/)
 
 - [位置 - 渚碧](https://jubeny.com/2021/09/position/)
 
@@ -40,8 +42,6 @@
 - [线上中文竖排现状（二零二壹） - 一天世界](https://blog.yitianshijie.net/2021/09/08/state-of-online-chinese-vertical-layout-2021/)
 
 - [枫影夜读 #20 - Neil Postman 《娱乐至死》 - 枫言枫语](https://justinyan.me/post/4664)
-
-- [寻找书单 - 尺宅江湖](http://www.qtwm.com/?p=5581)
 
 
 
