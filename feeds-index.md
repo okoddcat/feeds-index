@@ -1,11 +1,15 @@
-*更新时间：09-21 14:50*
+*更新时间：09-21 18:50*
 
 
 
+
+- [梗和典 - 一天世界](https://blog.yitianshijie.net/2021/09/21/how-to-use-reference-that-does-not-suck/)
 
 - [瑟瑟发抖中 - 尺宅江湖](http://www.qtwm.com/?p=5635)
 
 - [下场参赛，还是指手画脚？ - 一天世界](https://blog.yitianshijie.net/2021/09/21/participate-or-yell-on-the-sideline/)
+
+- [最近的阅读习惯 - 土木坛子](https://tumutanzi.com/archives/16834)
 
 - [两本旧书解决大问题 - 尺宅江湖](http://www.qtwm.com/?p=5630)
 
@@ -38,10 +42,6 @@
 - [枫影夜读 #21 ——阿尔贝·加缪《鼠疫》 - 枫言枫语](https://justinyan.me/post/4676)
 
 - [摄影展前言：他者的眼光 - 尺宅江湖](http://www.qtwm.com/?p=5599)
-
-- [教材骑马钉修复术 - 白板报](https://wangpei.net/2021/09/13/how-to-repair-a-textbook/)
-
-- [读书贴士 - 尺宅江湖](http://www.qtwm.com/?p=5596)
 
 
 
