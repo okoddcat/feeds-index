@@ -1,7 +1,11 @@
-*更新时间：09-21 18:50*
+*更新时间：09-21 23:50*
 
 
 
+
+- [每夫吐槽（066） - 破袜子](https://pewae.com/2021/09/random_kuso_66.html)
+
+- [也闲·双城记 - 尺宅江湖](http://www.qtwm.com/?p=5639)
 
 - [梗和典 - 一天世界](https://blog.yitianshijie.net/2021/09/21/how-to-use-reference-that-does-not-suck/)
 
@@ -38,10 +42,6 @@
 - [重温老片《千王之王2000》 - 破袜子](https://pewae.com/2021/09/review-the-tricky-master.html)
 
 - [毕业生对我的评价 - 尺宅江湖](http://www.qtwm.com/?p=5603)
-
-- [枫影夜读 #21 ——阿尔贝·加缪《鼠疫》 - 枫言枫语](https://justinyan.me/post/4676)
-
-- [摄影展前言：他者的眼光 - 尺宅江湖](http://www.qtwm.com/?p=5599)
 
 
 
