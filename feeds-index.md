@@ -1,7 +1,9 @@
-*更新时间：09-21 00:05*
+*更新时间：09-21 13:05*
 
 
 
+
+- [下场参赛，还是指手画脚？ - 一天世界](https://blog.yitianshijie.net/2021/09/21/participate-or-yell-on-the-sideline/)
 
 - [两本旧书解决大问题 - 尺宅江湖](http://www.qtwm.com/?p=5630)
 
@@ -40,8 +42,6 @@
 - [读书贴士 - 尺宅江湖](http://www.qtwm.com/?p=5596)
 
 - [带娃玩桌游的一些记录 - 云风的 BLOG](https://blog.codingnow.com/2021/09/boardgame_for_children.html)
-
-- [Neil said it 40 years ago - 一天世界](https://blog.yitianshijie.net/2021/09/11/neil-postman-said-it-40-years-ago/)
 
 
 
