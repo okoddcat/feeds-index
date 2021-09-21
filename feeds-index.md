@@ -1,7 +1,9 @@
-*更新时间：09-21 13:05*
+*更新时间：09-21 14:50*
 
 
 
+
+- [瑟瑟发抖中 - 尺宅江湖](http://www.qtwm.com/?p=5635)
 
 - [下场参赛，还是指手画脚？ - 一天世界](https://blog.yitianshijie.net/2021/09/21/participate-or-yell-on-the-sideline/)
 
@@ -40,8 +42,6 @@
 - [教材骑马钉修复术 - 白板报](https://wangpei.net/2021/09/13/how-to-repair-a-textbook/)
 
 - [读书贴士 - 尺宅江湖](http://www.qtwm.com/?p=5596)
-
-- [带娃玩桌游的一些记录 - 云风的 BLOG](https://blog.codingnow.com/2021/09/boardgame_for_children.html)
 
 
 
