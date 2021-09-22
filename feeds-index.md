@@ -1,7 +1,9 @@
-*更新时间：09-21 23:50*
+*更新时间：09-22 09:50*
 
 
 
+
+- [反直觉 - 一天世界](https://blog.yitianshijie.net/2021/09/22/against-intuitive-ui/)
 
 - [每夫吐槽（066） - 破袜子](https://pewae.com/2021/09/random_kuso_66.html)
 
@@ -40,8 +42,6 @@
 - [Vol. 47 苹果2021秋季发布会发了啥 - 枫言枫语](https://justinyan.me/post/4674)
 
 - [重温老片《千王之王2000》 - 破袜子](https://pewae.com/2021/09/review-the-tricky-master.html)
-
-- [毕业生对我的评价 - 尺宅江湖](http://www.qtwm.com/?p=5603)
 
 
 
