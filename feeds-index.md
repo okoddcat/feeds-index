@@ -1,7 +1,9 @@
-*更新时间：09-23 12:50*
+*更新时间：09-23 15:05*
 
 
 
+
+- [一个有趣的唤起记忆的测试 - 攻城狮笔记](https://qumac.com/?p=1978)
 
 - [还好，我不是 - 尺宅江湖](http://www.qtwm.com/?p=5679)
 
@@ -40,8 +42,6 @@
 - [读书很贵 - 白板报](https://wangpei.net/2021/09/18/reading-is-very-expensive/)
 
 - [空山松子落，幽人应未眠 - 尺宅江湖](http://www.qtwm.com/?p=5608)
-
-- [Vol. 47 苹果2021秋季发布会发了啥 - 枫言枫语](https://justinyan.me/post/4674)
 
 
 
