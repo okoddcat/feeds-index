@@ -1,7 +1,9 @@
-*更新时间：09-22 09:50*
+*更新时间：09-23 12:50*
 
 
 
+
+- [还好，我不是 - 尺宅江湖](http://www.qtwm.com/?p=5679)
 
 - [反直觉 - 一天世界](https://blog.yitianshijie.net/2021/09/22/against-intuitive-ui/)
 
@@ -40,8 +42,6 @@
 - [空山松子落，幽人应未眠 - 尺宅江湖](http://www.qtwm.com/?p=5608)
 
 - [Vol. 47 苹果2021秋季发布会发了啥 - 枫言枫语](https://justinyan.me/post/4674)
-
-- [重温老片《千王之王2000》 - 破袜子](https://pewae.com/2021/09/review-the-tricky-master.html)
 
 
 
