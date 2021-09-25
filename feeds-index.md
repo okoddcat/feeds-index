@@ -1,7 +1,11 @@
-*更新时间：09-23 23:50*
+*更新时间：09-25 15:50*
 
 
 
+
+- [我胆小又怯懦 - 尺宅江湖](http://www.qtwm.com/?p=5691)
+
+- [一座随身携带的避难所 - 尺宅江湖](http://www.qtwm.com/?p=5688)
 
 - [体验美好的事物 - 土木坛子](https://tumutanzi.com/archives/16835)
 
@@ -38,10 +42,6 @@
 - [欢喜的与煎熬的 - 尺宅江湖](http://www.qtwm.com/?p=5612)
 
 - [报名编剧故事营 拆解伟大的电影 - 白板报](https://wangpei.net/2021/09/18/storycamp-s06-is-coming/)
-
-- [Paradox 脚本语言的一点研究 - 云风的 BLOG](https://blog.codingnow.com/2021/09/paradox_script.html)
-
-- [读书很贵 - 白板报](https://wangpei.net/2021/09/18/reading-is-very-expensive/)
 
 
 
