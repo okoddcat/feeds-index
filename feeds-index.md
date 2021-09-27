@@ -1,4 +1,4 @@
-*更新时间：09-26 23:05*
+*更新时间：09-27 20:50*
 
 
 
@@ -33,6 +33,8 @@
 
 - [两本旧书解决大问题 - 尺宅江湖](http://www.qtwm.com/?p=5630)
 
+- [繁华之根 - 随望淡思](https://www.lushaojun.com/4982.html)
+
 - [Apple TV+ 的世界主义 - 一天世界](https://blog.yitianshijie.net/2021/09/20/universalism-of-appletv-plus/)
 
 - [再上三高 - 尺宅江湖](http://www.qtwm.com/?p=5625)
@@ -40,8 +42,6 @@
 - [位置 - 渚碧](https://jubeny.com/2021/09/position/)
 
 - [用PayPal购买了2英镑的比特币 - 土木坛子](https://tumutanzi.com/archives/16831)
-
-- [金刚手段，菩萨心肠 - 尺宅江湖](http://www.qtwm.com/?p=5618)
 
 
 
