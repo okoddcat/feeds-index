@@ -1,7 +1,9 @@
-*更新时间：09-28 12:50*
+*更新时间：09-29 12:50*
 
 
 
+
+- [电光光，心慌慌 - 破袜子](https://pewae.com/2021/09/e794b5-e58589-e58589-efbc8c-e5bf83-e6858c-e6858c.html)
 
 - [夜读《夜航船》 - 尺宅江湖](http://www.qtwm.com/?p=5705)
 
@@ -40,8 +42,6 @@
 - [繁华之根 - 随望淡思](https://www.lushaojun.com/4982.html)
 
 - [Apple TV+ 的世界主义 - 一天世界](https://blog.yitianshijie.net/2021/09/20/universalism-of-appletv-plus/)
-
-- [再上三高 - 尺宅江湖](http://www.qtwm.com/?p=5625)
 
 
 
