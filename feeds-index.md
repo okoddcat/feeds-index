@@ -1,9 +1,11 @@
-*更新时间：10-01 02:05*
+*更新时间：10-01 17:05*
 
 
 
 
 - [天降祥瑞迎国庆 - 破袜子](https://pewae.com/2021/10/hailing-on-national-day.html)
+
+- [教育用户可免费申请Autodesk正版软件 - 土木坛子](https://tumutanzi.com/archives/16839)
 
 - [清远黄腾峡天门悬廊上感慨热爱生命 - 土木坛子](https://tumutanzi.com/archives/16837)
 
@@ -40,8 +42,6 @@
 - [梗和典 - 一天世界](https://blog.yitianshijie.net/2021/09/21/how-to-use-reference-that-does-not-suck/)
 
 - [瑟瑟发抖中 - 尺宅江湖](http://www.qtwm.com/?p=5635)
-
-- [下场参赛，还是指手画脚？ - 一天世界](https://blog.yitianshijie.net/2021/09/21/participate-or-yell-on-the-sideline/)
 
 
 
