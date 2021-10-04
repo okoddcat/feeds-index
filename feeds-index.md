@@ -1,7 +1,9 @@
-*更新时间：10-02 23:50*
+*更新时间：10-04 21:50*
 
 
 
+
+- [无巧不成书：民国版《老学庵笔记》 - 尺宅江湖](http://www.qtwm.com/?p=5746)
 
 - [百分之五的狂喜夜归路 - 尺宅江湖](http://www.qtwm.com/?p=5735)
 
@@ -40,8 +42,6 @@
 - [一个有趣的唤起记忆的测试 - 攻城狮笔记](https://qumac.com/?p=1978)
 
 - [还好，我不是 - 尺宅江湖](http://www.qtwm.com/?p=5679)
-
-- [反直觉 - 一天世界](https://blog.yitianshijie.net/2021/09/22/against-intuitive-ui/)
 
 
 
