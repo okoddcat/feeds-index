@@ -1,7 +1,9 @@
-*更新时间：10-04 21:50*
+*更新时间：10-04 23:50*
 
 
 
+
+- [2021年9月投资月报：重复历史的下跌？ - DHTalk's Blog](https://zhangdinghao.cn/2021/10/04/investment2109/)
 
 - [无巧不成书：民国版《老学庵笔记》 - 尺宅江湖](http://www.qtwm.com/?p=5746)
 
@@ -40,8 +42,6 @@
 - [体验美好的事物 - 土木坛子](https://tumutanzi.com/archives/16835)
 
 - [一个有趣的唤起记忆的测试 - 攻城狮笔记](https://qumac.com/?p=1978)
-
-- [还好，我不是 - 尺宅江湖](http://www.qtwm.com/?p=5679)
 
 
 
