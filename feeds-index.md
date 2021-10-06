@@ -1,7 +1,9 @@
-*更新时间：10-06 10:05*
+*更新时间：10-06 22:50*
 
 
 
+
+- [烂花生一粒 - 尺宅江湖](http://www.qtwm.com/?p=5750)
 
 - [乔布斯十年祭 - 一天世界](https://blog.yitianshijie.net/2021/10/06/steve-jobs-10th-anniversary/)
 
@@ -40,8 +42,6 @@
 - [我胆小又怯懦 - 尺宅江湖](http://www.qtwm.com/?p=5691)
 
 - [一座随身携带的避难所 - 尺宅江湖](http://www.qtwm.com/?p=5688)
-
-- [体验美好的事物 - 土木坛子](https://tumutanzi.com/archives/16835)
 
 
 
