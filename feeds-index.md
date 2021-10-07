@@ -1,7 +1,9 @@
-*更新时间：10-06 22:50*
+*更新时间：10-07 14:50*
 
 
 
+
+- [刀不会杀人，但微信不是刀 - 一天世界](https://blog.yitianshijie.net/2021/10/07/knife-does-not-kill-but-then-wechat-is-not-knife/)
 
 - [烂花生一粒 - 尺宅江湖](http://www.qtwm.com/?p=5750)
 
@@ -40,8 +42,6 @@
 - [李卫当官系列电视剧观后 - 非礼勿言](https://feiliwuyan.com/tv-series-of-official-li-wei/)
 
 - [我胆小又怯懦 - 尺宅江湖](http://www.qtwm.com/?p=5691)
-
-- [一座随身携带的避难所 - 尺宅江湖](http://www.qtwm.com/?p=5688)
 
 
 
