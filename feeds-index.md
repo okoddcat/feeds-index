@@ -1,7 +1,9 @@
-*更新时间：10-12 19:50*
+*更新时间：10-12 23:50*
 
 
 
+
+- [重温老片《替身演员》 - 破袜子](https://pewae.com/2021/10/review-lanimal.html)
 
 - [球面地图网格的设计 - 云风的 BLOG](https://blog.codingnow.com/2021/10/cube_sphere.html)
 
@@ -40,8 +42,6 @@
 - [教育用户可免费申请Autodesk正版软件 - 土木坛子](https://tumutanzi.com/archives/16839)
 
 - [清远黄腾峡天门悬廊上感慨热爱生命 - 土木坛子](https://tumutanzi.com/archives/16837)
-
-- [剧本杀 - 尺宅江湖](http://www.qtwm.com/?p=5709)
 
 
 
