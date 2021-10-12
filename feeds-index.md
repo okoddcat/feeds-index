@@ -1,9 +1,11 @@
-*更新时间：10-12 12:50*
+*更新时间：10-12 19:50*
 
 
 
 
 - [球面地图网格的设计 - 云风的 BLOG](https://blog.codingnow.com/2021/10/cube_sphere.html)
+
+- [人到中年变深沉？ - 土木坛子](https://tumutanzi.com/archives/16845)
 
 - [头陀岭爬坡 - 渚碧](https://jubeny.com/2021/10/toutuoling-climb/)
 
@@ -40,8 +42,6 @@
 - [清远黄腾峡天门悬廊上感慨热爱生命 - 土木坛子](https://tumutanzi.com/archives/16837)
 
 - [剧本杀 - 尺宅江湖](http://www.qtwm.com/?p=5709)
-
-- [十年问卷 - 狡猫三窝](https://slykiten.com/life-note/%e5%8d%81%e5%b9%b4%e9%97%ae%e5%8d%b7/)
 
 
 
