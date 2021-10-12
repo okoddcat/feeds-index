@@ -1,7 +1,9 @@
-*更新时间：10-11 01:50*
+*更新时间：10-12 12:50*
 
 
 
+
+- [球面地图网格的设计 - 云风的 BLOG](https://blog.codingnow.com/2021/10/cube_sphere.html)
 
 - [头陀岭爬坡 - 渚碧](https://jubeny.com/2021/10/toutuoling-climb/)
 
@@ -40,8 +42,6 @@
 - [剧本杀 - 尺宅江湖](http://www.qtwm.com/?p=5709)
 
 - [十年问卷 - 狡猫三窝](https://slykiten.com/life-note/%e5%8d%81%e5%b9%b4%e9%97%ae%e5%8d%b7/)
-
-- [电光光，心慌慌 - 破袜子](https://pewae.com/2021/09/e794b5-e58589-e58589-efbc8c-e5bf83-e6858c-e6858c.html)
 
 
 
