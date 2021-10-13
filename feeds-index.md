@@ -1,7 +1,9 @@
-*更新时间：10-12 23:50*
+*更新时间：10-13 10:05*
 
 
 
+
+- [豆总的BGM - 尺宅江湖](http://www.qtwm.com/?p=5780)
 
 - [重温老片《替身演员》 - 破袜子](https://pewae.com/2021/10/review-lanimal.html)
 
@@ -40,8 +42,6 @@
 - [天降祥瑞迎国庆 - 破袜子](https://pewae.com/2021/10/hailing-on-national-day.html)
 
 - [教育用户可免费申请Autodesk正版软件 - 土木坛子](https://tumutanzi.com/archives/16839)
-
-- [清远黄腾峡天门悬廊上感慨热爱生命 - 土木坛子](https://tumutanzi.com/archives/16837)
 
 
 
