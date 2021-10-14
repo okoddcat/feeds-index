@@ -1,7 +1,11 @@
-*更新时间：10-13 10:05*
+*更新时间：10-14 20:50*
 
 
 
+
+- [汗涔涔：读张岱《夜航船》 - 尺宅江湖](http://www.qtwm.com/?p=5784)
+
+- [这届年轻人不会使用电脑 - 土木坛子](https://tumutanzi.com/archives/16846)
 
 - [豆总的BGM - 尺宅江湖](http://www.qtwm.com/?p=5780)
 
@@ -38,10 +42,6 @@
 - [周末闲谈（六） - 雨落泪尽](https://couqiao.net/archives/414.html)
 
 - [书梦二则 - 尺宅江湖](http://www.qtwm.com/?p=5714)
-
-- [天降祥瑞迎国庆 - 破袜子](https://pewae.com/2021/10/hailing-on-national-day.html)
-
-- [教育用户可免费申请Autodesk正版软件 - 土木坛子](https://tumutanzi.com/archives/16839)
 
 
 
