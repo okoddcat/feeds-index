@@ -1,7 +1,11 @@
-*更新时间：10-16 23:05*
+*更新时间：10-17 00:05*
 
 
 
+
+- [使用Caddy2托管静态博客 - iTimothy](https://xiaozhou.net/use-caddy-to-host-your-static-website-2021-10-16.html)
+
+- [dokuwiki “Hogfather”与 Icons Plugin冲突的解决 - 破袜子](https://pewae.com/2021/10/dokuwiki-hogfathere4b88e-icons-plugine586b2-e7aa81-e79a84-e8a7a3-e586b3.html)
 
 - [买书记：书缘与人缘 - 尺宅江湖](http://www.qtwm.com/?p=5787)
 
@@ -38,10 +42,6 @@
 - [乔布斯十年祭 - 一天世界](https://blog.yitianshijie.net/2021/10/06/steve-jobs-10th-anniversary/)
 
 - [2021年9月投资月报：重复历史的下跌？ - DHTalk's Blog](https://zhangdinghao.cn/2021/10/04/investment2109/)
-
-- [无巧不成书：民国版《老学庵笔记》 - 尺宅江湖](http://www.qtwm.com/?p=5746)
-
-- [百分之五的狂喜夜归路 - 尺宅江湖](http://www.qtwm.com/?p=5735)
 
 
 
