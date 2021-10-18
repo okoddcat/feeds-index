@@ -1,7 +1,9 @@
-*更新时间：10-17 23:05*
+*更新时间：10-18 22:50*
 
 
 
+
+- [重温我的墓志铭 - 尺宅江湖](http://www.qtwm.com/?p=5806)
 
 - [使用Caddy2托管静态博客 - iTimothy](https://xiaozhou.net/use-caddy-to-host-your-static-website-2021-10-16.html)
 
@@ -40,8 +42,6 @@
 - [刀不会杀人，但微信不是刀 - 一天世界](https://blog.yitianshijie.net/2021/10/07/knife-does-not-kill-but-then-wechat-is-not-knife/)
 
 - [烂花生一粒 - 尺宅江湖](http://www.qtwm.com/?p=5750)
-
-- [乔布斯十年祭 - 一天世界](https://blog.yitianshijie.net/2021/10/06/steve-jobs-10th-anniversary/)
 
 
 
