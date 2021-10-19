@@ -1,7 +1,9 @@
-*更新时间：10-18 22:50*
+*更新时间：10-19 09:50*
 
 
 
+
+- [Vol. 48 科技快乐星球06: 脸·元宇宙·书宕机事件 - 枫言枫语](https://justinyan.me/post/4692)
 
 - [重温我的墓志铭 - 尺宅江湖](http://www.qtwm.com/?p=5806)
 
@@ -40,8 +42,6 @@
 - [天黑灯黄无新事 - 尺宅江湖](http://www.qtwm.com/?p=5760)
 
 - [刀不会杀人，但微信不是刀 - 一天世界](https://blog.yitianshijie.net/2021/10/07/knife-does-not-kill-but-then-wechat-is-not-knife/)
-
-- [烂花生一粒 - 尺宅江湖](http://www.qtwm.com/?p=5750)
 
 
 
