@@ -1,7 +1,9 @@
-*更新时间：10-19 09:50*
+*更新时间：10-20 11:05*
 
 
 
+
+- [还好老夫有蹲坑看书的好习惯 - 尺宅江湖](http://www.qtwm.com/?p=5820)
 
 - [Vol. 48 科技快乐星球06: 脸·元宇宙·书宕机事件 - 枫言枫语](https://justinyan.me/post/4692)
 
@@ -40,8 +42,6 @@
 - [再也无法知道美团王兴想什么了 - 土木坛子](https://tumutanzi.com/archives/16842)
 
 - [天黑灯黄无新事 - 尺宅江湖](http://www.qtwm.com/?p=5760)
-
-- [刀不会杀人，但微信不是刀 - 一天世界](https://blog.yitianshijie.net/2021/10/07/knife-does-not-kill-but-then-wechat-is-not-knife/)
 
 
 
