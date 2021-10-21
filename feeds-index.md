@@ -1,7 +1,9 @@
-*更新时间：10-21 16:05*
+*更新时间：10-21 22:05*
 
 
 
+
+- [和病痛共生 - 尺宅江湖](http://www.qtwm.com/?p=5835)
 
 - [主题 - 攻城狮笔记](https://qumac.com/?p=2043)
 
@@ -40,8 +42,6 @@
 - [重温老片《替身演员》 - 破袜子](https://pewae.com/2021/10/review-lanimal.html)
 
 - [球面地图网格的设计 - 云风的 BLOG](https://blog.codingnow.com/2021/10/cube_sphere.html)
-
-- [人到中年变深沉？ - 土木坛子](https://tumutanzi.com/archives/16845)
 
 
 
