@@ -1,7 +1,9 @@
-*更新时间：10-22 21:05*
+*更新时间：10-22 22:50*
 
 
 
+
+- [这事不能让太座知道 - 尺宅江湖](http://www.qtwm.com/?p=5839)
 
 - [新的开始 - 林海草原](https://lhcy.org/archives/175.html)
 
@@ -40,8 +42,6 @@
 - [这届年轻人不会使用电脑 - 土木坛子](https://tumutanzi.com/archives/16846)
 
 - [豆总的BGM - 尺宅江湖](http://www.qtwm.com/?p=5780)
-
-- [重温老片《替身演员》 - 破袜子](https://pewae.com/2021/10/review-lanimal.html)
 
 
 
