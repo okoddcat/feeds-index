@@ -1,7 +1,9 @@
-*更新时间：10-21 22:05*
+*更新时间：10-22 21:05*
 
 
 
+
+- [新的开始 - 林海草原](https://lhcy.org/archives/175.html)
 
 - [和病痛共生 - 尺宅江湖](http://www.qtwm.com/?p=5835)
 
@@ -40,8 +42,6 @@
 - [豆总的BGM - 尺宅江湖](http://www.qtwm.com/?p=5780)
 
 - [重温老片《替身演员》 - 破袜子](https://pewae.com/2021/10/review-lanimal.html)
-
-- [球面地图网格的设计 - 云风的 BLOG](https://blog.codingnow.com/2021/10/cube_sphere.html)
 
 
 
