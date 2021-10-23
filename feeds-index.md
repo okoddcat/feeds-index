@@ -1,7 +1,9 @@
-*更新时间：10-22 22:50*
+*更新时间：10-23 11:05*
 
 
 
+
+- [米勒拉宾素数检验 - 云风的 BLOG](https://blog.codingnow.com/2021/10/miller_rabin_primality_test.html)
 
 - [这事不能让太座知道 - 尺宅江湖](http://www.qtwm.com/?p=5839)
 
@@ -40,8 +42,6 @@
 - [汗涔涔：读张岱《夜航船》 - 尺宅江湖](http://www.qtwm.com/?p=5784)
 
 - [这届年轻人不会使用电脑 - 土木坛子](https://tumutanzi.com/archives/16846)
-
-- [豆总的BGM - 尺宅江湖](http://www.qtwm.com/?p=5780)
 
 
 
