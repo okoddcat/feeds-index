@@ -1,7 +1,9 @@
-*更新时间：10-24 11:05*
+*更新时间：10-24 11:50*
 
 
 
+
+- [漫无目的 07 — 原著党的狂喜：电影《沙丘》 - 枫言枫语](https://justinyan.me/post/4701)
 
 - [《沙丘》2021_观后感 - 随望淡思](https://www.lushaojun.com/4999.html)
 
@@ -40,8 +42,6 @@
 - [吃瓜神器 - 攻城狮笔记](https://qumac.com/?p=1987)
 
 - [枫影夜读 #22 - Bill Bryson《万物简史》 - 枫言枫语](https://justinyan.me/post/4689)
-
-- [汗涔涔：读张岱《夜航船》 - 尺宅江湖](http://www.qtwm.com/?p=5784)
 
 
 
