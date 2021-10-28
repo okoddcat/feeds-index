@@ -1,7 +1,11 @@
-*更新时间：10-28 12:50*
+*更新时间：10-28 21:50*
 
 
 
+
+- [蜡笔同步 - 非礼勿言](https://feiliwuyan.com/crayon-sync/)
+
+- [少不读水浒：赵员外好大面皮 - 尺宅杂记](http://www.qtwm.com/?p=5869)
 
 - [更名为“尺宅杂记” - 尺宅杂记](http://www.qtwm.com/?p=5860)
 
@@ -38,10 +42,6 @@
 - [Vol. 48 科技快乐星球06: 脸·元宇宙·书宕机事件 - 枫言枫语](https://justinyan.me/post/4692)
 
 - [重温我的墓志铭 - 尺宅江湖](http://www.qtwm.com/?p=5806)
-
-- [使用Caddy2托管静态博客 - iTimothy](https://xiaozhou.net/use-caddy-to-host-your-static-website-2021-10-16.html)
-
-- [十年间中国富人们的财富变化给我的两点启示 - 土木坛子](https://tumutanzi.com/archives/16847)
 
 
 
