@@ -1,7 +1,9 @@
-*更新时间：10-25 23:05*
+*更新时间：10-28 12:50*
 
 
 
+
+- [更名为“尺宅杂记” - 尺宅杂记](http://www.qtwm.com/?p=5860)
 
 - [和女儿一起同步读《水浒传》 - 尺宅江湖](http://www.qtwm.com/?p=5852)
 
@@ -40,8 +42,6 @@
 - [使用Caddy2托管静态博客 - iTimothy](https://xiaozhou.net/use-caddy-to-host-your-static-website-2021-10-16.html)
 
 - [十年间中国富人们的财富变化给我的两点启示 - 土木坛子](https://tumutanzi.com/archives/16847)
-
-- [dokuwiki “Hogfather”与 Icons Plugin冲突的解决 - 破袜子](https://pewae.com/2021/10/dokuwiki-hogfathere4b88e-icons-plugine586b2-e7aa81-e79a84-e8a7a3-e586b3.html)
 
 
 
