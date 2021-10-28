@@ -1,7 +1,9 @@
-*更新时间：10-28 21:50*
+*更新时间：10-28 23:50*
 
 
 
+
+- [每夫吐槽（067） - 破袜子](https://pewae.com/2021/10/random_kuso_67.html)
 
 - [蜡笔同步 - 非礼勿言](https://feiliwuyan.com/crayon-sync/)
 
@@ -40,8 +42,6 @@
 - [还好老夫有蹲坑看书的好习惯 - 尺宅江湖](http://www.qtwm.com/?p=5820)
 
 - [Vol. 48 科技快乐星球06: 脸·元宇宙·书宕机事件 - 枫言枫语](https://justinyan.me/post/4692)
-
-- [重温我的墓志铭 - 尺宅江湖](http://www.qtwm.com/?p=5806)
 
 
 
