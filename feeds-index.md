@@ -1,7 +1,9 @@
-*更新时间：10-29 21:50*
+*更新时间：10-30 08:50*
 
 
 
+
+- [何须追求永恒？ - 土木坛子](https://tumutanzi.com/archives/16852)
 
 - [一名老站长的尊严 - 土木坛子](https://tumutanzi.com/archives/16851)
 
@@ -40,8 +42,6 @@
 - [Vol. 49 苹果2021十月发布会：强者的强 - 枫言枫语](https://justinyan.me/post/4697)
 
 - [李龟年的卖弄：读张岱《夜航船》 - 尺宅江湖](http://www.qtwm.com/?p=5823)
-
-- [还好老夫有蹲坑看书的好习惯 - 尺宅江湖](http://www.qtwm.com/?p=5820)
 
 
 
