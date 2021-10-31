@@ -1,7 +1,9 @@
-*更新时间：10-31 22:50*
+*更新时间：10-31 23:50*
 
 
 
+
+- [「转」乔布斯：禅与投资！心力即人生！ - DHTalk's Blog](https://zhangdinghao.cn/2021/10/31/jobs/)
 
 - [WireGuard Over VLESS——一个更稳定的三层隧道 - 40huo's - 知至知终](https://www.40huo.cn/blog/wireguard-over-vless.html)
 
@@ -40,8 +42,6 @@
 - [新的开始 - 林海草原](https://lhcy.org/archives/175.html)
 
 - [和病痛共生 - 尺宅江湖](http://www.qtwm.com/?p=5835)
-
-- [主题 - 攻城狮笔记](https://qumac.com/?p=2043)
 
 
 
