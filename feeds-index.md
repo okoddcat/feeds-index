@@ -1,7 +1,9 @@
-*更新时间：10-31 23:50*
+*更新时间：11-04 10:50*
 
 
 
+
+- [参加根特大学华南区校友聚会 - 土木坛子](https://tumutanzi.com/archives/16855)
 
 - [「转」乔布斯：禅与投资！心力即人生！ - DHTalk's Blog](https://zhangdinghao.cn/2021/10/31/jobs/)
 
@@ -40,8 +42,6 @@
 - [这事不能让太座知道 - 尺宅江湖](http://www.qtwm.com/?p=5839)
 
 - [新的开始 - 林海草原](https://lhcy.org/archives/175.html)
-
-- [和病痛共生 - 尺宅江湖](http://www.qtwm.com/?p=5835)
 
 
 
