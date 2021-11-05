@@ -1,7 +1,9 @@
-*更新时间：11-04 10:50*
+*更新时间：11-05 20:50*
 
 
 
+
+- [回忆当年丰厚的国外留学奖学金 - 土木坛子](https://tumutanzi.com/archives/16857)
 
 - [参加根特大学华南区校友聚会 - 土木坛子](https://tumutanzi.com/archives/16855)
 
@@ -40,8 +42,6 @@
 - [米勒拉宾素数检验 - 云风的 BLOG](https://blog.codingnow.com/2021/10/miller_rabin_primality_test.html)
 
 - [这事不能让太座知道 - 尺宅江湖](http://www.qtwm.com/?p=5839)
-
-- [新的开始 - 林海草原](https://lhcy.org/archives/175.html)
 
 
 
