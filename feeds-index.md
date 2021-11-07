@@ -1,7 +1,9 @@
-*更新时间：11-06 22:50*
+*更新时间：11-08 07:50*
 
 
 
+
+- [Vol 51. 科技快乐星球07: 扎克伯格的 Meta 元宇宙 - 枫言枫语](https://justinyan.me/post/4725)
 
 - [世界上的另一个我 - 尺宅杂记](http://www.qtwm.com/?p=5884)
 
@@ -40,8 +42,6 @@
 - [漫无目的 07 — 原著党的狂喜：电影《沙丘》 - 枫言枫语](https://justinyan.me/post/4701)
 
 - [《沙丘》2021_观后感 - 随望淡思](https://www.lushaojun.com/4999.html)
-
-- [米勒拉宾素数检验 - 云风的 BLOG](https://blog.codingnow.com/2021/10/miller_rabin_primality_test.html)
 
 
 
