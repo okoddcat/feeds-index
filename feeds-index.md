@@ -1,7 +1,9 @@
-*更新时间：11-08 07:50*
+*更新时间：11-08 10:50*
 
 
 
+
+- [疫情如阴霾笼罩 - 伪医生律师的博客](https://chidd.net/2021/11/08/yi-qing.html)
 
 - [Vol 51. 科技快乐星球07: 扎克伯格的 Meta 元宇宙 - 枫言枫语](https://justinyan.me/post/4725)
 
@@ -40,8 +42,6 @@
 - [和女儿保持阅读同步 - 尺宅江湖](http://www.qtwm.com/?p=5845)
 
 - [漫无目的 07 — 原著党的狂喜：电影《沙丘》 - 枫言枫语](https://justinyan.me/post/4701)
-
-- [《沙丘》2021_观后感 - 随望淡思](https://www.lushaojun.com/4999.html)
 
 
 
