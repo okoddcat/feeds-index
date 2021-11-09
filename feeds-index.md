@@ -1,7 +1,9 @@
-*更新时间：11-08 15:50*
+*更新时间：11-09 16:05*
 
 
 
+
+- [异地鸡的欢乐 - 土木坛子](https://tumutanzi.com/archives/16858)
 
 - [大地之城 - 最好金龟换酒](http://fz0512.com/archives/2204)
 
@@ -40,8 +42,6 @@
 - [和女儿一起同步读《水浒传》 - 尺宅江湖](http://www.qtwm.com/?p=5852)
 
 - [Vol. 50 沙丘 2021 - 枫言枫语](https://justinyan.me/post/4720)
-
-- [和女儿保持阅读同步 - 尺宅江湖](http://www.qtwm.com/?p=5845)
 
 
 
