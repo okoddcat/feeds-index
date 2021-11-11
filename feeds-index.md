@@ -1,7 +1,9 @@
-*更新时间：11-11 21:50*
+*更新时间：11-11 23:05*
 
 
 
+
+- [每夫吐槽（068） - 破袜子](https://pewae.com/2021/11/random_kuso_68.html)
 
 - [如何在当下的市场里赚钱？ - 土木坛子](https://tumutanzi.com/archives/16859)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（067） - 破袜子](https://pewae.com/2021/10/random_kuso_67.html)
 
 - [蜡笔同步 - 非礼勿言](https://feiliwuyan.com/crayon-sync/)
-
-- [少不读水浒：赵员外好大面皮 - 尺宅杂记](http://www.qtwm.com/?p=5869)
 
 
 
