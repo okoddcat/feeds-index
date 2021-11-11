@@ -1,7 +1,9 @@
-*更新时间：11-10 22:50*
+*更新时间：11-11 21:50*
 
 
 
+
+- [如何在当下的市场里赚钱？ - 土木坛子](https://tumutanzi.com/archives/16859)
 
 - [法宝《思溪藏·妙法莲华经》 - 尺宅杂记](http://www.qtwm.com/?p=5891)
 
@@ -40,8 +42,6 @@
 - [蜡笔同步 - 非礼勿言](https://feiliwuyan.com/crayon-sync/)
 
 - [少不读水浒：赵员外好大面皮 - 尺宅杂记](http://www.qtwm.com/?p=5869)
-
-- [更名为“尺宅杂记” - 尺宅杂记](http://www.qtwm.com/?p=5860)
 
 
 
