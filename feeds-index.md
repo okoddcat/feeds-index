@@ -1,7 +1,9 @@
-*更新时间：11-17 14:50*
+*更新时间：11-19 17:50*
 
 
 
+
+- [源代码特洛伊木马攻击 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21649.html)
 
 - [八万四千法门 - 尺宅杂记](http://www.qtwm.com/?p=5900)
 
@@ -40,8 +42,6 @@
 - [回忆当年丰厚的国外留学奖学金 - 土木坛子](https://tumutanzi.com/archives/16857)
 
 - [参加根特大学华南区校友聚会 - 土木坛子](https://tumutanzi.com/archives/16855)
-
-- [「转」乔布斯：禅与投资！心力即人生！ - DHTalk's Blog](https://zhangdinghao.cn/2021/10/31/jobs/)
 
 
 
