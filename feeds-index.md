@@ -1,7 +1,9 @@
-*更新时间：11-19 22:50*
+*更新时间：11-21 14:50*
 
 
 
+
+- [一招查找BitLocker 恢复密钥（碰碰运气） - 攻城狮笔记](https://qumac.com/?p=2057)
 
 - [荷兰之夏忆特别篇 / 国立汽车博物馆 - 非礼勿言](https://feiliwuyan.com/summer-of-holland-louwman-museum/)
 
@@ -40,8 +42,6 @@
 - [Vol 51. 科技快乐星球07: 扎克伯格的 Meta 元宇宙 - 枫言枫语](https://justinyan.me/post/4725)
 
 - [世界上的另一个我 - 尺宅杂记](http://www.qtwm.com/?p=5884)
-
-- [回忆当年丰厚的国外留学奖学金 - 土木坛子](https://tumutanzi.com/archives/16857)
 
 
 
