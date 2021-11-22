@@ -1,7 +1,9 @@
-*更新时间：11-22 07:50*
+*更新时间：11-22 20:50*
 
 
 
+
+- [重温老片《黑太阳731》 - 破袜子](https://pewae.com/2021/11/review-man-behind-the-sun.html)
 
 - [Vol. 53 在伦敦工作和生活是一种什么样的体验 - 枫言枫语](https://justinyan.me/post/4746)
 
@@ -40,8 +42,6 @@
 - [异地鸡的欢乐 - 土木坛子](https://tumutanzi.com/archives/16858)
 
 - [大地之城 - 最好金龟换酒](http://fz0512.com/archives/2204)
-
-- [疫情如阴霾笼罩 - 伪医生律师的博客](https://chidd.net/2021/11/08/yi-qing.html)
 
 
 
