@@ -1,7 +1,9 @@
-*更新时间：11-22 20:50*
+*更新时间：11-23 12:05*
 
 
 
+
+- [对于历史的态度 - 渚碧](https://jubeny.com/2021/11/attitude-to-the-history/)
 
 - [重温老片《黑太阳731》 - 破袜子](https://pewae.com/2021/11/review-man-behind-the-sun.html)
 
@@ -40,8 +42,6 @@
 - [少年心事 - 攻城狮笔记](https://qumac.com/?p=2048)
 
 - [异地鸡的欢乐 - 土木坛子](https://tumutanzi.com/archives/16858)
-
-- [大地之城 - 最好金龟换酒](http://fz0512.com/archives/2204)
 
 
 
