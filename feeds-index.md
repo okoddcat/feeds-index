@@ -1,9 +1,11 @@
-*更新时间：11-23 14:50*
+*更新时间：11-23 16:05*
 
 
 
 
 - [有线耳机回潮 - 一天世界](https://blog.yitianshijie.net/2021/11/23/wired-and-wireless-earphones/)
+
+- [诗一首 - 渚碧](https://jubeny.com/2021/11/a-poem/)
 
 - [对于历史的态度 - 渚碧](https://jubeny.com/2021/11/attitude-to-the-history/)
 
@@ -40,8 +42,6 @@
 - [如何在当下的市场里赚钱？ - 土木坛子](https://tumutanzi.com/archives/16859)
 
 - [法宝《思溪藏·妙法莲华经》 - 尺宅杂记](http://www.qtwm.com/?p=5891)
-
-- [少年心事 - 攻城狮笔记](https://qumac.com/?p=2048)
 
 
 
