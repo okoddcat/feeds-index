@@ -1,7 +1,9 @@
-*更新时间：11-26 23:50*
+*更新时间：11-27 22:50*
 
 
 
+
+- [一条来自BOOX max lumi2但博文 - 非礼勿言](https://feiliwuyan.com/message-from-boox-max-lumi2/)
 
 - [16th anniversary - 破袜子](https://pewae.com/2021/11/16th-anniversary.html)
 
@@ -40,8 +42,6 @@
 - [C 中访问 Lua 配置表的优化 - 云风的 BLOG](https://blog.codingnow.com/2021/11/c_cache_lua_table.html)
 
 - [Vol. 52 和草帽来一段对口相声 Fígma~ - 枫言枫语](https://justinyan.me/post/4737)
-
-- [尼亚拉加大瀑布 - 狡猫三窝](https://slykiten.com/life-note/niagara_fall/)
 
 
 
