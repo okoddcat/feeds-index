@@ -1,7 +1,9 @@
-*更新时间：11-29 22:50*
+*更新时间：11-30 19:50*
 
 
 
+
+- [我的个人 OKR 实践 01 - 枫言枫语](https://justinyan.me/post/4752)
 
 - [自救 - 尺宅杂记](http://www.qtwm.com/?p=5923)
 
@@ -40,8 +42,6 @@
 - [荷兰之夏忆特别篇 / 国立汽车博物馆 - 非礼勿言](https://feiliwuyan.com/summer-of-holland-louwman-museum/)
 
 - [源代码特洛伊木马攻击 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21649.html)
-
-- [八万四千法门 - 尺宅杂记](http://www.qtwm.com/?p=5900)
 
 
 
