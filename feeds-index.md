@@ -1,9 +1,11 @@
-*更新时间：11-30 19:50*
+*更新时间：11-30 23:05*
 
 
 
 
 - [我的个人 OKR 实践 01 - 枫言枫语](https://justinyan.me/post/4752)
+
+- [最近体验的黑科技：重力被 - 土木坛子](https://tumutanzi.com/archives/16866)
 
 - [自救 - 尺宅杂记](http://www.qtwm.com/?p=5923)
 
@@ -40,8 +42,6 @@
 - [一招查找BitLocker 恢复密钥（碰碰运气） - 攻城狮笔记](https://qumac.com/?p=2057)
 
 - [荷兰之夏忆特别篇 / 国立汽车博物馆 - 非礼勿言](https://feiliwuyan.com/summer-of-holland-louwman-museum/)
-
-- [源代码特洛伊木马攻击 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21649.html)
 
 
 
