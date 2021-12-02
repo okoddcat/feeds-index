@@ -1,7 +1,9 @@
-*更新时间：12-01 18:50*
+*更新时间：12-02 12:50*
 
 
 
+
+- [Vol. 54 死后，数字遗产该怎么办？ - 枫言枫语](https://justinyan.me/post/4767)
 
 - [2021年11月投资月报：熊市传闻 - DHTalk's Blog](https://zhangdinghao.cn/2021/11/30/investment2111/)
 
@@ -40,8 +42,6 @@
 - [Vol. 53 在伦敦工作和生活是一种什么样的体验 - 枫言枫语](https://justinyan.me/post/4746)
 
 - [地图、诗人和哲学 - 尺宅杂记](http://www.qtwm.com/?p=5907)
-
-- [一招查找BitLocker 恢复密钥（碰碰运气） - 攻城狮笔记](https://qumac.com/?p=2057)
 
 
 
