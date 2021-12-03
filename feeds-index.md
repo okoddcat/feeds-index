@@ -1,7 +1,11 @@
-*更新时间：12-02 12:50*
+*更新时间：12-03 12:50*
 
 
 
+
+- [我的个人 OKR 实践 02 - 枫言枫语](https://justinyan.me/post/4755)
+
+- [周末探究写作题：不请自来的未来 - 尺宅杂记](http://www.qtwm.com/?p=5929)
 
 - [Vol. 54 死后，数字遗产该怎么办？ - 枫言枫语](https://justinyan.me/post/4767)
 
@@ -38,10 +42,6 @@
 - [对于历史的态度 - 渚碧](https://jubeny.com/2021/11/attitude-to-the-history/)
 
 - [重温老片《黑太阳731》 - 破袜子](https://pewae.com/2021/11/review-man-behind-the-sun.html)
-
-- [Vol. 53 在伦敦工作和生活是一种什么样的体验 - 枫言枫语](https://justinyan.me/post/4746)
-
-- [地图、诗人和哲学 - 尺宅杂记](http://www.qtwm.com/?p=5907)
 
 
 
