@@ -1,7 +1,9 @@
-*更新时间：12-03 12:50*
+*更新时间：12-03 15:05*
 
 
 
+
+- [枫言枫语播客用什么设备和软件？ - 枫言枫语](https://justinyan.me/post/4769)
 
 - [我的个人 OKR 实践 02 - 枫言枫语](https://justinyan.me/post/4755)
 
@@ -40,8 +42,6 @@
 - [诗一首 - 渚碧](https://jubeny.com/2021/11/a-poem/)
 
 - [对于历史的态度 - 渚碧](https://jubeny.com/2021/11/attitude-to-the-history/)
-
-- [重温老片《黑太阳731》 - 破袜子](https://pewae.com/2021/11/review-man-behind-the-sun.html)
 
 
 
