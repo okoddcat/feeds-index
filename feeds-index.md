@@ -1,7 +1,9 @@
-*更新时间：12-03 15:05*
+*更新时间：12-04 08:50*
 
 
 
+
+- [拔牙的故事 - 随望淡思](https://www.lushaojun.com/5015.html)
 
 - [枫言枫语播客用什么设备和软件？ - 枫言枫语](https://justinyan.me/post/4769)
 
@@ -40,8 +42,6 @@
 - [有线耳机回潮 - 一天世界](https://blog.yitianshijie.net/2021/11/23/wired-and-wireless-earphones/)
 
 - [诗一首 - 渚碧](https://jubeny.com/2021/11/a-poem/)
-
-- [对于历史的态度 - 渚碧](https://jubeny.com/2021/11/attitude-to-the-history/)
 
 
 
