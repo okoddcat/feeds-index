@@ -1,7 +1,9 @@
-*更新时间：12-05 13:50*
+*更新时间：12-06 07:50*
 
 
 
+
+- [Vol. 55 在成都工作和生活是什么体验 - 枫言枫语](https://justinyan.me/post/4751)
 
 - [播客是一条河 - 一天世界](https://blog.yitianshijie.net/2021/12/05/podcast-is-river/)
 
@@ -40,8 +42,6 @@
 - [再聊网盘那点事 - 随望淡思](https://www.lushaojun.com/5011.html)
 
 - [宰相刘罗锅和刘墉追案 - 非礼勿言](https://feiliwuyan.com/tv-series-of-liu-luoguo/)
-
-- [有线耳机回潮 - 一天世界](https://blog.yitianshijie.net/2021/11/23/wired-and-wireless-earphones/)
 
 
 
