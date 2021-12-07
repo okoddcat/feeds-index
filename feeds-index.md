@@ -1,7 +1,9 @@
-*更新时间：12-06 22:50*
+*更新时间：12-07 10:50*
 
 
 
+
+- [我的个人 OKR 实践 03 - 枫言枫语](https://justinyan.me/post/4765)
 
 - [C’est la vie - 破袜子](https://pewae.com/2021/12/cest-la-vie.html)
 
@@ -40,8 +42,6 @@
 - [感恩这一生的所有遇见 - 尺宅杂记](http://www.qtwm.com/?p=5914)
 
 - [泪洒夕阳之歌《梅艳芳》 - 土木坛子](https://tumutanzi.com/archives/16861)
-
-- [地震、黄道益和诗 - 尺宅杂记](http://www.qtwm.com/?p=5911)
 
 
 
