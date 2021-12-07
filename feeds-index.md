@@ -1,7 +1,9 @@
-*更新时间：12-07 16:05*
+*更新时间：12-07 19:05*
 
 
 
+
+- [陈若曦的政治小说 - 渚碧](https://jubeny.com/2021/12/the-political-stories-of-lucy-chen/)
 
 - [彩虹不会等待 - 尺宅杂记](http://www.qtwm.com/?p=5940)
 
@@ -40,8 +42,6 @@
 - [一条来自BOOX max lumi2但博文 - 非礼勿言](https://feiliwuyan.com/message-from-boox-max-lumi2/)
 
 - [16th anniversary - 破袜子](https://pewae.com/2021/11/16th-anniversary.html)
-
-- [感恩这一生的所有遇见 - 尺宅杂记](http://www.qtwm.com/?p=5914)
 
 
 
