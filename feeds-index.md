@@ -1,7 +1,11 @@
-*更新时间：12-07 19:05*
+*更新时间：12-08 15:55*
 
 
 
+
+- [寸进 - 尺宅杂记](http://www.qtwm.com/?p=5944)
+
+- [給工作帶來方便的幾個硬件 - 白板报](https://wangpei.net/2021/12/08/several-things-to-improve-my-working-condition/)
 
 - [陈若曦的政治小说 - 渚碧](https://jubeny.com/2021/12/the-political-stories-of-lucy-chen/)
 
@@ -38,10 +42,6 @@
 - [暴躁中年 - 攻城狮笔记](https://qumac.com/?p=2072)
 
 - [夜读明小品三百篇 - 尺宅杂记](http://www.qtwm.com/?p=5919)
-
-- [一条来自BOOX max lumi2但博文 - 非礼勿言](https://feiliwuyan.com/message-from-boox-max-lumi2/)
-
-- [16th anniversary - 破袜子](https://pewae.com/2021/11/16th-anniversary.html)
 
 
 
