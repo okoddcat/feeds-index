@@ -1,7 +1,9 @@
-*更新时间：12-08 23:05*
+*更新时间：12-09 16:50*
 
 
 
+
+- [想换一个微信头像 - 木先森](https://www.meizg.cn/414/)
 
 - [完美解决Gravatar头像被墙 - 攻城狮笔记](https://qumac.com/?p=2078)
 
@@ -40,8 +42,6 @@
 - [最近体验的黑科技：重力被 - 土木坛子](https://tumutanzi.com/archives/16866)
 
 - [自救 - 尺宅杂记](http://www.qtwm.com/?p=5923)
-
-- [暴躁中年 - 攻城狮笔记](https://qumac.com/?p=2072)
 
 
 
