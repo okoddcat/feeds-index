@@ -1,7 +1,9 @@
-*更新时间：12-09 16:50*
+*更新时间：12-10 17:50*
 
 
 
+
+- [我的个人 OKR 实践 04 - 枫言枫语](https://justinyan.me/post/4779)
 
 - [想换一个微信头像 - 木先森](https://www.meizg.cn/414/)
 
@@ -40,8 +42,6 @@
 - [我的个人 OKR 实践 01 - 枫言枫语](https://justinyan.me/post/4752)
 
 - [最近体验的黑科技：重力被 - 土木坛子](https://tumutanzi.com/archives/16866)
-
-- [自救 - 尺宅杂记](http://www.qtwm.com/?p=5923)
 
 
 
