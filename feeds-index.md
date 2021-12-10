@@ -1,7 +1,23 @@
-*更新时间：12-10 17:50*
+*更新时间：12-11 04:50*
 
 
 
+
+- [重温中学文言文 - 白板报](https://wangpei.net/2021/12/11/chinese-classical-prose/)
+
+- [五丈原之梦 - 白板报](https://wangpei.net/2021/12/11/dream-of-zhuegeliang/)
+
+- [再看《推销员之死》 - 白板报](https://wangpei.net/2021/12/11/review-on-death-of-a-salesman/)
+
+- [创作者影评《不期而遇的夏天》 - 白板报](https://wangpei.net/2021/12/11/movie-review-on-like-a-friend/)
+
+- [我家是一个小小『动物园』 - 白板报](https://wangpei.net/2021/12/11/my-family-is-a-little-zoo-by-jo/)
+
+- [《士兵之歌》导演阐述 - 白板报](https://wangpei.net/2021/12/11/from-the-director-of-ballad-of-a-soldier/)
+
+- [重写博尔赫斯：亚伯和该隐 - 白板报](https://wangpei.net/2021/12/11/rephrase-borges-abel-and-cain/)
+
+- [我的极短回忆录 - 白板报](https://wangpei.net/2021/12/11/a-very-short-memoir/)
 
 - [我的个人 OKR 实践 04 - 枫言枫语](https://justinyan.me/post/4779)
 
@@ -26,22 +42,6 @@
 - [Vol. 55 在成都工作和生活是什么体验 - 枫言枫语](https://justinyan.me/post/4751)
 
 - [播客是一条河 - 一天世界](https://blog.yitianshijie.net/2021/12/05/podcast-is-river/)
-
-- [拔牙的故事 - 随望淡思](https://www.lushaojun.com/5015.html)
-
-- [枫言枫语播客用什么设备和软件？ - 枫言枫语](https://justinyan.me/post/4769)
-
-- [我的个人 OKR 实践 02 - 枫言枫语](https://justinyan.me/post/4755)
-
-- [周末探究写作题：不请自来的未来 - 尺宅杂记](http://www.qtwm.com/?p=5929)
-
-- [Vol. 54 死后，数字遗产该怎么办？ - 枫言枫语](https://justinyan.me/post/4767)
-
-- [2021年11月投资月报：熊市传闻 - DHTalk's Blog](https://zhangdinghao.cn/2021/11/30/investment2111/)
-
-- [我的个人 OKR 实践 01 - 枫言枫语](https://justinyan.me/post/4752)
-
-- [最近体验的黑科技：重力被 - 土木坛子](https://tumutanzi.com/archives/16866)
 
 
 
