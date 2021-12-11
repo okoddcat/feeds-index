@@ -1,7 +1,9 @@
-*更新时间：12-11 04:50*
+*更新时间：12-11 11:50*
 
 
 
+
+- [《追忆似水年华》最佳翻译 - 白板报](https://wangpei.net/2021/12/11/in-search-of-lost-time-translation/)
 
 - [重温中学文言文 - 白板报](https://wangpei.net/2021/12/11/chinese-classical-prose/)
 
@@ -40,8 +42,6 @@
 - [周末嗑书 - 尺宅杂记](http://www.qtwm.com/?p=5934)
 
 - [Vol. 55 在成都工作和生活是什么体验 - 枫言枫语](https://justinyan.me/post/4751)
-
-- [播客是一条河 - 一天世界](https://blog.yitianshijie.net/2021/12/05/podcast-is-river/)
 
 
 
