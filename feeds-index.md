@@ -1,7 +1,9 @@
-*更新时间：12-12 17:50*
+*更新时间：12-12 20:50*
 
 
 
+
+- [一个关于产品需求的幸存者偏差 - oldj's blog](https://oldj.net/article/2021/12/12/a-survivorship-bias-about-product/)
 
 - [看脚下 - 尺宅杂记](http://www.qtwm.com/?p=5951)
 
@@ -40,8 +42,6 @@
 - [我的个人 OKR 实践 03 - 枫言枫语](https://justinyan.me/post/4765)
 
 - [C’est la vie - 破袜子](https://pewae.com/2021/12/cest-la-vie.html)
-
-- [周末嗑书 - 尺宅杂记](http://www.qtwm.com/?p=5934)
 
 
 
