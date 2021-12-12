@@ -1,7 +1,9 @@
-*更新时间：12-11 11:50*
+*更新时间：12-12 17:50*
 
 
 
+
+- [看脚下 - 尺宅杂记](http://www.qtwm.com/?p=5951)
 
 - [《追忆似水年华》最佳翻译 - 白板报](https://wangpei.net/2021/12/11/in-search-of-lost-time-translation/)
 
@@ -40,8 +42,6 @@
 - [C’est la vie - 破袜子](https://pewae.com/2021/12/cest-la-vie.html)
 
 - [周末嗑书 - 尺宅杂记](http://www.qtwm.com/?p=5934)
-
-- [Vol. 55 在成都工作和生活是什么体验 - 枫言枫语](https://justinyan.me/post/4751)
 
 
 
