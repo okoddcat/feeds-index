@@ -1,7 +1,9 @@
-*更新时间：12-14 19:05*
+*更新时间：12-15 16:50*
 
 
 
+
+- [用什么写作，才能不分心 - 白板报](https://wangpei.net/2021/12/15/on-anti-distraction-writing-devices/)
 
 - [我的个人 OKR 实践 05 - 枫言枫语](https://justinyan.me/post/4790)
 
@@ -40,8 +42,6 @@
 - [完美解决Gravatar头像被墙 - 攻城狮笔记](https://qumac.com/?p=2078)
 
 - [寸进 - 尺宅杂记](http://www.qtwm.com/?p=5944)
-
-- [給工作帶來方便的幾個硬件 - 白板报](https://wangpei.net/2021/12/08/several-things-to-improve-my-working-condition/)
 
 
 
