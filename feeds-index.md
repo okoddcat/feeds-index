@@ -1,7 +1,9 @@
-*更新时间：12-15 16:50*
+*更新时间：12-16 03:05*
 
 
 
+
+- [买了一个ipad - 狡猫三窝](https://slykiten.com/life-note/ipadpro2021/)
 
 - [用什么写作，才能不分心 - 白板报](https://wangpei.net/2021/12/15/on-anti-distraction-writing-devices/)
 
@@ -40,8 +42,6 @@
 - [想换一个微信头像 - 木先森](https://www.meizg.cn/414/)
 
 - [完美解决Gravatar头像被墙 - 攻城狮笔记](https://qumac.com/?p=2078)
-
-- [寸进 - 尺宅杂记](http://www.qtwm.com/?p=5944)
 
 
 
