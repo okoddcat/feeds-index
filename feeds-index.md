@@ -1,7 +1,11 @@
-*更新时间：12-16 16:50*
+*更新时间：12-16 23:50*
 
 
 
+
+- [不许联想 - 攻城狮笔记](https://qumac.com/?p=2110)
+
+- [乱钓虾 - 随望淡思](https://www.lushaojun.com/5019.html)
 
 - [课间的闲翻书 - 尺宅杂记](http://www.qtwm.com/?p=5964)
 
@@ -38,10 +42,6 @@
 - [《士兵之歌》导演阐述 - 白板报](https://wangpei.net/2021/12/11/from-the-director-of-ballad-of-a-soldier/)
 
 - [重写博尔赫斯：亚伯和该隐 - 白板报](https://wangpei.net/2021/12/11/rephrase-borges-abel-and-cain/)
-
-- [我的极短回忆录 - 白板报](https://wangpei.net/2021/12/11/a-very-short-memoir/)
-
-- [我的个人 OKR 实践 04 - 枫言枫语](https://justinyan.me/post/4779)
 
 
 
