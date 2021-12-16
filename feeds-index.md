@@ -1,7 +1,11 @@
-*更新时间：12-16 03:05*
+*更新时间：12-16 16:50*
 
 
 
+
+- [课间的闲翻书 - 尺宅杂记](http://www.qtwm.com/?p=5964)
+
+- [异星工厂的机械臂模块 - 云风的 BLOG](https://blog.codingnow.com/2021/12/factorio_inserter.html)
 
 - [买了一个ipad - 狡猫三窝](https://slykiten.com/life-note/ipadpro2021/)
 
@@ -38,10 +42,6 @@
 - [我的极短回忆录 - 白板报](https://wangpei.net/2021/12/11/a-very-short-memoir/)
 
 - [我的个人 OKR 实践 04 - 枫言枫语](https://justinyan.me/post/4779)
-
-- [想换一个微信头像 - 木先森](https://www.meizg.cn/414/)
-
-- [完美解决Gravatar头像被墙 - 攻城狮笔记](https://qumac.com/?p=2078)
 
 
 
