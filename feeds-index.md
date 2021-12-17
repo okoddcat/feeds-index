@@ -1,7 +1,9 @@
-*更新时间：12-16 23:50*
+*更新时间：12-17 15:50*
 
 
 
+
+- [烧烤记 - 伪医生律师的博客](https://chidd.net/2021/12/17/shao-kao-ji.html)
 
 - [不许联想 - 攻城狮笔记](https://qumac.com/?p=2110)
 
@@ -40,8 +42,6 @@
 - [我家是一个小小『动物园』 - 白板报](https://wangpei.net/2021/12/11/my-family-is-a-little-zoo-by-jo/)
 
 - [《士兵之歌》导演阐述 - 白板报](https://wangpei.net/2021/12/11/from-the-director-of-ballad-of-a-soldier/)
-
-- [重写博尔赫斯：亚伯和该隐 - 白板报](https://wangpei.net/2021/12/11/rephrase-borges-abel-and-cain/)
 
 
 
