@@ -1,7 +1,9 @@
-*更新时间：12-17 15:50*
+*更新时间：12-17 16:50*
 
 
 
+
+- [周末探究写作：我爱我师，但我更爱真理 - 尺宅杂记](http://www.qtwm.com/?p=5967)
 
 - [烧烤记 - 伪医生律师的博客](https://chidd.net/2021/12/17/shao-kao-ji.html)
 
@@ -40,8 +42,6 @@
 - [创作者影评《不期而遇的夏天》 - 白板报](https://wangpei.net/2021/12/11/movie-review-on-like-a-friend/)
 
 - [我家是一个小小『动物园』 - 白板报](https://wangpei.net/2021/12/11/my-family-is-a-little-zoo-by-jo/)
-
-- [《士兵之歌》导演阐述 - 白板报](https://wangpei.net/2021/12/11/from-the-director-of-ballad-of-a-soldier/)
 
 
 
