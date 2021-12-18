@@ -1,7 +1,9 @@
-*更新时间：12-18 22:50*
+*更新时间：12-19 01:50*
 
 
 
+
+- [卡片钟 - 白板报](https://wangpei.net/2021/12/19/card-clock/)
 
 - [笔名、签名钤印本和也闲的《书店小记》 - 尺宅杂记](http://www.qtwm.com/?p=5971)
 
@@ -40,8 +42,6 @@
 - [五丈原之梦 - 白板报](https://wangpei.net/2021/12/11/dream-of-zhuegeliang/)
 
 - [再看《推销员之死》 - 白板报](https://wangpei.net/2021/12/11/review-on-death-of-a-salesman/)
-
-- [创作者影评《不期而遇的夏天》 - 白板报](https://wangpei.net/2021/12/11/movie-review-on-like-a-friend/)
 
 
 
