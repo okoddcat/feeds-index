@@ -1,7 +1,9 @@
-*更新时间：12-17 16:50*
+*更新时间：12-18 22:50*
 
 
 
+
+- [笔名、签名钤印本和也闲的《书店小记》 - 尺宅杂记](http://www.qtwm.com/?p=5971)
 
 - [周末探究写作：我爱我师，但我更爱真理 - 尺宅杂记](http://www.qtwm.com/?p=5967)
 
@@ -40,8 +42,6 @@
 - [再看《推销员之死》 - 白板报](https://wangpei.net/2021/12/11/review-on-death-of-a-salesman/)
 
 - [创作者影评《不期而遇的夏天》 - 白板报](https://wangpei.net/2021/12/11/movie-review-on-like-a-friend/)
-
-- [我家是一个小小『动物园』 - 白板报](https://wangpei.net/2021/12/11/my-family-is-a-little-zoo-by-jo/)
 
 
 
