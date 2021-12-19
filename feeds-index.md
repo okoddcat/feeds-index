@@ -1,7 +1,9 @@
-*更新时间：12-19 01:50*
+*更新时间：12-20 00:05*
 
 
 
+
+- [带阅读灯的读书支架 - 白板报](https://wangpei.net/2021/12/19/reading-stand-with-led-light/)
 
 - [卡片钟 - 白板报](https://wangpei.net/2021/12/19/card-clock/)
 
@@ -40,8 +42,6 @@
 - [重温中学文言文 - 白板报](https://wangpei.net/2021/12/11/chinese-classical-prose/)
 
 - [五丈原之梦 - 白板报](https://wangpei.net/2021/12/11/dream-of-zhuegeliang/)
-
-- [再看《推销员之死》 - 白板报](https://wangpei.net/2021/12/11/review-on-death-of-a-salesman/)
 
 
 
