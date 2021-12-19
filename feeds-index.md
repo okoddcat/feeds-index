@@ -1,7 +1,9 @@
-*更新时间：12-20 00:05*
+*更新时间：12-20 07:05*
 
 
 
+
+- [Vol. 57 在加拿大工作和生活是什么体验？ - 枫言枫语](https://justinyan.me/post/4804)
 
 - [带阅读灯的读书支架 - 白板报](https://wangpei.net/2021/12/19/reading-stand-with-led-light/)
 
@@ -40,8 +42,6 @@
 - [《追忆似水年华》最佳翻译 - 白板报](https://wangpei.net/2021/12/11/in-search-of-lost-time-translation/)
 
 - [重温中学文言文 - 白板报](https://wangpei.net/2021/12/11/chinese-classical-prose/)
-
-- [五丈原之梦 - 白板报](https://wangpei.net/2021/12/11/dream-of-zhuegeliang/)
 
 
 
