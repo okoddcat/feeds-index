@@ -1,7 +1,9 @@
-*更新时间：12-20 07:05*
+*更新时间：12-20 15:50*
 
 
 
+
+- [在线PDF 文档翻译 - 攻城狮笔记](https://qumac.com/?p=2117)
 
 - [Vol. 57 在加拿大工作和生活是什么体验？ - 枫言枫语](https://justinyan.me/post/4804)
 
@@ -40,8 +42,6 @@
 - [看脚下 - 尺宅杂记](http://www.qtwm.com/?p=5951)
 
 - [《追忆似水年华》最佳翻译 - 白板报](https://wangpei.net/2021/12/11/in-search-of-lost-time-translation/)
-
-- [重温中学文言文 - 白板报](https://wangpei.net/2021/12/11/chinese-classical-prose/)
 
 
 
