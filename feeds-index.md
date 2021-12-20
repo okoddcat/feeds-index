@@ -1,7 +1,9 @@
-*更新时间：12-20 15:50*
+*更新时间：12-21 00:50*
 
 
 
+
+- [有用的拍拍夹 - 白板报](https://wangpei.net/2021/12/20/muji-clipboard-with-storage/)
 
 - [在线PDF 文档翻译 - 攻城狮笔记](https://qumac.com/?p=2117)
 
@@ -40,8 +42,6 @@
 - [一个关于产品需求的幸存者偏差 - oldj's blog](https://oldj.net/article/2021/12/12/a-survivorship-bias-about-product/)
 
 - [看脚下 - 尺宅杂记](http://www.qtwm.com/?p=5951)
-
-- [《追忆似水年华》最佳翻译 - 白板报](https://wangpei.net/2021/12/11/in-search-of-lost-time-translation/)
 
 
 
