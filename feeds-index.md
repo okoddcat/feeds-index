@@ -1,7 +1,9 @@
-*更新时间：12-21 00:50*
+*更新时间：12-21 03:50*
 
 
 
+
+- [来美国几个月的总结 - 狡猫三窝](https://slykiten.com/life-note/summary-in-us/)
 
 - [有用的拍拍夹 - 白板报](https://wangpei.net/2021/12/20/muji-clipboard-with-storage/)
 
@@ -40,8 +42,6 @@
 - [Vol. 56 公开处刑！2021年度回顾！ - 枫言枫语](https://justinyan.me/post/4783)
 
 - [一个关于产品需求的幸存者偏差 - oldj's blog](https://oldj.net/article/2021/12/12/a-survivorship-bias-about-product/)
-
-- [看脚下 - 尺宅杂记](http://www.qtwm.com/?p=5951)
 
 
 
