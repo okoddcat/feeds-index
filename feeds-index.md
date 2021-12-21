@@ -1,7 +1,9 @@
-*更新时间：12-21 03:50*
+*更新时间：12-21 08:50*
 
 
 
+
+- [枫影夜读 #23 丹尼尔·列托-《追究幸福》 - 枫言枫语](https://justinyan.me/post/4802)
 
 - [来美国几个月的总结 - 狡猫三窝](https://slykiten.com/life-note/summary-in-us/)
 
@@ -40,8 +42,6 @@
 - [跨界一小步 - 尺宅杂记](http://www.qtwm.com/?p=5957)
 
 - [Vol. 56 公开处刑！2021年度回顾！ - 枫言枫语](https://justinyan.me/post/4783)
-
-- [一个关于产品需求的幸存者偏差 - oldj's blog](https://oldj.net/article/2021/12/12/a-survivorship-bias-about-product/)
 
 
 
