@@ -1,7 +1,9 @@
-*更新时间：12-21 14:50*
+*更新时间：12-21 16:05*
 
 
 
+
+- [我做系统架构的一些原则 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21672.html)
 
 - [冬至の人狗情未了 - 尺宅杂记](http://www.qtwm.com/?p=5976)
 
@@ -40,8 +42,6 @@
 - [我的个人 OKR 实践 05 - 枫言枫语](https://justinyan.me/post/4790)
 
 - [苦难的终结和延续 - 破袜子](https://pewae.com/2021/12/e88ba6-e99abe-e79a84-e7bb88-e7bb93-e5928c-e5bbb6-e7bbad.html)
-
-- [跨界一小步 - 尺宅杂记](http://www.qtwm.com/?p=5957)
 
 
 
