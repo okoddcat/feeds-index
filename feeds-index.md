@@ -1,7 +1,9 @@
-*更新时间：12-21 20:50*
+*更新时间：12-22 03:50*
 
 
 
+
+- [我买的最值的一件电子产品 - 白板报](https://wangpei.net/2021/12/22/the-most-valuable-electronic-device-i-bought/)
 
 - [情怀不是你想卖，想卖我就买 - 破袜子](https://pewae.com/2021/12/e68385-e68080-e4b88d-e698af-e4bda0-e683b3-e58d96-efbc8c-e683b3-e58d96-e68891-e5b0b1-e4b9b0.html)
 
@@ -40,8 +42,6 @@
 - [买了一个ipad - 狡猫三窝](https://slykiten.com/life-note/ipadpro2021/)
 
 - [用什么写作，才能不分心 - 白板报](https://wangpei.net/2021/12/15/on-anti-distraction-writing-devices/)
-
-- [我的个人 OKR 实践 05 - 枫言枫语](https://justinyan.me/post/4790)
 
 
 
