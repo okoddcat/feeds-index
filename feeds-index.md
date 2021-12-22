@@ -1,7 +1,9 @@
-*更新时间：12-22 03:50*
+*更新时间：12-22 17:50*
 
 
 
+
+- [来个有趣的Terminal motd吧 - 枫言枫语](https://justinyan.me/post/4812)
 
 - [我买的最值的一件电子产品 - 白板报](https://wangpei.net/2021/12/22/the-most-valuable-electronic-device-i-bought/)
 
@@ -40,8 +42,6 @@
 - [异星工厂的机械臂模块 - 云风的 BLOG](https://blog.codingnow.com/2021/12/factorio_inserter.html)
 
 - [买了一个ipad - 狡猫三窝](https://slykiten.com/life-note/ipadpro2021/)
-
-- [用什么写作，才能不分心 - 白板报](https://wangpei.net/2021/12/15/on-anti-distraction-writing-devices/)
 
 
 
