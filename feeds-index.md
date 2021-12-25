@@ -1,7 +1,9 @@
-*更新时间：12-25 09:50*
+*更新时间：12-25 22:50*
 
 
 
+
+- [BOOX Max Lumi 2和Note 5 - 非礼勿言](https://feiliwuyan.com/boox-max-lumi-2%e5%92%8cnote-5/)
 
 - [我的外婆 - 狡猫三窝](https://slykiten.com/life-note/grandma/)
 
@@ -40,8 +42,6 @@
 - [笔名、签名钤印本和也闲的《书店小记》 - 尺宅杂记](http://www.qtwm.com/?p=5971)
 
 - [周末探究写作：我爱我师，但我更爱真理 - 尺宅杂记](http://www.qtwm.com/?p=5967)
-
-- [烧烤记 - 伪医生律师的博客](https://chidd.net/2021/12/17/shao-kao-ji.html)
 
 
 
