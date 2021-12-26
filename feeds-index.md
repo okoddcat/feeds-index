@@ -1,7 +1,9 @@
-*更新时间：12-26 23:05*
+*更新时间：12-27 07:50*
 
 
 
+
+- [Vol. 58 科技快乐星球08: 未来农场已来 - 枫言枫语](https://justinyan.me/post/4820)
 
 - [这个冬天的第一场雪 - 尺宅杂记](http://www.qtwm.com/?p=5985)
 
@@ -40,8 +42,6 @@
 - [有用的拍拍夹 - 白板报](https://wangpei.net/2021/12/20/muji-clipboard-with-storage/)
 
 - [在线PDF 文档翻译 - 攻城狮笔记](https://qumac.com/?p=2117)
-
-- [Vol. 57 在加拿大工作和生活是什么体验？ - 枫言枫语](https://justinyan.me/post/4804)
 
 
 
