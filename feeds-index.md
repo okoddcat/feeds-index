@@ -1,7 +1,9 @@
-*更新时间：12-26 22:50*
+*更新时间：12-26 23:05*
 
 
 
+
+- [这个冬天的第一场雪 - 尺宅杂记](http://www.qtwm.com/?p=5985)
 
 - [轻键盘推荐 - 非礼勿言](https://feiliwuyan.com/light-keyboard-recommendation/)
 
@@ -40,8 +42,6 @@
 - [在线PDF 文档翻译 - 攻城狮笔记](https://qumac.com/?p=2117)
 
 - [Vol. 57 在加拿大工作和生活是什么体验？ - 枫言枫语](https://justinyan.me/post/4804)
-
-- [带阅读灯的读书支架 - 白板报](https://wangpei.net/2021/12/19/reading-stand-with-led-light/)
 
 
 
