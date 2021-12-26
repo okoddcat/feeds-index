@@ -1,7 +1,9 @@
-*更新时间：12-26 17:05*
+*更新时间：12-26 22:50*
 
 
 
+
+- [轻键盘推荐 - 非礼勿言](https://feiliwuyan.com/light-keyboard-recommendation/)
 
 - [BOOX Max Lumi 2和Note 5 - 非礼勿言](https://feiliwuyan.com/boox-max-lumi-2%e5%92%8cnote-5/)
 
@@ -40,8 +42,6 @@
 - [Vol. 57 在加拿大工作和生活是什么体验？ - 枫言枫语](https://justinyan.me/post/4804)
 
 - [带阅读灯的读书支架 - 白板报](https://wangpei.net/2021/12/19/reading-stand-with-led-light/)
-
-- [卡片钟 - 白板报](https://wangpei.net/2021/12/19/card-clock/)
 
 
 
