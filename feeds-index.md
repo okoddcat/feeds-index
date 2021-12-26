@@ -1,4 +1,4 @@
-*更新时间：12-25 23:50*
+*更新时间：12-26 17:05*
 
 
 
@@ -6,6 +6,8 @@
 - [BOOX Max Lumi 2和Note 5 - 非礼勿言](https://feiliwuyan.com/boox-max-lumi-2%e5%92%8cnote-5/)
 
 - [BOOX Max Lumi 2和Note 5 - 非礼勿言](https://feiliwuyan.com/boox-max-lumi2-and-note5/)
+
+- [女儿的阅读量和道高一丈的太座 - 尺宅杂记](http://www.qtwm.com/?p=5979)
 
 - [我的外婆 - 狡猫三窝](https://slykiten.com/life-note/grandma/)
 
@@ -40,8 +42,6 @@
 - [带阅读灯的读书支架 - 白板报](https://wangpei.net/2021/12/19/reading-stand-with-led-light/)
 
 - [卡片钟 - 白板报](https://wangpei.net/2021/12/19/card-clock/)
-
-- [笔名、签名钤印本和也闲的《书店小记》 - 尺宅杂记](http://www.qtwm.com/?p=5971)
 
 
 
