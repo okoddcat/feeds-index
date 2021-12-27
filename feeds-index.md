@@ -1,7 +1,9 @@
-*更新时间：12-27 07:50*
+*更新时间：12-27 22:05*
 
 
 
+
+- [翻书二种 - 尺宅杂记](http://www.qtwm.com/?p=5989)
 
 - [Vol. 58 科技快乐星球08: 未来农场已来 - 枫言枫语](https://justinyan.me/post/4820)
 
@@ -40,8 +42,6 @@
 - [来美国几个月的总结 - 狡猫三窝](https://slykiten.com/life-note/summary-in-us/)
 
 - [有用的拍拍夹 - 白板报](https://wangpei.net/2021/12/20/muji-clipboard-with-storage/)
-
-- [在线PDF 文档翻译 - 攻城狮笔记](https://qumac.com/?p=2117)
 
 
 
