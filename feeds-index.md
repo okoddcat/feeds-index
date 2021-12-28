@@ -1,7 +1,9 @@
-*更新时间：12-27 22:05*
+*更新时间：12-28 22:50*
 
 
 
+
+- [每夫吐槽（069） - 破袜子](https://pewae.com/2021/12/random_kuso_69.html)
 
 - [翻书二种 - 尺宅杂记](http://www.qtwm.com/?p=5989)
 
@@ -40,8 +42,6 @@
 - [枫影夜读 #23 丹尼尔·列托-《追究幸福》 - 枫言枫语](https://justinyan.me/post/4802)
 
 - [来美国几个月的总结 - 狡猫三窝](https://slykiten.com/life-note/summary-in-us/)
-
-- [有用的拍拍夹 - 白板报](https://wangpei.net/2021/12/20/muji-clipboard-with-storage/)
 
 
 
