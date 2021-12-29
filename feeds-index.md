@@ -1,7 +1,9 @@
-*更新时间：12-28 22:50*
+*更新时间：12-29 16:50*
 
 
 
+
+- [枫影夜读 #24 - 2021 我的读书 - 枫言枫语](https://justinyan.me/post/4824)
 
 - [每夫吐槽（069） - 破袜子](https://pewae.com/2021/12/random_kuso_69.html)
 
@@ -40,8 +42,6 @@
 - [冬至の人狗情未了 - 尺宅杂记](http://www.qtwm.com/?p=5976)
 
 - [枫影夜读 #23 丹尼尔·列托-《追究幸福》 - 枫言枫语](https://justinyan.me/post/4802)
-
-- [来美国几个月的总结 - 狡猫三窝](https://slykiten.com/life-note/summary-in-us/)
 
 
 
