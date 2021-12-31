@@ -1,9 +1,13 @@
-*更新时间：12-31 12:50*
+*更新时间：12-31 13:50*
 
 
 
 
 - [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2022-01-01.html)
+
+- [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)
+
+- [words of 2021 - 孤岛客](https://www.huangjiwei.com/blog/?p=11456)
 
 - [2021读书记录 - 破袜子](https://pewae.com/2021/12/2021-reading-record.html)
 
@@ -38,10 +42,6 @@
 - [来个有趣的Terminal motd吧 - 枫言枫语](https://justinyan.me/post/4812)
 
 - [我买的最值的一件电子产品 - 白板报](https://wangpei.net/2021/12/22/the-most-valuable-electronic-device-i-bought/)
-
-- [情怀不是你想卖，想卖我就买 - 破袜子](https://pewae.com/2021/12/e68385-e68080-e4b88d-e698af-e4bda0-e683b3-e58d96-efbc8c-e683b3-e58d96-e68891-e5b0b1-e4b9b0.html)
-
-- [我做系统架构的一些原则 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21672.html)
 
 
 
