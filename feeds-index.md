@@ -1,7 +1,11 @@
-*更新时间：12-29 16:50*
+*更新时间：12-31 12:50*
 
 
 
+
+- [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2022-01-01.html)
+
+- [2021读书记录 - 破袜子](https://pewae.com/2021/12/2021-reading-record.html)
 
 - [枫影夜读 #24 - 2021 我的读书 - 枫言枫语](https://justinyan.me/post/4824)
 
@@ -38,10 +42,6 @@
 - [情怀不是你想卖，想卖我就买 - 破袜子](https://pewae.com/2021/12/e68385-e68080-e4b88d-e698af-e4bda0-e683b3-e58d96-efbc8c-e683b3-e58d96-e68891-e5b0b1-e4b9b0.html)
 
 - [我做系统架构的一些原则 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21672.html)
-
-- [冬至の人狗情未了 - 尺宅杂记](http://www.qtwm.com/?p=5976)
-
-- [枫影夜读 #23 丹尼尔·列托-《追究幸福》 - 枫言枫语](https://justinyan.me/post/4802)
 
 
 
