@@ -1,9 +1,11 @@
-*更新时间：12-31 21:50*
+*更新时间：01-01 21:50*
 
 
 
 
 - [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2022-01-01.html)
+
+- [神奇的One Pager - 白板报](https://wangpei.net/2022/01/01/the-fantastic-one-pager/)
 
 - [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)
 
@@ -40,8 +42,6 @@
 - [重庆小记 - 土木坛子](https://tumutanzi.com/archives/16867)
 
 - [荷兰之夏忆4 / 海牙 - 非礼勿言](https://feiliwuyan.com/summer-of-holland-den-haag/)
-
-- [来个有趣的Terminal motd吧 - 枫言枫语](https://justinyan.me/post/4812)
 
 
 
