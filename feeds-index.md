@@ -1,7 +1,9 @@
-*更新时间：01-02 16:50*
+*更新时间：01-03 01:50*
 
 
 
+
+- [如何写一封陈情信 - 白板报](https://wangpei.net/2022/01/02/%e5%a6%82%e4%bd%95%e5%86%99%e4%b8%80%e5%b0%81%e9%99%88%e6%83%85%e4%bf%a1/)
 
 - [网络数字身份认证术 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21708.html)
 
@@ -40,8 +42,6 @@
 - [我的外婆 - 狡猫三窝](https://slykiten.com/life-note/grandma/)
 
 - [难产的 Lua 5.4.4 - 云风的 BLOG](https://blog.codingnow.com/2021/12/lua_544.html)
-
-- [也平凡 - 非礼勿言](https://feiliwuyan.com/tv-series-the-mask/)
 
 
 
