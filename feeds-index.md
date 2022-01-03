@@ -1,7 +1,9 @@
-*更新时间：01-04 00:50*
+*更新时间：01-04 07:50*
 
 
 
+
+- [Vol. 59 在日本东京做程序员是一种什么样的体验？ - 枫言枫语](https://justinyan.me/post/4842)
 
 - [最好用的Markdown - 白板报](https://wangpei.net/2022/01/04/%e6%9c%80%e5%a5%bd%e7%94%a8%e7%9a%84markdown/)
 
@@ -40,8 +42,6 @@
 - [BOOX Max Lumi 2和Note 5 - 非礼勿言](https://feiliwuyan.com/boox-max-lumi-2%e5%92%8cnote-5/)
 
 - [BOOX Max Lumi 2和Note 5 - 非礼勿言](https://feiliwuyan.com/boox-max-lumi2-and-note5/)
-
-- [女儿的阅读量和道高一丈的太座 - 尺宅杂记](http://www.qtwm.com/?p=5979)
 
 
 
