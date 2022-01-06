@@ -1,7 +1,9 @@
-*更新时间：01-04 07:50*
+*更新时间：01-06 22:50*
 
 
 
+
+- [入手京东京造C2机械键盘 - 土木坛子](https://tumutanzi.com/archives/16871)
 
 - [Vol. 59 在日本东京做程序员是一种什么样的体验？ - 枫言枫语](https://justinyan.me/post/4842)
 
@@ -40,8 +42,6 @@
 - [轻键盘推荐 - 非礼勿言](https://feiliwuyan.com/light-keyboard-recommendation/)
 
 - [BOOX Max Lumi 2和Note 5 - 非礼勿言](https://feiliwuyan.com/boox-max-lumi-2%e5%92%8cnote-5/)
-
-- [BOOX Max Lumi 2和Note 5 - 非礼勿言](https://feiliwuyan.com/boox-max-lumi2-and-note5/)
 
 
 
