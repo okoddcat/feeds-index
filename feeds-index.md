@@ -1,7 +1,9 @@
-*更新时间：01-06 22:50*
+*更新时间：01-07 12:50*
 
 
 
+
+- [向WordPress的后台文章列表中添加按标签过滤功能 - 破袜子](https://pewae.com/2022/01/add-a-dropdown-list-control-of-post_tags-for-wordpress-posts-list.html)
 
 - [入手京东京造C2机械键盘 - 土木坛子](https://tumutanzi.com/archives/16871)
 
@@ -40,8 +42,6 @@
 - [这个冬天的第一场雪 - 尺宅杂记](http://www.qtwm.com/?p=5985)
 
 - [轻键盘推荐 - 非礼勿言](https://feiliwuyan.com/light-keyboard-recommendation/)
-
-- [BOOX Max Lumi 2和Note 5 - 非礼勿言](https://feiliwuyan.com/boox-max-lumi-2%e5%92%8cnote-5/)
 
 
 
