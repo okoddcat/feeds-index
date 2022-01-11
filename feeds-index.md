@@ -1,4 +1,4 @@
-*更新时间：01-11 23:05*
+*更新时间：01-12 03:50*
 
 
 
@@ -27,6 +27,8 @@
 
 - [如何写一封陈情信 - 白板报](https://wangpei.net/2022/01/02/%e5%a6%82%e4%bd%95%e5%86%99%e4%b8%80%e5%b0%81%e9%99%88%e6%83%85%e4%bf%a1/)
 
+- [如何写一封陈情信 - 白板报](https://wangpei.net/2022/01/02/how-to-write-a-plea-letter/)
+
 - [网络数字身份认证术 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21708.html)
 
 - [【岁朝清供】回顾二〇二一 - 尺宅杂记](http://www.qtwm.com/?p=5993)
@@ -35,13 +37,11 @@
 
 - [神奇的One Pager - 白板报](https://wangpei.net/2022/01/01/the-fantastic-one-pager/)
 
+- [神奇的One Pager - 白板报](https://wangpei.net/2022/01/01/fantastic-one-pager/)
+
 - [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2021-12-31.html)
 
 - [致2021的我们 - 非礼勿言](https://feiliwuyan.com/to-our-2021/)
-
-- [words of 2021 - 孤岛客](https://www.huangjiwei.com/blog/?p=11456)
-
-- [2021读书记录 - 破袜子](https://pewae.com/2021/12/2021-reading-record.html)
 
 
 
