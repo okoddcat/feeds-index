@@ -1,7 +1,9 @@
-*更新时间：01-13 06:50*
+*更新时间：01-14 15:50*
 
 
 
+
+- [【期末】给学生的信 - 尺宅杂记](http://www.qtwm.com/?p=6011)
 
 - [ - 狡猫三窝](https://slykiten.com/research/6401/)
 
@@ -40,8 +42,6 @@
 - [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2022-01-01.html)
 
 - [神奇的One Pager - 白板报](https://wangpei.net/2022/01/01/the-fantastic-one-pager/)
-
-- [神奇的One Pager - 白板报](https://wangpei.net/2022/01/01/fantastic-one-pager/)
 
 
 
