@@ -1,7 +1,9 @@
-*更新时间：01-14 15:50*
+*更新时间：01-17 07:50*
 
 
 
+
+- [Vol. 60 35岁不工作了，中场休息时他是怎么想的？ - 枫言枫语](https://justinyan.me/post/4848)
 
 - [【期末】给学生的信 - 尺宅杂记](http://www.qtwm.com/?p=6011)
 
@@ -40,8 +42,6 @@
 - [【岁朝清供】回顾二〇二一 - 尺宅杂记](http://www.qtwm.com/?p=5993)
 
 - [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2022-01-01.html)
-
-- [神奇的One Pager - 白板报](https://wangpei.net/2022/01/01/the-fantastic-one-pager/)
 
 
 
