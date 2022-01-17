@@ -1,7 +1,9 @@
-*更新时间：01-17 07:50*
+*更新时间：01-18 00:50*
 
 
 
+
+- [文字能救人，但救的是别人 - 白板报](https://wangpei.net/2022/01/18/words-save-mad-men/)
 
 - [Vol. 60 35岁不工作了，中场休息时他是怎么想的？ - 枫言枫语](https://justinyan.me/post/4848)
 
@@ -40,8 +42,6 @@
 - [网络数字身份认证术 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21708.html)
 
 - [【岁朝清供】回顾二〇二一 - 尺宅杂记](http://www.qtwm.com/?p=5993)
-
-- [逝去的2021 - iTimothy](https://xiaozhou.net/2021-summary-2022-01-01.html)
 
 
 
