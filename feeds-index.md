@@ -1,7 +1,9 @@
-*更新时间：01-18 00:50*
+*更新时间：01-18 10:50*
 
 
 
+
+- [猫形宇宙漫游指南 - 最好金龟换酒](http://fz0512.com/archives/2222)
 
 - [文字能救人，但救的是别人 - 白板报](https://wangpei.net/2022/01/18/words-save-mad-men/)
 
@@ -40,8 +42,6 @@
 - [如何写一封陈情信 - 白板报](https://wangpei.net/2022/01/02/how-to-write-a-plea-letter/)
 
 - [网络数字身份认证术 - 酷 壳 – CoolShell](https://coolshell.cn/articles/21708.html)
-
-- [【岁朝清供】回顾二〇二一 - 尺宅杂记](http://www.qtwm.com/?p=5993)
 
 
 
