@@ -1,7 +1,9 @@
-*更新时间：01-18 23:50*
+*更新时间：01-19 00:50*
 
 
 
+
+- [我是怎样从歌剧小白变成歌剧迷的 - 白板报](https://wangpei.net/2022/01/18/learn-opera-with-liu-juwei/)
 
 - [家长会之李代桃僵 - 破袜子](https://pewae.com/2022/01/eleventh-parents-and-teachers-committee.html)
 
@@ -40,8 +42,6 @@
 - [最好用的Markdown - 白板报](https://wangpei.net/2022/01/04/%e6%9c%80%e5%a5%bd%e7%94%a8%e7%9a%84markdown/)
 
 - [最好用的Markdown - 白板报](https://wangpei.net/2022/01/04/best-markdown-app/)
-
-- [袖手人 - 尺宅杂记](http://www.qtwm.com/?p=5997)
 
 
 
