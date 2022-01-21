@@ -1,4 +1,4 @@
-*更新时间：01-21 23:05*
+*更新时间：01-21 23:50*
 
 
 
@@ -6,6 +6,8 @@
 - [春夏秋冬又一年 - 尺宅杂记](http://www.qtwm.com/?p=6021)
 
 - [关于什么样的夫妻可以白头偕老 - 随望淡思](https://www.lushaojun.com/5037.html)
+
+- [NFT非同质化代币之我见 - 土木坛子](https://tumutanzi.com/archives/16876)
 
 - [传播又快毒性又大的病毒存在吗？ - 土木坛子](https://tumutanzi.com/archives/16875)
 
@@ -40,8 +42,6 @@
 - [华人首富赵长鹏应该更低调些 - 土木坛子](https://tumutanzi.com/archives/16872)
 
 - [iPhone 13 Pro - 非礼勿言](https://feiliwuyan.com/iphone-13-pro/)
-
-- [撸串、买书和请假 - 尺宅杂记](http://www.qtwm.com/?p=6005)
 
 
 
