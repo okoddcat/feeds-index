@@ -1,7 +1,9 @@
-*更新时间：01-26 22:50*
+*更新时间：01-28 01:50*
 
 
 
+
+- [转塘往事 - 白板报](https://wangpei.net/2022/01/28/zhuantang-murder-case/)
 
 - [找到舒适区并留在那里 - 尺宅杂记](http://www.qtwm.com/?p=6031)
 
@@ -40,8 +42,6 @@
 - [Vol. 60 35岁不工作了，中场休息时他是怎么想的？ - 枫言枫语](https://justinyan.me/post/4848)
 
 - [【期末】给学生的信 - 尺宅杂记](http://www.qtwm.com/?p=6011)
-
-- [ - 狡猫三窝](https://slykiten.com/research/6401/)
 
 
 
