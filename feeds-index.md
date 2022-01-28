@@ -1,4 +1,4 @@
-*更新时间：01-28 01:50*
+*更新时间：01-28 16:50*
 
 
 
@@ -41,7 +41,7 @@
 
 - [Vol. 60 35岁不工作了，中场休息时他是怎么想的？ - 枫言枫语](https://justinyan.me/post/4848)
 
-- [【期末】给学生的信 - 尺宅杂记](http://www.qtwm.com/?p=6011)
+- [如何对隐私数据说byebye——聊聊互联网账号的注销操作 - 树叶的BLOG](https://www.shuyz.com/posts/experience-with-deleting-online-accounts/)
 
 
 
