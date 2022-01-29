@@ -1,7 +1,11 @@
-*更新时间：01-28 16:50*
+*更新时间：01-29 14:50*
 
 
 
+
+- [Vol. 61 2021 看过哪些有意思的文化作品（录音事故特别版） - 枫言枫语](https://justinyan.me/post/4853)
+
+- [支持惰性展开和差异更新的 Lua 表 - 云风的 BLOG](https://blog.codingnow.com/2022/01/lua_datatree.html)
 
 - [转塘往事 - 白板报](https://wangpei.net/2022/01/28/zhuantang-murder-case/)
 
@@ -38,10 +42,6 @@
 - [猫形宇宙漫游指南 - 最好金龟换酒](http://fz0512.com/archives/2222)
 
 - [文字能救人，但救的是别人 - 白板报](https://wangpei.net/2022/01/18/words-save-mad-men/)
-
-- [Vol. 60 35岁不工作了，中场休息时他是怎么想的？ - 枫言枫语](https://justinyan.me/post/4848)
-
-- [如何对隐私数据说byebye——聊聊互联网账号的注销操作 - 树叶的BLOG](https://www.shuyz.com/posts/experience-with-deleting-online-accounts/)
 
 
 
