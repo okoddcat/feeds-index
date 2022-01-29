@@ -1,7 +1,9 @@
-*更新时间：01-29 14:50*
+*更新时间：01-29 16:50*
 
 
 
+
+- [被火绒锁在门外 - 攻城狮笔记](https://qumac.com/?p=2135)
 
 - [Vol. 61 2021 看过哪些有意思的文化作品（录音事故特别版） - 枫言枫语](https://justinyan.me/post/4853)
 
@@ -40,8 +42,6 @@
 - [我们需要一个怎样的动画模块 - 云风的 BLOG](https://blog.codingnow.com/2022/01/animation.html)
 
 - [猫形宇宙漫游指南 - 最好金龟换酒](http://fz0512.com/archives/2222)
-
-- [文字能救人，但救的是别人 - 白板报](https://wangpei.net/2022/01/18/words-save-mad-men/)
 
 
 
