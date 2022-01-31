@@ -1,7 +1,9 @@
-*更新时间：01-29 16:50*
+*更新时间：01-31 10:50*
 
 
 
+
+- [辛丑观影记录 - 破袜子](https://pewae.com/2022/01/records-of-movies-2021.html)
 
 - [被火绒锁在门外 - 攻城狮笔记](https://qumac.com/?p=2135)
 
@@ -40,8 +42,6 @@
 - [最便宜又最昂贵的 - 尺宅杂记](http://www.qtwm.com/?p=6017)
 
 - [我们需要一个怎样的动画模块 - 云风的 BLOG](https://blog.codingnow.com/2022/01/animation.html)
-
-- [猫形宇宙漫游指南 - 最好金龟换酒](http://fz0512.com/archives/2222)
 
 
 
