@@ -1,7 +1,9 @@
-*更新时间：02-05 23:50*
+*更新时间：02-06 22:50*
 
 
 
+
+- [连续工作了七天 - 尺宅杂记](http://www.qtwm.com/?p=6055)
 
 - [活在当下，虎年快乐 - 土木坛子](https://tumutanzi.com/archives/16877)
 
@@ -40,8 +42,6 @@
 - [故乡的虫 - 白板报](https://wangpei.net/2022/01/19/insects-of-my-hometown/)
 
 - [又是一年春来到，新冠疫情何时了？ - 土木坛子](https://tumutanzi.com/archives/16874)
-
-- [我走过的2021 - 林海草原](https://lhcy.org/archives/176.html)
 
 
 
