@@ -1,7 +1,9 @@
-*更新时间：02-08 23:50*
+*更新时间：02-09 17:05*
 
 
 
+
+- [近期吐槽二三事 - 伪医生律师的博客](https://chidd.net/2022/02/09/tu-cao.html)
 
 - [枕边书又渐成堆 - 尺宅杂记](http://www.qtwm.com/?p=6074)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（070） - 破袜子](https://pewae.com/2022/01/random_kuso_70.html)
 
 - [忘记唱歌的金丝雀 - 渚碧](https://jubeny.com/2022/01/canary-forgetting-songs/)
-
-- [2021总结 - 非礼勿言](https://feiliwuyan.com/2021-summary/)
 
 
 
