@@ -1,7 +1,9 @@
-*更新时间：02-10 17:50*
+*更新时间：02-12 16:05*
 
 
 
+
+- [谈谈公司对员工的监控 - 酷 壳 – CoolShell](https://coolshell.cn/articles/22157.html)
 
 - [新的一年 - 雨落泪尽](https://couqiao.net/archives/happynewyear2022.html)
 
@@ -40,8 +42,6 @@
 - [支持惰性展开和差异更新的 Lua 表 - 云风的 BLOG](https://blog.codingnow.com/2022/01/lua_datatree.html)
 
 - [转塘往事 - 白板报](https://wangpei.net/2022/01/28/zhuantang-murder-case/)
-
-- [找到舒适区并留在那里 - 尺宅杂记](http://www.qtwm.com/?p=6031)
 
 
 
