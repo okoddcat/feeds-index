@@ -1,7 +1,9 @@
-*更新时间：02-14 13:50*
+*更新时间：02-14 17:05*
 
 
 
+
+- [冬奥会、谷爱凌与共产党 - 渚碧](https://jubeny.com/2022/02/winter-olympic-eileen-gu-and-ccp/)
 
 - [Factorio 的乐趣 - 云风的 BLOG](https://blog.codingnow.com/2022/02/factorio.html)
 
@@ -40,8 +42,6 @@
 - [初定 - 尺宅杂记](http://www.qtwm.com/?p=6051)
 
 - [除夕的《边城》 - 尺宅杂记](http://www.qtwm.com/?p=6045)
-
-- [可惜了这份闲雅 - 尺宅杂记](http://www.qtwm.com/?p=6035)
 
 
 
