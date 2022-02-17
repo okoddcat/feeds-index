@@ -1,7 +1,9 @@
-*更新时间：02-17 02:05*
+*更新时间：02-17 22:50*
 
 
 
+
+- [每夫吐槽（071） - 破袜子](https://pewae.com/2022/02/random_kuso_71.html)
 
 - [红楼梦评点哪家强 - 白板报](https://wangpei.net/2022/02/17/commengtaries-on-hongloumeng/)
 
@@ -40,8 +42,6 @@
 - [关于中文课：W同学的回信 - 尺宅杂记](http://www.qtwm.com/?p=6070)
 
 - [小学阅读写作课的准备工作 - 尺宅杂记](http://www.qtwm.com/?p=6064)
-
-- [【何事惊慌】二十：生活没有遗憾 - 尺宅杂记](http://www.qtwm.com/?p=6058)
 
 
 
