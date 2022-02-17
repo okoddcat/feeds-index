@@ -1,7 +1,9 @@
-*更新时间：02-17 22:50*
+*更新时间：02-18 03:05*
 
 
 
+
+- [十个理由读红楼梦 - 白板报](https://wangpei.net/2022/02/18/10-reasons-to-read-hongloumeng/)
 
 - [每夫吐槽（071） - 破袜子](https://pewae.com/2022/02/random_kuso_71.html)
 
@@ -40,8 +42,6 @@
 - [枕边书又渐成堆 - 尺宅杂记](http://www.qtwm.com/?p=6074)
 
 - [关于中文课：W同学的回信 - 尺宅杂记](http://www.qtwm.com/?p=6070)
-
-- [小学阅读写作课的准备工作 - 尺宅杂记](http://www.qtwm.com/?p=6064)
 
 
 
