@@ -1,7 +1,9 @@
-*更新时间：02-19 18:50*
+*更新时间：02-20 00:50*
 
 
 
+
+- [为什么《教父》的导演科波拉也在读《红楼梦》 - 白板报](https://wangpei.net/2022/02/20/why-coppola-read-hongloumeng/)
 
 - [老家的大米铬元素超标 - 土木坛子](https://tumutanzi.com/archives/16886)
 
@@ -40,8 +42,6 @@
 - [拥抱广州六片山“绿眼睛” - 随望淡思](https://www.lushaojun.com/5044.html)
 
 - [谈谈公司对员工的监控 - 酷 壳 – CoolShell](https://coolshell.cn/articles/22157.html)
-
-- [门 - 土木坛子](https://tumutanzi.com/archives/16883)
 
 
 
