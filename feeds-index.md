@@ -1,7 +1,9 @@
-*更新时间：02-18 17:50*
+*更新时间：02-19 18:50*
 
 
 
+
+- [老家的大米铬元素超标 - 土木坛子](https://tumutanzi.com/archives/16886)
 
 - [《斑马》之旅 - 最好金龟换酒](http://fz0512.com/archives/2231)
 
@@ -40,8 +42,6 @@
 - [谈谈公司对员工的监控 - 酷 壳 – CoolShell](https://coolshell.cn/articles/22157.html)
 
 - [门 - 土木坛子](https://tumutanzi.com/archives/16883)
-
-- [新的一年 - 雨落泪尽](https://couqiao.net/archives/happynewyear2022.html)
 
 
 
