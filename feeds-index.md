@@ -1,7 +1,9 @@
-*更新时间：02-23 13:50*
+*更新时间：02-24 05:05*
 
 
 
+
+- [红楼梦与后真相时代 - 白板报](https://wangpei.net/2022/02/24/post-truth-in-hongloumeng/)
 
 - [信息茧房 - 云风的 BLOG](https://blog.codingnow.com/2022/02/information_cocoons.html)
 
@@ -40,8 +42,6 @@
 - [冬奥会、谷爱凌与共产党 - 渚碧](https://jubeny.com/2022/02/winter-olympic-eileen-gu-and-ccp/)
 
 - [Factorio 的乐趣 - 云风的 BLOG](https://blog.codingnow.com/2022/02/factorio.html)
-
-- [Vol. 62 在大连工作生活是什么体验 - 枫言枫语](https://justinyan.me/post/4863)
 
 
 
