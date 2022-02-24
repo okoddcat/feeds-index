@@ -1,4 +1,4 @@
-*更新时间：02-24 11:50*
+*更新时间：02-24 12:50*
 
 
 
@@ -12,6 +12,8 @@
 - [大俗大雅红楼梦 - 白板报](https://wangpei.net/2022/02/23/small-figures-in-hongloumeng/)
 
 - [推荐一个英文写作修改出native speaker文风的网站 - 土木坛子](https://tumutanzi.com/archives/16887)
+
+- [Vol. 63 黑胶俱乐部02 & Re:Play Newsletter 首发 - 枫言枫语](https://justinyan.me/post/4860)
 
 - [一场事先张扬的花滑闹剧 - 渚碧](https://jubeny.com/2022/02/a-farce-foretold-of-figure-skating/)
 
@@ -40,8 +42,6 @@
 - [国师不过如此 - 白板报](https://wangpei.net/2022/02/15/zhangyimou-and-olympic-games/)
 
 - [成长的快乐 - 攻城狮笔记](https://qumac.com/?p=2144)
-
-- [冬奥会、谷爱凌与共产党 - 渚碧](https://jubeny.com/2022/02/winter-olympic-eileen-gu-and-ccp/)
 
 
 
