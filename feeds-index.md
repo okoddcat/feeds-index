@@ -1,7 +1,9 @@
-*更新时间：02-25 17:50*
+*更新时间：02-26 22:50*
 
 
 
+
+- [无法用语言描述的数字 - oldj's blog](https://oldj.net/article/2022/02/26/numbers-that-cannot-be-described/)
 
 - [最近升级了家里的网络 - 伪医生律师的博客](https://chidd.net/2022/02/25/network.html)
 
@@ -40,8 +42,6 @@
 - [红楼梦评点哪家强 - 白板报](https://wangpei.net/2022/02/17/commengtaries-on-hongloumeng/)
 
 - [元宵节叹香菱 - 白板报](https://wangpei.net/2022/02/16/poor-xiangling/)
-
-- [永庆闹元宵_2022 - 随望淡思](https://www.lushaojun.com/5057.html)
 
 
 
