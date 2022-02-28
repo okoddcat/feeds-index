@@ -1,7 +1,9 @@
-*更新时间：02-26 22:50*
+*更新时间：02-28 17:05*
 
 
 
+
+- [世界和平与日常生活 - 伪医生律师的博客](https://chidd.net/2022/02/28/peace-life.html)
 
 - [无法用语言描述的数字 - oldj's blog](https://oldj.net/article/2022/02/26/numbers-that-cannot-be-described/)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（071） - 破袜子](https://pewae.com/2022/02/random_kuso_71.html)
 
 - [红楼梦评点哪家强 - 白板报](https://wangpei.net/2022/02/17/commengtaries-on-hongloumeng/)
-
-- [元宵节叹香菱 - 白板报](https://wangpei.net/2022/02/16/poor-xiangling/)
 
 
 
