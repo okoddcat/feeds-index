@@ -1,7 +1,9 @@
-*更新时间：03-03 17:50*
+*更新时间：03-05 00:05*
 
 
 
+
+- [使用CMFCDynamicLayoutLayout动态修改MFC画面上控件的大小和位置 - 破袜子](https://pewae.com/2022/03/how-to-change-size-and-relative-position-of-controller-by-cmfcdynamiclayout.html)
 
 - [Vol. 64 科技快乐星球09: 老头环虐我千百遍 - 枫言枫语](https://justinyan.me/post/4873)
 
@@ -40,8 +42,6 @@
 - [为什么《教父》的导演科波拉也在读《红楼梦》 - 白板报](https://wangpei.net/2022/02/20/why-coppola-read-hongloumeng/)
 
 - [老家的大米铬元素超标 - 土木坛子](https://tumutanzi.com/archives/16886)
-
-- [《斑马》之旅 - 最好金龟换酒](http://fz0512.com/archives/2231)
 
 
 
