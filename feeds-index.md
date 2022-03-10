@@ -1,7 +1,9 @@
-*更新时间：03-10 17:50*
+*更新时间：03-11 07:50*
 
 
 
+
+- [Vol. 65 苹果2022三月发布会：Very Ultra - 枫言枫语](https://justinyan.me/post/4880)
 
 - [几种笔记软件的使用感受 - 陈仓颉](https://imzm.im/note-taking-apps/)
 
@@ -40,8 +42,6 @@
 - [Vol. 63 黑胶俱乐部02 & Re:Play Newsletter 首发 - 枫言枫语](https://justinyan.me/post/4860)
 
 - [一场事先张扬的花滑闹剧 - 渚碧](https://jubeny.com/2022/02/a-farce-foretold-of-figure-skating/)
-
-- [买书不读是种病，治疗要靠红楼梦 - 白板报](https://wangpei.net/2022/02/21/cure-book-buying-addict/)
 
 
 
