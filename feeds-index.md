@@ -1,7 +1,9 @@
-*更新时间：03-08 01:05*
+*更新时间：03-10 17:50*
 
 
 
+
+- [几种笔记软件的使用感受 - 陈仓颉](https://imzm.im/note-taking-apps/)
 
 - [ - 狡猫三窝](https://slykiten.com/fragment/6444/)
 
@@ -40,8 +42,6 @@
 - [一场事先张扬的花滑闹剧 - 渚碧](https://jubeny.com/2022/02/a-farce-foretold-of-figure-skating/)
 
 - [买书不读是种病，治疗要靠红楼梦 - 白板报](https://wangpei.net/2022/02/21/cure-book-buying-addict/)
-
-- [为什么《教父》的导演科波拉也在读《红楼梦》 - 白板报](https://wangpei.net/2022/02/20/why-coppola-read-hongloumeng/)
 
 
 
