@@ -1,4 +1,4 @@
-*更新时间：03-11 07:50*
+*更新时间：03-11 20:30*
 
 
 
@@ -6,6 +6,8 @@
 - [Vol. 65 苹果2022三月发布会：Very Ultra - 枫言枫语](https://justinyan.me/post/4880)
 
 - [几种笔记软件的使用感受 - 陈仓颉](https://imzm.im/note-taking-apps/)
+
+- [沉默的大多数 - 土木坛子](https://tumutanzi.com/archives/16891)
 
 - [ - 狡猫三窝](https://slykiten.com/fragment/6444/)
 
@@ -40,8 +42,6 @@
 - [推荐一个英文写作修改出native speaker文风的网站 - 土木坛子](https://tumutanzi.com/archives/16887)
 
 - [Vol. 63 黑胶俱乐部02 & Re:Play Newsletter 首发 - 枫言枫语](https://justinyan.me/post/4860)
-
-- [一场事先张扬的花滑闹剧 - 渚碧](https://jubeny.com/2022/02/a-farce-foretold-of-figure-skating/)
 
 
 
