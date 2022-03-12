@@ -1,7 +1,9 @@
-*更新时间：03-11 20:30*
+*更新时间：03-13 00:50*
 
 
 
+
+- [Omicron凶猛 - 攻城狮笔记](https://qumac.com/?p=2169)
 
 - [Vol. 65 苹果2022三月发布会：Very Ultra - 枫言枫语](https://justinyan.me/post/4880)
 
@@ -40,8 +42,6 @@
 - [大俗大雅红楼梦 - 白板报](https://wangpei.net/2022/02/23/small-figures-in-hongloumeng/)
 
 - [推荐一个英文写作修改出native speaker文风的网站 - 土木坛子](https://tumutanzi.com/archives/16887)
-
-- [Vol. 63 黑胶俱乐部02 & Re:Play Newsletter 首发 - 枫言枫语](https://justinyan.me/post/4860)
 
 
 
