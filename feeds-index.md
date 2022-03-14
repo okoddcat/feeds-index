@@ -1,7 +1,11 @@
-*更新时间：03-14 14:05*
+*更新时间：03-15 05:50*
 
 
 
+
+- [接下来做点什么 - 狡猫三窝](https://slykiten.com/life-note/next-plan/)
+
+- [视频散文：好读红楼梦（更新到004） - 白板报](https://wangpei.net/2022/03/15/%e8%a7%86%e9%a2%91%e6%95%a3%e6%96%87%ef%bc%9a%e5%a5%bd%e8%af%bb%e7%ba%a2%e6%a5%bc%e6%a2%a6%ef%bc%88%e6%9b%b4%e6%96%b0%e5%88%b0004%ef%bc%89/)
 
 - [如何实现文本编码转换 - 枫言枫语](https://justinyan.me/post/4882)
 
@@ -38,10 +42,6 @@
 - [诗一首——徐州 - 渚碧](https://jubeny.com/2022/02/a-poem-xu-zhou/)
 
 - [红楼梦与后真相时代 - 白板报](https://wangpei.net/2022/02/24/post-truth-in-hongloumeng/)
-
-- [信息茧房 - 云风的 BLOG](https://blog.codingnow.com/2022/02/information_cocoons.html)
-
-- [大俗大雅红楼梦 - 白板报](https://wangpei.net/2022/02/23/small-figures-in-hongloumeng/)
 
 
 
