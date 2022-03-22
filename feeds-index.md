@@ -1,9 +1,11 @@
-*更新时间：03-22 13:50*
+*更新时间：03-22 15:50*
 
 
 
 
 - [枫影夜读 #25 John Doerr - Measure What Matters - 枫言枫语](https://justinyan.me/post/4886)
+
+- [纸笔情怀 - 渚碧](https://jubeny.com/2022/03/sense-of-papers-and-pens/)
 
 - [【书评】《一剑霜寒》by语笑阑珊 - 狡猫三窝](https://slykiten.com/novel-comments/bl-novel/%e3%80%90%e4%b9%a6%e8%af%84%e3%80%91%e3%80%8a%e4%b8%80%e5%89%91%e9%9c%9c%e5%af%92%e3%80%8bby%e8%af%ad%e7%ac%91%e9%98%91%e7%8f%8a/)
 
@@ -40,8 +42,6 @@
 - [使用CMFCDynamicLayoutLayout动态修改MFC画面上控件的大小和位置 - 破袜子](https://pewae.com/2022/03/how-to-change-size-and-relative-position-of-controller-by-cmfcdynamiclayout.html)
 
 - [Vol. 64 科技快乐星球09: 老头环虐我千百遍 - 枫言枫语](https://justinyan.me/post/4873)
-
-- [金色的驾照 - 非礼勿言](https://feiliwuyan.com/gold-drive-license/)
 
 
 
