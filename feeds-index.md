@@ -1,7 +1,9 @@
-*更新时间：03-23 22:50*
+*更新时间：03-24 23:05*
 
 
 
+
+- [每夫吐槽（072） - 破袜子](https://pewae.com/2022/03/random_kuso_72.html)
 
 - [Originlab XPS 分峰填色 - 狡猫三窝](https://slykiten.com/research/originlab-xps-fill-peak-color/)
 
@@ -40,8 +42,6 @@
 - [Omicron凶猛 - 攻城狮笔记](https://qumac.com/?p=2169)
 
 - [Vol. 65 苹果2022三月发布会：Very Ultra - 枫言枫语](https://justinyan.me/post/4880)
-
-- [几种笔记软件的使用感受 - 陈仓颉](https://imzm.im/note-taking-apps/)
 
 
 
