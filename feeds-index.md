@@ -1,7 +1,9 @@
-*更新时间：03-27 23:50*
+*更新时间：03-28 15:50*
 
 
 
+
+- [折腾了一个草缸 - 伪医生律师的博客](https://chidd.net/2022/03/28/cao-gang.html)
 
 - [《真实世界经济学》读后感 - 随望淡思](https://www.lushaojun.com/5074.html)
 
@@ -40,8 +42,6 @@
 - [国内的科研氛围（道听途说） - 狡猫三窝](https://slykiten.com/life-note/research-in-china/)
 
 - [好读红楼梦005：黛玉进贾府 张力初现 - 白板报](https://wangpei.net/2022/03/15/%e5%a5%bd%e8%af%bb%e7%ba%a2%e6%a5%bc%e6%a2%a6005%ef%bc%9a%e9%bb%9b%e7%8e%89%e8%bf%9b%e8%b4%be%e5%ba%9c-%e5%bc%a0%e5%8a%9b%e5%88%9d%e7%8e%b0/)
-
-- [接下来做点什么 - 狡猫三窝](https://slykiten.com/life-note/next-plan/)
 
 
 
