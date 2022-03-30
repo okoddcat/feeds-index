@@ -1,7 +1,9 @@
-*更新时间：03-29 20:05*
+*更新时间：03-30 16:50*
 
 
 
+
+- [Windows11时间无法同步-更换时间服务器 - 攻城狮笔记](https://qumac.com/?p=2190)
 
 - [全民大规模新冠检测方案的一些想法 - 云风的 BLOG](https://blog.codingnow.com/2022/03/covid19_testing.html)
 
@@ -40,8 +42,6 @@
 - [effekseer 的 shader 转译 - 云风的 BLOG](https://blog.codingnow.com/2022/03/effekseer_shader.html)
 
 - [越来越便宜的贷款利息 - 土木坛子](https://tumutanzi.com/archives/16892)
-
-- [国内的科研氛围（道听途说） - 狡猫三窝](https://slykiten.com/life-note/%e5%9b%bd%e5%86%85%e7%9a%84%e7%a7%91%e7%a0%94%e6%b0%9b%e5%9b%b4%ef%bc%88%e9%81%93%e5%90%ac%e9%80%94%e8%af%b4%ef%bc%89/)
 
 
 
