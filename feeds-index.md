@@ -1,7 +1,9 @@
-*更新时间：04-10 23:50*
+*更新时间：04-11 07:50*
 
 
 
+
+- [Vol. 66 风起云涌的 F1 实在太值得入坑啦! - 枫言枫语](https://justinyan.me/post/4891)
 
 - [李乐薇到底是谁？ - 攻城狮笔记](https://qumac.com/?p=2207)
 
@@ -40,8 +42,6 @@
 - [Windows11时间无法同步-更换时间服务器 - 攻城狮笔记](https://qumac.com/?p=2190)
 
 - [全民大规模新冠检测方案的一些想法 - 云风的 BLOG](https://blog.codingnow.com/2022/03/covid19_testing.html)
-
-- [请温柔些 - 渚碧](https://jubeny.com/2022/03/please-be-tender/)
 
 
 
