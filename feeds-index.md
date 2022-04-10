@@ -1,7 +1,9 @@
-*更新时间：04-10 22:55*
+*更新时间：04-10 23:50*
 
 
 
+
+- [李乐薇到底是谁？ - 攻城狮笔记](https://qumac.com/?p=2207)
 
 - [低期望 - 土木坛子](https://tumutanzi.com/archives/16895)
 
@@ -40,8 +42,6 @@
 - [全民大规模新冠检测方案的一些想法 - 云风的 BLOG](https://blog.codingnow.com/2022/03/covid19_testing.html)
 
 - [请温柔些 - 渚碧](https://jubeny.com/2022/03/please-be-tender/)
-
-- [折腾了一个草缸 - 伪医生律师的博客](https://chidd.net/2022/03/28/cao-gang.html)
 
 
 
