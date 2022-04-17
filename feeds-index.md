@@ -1,7 +1,9 @@
-*更新时间：04-15 23:05*
+*更新时间：04-17 09:50*
 
 
 
+
+- [K3s + Rancher 安装记录 - oldj's blog](https://oldj.net/article/2022/04/17/install-k3s-and-rancher/)
 
 - [怪力乱神事件簿(六)+梦四十 - 破袜子](https://pewae.com/2022/04/weird-stories-06-and-dream_40.html)
 
@@ -40,8 +42,6 @@
 - [怪力乱神事件簿(五) - 破袜子](https://pewae.com/2022/04/weird-stories-05.html)
 
 - [我用什么写日记 - 渚碧](https://jubeny.com/2022/04/what-do-i-use-to-write-diary/)
-
-- [ - 狡猫三窝](https://slykiten.com/fragment/6508/)
 
 
 
