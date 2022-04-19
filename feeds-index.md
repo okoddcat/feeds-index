@@ -1,7 +1,9 @@
-*更新时间：04-17 09:50*
+*更新时间：04-19 13:50*
 
 
 
+
+- [蒙皮数据的压缩 - 云风的 BLOG](https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html)
 
 - [K3s + Rancher 安装记录 - oldj's blog](https://oldj.net/article/2022/04/17/install-k3s-and-rancher/)
 
@@ -40,8 +42,6 @@
 - [2022清明正 - 随望淡思](https://www.lushaojun.com/5081.html)
 
 - [怪力乱神事件簿(五) - 破袜子](https://pewae.com/2022/04/weird-stories-05.html)
-
-- [我用什么写日记 - 渚碧](https://jubeny.com/2022/04/what-do-i-use-to-write-diary/)
 
 
 
