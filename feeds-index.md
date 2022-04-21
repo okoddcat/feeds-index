@@ -1,7 +1,9 @@
-*更新时间：04-21 22:45*
+*更新时间：04-21 23:50*
 
 
 
+
+- [奈良云霞 - 狡猫三窝](https://slykiten.com/life-note/nara-cloud/)
 
 - [真实的战争 - 攻城狮笔记](https://qumac.com/?p=2217)
 
@@ -40,8 +42,6 @@
 - [回到书写 - 白板报](https://wangpei.net/2022/04/07/%e5%9b%9e%e5%88%b0%e4%b9%a6%e5%86%99/)
 
 - [翻译马丁路德的感悟 - 白板报](https://wangpei.net/2022/04/07/%e7%bf%bb%e8%af%91%e9%a9%ac%e4%b8%81%e8%b7%af%e5%be%b7%e7%9a%84%e6%84%9f%e6%82%9f/)
-
-- [濒临死亡造就了我的表达 - 白板报](https://wangpei.net/2022/04/07/%e6%bf%92%e4%b8%b4%e6%ad%bb%e4%ba%a1%e9%80%a0%e5%b0%b1%e4%ba%86%e6%88%91%e7%9a%84%e8%a1%a8%e8%be%be/)
 
 
 
