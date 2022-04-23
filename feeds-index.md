@@ -1,7 +1,9 @@
-*更新时间：04-21 23:50*
+*更新时间：04-23 15:50*
 
 
 
+
+- [过感性的生活 - 渚碧](https://jubeny.com/2022/04/live-a-life-with-sensibility/)
 
 - [奈良云霞 - 狡猫三窝](https://slykiten.com/life-note/nara-cloud/)
 
@@ -40,8 +42,6 @@
 - [中圈友谊 - 白板报](https://wangpei.net/2022/04/07/%e4%b8%ad%e5%9c%88%e5%8f%8b%e8%b0%8a/)
 
 - [回到书写 - 白板报](https://wangpei.net/2022/04/07/%e5%9b%9e%e5%88%b0%e4%b9%a6%e5%86%99/)
-
-- [翻译马丁路德的感悟 - 白板报](https://wangpei.net/2022/04/07/%e7%bf%bb%e8%af%91%e9%a9%ac%e4%b8%81%e8%b7%af%e5%be%b7%e7%9a%84%e6%84%9f%e6%82%9f/)
 
 
 
