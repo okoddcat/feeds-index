@@ -1,7 +1,9 @@
-*更新时间：04-24 23:50*
+*更新时间：04-25 18:05*
 
 
 
+
+- [枫影夜读 #27 - 《贫穷的本质》 - 枫言枫语](https://justinyan.me/post/4901)
 
 - [回见了，大菠萝。 - 破袜子](https://pewae.com/2022/04/e59b9e-e8a781-e4ba86-efbc8c-e5a4a7-e88fa0-e8909d-e38082.html)
 
@@ -40,8 +42,6 @@
 - [低期望 - 土木坛子](https://tumutanzi.com/archives/16895)
 
 - [独一无二的耿鬼 - 狡猫三窝](https://slykiten.com/life-note/unique-gengar/)
-
-- [中圈友谊 - 白板报](https://wangpei.net/2022/04/07/%e4%b8%ad%e5%9c%88%e5%8f%8b%e8%b0%8a/)
 
 
 
