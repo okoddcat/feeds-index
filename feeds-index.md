@@ -1,7 +1,9 @@
-*更新时间：04-29 05:50*
+*更新时间：04-29 07:05*
 
 
 
+
+- [Omicron记录 - 攻城狮笔记](https://qumac.com/?p=2227)
 
 - [中药 - 狡猫三窝](https://slykiten.com/life-note/chinese-medicine/)
 
@@ -40,8 +42,6 @@
 - [Vol. 66 风起云涌的 F1 实在太值得入坑啦! - 枫言枫语](https://justinyan.me/post/4891)
 
 - [李乐薇到底是谁？ - 攻城狮笔记](https://qumac.com/?p=2207)
-
-- [低期望 - 土木坛子](https://tumutanzi.com/archives/16895)
 
 
 
