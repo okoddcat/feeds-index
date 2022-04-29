@@ -1,7 +1,9 @@
-*更新时间：04-29 07:05*
+*更新时间：04-29 16:50*
 
 
 
+
+- [Vol. 67 Livid: 十年V2EX，复古游戏，和未来 - 枫言枫语](https://justinyan.me/post/4904)
 
 - [Omicron记录 - 攻城狮笔记](https://qumac.com/?p=2227)
 
@@ -40,8 +42,6 @@
 - [何必做一个不受欢迎的人？ - 土木坛子](https://tumutanzi.com/archives/16896)
 
 - [Vol. 66 风起云涌的 F1 实在太值得入坑啦! - 枫言枫语](https://justinyan.me/post/4891)
-
-- [李乐薇到底是谁？ - 攻城狮笔记](https://qumac.com/?p=2207)
 
 
 
