@@ -1,7 +1,9 @@
-*更新时间：04-29 16:50*
+*更新时间：04-30 06:50*
 
 
 
+
+- [曲折的驾照 - 狡猫三窝](https://slykiten.com/life-note/driver-license/)
 
 - [Vol. 67 Livid: 十年V2EX，复古游戏，和未来 - 枫言枫语](https://justinyan.me/post/4904)
 
@@ -40,8 +42,6 @@
 - [Lua binding 中正确的 callback - 云风的 BLOG](https://blog.codingnow.com/2022/04/lua_binding_callback.html)
 
 - [何必做一个不受欢迎的人？ - 土木坛子](https://tumutanzi.com/archives/16896)
-
-- [Vol. 66 风起云涌的 F1 实在太值得入坑啦! - 枫言枫语](https://justinyan.me/post/4891)
 
 
 
