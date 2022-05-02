@@ -1,7 +1,9 @@
-*更新时间：05-02 07:15*
+*更新时间：05-02 22:50*
 
 
 
+
+- [凯文·凯利70岁生日写的103条人生忠告（中文翻译） - 枫言枫语](https://justinyan.me/post/4911)
 
 - [事业编制还要不要？也谈国内高校教师聘用制度改革 - 土木坛子](https://tumutanzi.com/archives/16900)
 
@@ -40,8 +42,6 @@
 - [怪力乱神事件簿(六)+梦四十 - 破袜子](https://pewae.com/2022/04/weird-stories-06-and-dream_40.html)
 
 - [继续折腾草缸 - 伪医生律师的博客](https://chidd.net/2022/04/15/cao-gang-again.html)
-
-- [从网球到所有运动 - 渚碧](https://jubeny.com/2022/04/from-tennis-to-all-other-sports/)
 
 
 
