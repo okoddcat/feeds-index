@@ -1,7 +1,9 @@
-*更新时间：05-03 21:05*
+*更新时间：05-04 08:50*
 
 
 
+
+- [第三方平台的“定期存款” - 林海草原](https://lhcy.org/archives/178.html)
 
 - [利用GitHub Actions实现版本自动构建与发布流程 - iTimothy](https://xiaozhou.net/auto-ci-cd-via-github-actions-2022-05-02.html)
 
@@ -40,8 +42,6 @@
 - [蒙皮数据的压缩 - 云风的 BLOG](https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html)
 
 - [K3s + Rancher 安装记录 - oldj's blog](https://oldj.net/article/2022/04/17/install-k3s-and-rancher/)
-
-- [怪力乱神事件簿(六)+梦四十 - 破袜子](https://pewae.com/2022/04/weird-stories-06-and-dream_40.html)
 
 
 
