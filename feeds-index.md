@@ -1,7 +1,9 @@
-*更新时间：05-04 08:50*
+*更新时间：05-04 23:50*
 
 
 
+
+- [婚戒 - 狡猫三窝](https://slykiten.com/life-note/rings/)
 
 - [第三方平台的“定期存款” - 林海草原](https://lhcy.org/archives/178.html)
 
@@ -40,8 +42,6 @@
 - [两本存折 - 林海草原](https://lhcy.org/archives/177.html)
 
 - [蒙皮数据的压缩 - 云风的 BLOG](https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html)
-
-- [K3s + Rancher 安装记录 - oldj's blog](https://oldj.net/article/2022/04/17/install-k3s-and-rancher/)
 
 
 
