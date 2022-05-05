@@ -1,7 +1,9 @@
-*更新时间：05-04 23:50*
+*更新时间：05-05 16:50*
 
 
 
+
+- [ETCD的内存问题 - 酷 壳 – CoolShell](https://coolshell.cn/articles/22242.html)
 
 - [婚戒 - 狡猫三窝](https://slykiten.com/life-note/rings/)
 
@@ -40,8 +42,6 @@
 - [ - 狡猫三窝](https://slykiten.com/fragment/6517/)
 
 - [两本存折 - 林海草原](https://lhcy.org/archives/177.html)
-
-- [蒙皮数据的压缩 - 云风的 BLOG](https://blog.codingnow.com/2022/04/vertex_blend_attribute_compression.html)
 
 
 
