@@ -1,7 +1,9 @@
-*更新时间：05-07 19:50*
+*更新时间：05-07 23:05*
 
 
 
+
+- [读《龙蛋》 - oldj's blog](https://oldj.net/article/2022/05/07/notes-of-dragons-egg/)
 
 - [游戏数据的展示 - 云风的 BLOG](https://blog.codingnow.com/2022/05/gameplay_viewport.html)
 
@@ -40,8 +42,6 @@
 - [过感性的生活 - 渚碧](https://jubeny.com/2022/04/live-a-life-with-sensibility/)
 
 - [奈良云霞 - 狡猫三窝](https://slykiten.com/life-note/nara-cloud/)
-
-- [真实的战争 - 攻城狮笔记](https://qumac.com/?p=2217)
 
 
 
