@@ -1,7 +1,9 @@
-*更新时间：05-07 23:05*
+*更新时间：05-09 17:50*
 
 
 
+
+- [荐片-四海狙击手 - 攻城狮笔记](https://qumac.com/?p=2236)
 
 - [读《龙蛋》 - oldj's blog](https://oldj.net/article/2022/05/07/notes-of-dragons-egg/)
 
@@ -40,8 +42,6 @@
 - [回见了，大菠萝。 - 破袜子](https://pewae.com/2022/04/e59b9e-e8a781-e4ba86-efbc8c-e5a4a7-e88fa0-e8909d-e38082.html)
 
 - [过感性的生活 - 渚碧](https://jubeny.com/2022/04/live-a-life-with-sensibility/)
-
-- [奈良云霞 - 狡猫三窝](https://slykiten.com/life-note/nara-cloud/)
 
 
 
