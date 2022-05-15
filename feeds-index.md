@@ -1,7 +1,9 @@
-*更新时间：05-15 15:50*
+*更新时间：05-16 07:50*
 
 
 
+
+- [Vol. 68 科技快乐星球10: Google I/O发了啥？ - 枫言枫语](https://justinyan.me/post/4923)
 
 - [新加坡驾照转换指北 - iTimothy](https://xiaozhou.net/life-in-sg-driving-driving-license-conversion-2022-05-15.html)
 
@@ -40,8 +42,6 @@
 - [Vol. 67 Livid: 十年V2EX，复古游戏，和未来 - 枫言枫语](https://justinyan.me/post/4904)
 
 - [Omicron记录 - 攻城狮笔记](https://qumac.com/?p=2227)
-
-- [中药 - 狡猫三窝](https://slykiten.com/life-note/chinese-medicine/)
 
 
 
