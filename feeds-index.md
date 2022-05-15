@@ -1,7 +1,9 @@
-*更新时间：05-10 14:05*
+*更新时间：05-15 15:50*
 
 
 
+
+- [新加坡驾照转换指北 - iTimothy](https://xiaozhou.net/life-in-sg-driving-driving-license-conversion-2022-05-15.html)
 
 - [Golang的反射（reflect） - 枫言枫语](https://justinyan.me/post/4919)
 
@@ -40,8 +42,6 @@
 - [Omicron记录 - 攻城狮笔记](https://qumac.com/?p=2227)
 
 - [中药 - 狡猫三窝](https://slykiten.com/life-note/chinese-medicine/)
-
-- [枫影夜读 #27 - 《贫穷的本质》 - 枫言枫语](https://justinyan.me/post/4901)
 
 
 
