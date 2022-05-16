@@ -1,7 +1,9 @@
-*更新时间：05-16 07:50*
+*更新时间：05-16 12:05*
 
 
 
+
+- [记录一次生病 - 伪医生律师的博客](https://chidd.net/2022/05/16/sheng-bing-le.html)
 
 - [Vol. 68 科技快乐星球10: Google I/O发了啥？ - 枫言枫语](https://justinyan.me/post/4923)
 
@@ -40,8 +42,6 @@
 - [曲折的驾照 - 狡猫三窝](https://slykiten.com/life-note/driver-license/)
 
 - [Vol. 67 Livid: 十年V2EX，复古游戏，和未来 - 枫言枫语](https://justinyan.me/post/4904)
-
-- [Omicron记录 - 攻城狮笔记](https://qumac.com/?p=2227)
 
 
 
