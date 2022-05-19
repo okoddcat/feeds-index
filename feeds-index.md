@@ -1,7 +1,9 @@
-*更新时间：05-16 12:05*
+*更新时间：05-19 10:50*
 
 
 
+
+- [失魂落魄的春天 - 最好金龟换酒](http://fz0512.com/archives/2241)
 
 - [记录一次生病 - 伪医生律师的博客](https://chidd.net/2022/05/16/sheng-bing-le.html)
 
@@ -40,8 +42,6 @@
 - [十年之约论坛与5周年活动 - 雨落泪尽](https://couqiao.net/archives/foreverblog-bbs.html)
 
 - [曲折的驾照 - 狡猫三窝](https://slykiten.com/life-note/driver-license/)
-
-- [Vol. 67 Livid: 十年V2EX，复古游戏，和未来 - 枫言枫语](https://justinyan.me/post/4904)
 
 
 
