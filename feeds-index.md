@@ -1,7 +1,9 @@
-*更新时间：05-23 23:50*
+*更新时间：05-25 00:05*
 
 
 
+
+- [关于知识管理工具的思考 - 随望淡思](https://www.lushaojun.com/5104.html)
 
 - [再见，青春 - 攻城狮笔记](https://qumac.com/?p=2244)
 
@@ -40,8 +42,6 @@
 - [利用GitHub Actions实现版本自动构建与发布流程 - iTimothy](https://xiaozhou.net/auto-ci-cd-via-github-actions-2022-05-02.html)
 
 - [凯文·凯利70岁生日写的103条人生忠告（中文翻译） - 枫言枫语](https://justinyan.me/post/4911)
-
-- [事业编制还要不要？也谈国内高校教师聘用制度改革 - 土木坛子](https://tumutanzi.com/archives/16900)
 
 
 
