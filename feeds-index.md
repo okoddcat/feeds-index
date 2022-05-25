@@ -1,7 +1,9 @@
-*更新时间：05-25 13:05*
+*更新时间：05-25 14:05*
 
 
 
+
+- [枫影夜读 #29 David Rock -《效率脑科学》 - 枫言枫语](https://justinyan.me/post/4930)
 
 - [Don’t scale 风物诗 - 一天世界](https://blog.yitianshijie.net/2022/05/25/do-not-scale-fubutsushi/)
 
@@ -40,8 +42,6 @@
 - [ETCD的内存问题 - 酷 壳 – CoolShell](https://coolshell.cn/articles/22242.html)
 
 - [婚戒 - 狡猫三窝](https://slykiten.com/life-note/rings/)
-
-- [第三方平台的“定期存款” - 林海草原](https://lhcy.org/archives/178.html)
 
 
 
