@@ -1,7 +1,9 @@
-*更新时间：05-25 00:05*
+*更新时间：05-25 09:50*
 
 
 
+
+- [博客和微博客 - 一天世界](https://blog.yitianshijie.net/2022/05/25/blog-and-micro-blog/)
 
 - [关于知识管理工具的思考 - 随望淡思](https://www.lushaojun.com/5104.html)
 
@@ -40,8 +42,6 @@
 - [第三方平台的“定期存款” - 林海草原](https://lhcy.org/archives/178.html)
 
 - [利用GitHub Actions实现版本自动构建与发布流程 - iTimothy](https://xiaozhou.net/auto-ci-cd-via-github-actions-2022-05-02.html)
-
-- [凯文·凯利70岁生日写的103条人生忠告（中文翻译） - 枫言枫语](https://justinyan.me/post/4911)
 
 
 
