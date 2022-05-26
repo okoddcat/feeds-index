@@ -1,4 +1,4 @@
-*更新时间：05-25 15:05*
+*更新时间：05-26 21:05*
 
 
 
@@ -8,6 +8,8 @@
 - [Don’t scale 风物诗 - 一天世界](https://blog.yitianshijie.net/2022/05/25/do-not-scale-fubutsushi/)
 
 - [博客和微博客 - 一天世界](https://blog.yitianshijie.net/2022/05/25/blog-and-micro-blog/)
+
+- [不要把公司当成家 - 土木坛子](https://tumutanzi.com/archives/16902)
 
 - [关于知识管理工具的思考 - 随望淡思](https://www.lushaojun.com/5104.html)
 
@@ -40,8 +42,6 @@
 - [游戏数据的展示 - 云风的 BLOG](https://blog.codingnow.com/2022/05/gameplay_viewport.html)
 
 - [枫影夜读 #28 虹影-《饥饿的女儿》 - 枫言枫语](https://justinyan.me/post/4915)
-
-- [十分需要一名核酸助理丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11541)
 
 
 
