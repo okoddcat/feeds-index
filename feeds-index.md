@@ -1,7 +1,9 @@
-*更新时间：05-28 14:50*
+*更新时间：05-28 20:50*
 
 
 
+
+- [中文的堕落 - 一天世界](https://blog.yitianshijie.net/2022/05/28/the-fall-of-chinese-language/)
 
 - [原则 vs. 政策 - 一天世界](https://blog.yitianshijie.net/2022/05/28/principle-vs-policy/)
 
@@ -40,8 +42,6 @@
 - [一朵花，一个夏天丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11545)
 
 - [Golang的反射（reflect） - 枫言枫语](https://justinyan.me/post/4919)
-
-- [荐片-四海狙击手 - 攻城狮笔记](https://qumac.com/?p=2236)
 
 
 
