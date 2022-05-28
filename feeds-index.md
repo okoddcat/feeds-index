@@ -1,7 +1,9 @@
-*更新时间：05-26 21:05*
+*更新时间：05-28 08:50*
 
 
 
+
+- [向被历史遗忘者致意 - 一天世界](https://blog.yitianshijie.net/2022/05/28/how-to-run-away-from-china-you-will-only-make-it-worse/)
 
 - [枫影夜读 #29 David Rock -《效率脑科学》 - 枫言枫语](https://justinyan.me/post/4930)
 
@@ -40,8 +42,6 @@
 - [读《龙蛋》 - oldj's blog](https://oldj.net/article/2022/05/07/notes-of-dragons-egg/)
 
 - [游戏数据的展示 - 云风的 BLOG](https://blog.codingnow.com/2022/05/gameplay_viewport.html)
-
-- [枫影夜读 #28 虹影-《饥饿的女儿》 - 枫言枫语](https://justinyan.me/post/4915)
 
 
 
