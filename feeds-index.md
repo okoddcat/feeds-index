@@ -1,7 +1,9 @@
-*更新时间：05-28 13:50*
+*更新时间：05-28 14:50*
 
 
 
+
+- [原则 vs. 政策 - 一天世界](https://blog.yitianshijie.net/2022/05/28/principle-vs-policy/)
 
 - [备份 vs. 同步 - 一天世界](https://blog.yitianshijie.net/2022/05/28/backup-vs-sync/)
 
@@ -40,8 +42,6 @@
 - [Golang的反射（reflect） - 枫言枫语](https://justinyan.me/post/4919)
 
 - [荐片-四海狙击手 - 攻城狮笔记](https://qumac.com/?p=2236)
-
-- [多读好书多思考，多与优秀做交流 - 土木坛子](https://tumutanzi.com/archives/16901)
 
 
 
