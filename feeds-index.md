@@ -1,7 +1,9 @@
-*更新时间：05-29 22:50*
+*更新时间：05-30 23:05*
 
 
 
+
+- [重温老片《天书奇谭》 - 破袜子](https://pewae.com/2022/05/review-the-legend-of-sealed-book.html)
 
 - [静电容键盘HHKB和realforce - 非礼勿言](https://feiliwuyan.com/keyboard-of-hhkb-and-realforce/)
 
@@ -40,8 +42,6 @@
 - [记录一次生病 - 伪医生律师的博客](https://chidd.net/2022/05/16/sheng-bing-le.html)
 
 - [Vol. 68 科技快乐星球10: Google I/O发了啥？ - 枫言枫语](https://justinyan.me/post/4923)
-
-- [新加坡驾照转换指北 - iTimothy](https://xiaozhou.net/life-in-sg-driving-driving-license-conversion-2022-05-15.html)
 
 
 
