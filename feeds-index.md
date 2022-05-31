@@ -1,7 +1,9 @@
-*更新时间：05-30 23:05*
+*更新时间：05-31 13:50*
 
 
 
+
+- [Vol. 69 在杭州工作和生活是什么体验？ - 枫言枫语](https://justinyan.me/post/4928)
 
 - [重温老片《天书奇谭》 - 破袜子](https://pewae.com/2022/05/review-the-legend-of-sealed-book.html)
 
@@ -40,8 +42,6 @@
 - [失魂落魄的春天 - 最好金龟换酒](http://fz0512.com/archives/2241)
 
 - [记录一次生病 - 伪医生律师的博客](https://chidd.net/2022/05/16/sheng-bing-le.html)
-
-- [Vol. 68 科技快乐星球10: Google I/O发了啥？ - 枫言枫语](https://justinyan.me/post/4923)
 
 
 
