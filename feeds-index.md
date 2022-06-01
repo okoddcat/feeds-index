@@ -1,7 +1,9 @@
-*更新时间：05-31 13:50*
+*更新时间：06-01 10:50*
 
 
 
+
+- [品味 - 一天世界](https://blog.yitianshijie.net/2022/06/01/taste/)
 
 - [Vol. 69 在杭州工作和生活是什么体验？ - 枫言枫语](https://justinyan.me/post/4928)
 
@@ -40,8 +42,6 @@
 - [RogueLike 原型开发工具 - 云风的 BLOG](https://blog.codingnow.com/2022/05/roguelike_lua.html)
 
 - [失魂落魄的春天 - 最好金龟换酒](http://fz0512.com/archives/2241)
-
-- [记录一次生病 - 伪医生律师的博客](https://chidd.net/2022/05/16/sheng-bing-le.html)
 
 
 
