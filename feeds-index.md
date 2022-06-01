@@ -1,7 +1,9 @@
-*更新时间：06-01 15:50*
+*更新时间：06-02 01:50*
 
 
 
+
+- [船上婚礼 - 狡猫三窝](https://slykiten.com/life-note/wedding-on-maid-of-the-mist/)
 
 - [「备份 vs. 同步」后续 - 一天世界](https://blog.yitianshijie.net/2022/06/01/backup-vs-sync-addendum/)
 
@@ -40,8 +42,6 @@
 - [再见，青春 - 攻城狮笔记](https://qumac.com/?p=2244)
 
 - [诗一首——无题 - 渚碧](https://jubeny.com/2022/05/a-poem-no-title/)
-
-- [智商不在服务区丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11549)
 
 
 
