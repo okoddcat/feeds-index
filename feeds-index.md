@@ -1,7 +1,9 @@
-*更新时间：06-02 08:50*
+*更新时间：06-02 10:50*
 
 
 
+
+- [乾炒牛宽麪 - 一天世界](https://blog.yitianshijie.net/2022/06/02/big-flat-noodle/)
 
 - [「力」的放大器 - 一天世界](https://blog.yitianshijie.net/2022/06/02/amplifier-of-force/)
 
@@ -40,8 +42,6 @@
 - [不要把公司当成家 - 土木坛子](https://tumutanzi.com/archives/16902)
 
 - [关于知识管理工具的思考 - 随望淡思](https://www.lushaojun.com/5104.html)
-
-- [再见，青春 - 攻城狮笔记](https://qumac.com/?p=2244)
 
 
 
