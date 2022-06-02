@@ -1,7 +1,9 @@
-*更新时间：06-02 01:50*
+*更新时间：06-02 08:50*
 
 
 
+
+- [「力」的放大器 - 一天世界](https://blog.yitianshijie.net/2022/06/02/amplifier-of-force/)
 
 - [船上婚礼 - 狡猫三窝](https://slykiten.com/life-note/wedding-on-maid-of-the-mist/)
 
@@ -40,8 +42,6 @@
 - [关于知识管理工具的思考 - 随望淡思](https://www.lushaojun.com/5104.html)
 
 - [再见，青春 - 攻城狮笔记](https://qumac.com/?p=2244)
-
-- [诗一首——无题 - 渚碧](https://jubeny.com/2022/05/a-poem-no-title/)
 
 
 
