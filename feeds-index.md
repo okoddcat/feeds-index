@@ -1,7 +1,9 @@
-*更新时间：06-02 22:50*
+*更新时间：06-03 23:05*
 
 
 
+
+- [每夫吐槽（074） - 破袜子](https://pewae.com/2022/06/random_kuso_74.html)
 
 - [用邻接表实现无向图 - 云风的 BLOG](https://blog.codingnow.com/2022/06/ajdjacency_list.html)
 
@@ -40,8 +42,6 @@
 - [Don’t scale 风物诗 - 一天世界](https://blog.yitianshijie.net/2022/05/25/do-not-scale-fubutsushi/)
 
 - [博客和微博客 - 一天世界](https://blog.yitianshijie.net/2022/05/25/blog-and-micro-blog/)
-
-- [不要把公司当成家 - 土木坛子](https://tumutanzi.com/archives/16902)
 
 
 
