@@ -1,7 +1,9 @@
-*更新时间：06-03 23:05*
+*更新时间：06-04 13:50*
 
 
 
+
+- [更好的歧途丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11563)
 
 - [每夫吐槽（074） - 破袜子](https://pewae.com/2022/06/random_kuso_74.html)
 
@@ -40,8 +42,6 @@
 - [枫影夜读 #29 David Rock -《效率脑科学》 - 枫言枫语](https://justinyan.me/post/4930)
 
 - [Don’t scale 风物诗 - 一天世界](https://blog.yitianshijie.net/2022/05/25/do-not-scale-fubutsushi/)
-
-- [博客和微博客 - 一天世界](https://blog.yitianshijie.net/2022/05/25/blog-and-micro-blog/)
 
 
 
