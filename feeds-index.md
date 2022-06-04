@@ -1,7 +1,9 @@
-*更新时间：06-04 13:50*
+*更新时间：06-04 23:05*
 
 
 
+
+- [诗一首——六四 - 渚碧](https://jubeny.com/2022/06/a-poem-6-4/)
 
 - [更好的歧途丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11563)
 
@@ -40,8 +42,6 @@
 - [向被历史遗忘者致意 - 一天世界](https://blog.yitianshijie.net/2022/05/28/how-to-run-away-from-china-you-will-only-make-it-worse/)
 
 - [枫影夜读 #29 David Rock -《效率脑科学》 - 枫言枫语](https://justinyan.me/post/4930)
-
-- [Don’t scale 风物诗 - 一天世界](https://blog.yitianshijie.net/2022/05/25/do-not-scale-fubutsushi/)
 
 
 
