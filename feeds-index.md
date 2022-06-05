@@ -1,7 +1,9 @@
-*更新时间：06-05 16:05*
+*更新时间：06-05 22:50*
 
 
 
+
+- [令我失望的龙珠Z - 渚碧](https://jubeny.com/2022/06/disappointing-dragon-ball-z/)
 
 - [博客系统（2022） - oldj's blog](https://oldj.net/article/2022/06/05/tech-of-this-blog-2022/)
 
@@ -40,8 +42,6 @@
 - [原则 vs. 政策 - 一天世界](https://blog.yitianshijie.net/2022/05/28/principle-vs-policy/)
 
 - [备份 vs. 同步 - 一天世界](https://blog.yitianshijie.net/2022/05/28/backup-vs-sync/)
-
-- [托尔斯泰说过丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11558)
 
 
 
