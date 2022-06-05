@@ -1,7 +1,9 @@
-*更新时间：06-05 14:50*
+*更新时间：06-05 16:05*
 
 
 
+
+- [博客系统（2022） - oldj's blog](https://oldj.net/article/2022/06/05/tech-of-this-blog-2022/)
 
 - [从粗糙到粗糙 - 一天世界](https://blog.yitianshijie.net/2022/06/05/from-philistinism-to-philistinism/)
 
@@ -40,8 +42,6 @@
 - [备份 vs. 同步 - 一天世界](https://blog.yitianshijie.net/2022/05/28/backup-vs-sync/)
 
 - [托尔斯泰说过丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11558)
-
-- [向被历史遗忘者致意 - 一天世界](https://blog.yitianshijie.net/2022/05/28/how-to-run-away-from-china-you-will-only-make-it-worse/)
 
 
 
