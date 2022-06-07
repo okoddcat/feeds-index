@@ -1,7 +1,9 @@
-*更新时间：06-05 22:50*
+*更新时间：06-07 10:50*
 
 
 
+
+- [漂亮中文给妳，换点奇葩中文给我 - 一天世界](https://blog.yitianshijie.net/2022/06/07/you-need-michael-lam-to-quote-get-unquote-eileen-chang/)
 
 - [令我失望的龙珠Z - 渚碧](https://jubeny.com/2022/06/disappointing-dragon-ball-z/)
 
@@ -40,8 +42,6 @@
 - [中文的堕落 - 一天世界](https://blog.yitianshijie.net/2022/05/28/the-fall-of-chinese-language/)
 
 - [原则 vs. 政策 - 一天世界](https://blog.yitianshijie.net/2022/05/28/principle-vs-policy/)
-
-- [备份 vs. 同步 - 一天世界](https://blog.yitianshijie.net/2022/05/28/backup-vs-sync/)
 
 
 
