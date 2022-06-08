@@ -1,7 +1,9 @@
-*更新时间：06-07 10:50*
+*更新时间：06-08 21:50*
 
 
 
+
+- [Vol. 70 WWDC 2022 X 科技早知道 - 枫言枫语](https://justinyan.me/post/4941)
 
 - [漂亮中文给妳，换点奇葩中文给我 - 一天世界](https://blog.yitianshijie.net/2022/06/07/you-need-michael-lam-to-quote-get-unquote-eileen-chang/)
 
@@ -40,8 +42,6 @@
 - [睡前看短视频还是阅读书籍？ - 土木坛子](https://tumutanzi.com/archives/16903)
 
 - [中文的堕落 - 一天世界](https://blog.yitianshijie.net/2022/05/28/the-fall-of-chinese-language/)
-
-- [原则 vs. 政策 - 一天世界](https://blog.yitianshijie.net/2022/05/28/principle-vs-policy/)
 
 
 
