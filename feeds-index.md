@@ -1,7 +1,9 @@
-*更新时间：06-08 21:50*
+*更新时间：06-10 14:50*
 
 
 
+
+- [今日金句（2022.6.10） - 一天世界](https://blog.yitianshijie.net/2022/06/10/qotd-20220610/)
 
 - [Vol. 70 WWDC 2022 X 科技早知道 - 枫言枫语](https://justinyan.me/post/4941)
 
@@ -40,8 +42,6 @@
 - [静电容键盘HHKB和realforce - 非礼勿言](https://feiliwuyan.com/keyboard-of-hhkb-and-realforce/)
 
 - [睡前看短视频还是阅读书籍？ - 土木坛子](https://tumutanzi.com/archives/16903)
-
-- [中文的堕落 - 一天世界](https://blog.yitianshijie.net/2022/05/28/the-fall-of-chinese-language/)
 
 
 
