@@ -1,7 +1,9 @@
-*更新时间：06-11 13:50*
+*更新时间：06-11 16:50*
 
 
 
+
+- [抠图 vs. 去背 - 一天世界](https://blog.yitianshijie.net/2022/06/11/cut-out-vs-background-removal/)
 
 - [狂喜或焦虑丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11569)
 
@@ -40,8 +42,6 @@
 - [Vol. 69 在杭州工作和生活是什么体验？ - 枫言枫语](https://justinyan.me/post/4928)
 
 - [重温老片《天书奇谭》 - 破袜子](https://pewae.com/2022/05/review-the-legend-of-sealed-book.html)
-
-- [静电容键盘HHKB和realforce - 非礼勿言](https://feiliwuyan.com/keyboard-of-hhkb-and-realforce/)
 
 
 
