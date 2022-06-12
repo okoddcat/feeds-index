@@ -1,7 +1,9 @@
-*更新时间：06-11 16:50*
+*更新时间：06-12 16:50*
 
 
 
+
+- [如何在一台Mac上建立分区安装正式版与Beta双系统 - 枫言枫语](https://justinyan.me/post/4945)
 
 - [抠图 vs. 去背 - 一天世界](https://blog.yitianshijie.net/2022/06/11/cut-out-vs-background-removal/)
 
@@ -40,8 +42,6 @@
 - [品味 - 一天世界](https://blog.yitianshijie.net/2022/06/01/taste/)
 
 - [Vol. 69 在杭州工作和生活是什么体验？ - 枫言枫语](https://justinyan.me/post/4928)
-
-- [重温老片《天书奇谭》 - 破袜子](https://pewae.com/2022/05/review-the-legend-of-sealed-book.html)
 
 
 
