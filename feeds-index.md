@@ -1,7 +1,11 @@
-*更新时间：06-12 16:50*
+*更新时间：06-13 11:05*
 
 
 
+
+- [关于《太空旅客》的几种生存模式 - 伪医生律师的博客](https://chidd.net/2022/06/13/passengers.html)
+
+- [时光不停留 - 木先森](https://www.meizg.cn/415/)
 
 - [如何在一台Mac上建立分区安装正式版与Beta双系统 - 枫言枫语](https://justinyan.me/post/4945)
 
@@ -38,10 +42,6 @@
 - [「备份 vs. 同步」后续 - 一天世界](https://blog.yitianshijie.net/2022/06/01/backup-vs-sync-addendum/)
 
 - [一个 VLA （动态长度数组）的实现 - 云风的 BLOG](https://blog.codingnow.com/2022/06/vla.html)
-
-- [品味 - 一天世界](https://blog.yitianshijie.net/2022/06/01/taste/)
-
-- [Vol. 69 在杭州工作和生活是什么体验？ - 枫言枫语](https://justinyan.me/post/4928)
 
 
 
