@@ -1,7 +1,9 @@
-*更新时间：06-13 11:05*
+*更新时间：06-14 08:05*
 
 
 
+
+- [错误的理由 - 一天世界](https://blog.yitianshijie.net/2022/06/14/wrong-reason/)
 
 - [关于《太空旅客》的几种生存模式 - 伪医生律师的博客](https://chidd.net/2022/06/13/passengers.html)
 
@@ -40,8 +42,6 @@
 - [船上婚礼 - 狡猫三窝](https://slykiten.com/life-note/wedding-on-maid-of-the-mist/)
 
 - [「备份 vs. 同步」后续 - 一天世界](https://blog.yitianshijie.net/2022/06/01/backup-vs-sync-addendum/)
-
-- [一个 VLA （动态长度数组）的实现 - 云风的 BLOG](https://blog.codingnow.com/2022/06/vla.html)
 
 
 
