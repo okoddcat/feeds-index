@@ -1,7 +1,9 @@
-*更新时间：06-14 12:05*
+*更新时间：06-14 15:05*
 
 
 
+
+- [用四不像替换模糊不清 - 一天世界](https://blog.yitianshijie.net/2022/06/14/be-exotic/)
 
 - [Never forget - 一天世界](https://blog.yitianshijie.net/2022/06/14/never-forget/)
 
@@ -40,8 +42,6 @@
 - [用邻接表实现无向图 - 云风的 BLOG](https://blog.codingnow.com/2022/06/ajdjacency_list.html)
 
 - [乾炒牛宽麪 - 一天世界](https://blog.yitianshijie.net/2022/06/02/big-flat-noodle/)
-
-- [「力」的放大器 - 一天世界](https://blog.yitianshijie.net/2022/06/02/amplifier-of-force/)
 
 
 
