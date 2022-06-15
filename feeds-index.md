@@ -1,7 +1,9 @@
-*更新时间：06-14 15:05*
+*更新时间：06-15 13:50*
 
 
 
+
+- [Landscape mode please - 一天世界](https://blog.yitianshijie.net/2022/06/15/landscape-mode-please/)
 
 - [用四不像替换模糊不清 - 一天世界](https://blog.yitianshijie.net/2022/06/14/be-exotic/)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（074） - 破袜子](https://pewae.com/2022/06/random_kuso_74.html)
 
 - [用邻接表实现无向图 - 云风的 BLOG](https://blog.codingnow.com/2022/06/ajdjacency_list.html)
-
-- [乾炒牛宽麪 - 一天世界](https://blog.yitianshijie.net/2022/06/02/big-flat-noodle/)
 
 
 
