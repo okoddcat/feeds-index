@@ -1,7 +1,9 @@
-*更新时间：06-15 13:50*
+*更新时间：06-17 13:55*
 
 
 
+
+- [关于战争的一个科幻预测 - oldj's blog](https://oldj.net/article/2022/06/17/a-sci-fi-prediction-about-war/)
 
 - [Landscape mode please - 一天世界](https://blog.yitianshijie.net/2022/06/15/landscape-mode-please/)
 
@@ -40,8 +42,6 @@
 - [更好的歧途丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11563)
 
 - [每夫吐槽（074） - 破袜子](https://pewae.com/2022/06/random_kuso_74.html)
-
-- [用邻接表实现无向图 - 云风的 BLOG](https://blog.codingnow.com/2022/06/ajdjacency_list.html)
 
 
 
