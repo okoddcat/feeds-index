@@ -1,7 +1,9 @@
-*更新时间：06-17 13:55*
+*更新时间：06-17 16:50*
 
 
 
+
+- [买车故事 - 攻城狮笔记](https://qumac.com/?p=2254)
 
 - [关于战争的一个科幻预测 - oldj's blog](https://oldj.net/article/2022/06/17/a-sci-fi-prediction-about-war/)
 
@@ -40,8 +42,6 @@
 - [诗一首——六四 - 渚碧](https://jubeny.com/2022/06/a-poem-6-4/)
 
 - [更好的歧途丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11563)
-
-- [每夫吐槽（074） - 破袜子](https://pewae.com/2022/06/random_kuso_74.html)
 
 
 
