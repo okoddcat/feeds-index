@@ -1,7 +1,9 @@
-*更新时间：06-18 04:50*
+*更新时间：06-18 08:50*
 
 
 
+
+- [别玩情绪 - 林海草原](https://lhcy.org/archives/179.html)
 
 - [芝加哥开会见闻 - 狡猫三窝](https://slykiten.com/life-note/workshop-in-chicago/)
 
@@ -40,8 +42,6 @@
 - [令我失望的龙珠Z - 渚碧](https://jubeny.com/2022/06/disappointing-dragon-ball-z/)
 
 - [博客系统（2022） - oldj's blog](https://oldj.net/article/2022/06/05/tech-of-this-blog-2022/)
-
-- [从粗糙到粗糙 - 一天世界](https://blog.yitianshijie.net/2022/06/05/from-philistinism-to-philistinism/)
 
 
 
