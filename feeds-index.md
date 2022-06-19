@@ -1,7 +1,9 @@
-*更新时间：06-18 08:50*
+*更新时间：06-19 09:50*
 
 
 
+
+- [记录繁忙 - 林海草原](https://lhcy.org/archives/180.html)
 
 - [别玩情绪 - 林海草原](https://lhcy.org/archives/179.html)
 
@@ -40,8 +42,6 @@
 - [漂亮中文给妳，换点奇葩中文给我 - 一天世界](https://blog.yitianshijie.net/2022/06/07/you-need-michael-lam-to-quote-get-unquote-eileen-chang/)
 
 - [令我失望的龙珠Z - 渚碧](https://jubeny.com/2022/06/disappointing-dragon-ball-z/)
-
-- [博客系统（2022） - oldj's blog](https://oldj.net/article/2022/06/05/tech-of-this-blog-2022/)
 
 
 
