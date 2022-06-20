@@ -1,7 +1,11 @@
-*更新时间：06-19 09:50*
+*更新时间：06-20 09:50*
 
 
 
+
+- [Activist 的正确样子 - 一天世界](https://blog.yitianshijie.net/2022/06/20/how-to-be-an-activist/)
+
+- [什么人适合做播客 - 一天世界](https://blog.yitianshijie.net/2022/06/20/who-should-be-a-podcaster/)
 
 - [记录繁忙 - 林海草原](https://lhcy.org/archives/180.html)
 
@@ -38,10 +42,6 @@
 - [今日金句（2022.6.10） - 一天世界](https://blog.yitianshijie.net/2022/06/10/qotd-20220610/)
 
 - [Vol. 70 WWDC 2022 X 科技早知道 - 枫言枫语](https://justinyan.me/post/4941)
-
-- [漂亮中文给妳，换点奇葩中文给我 - 一天世界](https://blog.yitianshijie.net/2022/06/07/you-need-michael-lam-to-quote-get-unquote-eileen-chang/)
-
-- [令我失望的龙珠Z - 渚碧](https://jubeny.com/2022/06/disappointing-dragon-ball-z/)
 
 
 
