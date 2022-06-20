@@ -1,7 +1,9 @@
-*更新时间：06-20 10:05*
+*更新时间：06-20 15:50*
 
 
 
+
+- [Reeder 也支持订阅啁啾会馆了 - 一天世界](https://blog.yitianshijie.net/2022/06/20/read-twitter-in-reeder/)
 
 - [社交网络和离家出走 - 一天世界](https://blog.yitianshijie.net/2022/06/20/social-media-and-runaways/)
 
@@ -40,8 +42,6 @@
 - [抠图 vs. 去背 - 一天世界](https://blog.yitianshijie.net/2022/06/11/cut-out-vs-background-removal/)
 
 - [狂喜或焦虑丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11569)
-
-- [今日金句（2022.6.10） - 一天世界](https://blog.yitianshijie.net/2022/06/10/qotd-20220610/)
 
 
 
