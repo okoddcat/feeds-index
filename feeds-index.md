@@ -1,7 +1,9 @@
-*更新时间：06-20 09:50*
+*更新时间：06-20 10:05*
 
 
 
+
+- [社交网络和离家出走 - 一天世界](https://blog.yitianshijie.net/2022/06/20/social-media-and-runaways/)
 
 - [Activist 的正确样子 - 一天世界](https://blog.yitianshijie.net/2022/06/20/how-to-be-an-activist/)
 
@@ -40,8 +42,6 @@
 - [狂喜或焦虑丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11569)
 
 - [今日金句（2022.6.10） - 一天世界](https://blog.yitianshijie.net/2022/06/10/qotd-20220610/)
-
-- [Vol. 70 WWDC 2022 X 科技早知道 - 枫言枫语](https://justinyan.me/post/4941)
 
 
 
