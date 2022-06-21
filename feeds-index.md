@@ -1,7 +1,9 @@
-*更新时间：06-21 09:50*
+*更新时间：06-21 11:50*
 
 
 
+
+- [电影推个荐/2021-2 - 非礼勿言](https://feiliwuyan.com/movie-recommendation-2021-2/)
 
 - [从网上消失的人 - 一天世界](https://blog.yitianshijie.net/2022/06/21/those-who-disappeared-from-the-internet/)
 
@@ -40,8 +42,6 @@
 - [时光不停留 - 木先森](https://www.meizg.cn/415/)
 
 - [如何在一台Mac上建立分区安装正式版与Beta双系统 - 枫言枫语](https://justinyan.me/post/4945)
-
-- [抠图 vs. 去背 - 一天世界](https://blog.yitianshijie.net/2022/06/11/cut-out-vs-background-removal/)
 
 
 
