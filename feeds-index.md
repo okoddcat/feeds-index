@@ -1,7 +1,9 @@
-*更新时间：06-20 15:50*
+*更新时间：06-21 09:50*
 
 
 
+
+- [从网上消失的人 - 一天世界](https://blog.yitianshijie.net/2022/06/21/those-who-disappeared-from-the-internet/)
 
 - [Reeder 也支持订阅啁啾会馆了 - 一天世界](https://blog.yitianshijie.net/2022/06/20/read-twitter-in-reeder/)
 
@@ -40,8 +42,6 @@
 - [如何在一台Mac上建立分区安装正式版与Beta双系统 - 枫言枫语](https://justinyan.me/post/4945)
 
 - [抠图 vs. 去背 - 一天世界](https://blog.yitianshijie.net/2022/06/11/cut-out-vs-background-removal/)
-
-- [狂喜或焦虑丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11569)
 
 
 
