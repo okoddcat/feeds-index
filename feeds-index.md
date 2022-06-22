@@ -1,9 +1,11 @@
-*更新时间：06-22 18:50*
+*更新时间：06-23 02:50*
 
 
 
 
 - [普通人 - 一天世界](https://blog.yitianshijie.net/2022/06/22/common-people/)
+
+- [中年男人不如狗 - 土木坛子](https://tumutanzi.com/archives/16907)
 
 - [电影推个荐/2021-2 - 非礼勿言](https://feiliwuyan.com/movie-recommendation-2021-2/)
 
@@ -40,8 +42,6 @@
 - [错误的理由 - 一天世界](https://blog.yitianshijie.net/2022/06/14/wrong-reason/)
 
 - [关于《太空旅客》的几种生存模式 - 伪医生律师的博客](https://chidd.net/2022/06/13/passengers.html)
-
-- [时光不停留 - 木先森](https://www.meizg.cn/415/)
 
 
 
