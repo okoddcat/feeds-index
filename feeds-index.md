@@ -1,7 +1,9 @@
-*更新时间：06-21 11:50*
+*更新时间：06-22 18:50*
 
 
 
+
+- [普通人 - 一天世界](https://blog.yitianshijie.net/2022/06/22/common-people/)
 
 - [电影推个荐/2021-2 - 非礼勿言](https://feiliwuyan.com/movie-recommendation-2021-2/)
 
@@ -40,8 +42,6 @@
 - [关于《太空旅客》的几种生存模式 - 伪医生律师的博客](https://chidd.net/2022/06/13/passengers.html)
 
 - [时光不停留 - 木先森](https://www.meizg.cn/415/)
-
-- [如何在一台Mac上建立分区安装正式版与Beta双系统 - 枫言枫语](https://justinyan.me/post/4945)
 
 
 
