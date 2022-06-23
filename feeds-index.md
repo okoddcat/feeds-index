@@ -1,7 +1,11 @@
-*更新时间：06-23 02:50*
+*更新时间：06-23 11:50*
 
 
 
+
+- [啁啾札记，no thanks - 一天世界](https://blog.yitianshijie.net/2022/06/23/twitter-notes-no-thanks/)
+
+- [TCL太垃圾，我奉劝各位千万不要买 - 伪医生律师的博客](https://chidd.net/2022/06/23/tcl-la-ji.html)
 
 - [普通人 - 一天世界](https://blog.yitianshijie.net/2022/06/22/common-people/)
 
@@ -38,10 +42,6 @@
 - [Never forget - 一天世界](https://blog.yitianshijie.net/2022/06/14/never-forget/)
 
 - [给 ECS 增加分组功能 - 云风的 BLOG](https://blog.codingnow.com/2022/06/ecs_group.html)
-
-- [错误的理由 - 一天世界](https://blog.yitianshijie.net/2022/06/14/wrong-reason/)
-
-- [关于《太空旅客》的几种生存模式 - 伪医生律师的博客](https://chidd.net/2022/06/13/passengers.html)
 
 
 
