@@ -1,7 +1,9 @@
-*更新时间：06-24 12:50*
+*更新时间：06-24 14:50*
 
 
 
+
+- [使用 umami 统计 - oldj's blog](https://oldj.net/article/2022/06/24/use-umami/)
 
 - [文本·揾笨 - 一天世界](https://blog.yitianshijie.net/2022/06/23/sex-text-michael-lam/)
 
@@ -40,8 +42,6 @@
 - [再见，中国大陆的kindle - 土木坛子](https://tumutanzi.com/archives/16906)
 
 - [Landscape mode please - 一天世界](https://blog.yitianshijie.net/2022/06/15/landscape-mode-please/)
-
-- [用四不像替换模糊不清 - 一天世界](https://blog.yitianshijie.net/2022/06/14/be-exotic/)
 
 
 
