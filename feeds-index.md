@@ -1,7 +1,9 @@
-*更新时间：06-24 14:50*
+*更新时间：06-24 15:50*
 
 
 
+
+- [抄袭抄袭 - 一天世界](https://blog.yitianshijie.net/2022/06/24/plagiarism-plagiarism/)
 
 - [使用 umami 统计 - oldj's blog](https://oldj.net/article/2022/06/24/use-umami/)
 
@@ -40,8 +42,6 @@
 - [关于战争的一个科幻预测 - oldj's blog](https://oldj.net/article/2022/06/17/a-sci-fi-prediction-about-war/)
 
 - [再见，中国大陆的kindle - 土木坛子](https://tumutanzi.com/archives/16906)
-
-- [Landscape mode please - 一天世界](https://blog.yitianshijie.net/2022/06/15/landscape-mode-please/)
 
 
 
