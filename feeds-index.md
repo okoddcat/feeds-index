@@ -1,4 +1,4 @@
-*更新时间：06-23 15:05*
+*更新时间：06-24 12:50*
 
 
 
@@ -27,6 +27,8 @@
 
 - [记录繁忙 - 林海草原](https://lhcy.org/archives/180.html)
 
+- [长大了买你的货丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11574)
+
 - [别玩情绪 - 林海草原](https://lhcy.org/archives/179.html)
 
 - [芝加哥开会见闻 - 狡猫三窝](https://slykiten.com/life-note/workshop-in-chicago/)
@@ -40,8 +42,6 @@
 - [Landscape mode please - 一天世界](https://blog.yitianshijie.net/2022/06/15/landscape-mode-please/)
 
 - [用四不像替换模糊不清 - 一天世界](https://blog.yitianshijie.net/2022/06/14/be-exotic/)
-
-- [Never forget - 一天世界](https://blog.yitianshijie.net/2022/06/14/never-forget/)
 
 
 
