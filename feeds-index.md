@@ -1,7 +1,9 @@
-*更新时间：06-24 16:50*
+*更新时间：06-25 13:50*
 
 
 
+
+- [如果沙发作主语丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11577)
 
 - [近期阅读书目简评 - 伪医生律师的博客](https://chidd.net/2022/06/24/read-book.html)
 
@@ -40,8 +42,6 @@
 - [芝加哥开会见闻 - 狡猫三窝](https://slykiten.com/life-note/workshop-in-chicago/)
 
 - [买车故事 - 攻城狮笔记](https://qumac.com/?p=2254)
-
-- [关于战争的一个科幻预测 - oldj's blog](https://oldj.net/article/2022/06/17/a-sci-fi-prediction-about-war/)
 
 
 
