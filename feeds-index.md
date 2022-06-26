@@ -1,7 +1,9 @@
-*更新时间：06-26 15:50*
+*更新时间：06-27 07:50*
 
 
 
+
+- [Vol. 71 老苏: 在北京工作和生活是什么体验？ - 枫言枫语](https://justinyan.me/post/4971)
 
 - [Trilium相关词汇概念注解 - 随望淡思](https://www.lushaojun.com/5122.html)
 
@@ -40,8 +42,6 @@
 - [Activist 的正确样子 - 一天世界](https://blog.yitianshijie.net/2022/06/20/how-to-be-an-activist/)
 
 - [什么人适合做播客 - 一天世界](https://blog.yitianshijie.net/2022/06/20/who-should-be-a-podcaster/)
-
-- [记录繁忙 - 林海草原](https://lhcy.org/archives/180.html)
 
 
 
