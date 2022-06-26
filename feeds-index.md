@@ -1,7 +1,9 @@
-*更新时间：06-25 19:50*
+*更新时间：06-26 12:50*
 
 
 
+
+- [近期网络项目的问题及处理 - 林海草原](https://lhcy.org/archives/181.html)
 
 - [中体勿用 - 一天世界](https://blog.yitianshijie.net/2022/06/25/zhong-ti-wu-yong/)
 
@@ -40,8 +42,6 @@
 - [长大了买你的货丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11574)
 
 - [别玩情绪 - 林海草原](https://lhcy.org/archives/179.html)
-
-- [芝加哥开会见闻 - 狡猫三窝](https://slykiten.com/life-note/workshop-in-chicago/)
 
 
 
