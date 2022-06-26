@@ -1,11 +1,15 @@
-*更新时间：06-26 12:50*
+*更新时间：06-26 15:50*
 
 
 
+
+- [Trilium相关词汇概念注解 - 随望淡思](https://www.lushaojun.com/5122.html)
 
 - [近期网络项目的问题及处理 - 林海草原](https://lhcy.org/archives/181.html)
 
 - [中体勿用 - 一天世界](https://blog.yitianshijie.net/2022/06/25/zhong-ti-wu-yong/)
+
+- [关于Trilium - 随望淡思](https://www.lushaojun.com/5121.html)
 
 - [如果沙发作主语丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11577)
 
@@ -38,10 +42,6 @@
 - [什么人适合做播客 - 一天世界](https://blog.yitianshijie.net/2022/06/20/who-should-be-a-podcaster/)
 
 - [记录繁忙 - 林海草原](https://lhcy.org/archives/180.html)
-
-- [长大了买你的货丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11574)
-
-- [别玩情绪 - 林海草原](https://lhcy.org/archives/179.html)
 
 
 
