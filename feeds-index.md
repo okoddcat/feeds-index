@@ -1,7 +1,9 @@
-*更新时间：06-27 11:50*
+*更新时间：06-29 00:05*
 
 
 
+
+- [重温老片《力王》 - 破袜子](https://pewae.com/2022/06/review-story-of-ricky.html)
 
 - [装着自己的身体走 - 一天世界](https://blog.yitianshijie.net/2022/06/27/how-do-you-carry-yourself/)
 
@@ -40,8 +42,6 @@
 - [Reeder 也支持订阅啁啾会馆了 - 一天世界](https://blog.yitianshijie.net/2022/06/20/read-twitter-in-reeder/)
 
 - [社交网络和离家出走 - 一天世界](https://blog.yitianshijie.net/2022/06/20/social-media-and-runaways/)
-
-- [Activist 的正确样子 - 一天世界](https://blog.yitianshijie.net/2022/06/20/how-to-be-an-activist/)
 
 
 
