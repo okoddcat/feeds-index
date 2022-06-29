@@ -1,9 +1,11 @@
-*更新时间：06-29 08:05*
+*更新时间：06-29 13:50*
 
 
 
 
 - [黑是白，猪是狗 - 一天世界](https://blog.yitianshijie.net/2022/06/29/%e9%bb%91%e6%98%af%e7%99%bd%ef%bc%8c%e7%8c%aa%e6%98%af%e7%8b%97/)
+
+- [黑是白，猪是狗 - 一天世界](https://blog.yitianshijie.net/2022/06/29/black-is-white-pig-is-dog/)
 
 - [重温老片《力王》 - 破袜子](https://pewae.com/2022/06/review-story-of-ricky.html)
 
@@ -40,8 +42,6 @@
 - [电影推个荐/2021-2 - 非礼勿言](https://feiliwuyan.com/movie-recommendation-2021-2/)
 
 - [从网上消失的人 - 一天世界](https://blog.yitianshijie.net/2022/06/21/those-who-disappeared-from-the-internet/)
-
-- [Reeder 也支持订阅啁啾会馆了 - 一天世界](https://blog.yitianshijie.net/2022/06/20/read-twitter-in-reeder/)
 
 
 
