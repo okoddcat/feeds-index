@@ -1,7 +1,9 @@
-*更新时间：06-29 13:50*
+*更新时间：06-30 14:50*
 
 
 
+
+- [简单正面的事 - 一天世界](https://blog.yitianshijie.net/2022/06/30/simple-and-positive/)
 
 - [黑是白，猪是狗 - 一天世界](https://blog.yitianshijie.net/2022/06/29/%e9%bb%91%e6%98%af%e7%99%bd%ef%bc%8c%e7%8c%aa%e6%98%af%e7%8b%97/)
 
@@ -40,8 +42,6 @@
 - [中年男人不如狗 - 土木坛子](https://tumutanzi.com/archives/16907)
 
 - [电影推个荐/2021-2 - 非礼勿言](https://feiliwuyan.com/movie-recommendation-2021-2/)
-
-- [从网上消失的人 - 一天世界](https://blog.yitianshijie.net/2022/06/21/those-who-disappeared-from-the-internet/)
 
 
 
