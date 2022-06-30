@@ -1,7 +1,11 @@
-*更新时间：06-30 14:50*
+*更新时间：06-30 15:50*
 
 
 
+
+- [抖音不是工具 - 一天世界](https://blog.yitianshijie.net/2022/06/30/tiktok-is-not-a-tool-but-a-set-of-rules/)
+
+- [教材还是文字书？ - 一天世界](https://blog.yitianshijie.net/2022/06/30/textbook-and-text-space-book/)
 
 - [简单正面的事 - 一天世界](https://blog.yitianshijie.net/2022/06/30/simple-and-positive/)
 
@@ -38,10 +42,6 @@
 - [TCL太垃圾，我奉劝各位千万不要买 - 伪医生律师的博客](https://chidd.net/2022/06/23/tcl-la-ji.html)
 
 - [普通人 - 一天世界](https://blog.yitianshijie.net/2022/06/22/common-people/)
-
-- [中年男人不如狗 - 土木坛子](https://tumutanzi.com/archives/16907)
-
-- [电影推个荐/2021-2 - 非礼勿言](https://feiliwuyan.com/movie-recommendation-2021-2/)
 
 
 
