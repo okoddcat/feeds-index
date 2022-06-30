@@ -1,7 +1,9 @@
-*更新时间：06-30 15:50*
+*更新时间：07-01 04:50*
 
 
 
+
+- [你用电，我用心 - 攻城狮笔记](https://qumac.com/?p=2265)
 
 - [抖音不是工具 - 一天世界](https://blog.yitianshijie.net/2022/06/30/tiktok-is-not-a-tool-but-a-set-of-rules/)
 
@@ -40,8 +42,6 @@
 - [啁啾札记，no thanks - 一天世界](https://blog.yitianshijie.net/2022/06/23/twitter-notes-no-thanks/)
 
 - [TCL太垃圾，我奉劝各位千万不要买 - 伪医生律师的博客](https://chidd.net/2022/06/23/tcl-la-ji.html)
-
-- [普通人 - 一天世界](https://blog.yitianshijie.net/2022/06/22/common-people/)
 
 
 
