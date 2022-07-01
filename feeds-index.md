@@ -1,7 +1,9 @@
-*更新时间：07-01 04:50*
+*更新时间：07-01 11:05*
 
 
 
+
+- [No auto-mastering for me - 一天世界](https://blog.yitianshijie.net/2022/07/01/no-auto-mastering-for-me/)
 
 - [你用电，我用心 - 攻城狮笔记](https://qumac.com/?p=2265)
 
@@ -40,8 +42,6 @@
 - [文本·揾笨 - 一天世界](https://blog.yitianshijie.net/2022/06/23/sex-text-michael-lam/)
 
 - [啁啾札记，no thanks - 一天世界](https://blog.yitianshijie.net/2022/06/23/twitter-notes-no-thanks/)
-
-- [TCL太垃圾，我奉劝各位千万不要买 - 伪医生律师的博客](https://chidd.net/2022/06/23/tcl-la-ji.html)
 
 
 
