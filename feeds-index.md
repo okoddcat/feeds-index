@@ -1,7 +1,9 @@
-*更新时间：07-01 11:05*
+*更新时间：07-01 11:50*
 
 
 
+
+- [可惜中文没有复数 - 一天世界](https://blog.yitianshijie.net/2022/07/01/plural-for-chinese-please/)
 
 - [No auto-mastering for me - 一天世界](https://blog.yitianshijie.net/2022/07/01/no-auto-mastering-for-me/)
 
@@ -40,8 +42,6 @@
 - [使用 umami 统计 - oldj's blog](https://oldj.net/article/2022/06/24/use-umami/)
 
 - [文本·揾笨 - 一天世界](https://blog.yitianshijie.net/2022/06/23/sex-text-michael-lam/)
-
-- [啁啾札记，no thanks - 一天世界](https://blog.yitianshijie.net/2022/06/23/twitter-notes-no-thanks/)
 
 
 
