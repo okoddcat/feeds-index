@@ -1,7 +1,9 @@
-*更新时间：07-02 11:05*
+*更新时间：07-02 13:50*
 
 
 
+
+- [待机时间越来越短丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11584)
 
 - [中文解毒二二零七零二 - 一天世界](https://blog.yitianshijie.net/2022/07/02/chinese-detox-20220702/)
 
@@ -40,8 +42,6 @@
 - [近期阅读书目简评 - 伪医生律师的博客](https://chidd.net/2022/06/24/read-book.html)
 
 - [抄袭抄袭 - 一天世界](https://blog.yitianshijie.net/2022/06/24/plagiarism-plagiarism/)
-
-- [使用 umami 统计 - oldj's blog](https://oldj.net/article/2022/06/24/use-umami/)
 
 
 
