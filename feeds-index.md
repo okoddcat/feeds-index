@@ -1,7 +1,9 @@
-*更新时间：07-01 11:50*
+*更新时间：07-02 11:05*
 
 
 
+
+- [中文解毒二二零七零二 - 一天世界](https://blog.yitianshijie.net/2022/07/02/chinese-detox-20220702/)
 
 - [可惜中文没有复数 - 一天世界](https://blog.yitianshijie.net/2022/07/01/plural-for-chinese-please/)
 
@@ -40,8 +42,6 @@
 - [抄袭抄袭 - 一天世界](https://blog.yitianshijie.net/2022/06/24/plagiarism-plagiarism/)
 
 - [使用 umami 统计 - oldj's blog](https://oldj.net/article/2022/06/24/use-umami/)
-
-- [文本·揾笨 - 一天世界](https://blog.yitianshijie.net/2022/06/23/sex-text-michael-lam/)
 
 
 
