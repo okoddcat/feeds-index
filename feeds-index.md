@@ -1,7 +1,9 @@
-*更新时间：07-03 23:50*
+*更新时间：07-04 08:50*
 
 
 
+
+- [不怕装外宾 - 一天世界](https://blog.yitianshijie.net/2022/07/04/zhong-ti-xi-yong-primer/)
 
 - [我的小狼毫输入法备忘录 - 破袜子](https://pewae.com/2022/07/memo-of-configuring-rime.html)
 
@@ -40,8 +42,6 @@
 - [近期网络项目的问题及处理 - 林海草原](https://lhcy.org/archives/181.html)
 
 - [中体勿用 - 一天世界](https://blog.yitianshijie.net/2022/06/25/zhong-ti-wu-yong/)
-
-- [关于Trilium - 随望淡思](https://www.lushaojun.com/5121.html)
 
 
 
