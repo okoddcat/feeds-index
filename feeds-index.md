@@ -1,7 +1,9 @@
-*更新时间：07-06 16:05*
+*更新时间：07-06 18:50*
 
 
 
+
+- [《一天世界》会员通讯：南亚人与香港 - 一天世界](https://blog.yitianshijie.net/2022/07/06/yitianshijie-newsletter-south-asians-and-hong-kong/)
 
 - [分组功能在挂接系统上的使用 - 云风的 BLOG](https://blog.codingnow.com/2022/07/group_mount.html)
 
@@ -40,8 +42,6 @@
 - [重温老片《力王》 - 破袜子](https://pewae.com/2022/06/review-story-of-ricky.html)
 
 - [装着自己的身体走 - 一天世界](https://blog.yitianshijie.net/2022/06/27/how-do-you-carry-yourself/)
-
-- [Vol. 71 老苏: 在北京工作和生活是什么体验？ - 枫言枫语](https://justinyan.me/post/4971)
 
 
 
