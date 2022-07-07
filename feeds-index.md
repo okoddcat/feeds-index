@@ -1,7 +1,9 @@
-*更新时间：07-06 18:50*
+*更新时间：07-07 18:50*
 
 
 
+
+- [又和苏静录了一期「日本 20 小时」 - 一天世界](https://blog.yitianshijie.net/2022/07/07/another-podcast-with-su-jing/)
 
 - [《一天世界》会员通讯：南亚人与香港 - 一天世界](https://blog.yitianshijie.net/2022/07/06/yitianshijie-newsletter-south-asians-and-hong-kong/)
 
@@ -40,8 +42,6 @@
 - [黑是白，猪是狗 - 一天世界](https://blog.yitianshijie.net/2022/06/29/black-is-white-pig-is-dog/)
 
 - [重温老片《力王》 - 破袜子](https://pewae.com/2022/06/review-story-of-ricky.html)
-
-- [装着自己的身体走 - 一天世界](https://blog.yitianshijie.net/2022/06/27/how-do-you-carry-yourself/)
 
 
 
