@@ -1,7 +1,9 @@
-*更新时间：07-07 18:50*
+*更新时间：07-07 21:50*
 
 
 
+
+- [两只眼睛看到的 CMkids 大地艺术 - 白板报](https://wangpei.net/2022/07/07/cmkids-arts-on-earth/)
 
 - [又和苏静录了一期「日本 20 小时」 - 一天世界](https://blog.yitianshijie.net/2022/07/07/another-podcast-with-su-jing/)
 
@@ -40,8 +42,6 @@
 - [黑是白，猪是狗 - 一天世界](https://blog.yitianshijie.net/2022/06/29/%e9%bb%91%e6%98%af%e7%99%bd%ef%bc%8c%e7%8c%aa%e6%98%af%e7%8b%97/)
 
 - [黑是白，猪是狗 - 一天世界](https://blog.yitianshijie.net/2022/06/29/black-is-white-pig-is-dog/)
-
-- [重温老片《力王》 - 破袜子](https://pewae.com/2022/06/review-story-of-ricky.html)
 
 
 
