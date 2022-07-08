@@ -1,7 +1,9 @@
-*更新时间：07-09 03:50*
+*更新时间：07-09 04:50*
 
 
 
+
+- [芝加哥美术馆 - 狡猫三窝](https://slykiten.com/life-note/art-institute-of-chicago/)
 
 - [芝加哥科学与工业博物馆 - 狡猫三窝](https://slykiten.com/life-note/museum-of-science-and-industry/)
 
@@ -40,8 +42,6 @@
 - [中文解毒二二零七零二 - 一天世界](https://blog.yitianshijie.net/2022/07/02/chinese-detox-20220702/)
 
 - [可惜中文没有复数 - 一天世界](https://blog.yitianshijie.net/2022/07/01/plural-for-chinese-please/)
-
-- [No auto-mastering for me - 一天世界](https://blog.yitianshijie.net/2022/07/01/no-auto-mastering-for-me/)
 
 
 
