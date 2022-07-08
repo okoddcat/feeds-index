@@ -1,7 +1,9 @@
-*更新时间：07-08 21:50*
+*更新时间：07-08 23:50*
 
 
 
+
+- [乐高 梵高-星月夜 - 狡猫三窝](https://slykiten.com/life-note/lego-van-gogh-the-starry-night/)
 
 - [安倍被刺杀 - 狡猫三窝](https://slykiten.com/fragment/assassinated-abe/)
 
@@ -40,8 +42,6 @@
 - [No auto-mastering for me - 一天世界](https://blog.yitianshijie.net/2022/07/01/no-auto-mastering-for-me/)
 
 - [你用电，我用心 - 攻城狮笔记](https://qumac.com/?p=2265)
-
-- [抖音不是工具 - 一天世界](https://blog.yitianshijie.net/2022/06/30/tiktok-is-not-a-tool-but-a-set-of-rules/)
 
 
 
