@@ -1,7 +1,9 @@
-*更新时间：07-08 16:50*
+*更新时间：07-08 21:50*
 
 
 
+
+- [安倍被刺杀 - 狡猫三窝](https://slykiten.com/fragment/assassinated-abe/)
 
 - [啊，又过去半年 - 林海草原](https://lhcy.org/archives/182.html)
 
@@ -40,8 +42,6 @@
 - [你用电，我用心 - 攻城狮笔记](https://qumac.com/?p=2265)
 
 - [抖音不是工具 - 一天世界](https://blog.yitianshijie.net/2022/06/30/tiktok-is-not-a-tool-but-a-set-of-rules/)
-
-- [教材还是文字书？ - 一天世界](https://blog.yitianshijie.net/2022/06/30/textbook-and-text-space-book/)
 
 
 
