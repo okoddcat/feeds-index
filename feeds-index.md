@@ -1,7 +1,9 @@
-*更新时间：07-08 23:50*
+*更新时间：07-09 03:50*
 
 
 
+
+- [芝加哥科学与工业博物馆 - 狡猫三窝](https://slykiten.com/life-note/museum-of-science-and-industry/)
 
 - [乐高 梵高-星月夜 - 狡猫三窝](https://slykiten.com/life-note/lego-van-gogh-the-starry-night/)
 
@@ -40,8 +42,6 @@
 - [可惜中文没有复数 - 一天世界](https://blog.yitianshijie.net/2022/07/01/plural-for-chinese-please/)
 
 - [No auto-mastering for me - 一天世界](https://blog.yitianshijie.net/2022/07/01/no-auto-mastering-for-me/)
-
-- [你用电，我用心 - 攻城狮笔记](https://qumac.com/?p=2265)
 
 
 
