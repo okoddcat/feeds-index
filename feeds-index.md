@@ -1,7 +1,9 @@
-*更新时间：07-11 09:50*
+*更新时间：07-11 16:50*
 
 
 
+
+- [说漏嘴的王院长 - 一天世界](https://blog.yitianshijie.net/2022/07/11/are-chinese-people-not-sophisticated-in-general/)
 
 - [It’s visual and physicality - 一天世界](https://blog.yitianshijie.net/2022/07/11/it-is-visual-and-physicality/)
 
@@ -40,8 +42,6 @@
 - [分组功能在挂接系统上的使用 - 云风的 BLOG](https://blog.codingnow.com/2022/07/group_mount.html)
 
 - [曹志涟《十七世纪废址》 - 一天世界](https://blog.yitianshijie.net/2022/07/05/jerlian-tsao-dream-book-and-lost-libraries-of-late-ming/)
-
-- [妳被内容伤害过吗 - 一天世界](https://blog.yitianshijie.net/2022/07/05/have-you-been-harmed-by-content/)
 
 
 
