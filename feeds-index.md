@@ -1,7 +1,9 @@
-*更新时间：07-10 20:50*
+*更新时间：07-11 09:05*
 
 
 
+
+- [「大翻译运动」 - 一天世界](https://blog.yitianshijie.net/2022/07/11/great-translation-movement/)
 
 - [Markdown 与所见即所得 - 一天世界](https://blog.yitianshijie.net/2022/07/10/markdown-and-wysiwyg/)
 
@@ -40,8 +42,6 @@
 - [不怕装外宾 - 一天世界](https://blog.yitianshijie.net/2022/07/04/zhong-ti-xi-yong-primer/)
 
 - [我的小狼毫输入法备忘录 - 破袜子](https://pewae.com/2022/07/memo-of-configuring-rime.html)
-
-- [新世界 - 一天世界](https://blog.yitianshijie.net/2022/07/03/new-world/)
 
 
 
