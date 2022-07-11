@@ -1,7 +1,11 @@
-*更新时间：07-11 09:05*
+*更新时间：07-11 09:50*
 
 
 
+
+- [It’s visual and physicality - 一天世界](https://blog.yitianshijie.net/2022/07/11/it-is-visual-and-physicality/)
+
+- [语言葵花宝典 - 一天世界](https://blog.yitianshijie.net/2022/07/11/language-castration/)
 
 - [「大翻译运动」 - 一天世界](https://blog.yitianshijie.net/2022/07/11/great-translation-movement/)
 
@@ -38,10 +42,6 @@
 - [曹志涟《十七世纪废址》 - 一天世界](https://blog.yitianshijie.net/2022/07/05/jerlian-tsao-dream-book-and-lost-libraries-of-late-ming/)
 
 - [妳被内容伤害过吗 - 一天世界](https://blog.yitianshijie.net/2022/07/05/have-you-been-harmed-by-content/)
-
-- [不怕装外宾 - 一天世界](https://blog.yitianshijie.net/2022/07/04/zhong-ti-xi-yong-primer/)
-
-- [我的小狼毫输入法备忘录 - 破袜子](https://pewae.com/2022/07/memo-of-configuring-rime.html)
 
 
 
