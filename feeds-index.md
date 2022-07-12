@@ -1,7 +1,11 @@
-*更新时间：07-12 14:50*
+*更新时间：07-12 15:50*
 
 
 
+
+- [写给谁看 - 一天世界](https://blog.yitianshijie.net/2022/07/12/who-is-your-reader/)
+
+- [关于「符控流域」（cyberspace） - 一天世界](https://blog.yitianshijie.net/2022/07/12/on-fukongliuyu/)
 
 - [背诵全文 - 一天世界](https://blog.yitianshijie.net/2022/07/12/let-us-print-this-on-a-poster/)
 
@@ -38,10 +42,6 @@
 - [使用 React 开发 Chrome 扩展 - oldj's blog](https://oldj.net/article/2022/07/08/chrome-extension-with-react/)
 
 - [两只眼睛看到的 CMkids 大地艺术 - 白板报](https://wangpei.net/2022/07/07/cmkids-arts-on-earth/)
-
-- [又和苏静录了一期「日本 20 小时」 - 一天世界](https://blog.yitianshijie.net/2022/07/07/another-podcast-with-su-jing/)
-
-- [《一天世界》会员通讯：南亚人与香港 - 一天世界](https://blog.yitianshijie.net/2022/07/06/yitianshijie-newsletter-south-asians-and-hong-kong/)
 
 
 
