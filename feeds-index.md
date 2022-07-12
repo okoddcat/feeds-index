@@ -1,7 +1,9 @@
-*更新时间：07-12 13:10*
+*更新时间：07-12 14:50*
 
 
 
+
+- [背诵全文 - 一天世界](https://blog.yitianshijie.net/2022/07/12/let-us-print-this-on-a-poster/)
 
 - [说漏嘴的王院长 - 一天世界](https://blog.yitianshijie.net/2022/07/11/are-chinese-people-not-sophisticated-in-general/)
 
@@ -40,8 +42,6 @@
 - [又和苏静录了一期「日本 20 小时」 - 一天世界](https://blog.yitianshijie.net/2022/07/07/another-podcast-with-su-jing/)
 
 - [《一天世界》会员通讯：南亚人与香港 - 一天世界](https://blog.yitianshijie.net/2022/07/06/yitianshijie-newsletter-south-asians-and-hong-kong/)
-
-- [分组功能在挂接系统上的使用 - 云风的 BLOG](https://blog.codingnow.com/2022/07/group_mount.html)
 
 
 
