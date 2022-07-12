@@ -1,4 +1,4 @@
-*更新时间：07-11 16:50*
+*更新时间：07-12 13:10*
 
 
 
@@ -10,6 +10,8 @@
 - [语言葵花宝典 - 一天世界](https://blog.yitianshijie.net/2022/07/11/language-castration/)
 
 - [「大翻译运动」 - 一天世界](https://blog.yitianshijie.net/2022/07/11/great-translation-movement/)
+
+- [特斯拉的马斯克愚弄了全世界 - 土木坛子](https://tumutanzi.com/archives/16909)
 
 - [Markdown 与所见即所得 - 一天世界](https://blog.yitianshijie.net/2022/07/10/markdown-and-wysiwyg/)
 
@@ -40,8 +42,6 @@
 - [《一天世界》会员通讯：南亚人与香港 - 一天世界](https://blog.yitianshijie.net/2022/07/06/yitianshijie-newsletter-south-asians-and-hong-kong/)
 
 - [分组功能在挂接系统上的使用 - 云风的 BLOG](https://blog.codingnow.com/2022/07/group_mount.html)
-
-- [曹志涟《十七世纪废址》 - 一天世界](https://blog.yitianshijie.net/2022/07/05/jerlian-tsao-dream-book-and-lost-libraries-of-late-ming/)
 
 
 
