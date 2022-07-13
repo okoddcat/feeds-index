@@ -1,7 +1,9 @@
-*更新时间：07-12 21:50*
+*更新时间：07-13 15:50*
 
 
 
+
+- [为什么现在找不到好信息 - 一天世界](https://blog.yitianshijie.net/2022/07/13/why-cant-we-find-good-information-now/)
 
 - [布法罗植物园 - 狡猫三窝](https://slykiten.com/life-note/botanical-garden-buffalo/)
 
@@ -40,8 +42,6 @@
 - [安倍被刺杀 - 狡猫三窝](https://slykiten.com/fragment/assassinated-abe/)
 
 - [啊，又过去半年 - 林海草原](https://lhcy.org/archives/182.html)
-
-- [ECS 系统中 Entity 的生命期管理 - 云风的 BLOG](https://blog.codingnow.com/2022/07/entity_lifespan.html)
 
 
 
