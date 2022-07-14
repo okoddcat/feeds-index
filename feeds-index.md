@@ -1,7 +1,9 @@
-*更新时间：07-13 15:50*
+*更新时间：07-14 11:05*
 
 
 
+
+- [不能，不是 - 一天世界](https://blog.yitianshijie.net/2022/07/14/no-and-no/)
 
 - [为什么现在找不到好信息 - 一天世界](https://blog.yitianshijie.net/2022/07/13/why-cant-we-find-good-information-now/)
 
@@ -40,8 +42,6 @@
 - [乐高 梵高-星月夜 - 狡猫三窝](https://slykiten.com/life-note/lego-van-gogh-the-starry-night/)
 
 - [安倍被刺杀 - 狡猫三窝](https://slykiten.com/fragment/assassinated-abe/)
-
-- [啊，又过去半年 - 林海草原](https://lhcy.org/archives/182.html)
 
 
 
