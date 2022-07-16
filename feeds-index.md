@@ -1,7 +1,9 @@
-*更新时间：07-15 10:50*
+*更新时间：07-16 13:50*
 
 
 
+
+- [我是一个爱清洁的人丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11593)
 
 - [Electron 在 Windows 下的代码签名 - oldj's blog](https://oldj.net/article/2022/07/15/code-signing-with-electron-on-windows/)
 
@@ -40,8 +42,6 @@
 - [小轮公路车的改装 - 渚碧](https://jubeny.com/2022/07/refit-of-my-road-bike-with-small-wheels/)
 
 - [芝加哥美术馆 - 狡猫三窝](https://slykiten.com/life-note/art-institute-of-chicago/)
-
-- [芝加哥科学与工业博物馆 - 狡猫三窝](https://slykiten.com/life-note/museum-of-science-and-industry/)
 
 
 
