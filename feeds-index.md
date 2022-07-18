@@ -1,7 +1,9 @@
-*更新时间：07-18 16:50*
+*更新时间：07-19 00:50*
 
 
 
+
+- [Vol. 72 我们做了个能帮大家发现播客的小玩具 - 枫言枫语](https://justinyan.me/post/5043)
 
 - [家长会之后会无期 - 破袜子](https://pewae.com/2022/07/twelfth-parents-and-teachers-committee.html)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（075） - 破袜子](https://pewae.com/2022/07/random_kuso_75.html)
 
 - [拿一根雪糕撒气丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11588)
-
-- [小轮公路车的改装 - 渚碧](https://jubeny.com/2022/07/refit-of-my-road-bike-with-small-wheels/)
 
 
 
