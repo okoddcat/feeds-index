@@ -1,7 +1,9 @@
-*更新时间：07-20 10:50*
+*更新时间：07-20 14:50*
 
 
 
+
+- [用Acrobat将多张发票打印到一页中 - 攻城狮笔记](https://qumac.com/?p=2279)
 
 - [重构数学库 - 云风的 BLOG](https://blog.codingnow.com/2022/07/refactor_math3d.html)
 
@@ -40,8 +42,6 @@
 - [特斯拉的马斯克愚弄了全世界 - 土木坛子](https://tumutanzi.com/archives/16909)
 
 - [Markdown 与所见即所得 - 一天世界](https://blog.yitianshijie.net/2022/07/10/markdown-and-wysiwyg/)
-
-- [每夫吐槽（075） - 破袜子](https://pewae.com/2022/07/random_kuso_75.html)
 
 
 
