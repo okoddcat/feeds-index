@@ -1,7 +1,9 @@
-*更新时间：07-21 09:50*
+*更新时间：07-21 13:50*
 
 
 
+
+- [我的博客加载速度优化：看似无用所学，终有用武之地 - 枫言枫语](https://justinyan.me/post/5046)
 
 - [在路上（一） - 林海草原](https://lhcy.org/archives/184.html)
 
@@ -40,8 +42,6 @@
 - [语言葵花宝典 - 一天世界](https://blog.yitianshijie.net/2022/07/11/language-castration/)
 
 - [「大翻译运动」 - 一天世界](https://blog.yitianshijie.net/2022/07/11/great-translation-movement/)
-
-- [特斯拉的马斯克愚弄了全世界 - 土木坛子](https://tumutanzi.com/archives/16909)
 
 
 
