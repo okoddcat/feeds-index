@@ -1,7 +1,9 @@
-*更新时间：07-22 11:50*
+*更新时间：07-22 16:50*
 
 
 
+
+- [macOS 截屏快捷键 - 一天世界](https://blog.yitianshijie.net/2022/07/22/how-to-move-and-change-size-of-macos-screenshot-area/)
 
 - [陌生人协作的限度 - 一天世界](https://blog.yitianshijie.net/2022/07/22/the-limit-of-stranger-collaboration/)
 
@@ -40,8 +42,6 @@
 - [写给谁看 - 一天世界](https://blog.yitianshijie.net/2022/07/12/who-is-your-reader/)
 
 - [关于「符控流域」（cyberspace） - 一天世界](https://blog.yitianshijie.net/2022/07/12/on-fukongliuyu/)
-
-- [背诵全文 - 一天世界](https://blog.yitianshijie.net/2022/07/12/let-us-print-this-on-a-poster/)
 
 
 
