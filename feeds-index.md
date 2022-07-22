@@ -1,4 +1,4 @@
-*更新时间：07-21 13:50*
+*更新时间：07-22 10:05*
 
 
 
@@ -10,6 +10,12 @@
 - [用Acrobat将多张发票打印到一页中 - 攻城狮笔记](https://qumac.com/?p=2279)
 
 - [重构数学库 - 云风的 BLOG](https://blog.codingnow.com/2022/07/refactor_math3d.html)
+
+- [河神 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2022/07/river-god/)
+
+- [糖之妙效 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2022/07/sugar-effect/)
+
+- [丹佛夜影 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2022/07/denver-shadow/)
 
 - [Vol. 72 我们做了个能帮大家发现播客的小玩具 - 枫言枫语](https://justinyan.me/post/5043)
 
@@ -36,12 +42,6 @@
 - [背诵全文 - 一天世界](https://blog.yitianshijie.net/2022/07/12/let-us-print-this-on-a-poster/)
 
 - [说漏嘴的王院长 - 一天世界](https://blog.yitianshijie.net/2022/07/11/are-chinese-people-not-sophisticated-in-general/)
-
-- [It’s visual and physicality - 一天世界](https://blog.yitianshijie.net/2022/07/11/it-is-visual-and-physicality/)
-
-- [语言葵花宝典 - 一天世界](https://blog.yitianshijie.net/2022/07/11/language-castration/)
-
-- [「大翻译运动」 - 一天世界](https://blog.yitianshijie.net/2022/07/11/great-translation-movement/)
 
 
 
