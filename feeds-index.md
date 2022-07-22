@@ -1,7 +1,9 @@
-*更新时间：07-22 10:05*
+*更新时间：07-22 11:50*
 
 
 
+
+- [陌生人协作的限度 - 一天世界](https://blog.yitianshijie.net/2022/07/22/the-limit-of-stranger-collaboration/)
 
 - [我的博客加载速度优化：看似无用所学，终有用武之地 - 枫言枫语](https://justinyan.me/post/5046)
 
@@ -40,8 +42,6 @@
 - [关于「符控流域」（cyberspace） - 一天世界](https://blog.yitianshijie.net/2022/07/12/on-fukongliuyu/)
 
 - [背诵全文 - 一天世界](https://blog.yitianshijie.net/2022/07/12/let-us-print-this-on-a-poster/)
-
-- [说漏嘴的王院长 - 一天世界](https://blog.yitianshijie.net/2022/07/11/are-chinese-people-not-sophisticated-in-general/)
 
 
 
