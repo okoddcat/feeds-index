@@ -1,7 +1,9 @@
-*更新时间：07-22 16:50*
+*更新时间：07-23 09:05*
 
 
 
+
+- [问谁智未开 - 一天世界](https://blog.yitianshijie.net/2022/07/23/who-is-dumb/)
 
 - [macOS 截屏快捷键 - 一天世界](https://blog.yitianshijie.net/2022/07/22/how-to-move-and-change-size-of-macos-screenshot-area/)
 
@@ -40,8 +42,6 @@
 - [时代已经黑了 - 一天世界](https://blog.yitianshijie.net/2022/07/12/shidai-yijing-hei-le/)
 
 - [写给谁看 - 一天世界](https://blog.yitianshijie.net/2022/07/12/who-is-your-reader/)
-
-- [关于「符控流域」（cyberspace） - 一天世界](https://blog.yitianshijie.net/2022/07/12/on-fukongliuyu/)
 
 
 
