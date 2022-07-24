@@ -1,7 +1,9 @@
-*更新时间：07-23 13:50*
+*更新时间：07-24 14:50*
 
 
 
+
+- [NFT 依然无法说服我 - 一天世界](https://blog.yitianshijie.net/2022/07/24/nft-still-meh/)
 
 - [百年修得约一管丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11599)
 
@@ -40,8 +42,6 @@
 - [为什么现在找不到好信息 - 一天世界](https://blog.yitianshijie.net/2022/07/13/why-cant-we-find-good-information-now/)
 
 - [布法罗植物园 - 狡猫三窝](https://slykiten.com/life-note/botanical-garden-buffalo/)
-
-- [时代已经黑了 - 一天世界](https://blog.yitianshijie.net/2022/07/12/shidai-yijing-hei-le/)
 
 
 
