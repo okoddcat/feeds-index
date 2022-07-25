@@ -1,7 +1,9 @@
-*更新时间：07-24 14:50*
+*更新时间：07-25 09:50*
 
 
 
+
+- [二次创作 - 一天世界](https://blog.yitianshijie.net/2022/07/25/derivative/)
 
 - [NFT 依然无法说服我 - 一天世界](https://blog.yitianshijie.net/2022/07/24/nft-still-meh/)
 
@@ -40,8 +42,6 @@
 - [不能，不是 - 一天世界](https://blog.yitianshijie.net/2022/07/14/no-and-no/)
 
 - [为什么现在找不到好信息 - 一天世界](https://blog.yitianshijie.net/2022/07/13/why-cant-we-find-good-information-now/)
-
-- [布法罗植物园 - 狡猫三窝](https://slykiten.com/life-note/botanical-garden-buffalo/)
 
 
 
