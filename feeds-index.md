@@ -1,7 +1,9 @@
-*更新时间：07-26 13:50*
+*更新时间：07-26 21:50*
 
 
 
+
+- [Exoticism - 一天世界](https://blog.yitianshijie.net/2022/07/26/exoticism/)
 
 - [讽刺与犬儒 - 一天世界](https://blog.yitianshijie.net/2022/07/26/sarcasm-and-cynicism/)
 
@@ -40,8 +42,6 @@
 - [Electron 在 Windows 下的代码签名 - oldj's blog](https://oldj.net/article/2022/07/15/code-signing-with-electron-on-windows/)
 
 - [博客改版&使用区块编辑器 - 林海草原](https://lhcy.org/archives/183.html)
-
-- [不能，不是 - 一天世界](https://blog.yitianshijie.net/2022/07/14/no-and-no/)
 
 
 
