@@ -1,7 +1,9 @@
-*更新时间：07-25 09:50*
+*更新时间：07-26 13:50*
 
 
 
+
+- [讽刺与犬儒 - 一天世界](https://blog.yitianshijie.net/2022/07/26/sarcasm-and-cynicism/)
 
 - [二次创作 - 一天世界](https://blog.yitianshijie.net/2022/07/25/derivative/)
 
@@ -40,8 +42,6 @@
 - [博客改版&使用区块编辑器 - 林海草原](https://lhcy.org/archives/183.html)
 
 - [不能，不是 - 一天世界](https://blog.yitianshijie.net/2022/07/14/no-and-no/)
-
-- [为什么现在找不到好信息 - 一天世界](https://blog.yitianshijie.net/2022/07/13/why-cant-we-find-good-information-now/)
 
 
 
