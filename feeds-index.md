@@ -1,7 +1,9 @@
-*更新时间：07-28 17:50*
+*更新时间：07-30 08:50*
 
 
 
+
+- [农民和农民 - 一天世界](https://blog.yitianshijie.net/2022/07/30/peasant-and-peasant/)
 
 - [RmlUI 的 style 缓存 - 云风的 BLOG](https://blog.codingnow.com/2022/07/rmlui_style_cache.html)
 
@@ -40,8 +42,6 @@
 - [家长会之后会无期 - 破袜子](https://pewae.com/2022/07/twelfth-parents-and-teachers-committee.html)
 
 - [我是一个爱清洁的人丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11593)
-
-- [Electron 在 Windows 下的代码签名 - oldj's blog](https://oldj.net/article/2022/07/15/code-signing-with-electron-on-windows/)
 
 
 
