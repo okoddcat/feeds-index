@@ -1,7 +1,9 @@
-*更新时间：07-30 13:50*
+*更新时间：08-01 01:05*
 
 
 
+
+- [被事实击溃的宣传 - 渚碧](https://jubeny.com/2022/07/propaganda-smashed-by-the-fact/)
 
 - [二舅，不要贪杯哦丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11604)
 
@@ -40,8 +42,6 @@
 - [丹佛夜影 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2022/07/denver-shadow/)
 
 - [Vol. 72 我们做了个能帮大家发现播客的小玩具 - 枫言枫语](https://justinyan.me/post/5043)
-
-- [家长会之后会无期 - 破袜子](https://pewae.com/2022/07/twelfth-parents-and-teachers-committee.html)
 
 
 
