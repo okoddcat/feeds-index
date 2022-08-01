@@ -1,7 +1,9 @@
-*更新时间：08-01 10:05*
+*更新时间：08-01 10:50*
 
 
 
+
+- [一次奇怪的网络故障 - 伪医生律师的博客](https://chidd.net/2022/08/01/network-error.html)
 
 - [在路上（二） - 林海草原](https://lhcy.org/archives/185.html)
 
@@ -40,8 +42,6 @@
 - [重构数学库 - 云风的 BLOG](https://blog.codingnow.com/2022/07/refactor_math3d.html)
 
 - [河神 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2022/07/river-god/)
-
-- [糖之妙效 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2022/07/sugar-effect/)
 
 
 
