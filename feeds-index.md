@@ -1,7 +1,9 @@
-*更新时间：08-01 07:50*
+*更新时间：08-01 10:05*
 
 
 
+
+- [在路上（二） - 林海草原](https://lhcy.org/archives/185.html)
 
 - [Vol. 73 未来我们还需要浏览器吗？ - 枫言枫语](https://justinyan.me/post/5059)
 
@@ -40,8 +42,6 @@
 - [河神 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2022/07/river-god/)
 
 - [糖之妙效 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2022/07/sugar-effect/)
-
-- [丹佛夜影 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2022/07/denver-shadow/)
 
 
 
