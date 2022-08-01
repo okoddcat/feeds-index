@@ -1,4 +1,4 @@
-*更新时间：08-01 10:50*
+*更新时间：08-02 02:50*
 
 
 
@@ -14,6 +14,8 @@
 - [二舅，不要贪杯哦丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11604)
 
 - [农民和农民 - 一天世界](https://blog.yitianshijie.net/2022/07/30/peasant-and-peasant/)
+
+- [独立日游匹兹堡 - 狡猫三窝](https://slykiten.com/life-note/the-fourth-of-july-in-pittsburg/)
 
 - [RmlUI 的 style 缓存 - 云风的 BLOG](https://blog.codingnow.com/2022/07/rmlui_style_cache.html)
 
@@ -40,8 +42,6 @@
 - [用Acrobat将多张发票打印到一页中 - 攻城狮笔记](https://qumac.com/?p=2279)
 
 - [重构数学库 - 云风的 BLOG](https://blog.codingnow.com/2022/07/refactor_math3d.html)
-
-- [河神 - 日志 on Yihui Xie | 谢益辉](https://yihui.org/cn/2022/07/river-god/)
 
 
 
