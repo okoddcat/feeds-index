@@ -1,7 +1,9 @@
-*更新时间：08-02 09:50*
+*更新时间：08-02 12:05*
 
 
 
+
+- [唐诗 vs. 汉诗 - 一天世界](https://blog.yitianshijie.net/2022/08/02/tangshi-vs-kanshi/)
 
 - [家里的网络故障终于解决了 - 伪医生律师的博客](https://chidd.net/2022/08/02/troubleshoot.html)
 
@@ -40,8 +42,6 @@
 - [我的博客加载速度优化：看似无用所学，终有用武之地 - 枫言枫语](https://justinyan.me/post/5046)
 
 - [在路上（一） - 林海草原](https://lhcy.org/archives/184.html)
-
-- [用Acrobat将多张发票打印到一页中 - 攻城狮笔记](https://qumac.com/?p=2279)
 
 
 
