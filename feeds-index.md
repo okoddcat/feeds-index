@@ -1,7 +1,9 @@
-*更新时间：08-02 12:05*
+*更新时间：08-02 12:50*
 
 
 
+
+- [每夫吐槽（076） - 破袜子](https://pewae.com/2022/08/random_kuso_76.html)
 
 - [唐诗 vs. 汉诗 - 一天世界](https://blog.yitianshijie.net/2022/08/02/tangshi-vs-kanshi/)
 
@@ -40,8 +42,6 @@
 - [陌生人协作的限度 - 一天世界](https://blog.yitianshijie.net/2022/07/22/the-limit-of-stranger-collaboration/)
 
 - [我的博客加载速度优化：看似无用所学，终有用武之地 - 枫言枫语](https://justinyan.me/post/5046)
-
-- [在路上（一） - 林海草原](https://lhcy.org/archives/184.html)
 
 
 
