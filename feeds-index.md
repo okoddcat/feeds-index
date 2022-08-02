@@ -1,7 +1,9 @@
-*更新时间：08-02 02:50*
+*更新时间：08-02 09:50*
 
 
 
+
+- [家里的网络故障终于解决了 - 伪医生律师的博客](https://chidd.net/2022/08/02/troubleshoot.html)
 
 - [一次奇怪的网络故障 - 伪医生律师的博客](https://chidd.net/2022/08/01/network-error.html)
 
@@ -40,8 +42,6 @@
 - [在路上（一） - 林海草原](https://lhcy.org/archives/184.html)
 
 - [用Acrobat将多张发票打印到一页中 - 攻城狮笔记](https://qumac.com/?p=2279)
-
-- [重构数学库 - 云风的 BLOG](https://blog.codingnow.com/2022/07/refactor_math3d.html)
 
 
 
