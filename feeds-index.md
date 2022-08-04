@@ -1,7 +1,9 @@
-*更新时间：08-02 12:50*
+*更新时间：08-04 11:05*
 
 
 
+
+- [Don’t make things I want - 一天世界](https://blog.yitianshijie.net/2022/08/04/dont-make-things-i-want/)
 
 - [每夫吐槽（076） - 破袜子](https://pewae.com/2022/08/random_kuso_76.html)
 
@@ -40,8 +42,6 @@
 - [macOS 截屏快捷键 - 一天世界](https://blog.yitianshijie.net/2022/07/22/how-to-move-and-change-size-of-macos-screenshot-area/)
 
 - [陌生人协作的限度 - 一天世界](https://blog.yitianshijie.net/2022/07/22/the-limit-of-stranger-collaboration/)
-
-- [我的博客加载速度优化：看似无用所学，终有用武之地 - 枫言枫语](https://justinyan.me/post/5046)
 
 
 
