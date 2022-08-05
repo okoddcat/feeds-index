@@ -1,7 +1,9 @@
-*更新时间：08-04 11:05*
+*更新时间：08-05 10:50*
 
 
 
+
+- [为 luaecs 增加内置 64bit ID - 云风的 BLOG](https://blog.codingnow.com/2022/08/luaecs_eid.html)
 
 - [Don’t make things I want - 一天世界](https://blog.yitianshijie.net/2022/08/04/dont-make-things-i-want/)
 
@@ -40,8 +42,6 @@
 - [问谁智未开 - 一天世界](https://blog.yitianshijie.net/2022/07/23/who-is-dumb/)
 
 - [macOS 截屏快捷键 - 一天世界](https://blog.yitianshijie.net/2022/07/22/how-to-move-and-change-size-of-macos-screenshot-area/)
-
-- [陌生人协作的限度 - 一天世界](https://blog.yitianshijie.net/2022/07/22/the-limit-of-stranger-collaboration/)
 
 
 
