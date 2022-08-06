@@ -1,7 +1,9 @@
-*更新时间：08-06 13:50*
+*更新时间：08-06 23:50*
 
 
 
+
+- [最小限度使用 - 渚碧](https://jubeny.com/2022/08/the-minimum-limit-usage/)
 
 - [它发出了打鼾般的声音丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11610)
 
@@ -40,8 +42,6 @@
 - [NFT 依然无法说服我 - 一天世界](https://blog.yitianshijie.net/2022/07/24/nft-still-meh/)
 
 - [百年修得约一管丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11599)
-
-- [问谁智未开 - 一天世界](https://blog.yitianshijie.net/2022/07/23/who-is-dumb/)
 
 
 
