@@ -1,7 +1,11 @@
-*更新时间：08-07 15:05*
+*更新时间：08-08 13:50*
 
 
 
+
+- [如何看懂新趋势 - 一天世界](https://blog.yitianshijie.net/2022/08/08/how-to-gauge-new-trend/)
+
+- [谁怕 Nicholas Carr？ - 一天世界](https://blog.yitianshijie.net/2022/08/08/who-is-afraid-of-nicholas-carr/)
 
 - [Rocky 的生鸡蛋 - 一天世界](https://blog.yitianshijie.net/2022/08/07/rocky-raw-eggs/)
 
@@ -38,10 +42,6 @@
 - [Exoticism - 一天世界](https://blog.yitianshijie.net/2022/07/26/exoticism/)
 
 - [讽刺与犬儒 - 一天世界](https://blog.yitianshijie.net/2022/07/26/sarcasm-and-cynicism/)
-
-- [二次创作 - 一天世界](https://blog.yitianshijie.net/2022/07/25/derivative/)
-
-- [NFT 依然无法说服我 - 一天世界](https://blog.yitianshijie.net/2022/07/24/nft-still-meh/)
 
 
 
