@@ -1,7 +1,9 @@
-*更新时间：08-08 13:50*
+*更新时间：08-08 23:50*
 
 
 
+
+- [谈谈怎样正确认识事物 - 40huo's - 知至知终](https://www.40huo.cn/blog/how-to-know-things.html)
 
 - [如何看懂新趋势 - 一天世界](https://blog.yitianshijie.net/2022/08/08/how-to-gauge-new-trend/)
 
@@ -40,8 +42,6 @@
 - [RmlUI 的 style 缓存 - 云风的 BLOG](https://blog.codingnow.com/2022/07/rmlui_style_cache.html)
 
 - [Exoticism - 一天世界](https://blog.yitianshijie.net/2022/07/26/exoticism/)
-
-- [讽刺与犬儒 - 一天世界](https://blog.yitianshijie.net/2022/07/26/sarcasm-and-cynicism/)
 
 
 
