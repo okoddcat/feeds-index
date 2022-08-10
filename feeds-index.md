@@ -1,7 +1,9 @@
-*更新时间：08-08 23:50*
+*更新时间：08-10 13:50*
 
 
 
+
+- [无题 20220810 - 一天世界](https://blog.yitianshijie.net/2022/08/10/untitled-20220810/)
 
 - [谈谈怎样正确认识事物 - 40huo's - 知至知终](https://www.40huo.cn/blog/how-to-know-things.html)
 
@@ -40,8 +42,6 @@
 - [独立日游匹兹堡 - 狡猫三窝](https://slykiten.com/life-note/the-fourth-of-july-in-pittsburg/)
 
 - [RmlUI 的 style 缓存 - 云风的 BLOG](https://blog.codingnow.com/2022/07/rmlui_style_cache.html)
-
-- [Exoticism - 一天世界](https://blog.yitianshijie.net/2022/07/26/exoticism/)
 
 
 
