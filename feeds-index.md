@@ -1,7 +1,9 @@
-*更新时间：08-11 07:50*
+*更新时间：08-12 11:50*
 
 
 
+
+- [That was then, and this is now - 一天世界](https://blog.yitianshijie.net/2022/08/12/that-was-then-and-this-is-now/)
 
 - [天下武功唯快不破 - 攻城狮笔记](https://qumac.com/?p=2287)
 
@@ -40,8 +42,6 @@
 - [二舅，不要贪杯哦丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11604)
 
 - [农民和农民 - 一天世界](https://blog.yitianshijie.net/2022/07/30/peasant-and-peasant/)
-
-- [独立日游匹兹堡 - 狡猫三窝](https://slykiten.com/life-note/the-fourth-of-july-in-pittsburg/)
 
 
 
