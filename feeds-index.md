@@ -1,7 +1,9 @@
-*更新时间：08-13 13:50*
+*更新时间：08-14 22:50*
 
 
 
+
+- [钟楼 - 破袜子](https://pewae.com/2022/08/clock-tower.html)
 
 - [远离手机丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11616)
 
@@ -40,8 +42,6 @@
 - [在路上（二） - 林海草原](https://lhcy.org/archives/185.html)
 
 - [Vol. 73 未来我们还需要浏览器吗？ - 枫言枫语](https://justinyan.me/post/5059)
-
-- [被事实击溃的宣传 - 渚碧](https://jubeny.com/2022/07/propaganda-smashed-by-the-fact/)
 
 
 
