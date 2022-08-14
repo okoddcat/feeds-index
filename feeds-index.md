@@ -1,7 +1,9 @@
-*更新时间：08-14 22:50*
+*更新时间：08-15 00:50*
 
 
 
+
+- [Vol. 74 如果不做程序员我们会做什么？ - 枫言枫语](https://justinyan.me/post/5076)
 
 - [钟楼 - 破袜子](https://pewae.com/2022/08/clock-tower.html)
 
@@ -40,8 +42,6 @@
 - [一次奇怪的网络故障 - 伪医生律师的博客](https://chidd.net/2022/08/01/network-error.html)
 
 - [在路上（二） - 林海草原](https://lhcy.org/archives/185.html)
-
-- [Vol. 73 未来我们还需要浏览器吗？ - 枫言枫语](https://justinyan.me/post/5059)
 
 
 
