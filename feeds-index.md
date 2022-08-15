@@ -1,7 +1,9 @@
-*更新时间：08-15 00:50*
+*更新时间：08-15 10:50*
 
 
 
+
+- [读和练 - 一天世界](https://blog.yitianshijie.net/2022/08/15/reading-and-doing/)
 
 - [Vol. 74 如果不做程序员我们会做什么？ - 枫言枫语](https://justinyan.me/post/5076)
 
@@ -40,8 +42,6 @@
 - [家里的网络故障终于解决了 - 伪医生律师的博客](https://chidd.net/2022/08/02/troubleshoot.html)
 
 - [一次奇怪的网络故障 - 伪医生律师的博客](https://chidd.net/2022/08/01/network-error.html)
-
-- [在路上（二） - 林海草原](https://lhcy.org/archives/185.html)
 
 
 
