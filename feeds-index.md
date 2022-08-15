@@ -1,7 +1,9 @@
-*更新时间：08-15 10:50*
+*更新时间：08-15 21:50*
 
 
 
+
+- [阿禅与摩托车，没有维修艺术 - 可能吧](https://kenengba.com/post/3781.html)
 
 - [读和练 - 一天世界](https://blog.yitianshijie.net/2022/08/15/reading-and-doing/)
 
@@ -40,8 +42,6 @@
 - [唐诗 vs. 汉诗 - 一天世界](https://blog.yitianshijie.net/2022/08/02/tangshi-vs-kanshi/)
 
 - [家里的网络故障终于解决了 - 伪医生律师的博客](https://chidd.net/2022/08/02/troubleshoot.html)
-
-- [一次奇怪的网络故障 - 伪医生律师的博客](https://chidd.net/2022/08/01/network-error.html)
 
 
 
