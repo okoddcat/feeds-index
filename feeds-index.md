@@ -1,7 +1,9 @@
-*更新时间：08-15 21:50*
+*更新时间：08-16 09:50*
 
 
 
+
+- [为什么应该使用 iMessage 群聊 - 一天世界](https://blog.yitianshijie.net/2022/08/16/why-as-chinese-you-shoud-use-imessage-group-chat/)
 
 - [阿禅与摩托车，没有维修艺术 - 可能吧](https://kenengba.com/post/3781.html)
 
@@ -40,8 +42,6 @@
 - [每夫吐槽（076） - 破袜子](https://pewae.com/2022/08/random_kuso_76.html)
 
 - [唐诗 vs. 汉诗 - 一天世界](https://blog.yitianshijie.net/2022/08/02/tangshi-vs-kanshi/)
-
-- [家里的网络故障终于解决了 - 伪医生律师的博客](https://chidd.net/2022/08/02/troubleshoot.html)
 
 
 
