@@ -1,7 +1,9 @@
-*更新时间：08-16 09:50*
+*更新时间：08-17 15:50*
 
 
 
+
+- [当一个不怕晒的重庆人 - 伪医生律师的博客](https://chidd.net/2022/08/17/very-hot-2.html)
 
 - [为什么应该使用 iMessage 群聊 - 一天世界](https://blog.yitianshijie.net/2022/08/16/why-as-chinese-you-shoud-use-imessage-group-chat/)
 
@@ -40,8 +42,6 @@
 - [Don’t make things I want - 一天世界](https://blog.yitianshijie.net/2022/08/04/dont-make-things-i-want/)
 
 - [每夫吐槽（076） - 破袜子](https://pewae.com/2022/08/random_kuso_76.html)
-
-- [唐诗 vs. 汉诗 - 一天世界](https://blog.yitianshijie.net/2022/08/02/tangshi-vs-kanshi/)
 
 
 
