@@ -1,7 +1,9 @@
-*更新时间：08-18 15:50*
+*更新时间：08-18 16:05*
 
 
 
+
+- [流氓未来学 - 一天世界](https://blog.yitianshijie.net/2022/08/18/thuggish-futurism/)
 
 - [妳是哪一型？ - 一天世界](https://blog.yitianshijie.net/2022/08/18/which-type-are-you/)
 
@@ -40,8 +42,6 @@
 - [它发出了打鼾般的声音丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11610)
 
 - [为 luaecs 增加内置 64bit ID - 云风的 BLOG](https://blog.codingnow.com/2022/08/luaecs_eid.html)
-
-- [Don’t make things I want - 一天世界](https://blog.yitianshijie.net/2022/08/04/dont-make-things-i-want/)
 
 
 
