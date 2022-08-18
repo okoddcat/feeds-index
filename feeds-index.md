@@ -1,7 +1,9 @@
-*更新时间：08-17 15:50*
+*更新时间：08-18 15:50*
 
 
 
+
+- [妳是哪一型？ - 一天世界](https://blog.yitianshijie.net/2022/08/18/which-type-are-you/)
 
 - [当一个不怕晒的重庆人 - 伪医生律师的博客](https://chidd.net/2022/08/17/very-hot-2.html)
 
@@ -40,8 +42,6 @@
 - [为 luaecs 增加内置 64bit ID - 云风的 BLOG](https://blog.codingnow.com/2022/08/luaecs_eid.html)
 
 - [Don’t make things I want - 一天世界](https://blog.yitianshijie.net/2022/08/04/dont-make-things-i-want/)
-
-- [每夫吐槽（076） - 破袜子](https://pewae.com/2022/08/random_kuso_76.html)
 
 
 
