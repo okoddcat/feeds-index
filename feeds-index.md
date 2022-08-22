@@ -1,7 +1,9 @@
-*更新时间：08-22 09:50*
+*更新时间：08-22 10:50*
 
 
 
+
+- [封城与封控 - 一天世界](https://blog.yitianshijie.net/2022/08/22/fengcheng-vs-fengkong/)
 
 - [家乡胃的开关 - 一天世界](https://blog.yitianshijie.net/2022/08/22/comfort-food-switch-on-and-off/)
 
@@ -40,8 +42,6 @@
 - [谈谈怎样正确认识事物 - 40huo's - 知至知终](https://www.40huo.cn/blog/how-to-know-things.html)
 
 - [如何看懂新趋势 - 一天世界](https://blog.yitianshijie.net/2022/08/08/how-to-gauge-new-trend/)
-
-- [谁怕 Nicholas Carr？ - 一天世界](https://blog.yitianshijie.net/2022/08/08/who-is-afraid-of-nicholas-carr/)
 
 
 
