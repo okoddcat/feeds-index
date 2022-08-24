@@ -1,7 +1,9 @@
-*更新时间：08-24 11:50*
+*更新时间：08-24 13:05*
 
 
 
+
+- [生存研究 - 一天世界](https://blog.yitianshijie.net/2022/08/24/survival-research/)
 
 - [业余的美好 - 一天世界](https://blog.yitianshijie.net/2022/08/24/amateurism-ftw/)
 
@@ -40,8 +42,6 @@
 - [That was then, and this is now - 一天世界](https://blog.yitianshijie.net/2022/08/12/that-was-then-and-this-is-now/)
 
 - [天下武功唯快不破 - 攻城狮笔记](https://qumac.com/?p=2287)
-
-- [无题 20220810 - 一天世界](https://blog.yitianshijie.net/2022/08/10/untitled-20220810/)
 
 
 
