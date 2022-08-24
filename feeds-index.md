@@ -1,7 +1,9 @@
-*更新时间：08-22 10:50*
+*更新时间：08-24 10:05*
 
 
 
+
+- [一首印象深刻的现代诗-中文系 - 攻城狮笔记](https://qumac.com/?p=2302)
 
 - [封城与封控 - 一天世界](https://blog.yitianshijie.net/2022/08/22/fengcheng-vs-fengkong/)
 
@@ -40,8 +42,6 @@
 - [无题 20220810 - 一天世界](https://blog.yitianshijie.net/2022/08/10/untitled-20220810/)
 
 - [谈谈怎样正确认识事物 - 40huo's - 知至知终](https://www.40huo.cn/blog/how-to-know-things.html)
-
-- [如何看懂新趋势 - 一天世界](https://blog.yitianshijie.net/2022/08/08/how-to-gauge-new-trend/)
 
 
 
