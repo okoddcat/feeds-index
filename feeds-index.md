@@ -1,7 +1,9 @@
-*更新时间：08-26 16:50*
+*更新时间：08-26 23:50*
 
 
 
+
+- [一加6T升级LineageOS及root - 渚碧](https://jubeny.com/2022/08/oneplus-6t-update-to-lineageos-19-and-root/)
 
 - [Vol. 75 科技快乐星球11 - 枫言枫语](https://justinyan.me/post/5290)
 
@@ -40,8 +42,6 @@
 - [Vol. 74 如果不做程序员我们会做什么？ - 枫言枫语](https://justinyan.me/post/5076)
 
 - [钟楼 - 破袜子](https://pewae.com/2022/08/clock-tower.html)
-
-- [远离手机丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11616)
 
 
 
