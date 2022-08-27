@@ -1,7 +1,9 @@
-*更新时间：08-27 22:50*
+*更新时间：08-27 23:50*
 
 
 
+
+- [忍者龙剑传：巴 - 破袜子](https://pewae.com/2022/08/ninja-ryuuken-den-tomoe.html)
 
 - [谈谈怎样分析和解决问题 - 40huo's - 知至知终](https://www.40huo.cn/blog/how-to-solve-problems.html)
 
@@ -40,8 +42,6 @@
 - [为什么应该使用 iMessage 群聊 - 一天世界](https://blog.yitianshijie.net/2022/08/16/why-as-chinese-you-shoud-use-imessage-group-chat/)
 
 - [阿禅与摩托车，没有维修艺术 - 可能吧](https://kenengba.com/post/3781.html)
-
-- [读和练 - 一天世界](https://blog.yitianshijie.net/2022/08/15/reading-and-doing/)
 
 
 
