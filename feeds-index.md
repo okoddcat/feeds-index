@@ -1,7 +1,9 @@
-*更新时间：08-26 23:50*
+*更新时间：08-27 13:50*
 
 
 
+
+- [你们上班都是周几休啊丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11624)
 
 - [一加6T升级LineageOS及root - 渚碧](https://jubeny.com/2022/08/oneplus-6t-update-to-lineageos-19-and-root/)
 
@@ -40,8 +42,6 @@
 - [读和练 - 一天世界](https://blog.yitianshijie.net/2022/08/15/reading-and-doing/)
 
 - [Vol. 74 如果不做程序员我们会做什么？ - 枫言枫语](https://justinyan.me/post/5076)
-
-- [钟楼 - 破袜子](https://pewae.com/2022/08/clock-tower.html)
 
 
 
