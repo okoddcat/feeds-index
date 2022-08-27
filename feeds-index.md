@@ -1,7 +1,9 @@
-*更新时间：08-27 13:50*
+*更新时间：08-27 22:50*
 
 
 
+
+- [谈谈怎样分析和解决问题 - 40huo's - 知至知终](https://www.40huo.cn/blog/how-to-solve-problems.html)
 
 - [你们上班都是周几休啊丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11624)
 
@@ -40,8 +42,6 @@
 - [阿禅与摩托车，没有维修艺术 - 可能吧](https://kenengba.com/post/3781.html)
 
 - [读和练 - 一天世界](https://blog.yitianshijie.net/2022/08/15/reading-and-doing/)
-
-- [Vol. 74 如果不做程序员我们会做什么？ - 枫言枫语](https://justinyan.me/post/5076)
 
 
 
