@@ -1,7 +1,9 @@
-*更新时间：08-28 23:50*
+*更新时间：08-29 00:50*
 
 
 
+
+- [重新用回Ulysses - 白板报](https://wangpei.net/2022/08/28/ulysses/)
 
 - [抄书靠谱吗 - 白板报](https://wangpei.net/2022/08/28/%e6%8a%84%e4%b9%a6%e9%9d%a0%e8%b0%b1%e5%90%97/)
 
@@ -40,8 +42,6 @@
 - [流氓未来学 - 一天世界](https://blog.yitianshijie.net/2022/08/18/thuggish-futurism/)
 
 - [妳是哪一型？ - 一天世界](https://blog.yitianshijie.net/2022/08/18/which-type-are-you/)
-
-- [当一个不怕晒的重庆人 - 伪医生律师的博客](https://chidd.net/2022/08/17/very-hot-2.html)
 
 
 
