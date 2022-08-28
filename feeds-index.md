@@ -1,7 +1,9 @@
-*更新时间：08-27 23:50*
+*更新时间：08-28 22:05*
 
 
 
+
+- [客制化键盘初体验 RAMA WORKS - KARA - iTimothy](https://xiaozhou.net/my-first-custom-keyboard-rama-works-kara-2022-08-28.html)
 
 - [忍者龙剑传：巴 - 破袜子](https://pewae.com/2022/08/ninja-ryuuken-den-tomoe.html)
 
@@ -40,8 +42,6 @@
 - [当一个不怕晒的重庆人 - 伪医生律师的博客](https://chidd.net/2022/08/17/very-hot-2.html)
 
 - [为什么应该使用 iMessage 群聊 - 一天世界](https://blog.yitianshijie.net/2022/08/16/why-as-chinese-you-shoud-use-imessage-group-chat/)
-
-- [阿禅与摩托车，没有维修艺术 - 可能吧](https://kenengba.com/post/3781.html)
 
 
 
