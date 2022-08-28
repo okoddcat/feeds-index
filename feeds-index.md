@@ -1,7 +1,9 @@
-*更新时间：08-28 22:05*
+*更新时间：08-28 23:50*
 
 
 
+
+- [抄书靠谱吗 - 白板报](https://wangpei.net/2022/08/28/%e6%8a%84%e4%b9%a6%e9%9d%a0%e8%b0%b1%e5%90%97/)
 
 - [客制化键盘初体验 RAMA WORKS - KARA - iTimothy](https://xiaozhou.net/my-first-custom-keyboard-rama-works-kara-2022-08-28.html)
 
@@ -40,8 +42,6 @@
 - [妳是哪一型？ - 一天世界](https://blog.yitianshijie.net/2022/08/18/which-type-are-you/)
 
 - [当一个不怕晒的重庆人 - 伪医生律师的博客](https://chidd.net/2022/08/17/very-hot-2.html)
-
-- [为什么应该使用 iMessage 群聊 - 一天世界](https://blog.yitianshijie.net/2022/08/16/why-as-chinese-you-shoud-use-imessage-group-chat/)
 
 
 
