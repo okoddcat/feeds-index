@@ -1,7 +1,11 @@
-*更新时间：08-31 22:50*
+*更新时间：09-01 02:50*
 
 
 
+
+- [建筑学与写作 - 白板报](https://wangpei.net/2022/09/01/%e5%bb%ba%e7%ad%91%e5%ad%a6%e4%b8%8e%e5%86%99%e4%bd%9c/)
+
+- [父母的办公室，儿女的乐园 - 白板报](https://wangpei.net/2022/09/01/%e7%88%b6%e6%af%8d%e7%9a%84%e5%8a%9e%e5%85%ac%e5%ae%a4%ef%bc%8c%e5%84%bf%e5%a5%b3%e7%9a%84%e4%b9%90%e5%9b%ad/)
 
 - [母亲“伤人”的唠叨 - 随望淡思](https://www.lushaojun.com/5136.html)
 
@@ -38,10 +42,6 @@
 - [秋老虎丨周六拼单 - 孤岛客](https://www.huangjiwei.com/blog/?p=11621)
 
 - [空明朝体 1.0 发布 - 一天世界](https://blog.yitianshijie.net/2022/08/19/ku-mincho-1/)
-
-- [iOS 15.6.1, macOS 12.5.1 - 一天世界](https://blog.yitianshijie.net/2022/08/19/ios-15-6-1-macos-12-5-1/)
-
-- [流氓未来学 - 一天世界](https://blog.yitianshijie.net/2022/08/18/thuggish-futurism/)
 
 
 
