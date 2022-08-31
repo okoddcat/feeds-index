@@ -1,7 +1,9 @@
-*更新时间：08-29 00:50*
+*更新时间：08-31 22:50*
 
 
 
+
+- [母亲“伤人”的唠叨 - 随望淡思](https://www.lushaojun.com/5136.html)
 
 - [重新用回Ulysses - 白板报](https://wangpei.net/2022/08/28/ulysses/)
 
@@ -40,8 +42,6 @@
 - [iOS 15.6.1, macOS 12.5.1 - 一天世界](https://blog.yitianshijie.net/2022/08/19/ios-15-6-1-macos-12-5-1/)
 
 - [流氓未来学 - 一天世界](https://blog.yitianshijie.net/2022/08/18/thuggish-futurism/)
-
-- [妳是哪一型？ - 一天世界](https://blog.yitianshijie.net/2022/08/18/which-type-are-you/)
 
 
 
